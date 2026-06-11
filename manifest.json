@@ -1,0 +1,77 @@
+{
+  "built": "2026-06-11T16:53:26.208Z",
+  "stories": [
+    {
+      "slug": "the-request-line",
+      "title": "The Request Line",
+      "words": 1645,
+      "minutes": 12,
+      "audio": "fiction/the-request-line/the-request-line.mp3",
+      "text": "fiction/the-request-line/story.md",
+      "status": "reviewed"
+    },
+    {
+      "slug": "closing-time",
+      "title": "Closing Time",
+      "words": 893,
+      "minutes": 6,
+      "audio": null,
+      "text": "fiction/closing-time/story.md",
+      "status": "reviewed"
+    },
+    {
+      "slug": "dream-a-little",
+      "title": "Dream a Little",
+      "words": 926,
+      "minutes": 7,
+      "audio": null,
+      "text": "fiction/dream-a-little/story.md",
+      "status": "draft"
+    },
+    {
+      "slug": "eleven-floors",
+      "title": "Eleven Floors",
+      "words": 784,
+      "minutes": 6,
+      "audio": null,
+      "text": "fiction/eleven-floors/story.md",
+      "status": "draft"
+    },
+    {
+      "slug": "group-chat",
+      "title": "Group Chat",
+      "words": 1413,
+      "minutes": 10,
+      "audio": null,
+      "text": "fiction/group-chat/story.md",
+      "status": "draft"
+    },
+    {
+      "slug": "last-human-lane",
+      "title": "The Last Human Lane",
+      "words": 1020,
+      "minutes": 7,
+      "audio": null,
+      "text": "fiction/last-human-lane/story.md",
+      "status": "reviewed"
+    },
+    {
+      "slug": "the-notary",
+      "title": "The Notary",
+      "words": 1298,
+      "minutes": 9,
+      "audio": null,
+      "text": "fiction/the-notary/story.md",
+      "status": "draft"
+    },
+    {
+      "slug": "the-pool-test",
+      "title": "The Pool Test",
+      "words": 741,
+      "minutes": 5,
+      "audio": null,
+      "text": "fiction/the-pool-test/story.md",
+      "status": "reviewed"
+    }
+  ]
+}

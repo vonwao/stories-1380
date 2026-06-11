@@ -1,0 +1,204 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Thirteen-Eighty — stories for the 3am listener</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,300;9..144,600;9..144,900&family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,500;1,6..72,400&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --night: #0a0f1a;
+    --night-2: #0e1524;
+    --amber: #f5a623;
+    --amber-dim: #8a6a2f;
+    --paper: #e8e0cf;
+    --paper-dim: #9b9483;
+    --line: #1c2536;
+  }
+  * { box-sizing: border-box; }
+  html { background: var(--night); }
+  body {
+    margin: 0;
+    color: var(--paper);
+    font-family: "Newsreader", Georgia, serif;
+    font-size: 18px;
+    line-height: 1.65;
+    min-height: 100vh;
+    background:
+      radial-gradient(1200px 500px at 70% -10%, rgba(245,166,35,0.07), transparent 60%),
+      radial-gradient(900px 600px at -10% 110%, rgba(60,90,160,0.08), transparent 60%),
+      var(--night);
+  }
+  /* faint static/grain */
+  body::after {
+    content: ""; position: fixed; inset: 0; pointer-events: none; opacity: 0.05;
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='120' height='120'%3E%3Cfilter id='n'%3E%3CfeTurbulence baseFrequency='0.9' numOctaves='2'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)' opacity='0.6'/%3E%3C/svg%3E");
+  }
+  .wrap { max-width: 720px; margin: 0 auto; padding: 56px 24px 120px; }
+
+  header { margin-bottom: 56px; }
+  .freq {
+    font-family: "Fraunces", serif; font-weight: 900; font-size: clamp(44px, 9vw, 84px);
+    line-height: 0.95; letter-spacing: -0.02em; margin: 0;
+    color: var(--amber);
+    text-shadow: 0 0 40px rgba(245,166,35,0.25);
+  }
+  .freq small { display: block; font-weight: 300; font-size: 0.32em; letter-spacing: 0.28em;
+    text-transform: uppercase; color: var(--paper-dim); margin-top: 14px; text-shadow: none; }
+  .dial {
+    margin-top: 28px; height: 14px; position: relative; overflow: hidden;
+    border-top: 1px solid var(--line); border-bottom: 1px solid var(--line);
+  }
+  .dial::before {
+    content: ""; position: absolute; inset: 0;
+    background-image: repeating-linear-gradient(90deg, var(--line) 0 1px, transparent 1px 14px);
+  }
+  .dial::after { /* the tuner needle, resting at our station */
+    content: ""; position: absolute; top: 0; bottom: 0; left: 38%; width: 2px;
+    background: var(--amber); box-shadow: 0 0 12px 2px rgba(245,166,35,0.6);
+  }
+
+  .onair { display: inline-flex; align-items: center; gap: 8px; margin-top: 18px;
+    font-size: 12px; letter-spacing: 0.22em; text-transform: uppercase; color: var(--paper-dim); }
+  .onair i { width: 7px; height: 7px; border-radius: 50%; background: var(--amber);
+    box-shadow: 0 0 10px rgba(245,166,35,0.9); animation: pulse 2.4s ease-in-out infinite; }
+  @keyframes pulse { 50% { opacity: 0.25; box-shadow: none; } }
+
+  .track { border-bottom: 1px solid var(--line); padding: 26px 0; opacity: 0;
+    animation: rise 0.7s ease forwards; }
+  .track:nth-child(1) { animation-delay: .05s } .track:nth-child(2) { animation-delay: .12s }
+  .track:nth-child(3) { animation-delay: .19s } .track:nth-child(4) { animation-delay: .26s }
+  .track:nth-child(5) { animation-delay: .33s } .track:nth-child(6) { animation-delay: .40s }
+  .track:nth-child(7) { animation-delay: .47s } .track:nth-child(8) { animation-delay: .54s }
+  @keyframes rise { from { transform: translateY(10px); } to { opacity: 1; transform: none; } }
+
+  .track-head { display: flex; align-items: baseline; gap: 14px; cursor: pointer; }
+  .track-head:hover .t-title { color: var(--amber); }
+  .t-no { font-family: "Fraunces", serif; font-weight: 300; color: var(--amber-dim);
+    font-size: 15px; min-width: 2ch; }
+  .t-title { font-family: "Fraunces", serif; font-weight: 600; font-size: 26px;
+    transition: color .2s; flex: 1; }
+  .t-meta { font-size: 13px; color: var(--paper-dim); letter-spacing: 0.08em; white-space: nowrap; }
+  .t-meta .draft { color: var(--amber-dim); border: 1px solid var(--amber-dim);
+    border-radius: 3px; padding: 1px 6px; margin-left: 8px; font-size: 11px;
+    letter-spacing: 0.12em; text-transform: uppercase; }
+
+  .t-body { display: none; padding: 18px 0 6px 0; }
+  .track.open .t-body { display: block; }
+
+  audio { width: 100%; margin: 6px 0 14px; filter: sepia(0.3) saturate(0.8); }
+  .no-audio { font-size: 13px; color: var(--paper-dim); font-style: italic; margin: 6px 0 14px; }
+
+  .story { border-top: 1px dashed var(--line); padding-top: 18px; }
+  .story h1 { display: none; }
+  .story p { margin: 0 0 1.1em; }
+  .story p:first-of-type::first-letter {
+    font-family: "Fraunces", serif; font-weight: 900; font-size: 3.1em; line-height: 0.8;
+    float: left; padding: 6px 10px 0 0; color: var(--amber);
+  }
+  .readbtn { background: none; border: 1px solid var(--line); color: var(--paper-dim);
+    font: inherit; font-size: 13px; letter-spacing: 0.1em; text-transform: uppercase;
+    padding: 7px 16px; cursor: pointer; border-radius: 3px; transition: all .2s; }
+  .readbtn:hover { border-color: var(--amber); color: var(--amber); }
+
+  footer { margin-top: 72px; font-size: 13px; color: var(--paper-dim);
+    letter-spacing: 0.06em; line-height: 2; }
+  footer b { color: var(--amber-dim); font-weight: 500; }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <h1 class="freq">1380<small>Thirteen-Eighty &mdash; stories for the 3am listener</small></h1>
+    <div class="dial"></div>
+    <div class="onair"><i></i> on air &middot; lantana to hypoluxo</div>
+  </header>
+
+  <main id="tracks"></main>
+
+  <footer>
+    <b>Whatever's keeping you awake</b> &mdash; these run about five to ten minutes each.<br>
+    Drafts are marked; they haven't had their final pass yet.
+  </footer>
+</div>
+
+<script>
+  // Draft gate: casual-visitor screen only (client-side; not real security).
+  // To change the passphrase: sha256 of the new phrase goes here.
+  const DRAFT_HASH = "aecef364029f6f3f008b4f2b87b9a1c27e596a74062b83cad24fab73cce4f1f0";
+  async function sha256(s) {
+    const b = await crypto.subtle.digest("SHA-256", new TextEncoder().encode(s));
+    return [...new Uint8Array(b)].map((x) => x.toString(16).padStart(2, "0")).join("");
+  }
+  function draftsUnlocked() { return localStorage.getItem("draftKey") === DRAFT_HASH; }
+  async function unlockDrafts() {
+    const p = prompt("Drafts passphrase:");
+    if (p && (await sha256(p)) === DRAFT_HASH) { localStorage.setItem("draftKey", DRAFT_HASH); location.reload(); }
+    else if (p) alert("Not it.");
+  }
+
+  // minimal markdown: paragraphs + em/strong/quotes; stories are plain prose.
+  function md(text) {
+    return text
+      .split(/\n\n+/)
+      .map((b) => b.trim())
+      .filter(Boolean)
+      .map((b) => {
+        if (b.startsWith("# ")) return "";
+        b = b.replace(/&/g, "&amp;").replace(/</g, "&lt;")
+             .replace(/\*\*(.+?)\*\*/g, "<strong>$1</strong>")
+             .replace(/\*(.+?)\*/g, "<em>$1</em>")
+             .replace(/\n/g, "<br>");
+        return `<p>${b}</p>`;
+      })
+      .join("");
+  }
+
+  fetch("manifest.json")
+    .then((r) => r.json())
+    .then(({ stories }) => {
+      const root = document.getElementById("tracks");
+      stories.forEach((s, i) => {
+        const el = document.createElement("article");
+        el.className = "track";
+        if (s.status === "draft" && !draftsUnlocked()) {
+          el.innerHTML = `
+            <div class="track-head">
+              <span class="t-no">${String(i + 1).padStart(2, "0")}</span>
+              <span class="t-title" style="color:var(--paper-dim)">${s.title}</span>
+              <span class="t-meta"><span class="draft">draft · locked</span></span>
+            </div>`;
+          el.querySelector(".track-head").addEventListener("click", unlockDrafts);
+          root.appendChild(el);
+          return;
+        }
+        el.innerHTML = `
+          <div class="track-head">
+            <span class="t-no">${String(i + 1).padStart(2, "0")}</span>
+            <span class="t-title">${s.title}</span>
+            <span class="t-meta">${s.minutes} min${s.audio ? " · ♪" : ""}${s.status === "draft" ? '<span class="draft">draft</span>' : ""}</span>
+          </div>
+          <div class="t-body">
+            ${s.audio ? `<audio controls preload="none" src="${s.audio}"></audio>`
+                      : `<p class="no-audio">audio coming soon — text only for now</p>`}
+            <button class="readbtn">Read it</button>
+            <div class="story" style="display:none"></div>
+          </div>`;
+        el.querySelector(".track-head").addEventListener("click", () => el.classList.toggle("open"));
+        el.querySelector(".readbtn").addEventListener("click", async (e) => {
+          const box = el.querySelector(".story");
+          if (!box.innerHTML) box.innerHTML = md(await (await fetch(s.text)).text());
+          box.style.display = box.style.display === "none" ? "block" : "none";
+          e.target.textContent = box.style.display === "none" ? "Read it" : "Close text";
+        });
+        root.appendChild(el);
+      });
+    })
+    .catch(() => {
+      document.getElementById("tracks").innerHTML =
+        "<p class='no-audio'>manifest.json missing — run <code>node portal/build.js</code> and serve from the repo root.</p>";
+    });
+</script>
+</body>
+</html>
