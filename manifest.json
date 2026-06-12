@@ -1,5 +1,5 @@
 {
-  "built": "2026-06-12T01:38:05.992Z",
+  "built": "2026-06-12T02:16:41.424Z",
   "stories": [
     {
       "slug": "last-human-lane",
@@ -47,12 +47,66 @@
       "status": "draft"
     },
     {
+      "slug": "kitchen-hands",
+      "title": "Kitchen Hands",
+      "words": 1647,
+      "minutes": 12,
+      "audio": null,
+      "text": "fiction/kitchen-hands/story.md",
+      "status": "draft"
+    },
+    {
+      "slug": "the-claw",
+      "title": "The Claw",
+      "words": 1650,
+      "minutes": 12,
+      "audio": null,
+      "text": "fiction/the-claw/story.md",
+      "status": "draft"
+    },
+    {
+      "slug": "hurricane-box",
+      "title": "The Hurricane Box",
+      "words": 1634,
+      "minutes": 12,
+      "audio": null,
+      "text": "fiction/hurricane-box/story.md",
+      "status": "draft"
+    },
+    {
       "slug": "the-notary",
       "title": "The Notary",
       "words": 1298,
       "minutes": 9,
       "audio": null,
       "text": "fiction/the-notary/story.md",
+      "status": "draft"
+    },
+    {
+      "slug": "the-yard-sale",
+      "title": "The Yard Sale",
+      "words": 1649,
+      "minutes": 12,
+      "audio": null,
+      "text": "fiction/the-yard-sale/story.md",
+      "status": "draft"
+    },
+    {
+      "slug": "third-wednesday",
+      "title": "Third Wednesday",
+      "words": 1648,
+      "minutes": 12,
+      "audio": null,
+      "text": "fiction/third-wednesday/story.md",
+      "status": "draft"
+    },
+    {
+      "slug": "un-condemned",
+      "title": "Un-Condemned",
+      "words": 1647,
+      "minutes": 12,
+      "audio": null,
+      "text": "fiction/un-condemned/story.md",
       "status": "draft"
     }
   ]
