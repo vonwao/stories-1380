@@ -1,0 +1,43 @@
+# Dance Lessons
+
+The counselor's word was "activity." We had done eight Thursdays on Dr. Lefkowitz's loveseat, ninety dollars a session after insurance, me on one arm of the couch and Carol on the other with her purse between us, and at the end of the eighth the doctor said we might try an activity. Something we did with our bodies instead of our mouths. Carol wrote it down. I added it up in the car. Seven hundred and twenty dollars to be told to get a hobby.
+
+I went to humor everyone. The doctor, my wife, our daughter in Charlotte, who calls Carol on Sundays and me when her tire light comes on. Twenty-six years married. We were not fighting. We were polite. If you have been married a long time, you know which one is worse.
+
+Carol found the flyer at the library on Spanish River, on the corkboard between a math tutor and a man who sharpens knives. Dance lessons, it said. An address, and the hours, Tuesdays and Thursdays, four to seven. No phone number. No website. I checked, because checking is what I do. The address came back to a strip mall off Federal Highway, between a vape shop and a tax preparer, the unit that used to be a phone repair place.
+
+The man who runs it is Mr. Sandor, first or last name, he never said. Somewhere north of eighty, pressed white shirt, a back so straight it makes you fix your own. Forty dollars a couple, cash, into a green metal box, and he counts the change like it matters. I asked which dances he taught. He said, "One." I asked which one. He said, "The one I teach."
+
+The room is vinyl floor and folding chairs and a CD player on a stool, playing strings with no melody I could name. He placed us like furniture. My right hand flat on her back, below the shoulder blade, like holding a door you don't want to slam. Her left hand on my arm above the elbow. My left hand holding her right at the height of her eyes, no higher. "This is the frame," he said. "The frame is most of it. The feet are clerks. The frame is management." The count is slow, slow, quick, quick. The slows get two beats, the quicks get one. Six beats, four steps, a box on the floor, and you make the box again, and again.
+
+I want to be exact about what happened next, because exact is the only way I know how to be honest. Somewhere in the fourth repetition, on the second slow, a weight came on. Not a feeling. A weight. Like taking a suitcase off the carousel that's packed heavier than it looks, so your arm drops an inch before the rest of you catches up. It sat high in my chest, dense, cold at one edge, and it had a waiting quality to it, if weight can wait. Then the strings stopped and it was gone, the way a suitcase is gone when somebody takes the handle back.
+
+I decided it was my blood pressure medication. I had switched to the generic in March; there had been a letter from the insurance. That is the kind of explanation I am good at. Carol's face had gone white, and she was looking at me like she'd read something over my shoulder. Mr. Sandor watched us and said, "Frame. Your left side is dropping." That was the entire commentary.
+
+The drive home is eleven minutes and four lights, and the light at Camino Real is long. For the first month, that is the kind of thing I said out loud instead of anything.
+
+Before the second lesson I made a case for pickleball. A place on Congress with leagues, fees, court times, the whole brochure. Carol listened to the entire pitch, nodded, and at ten of four on Tuesday she was standing by the car with her shoes in a bag. We went. I want it noted that I drove.
+
+We never saw the other students for more than a minute at the changeover. Two young men who left holding hands. A woman and her grown son, who came out one Tuesday both red-eyed and neither one upset, if you can picture that. Nobody talked in the parking lot.
+
+By the fifth week I could have described Carol's weight to a customs officer. High in the chest. Dense, a stone's density, not sand. That cold edge. And the waiting, always the waiting, like the weight itself was listening for a phone to ring. I carried it three minutes at a time, four times a lesson, and I dreaded it and wanted it in equal amounts.
+
+It was Carol who broke. Sixth lesson, afterward, in the parking lot, engine running for the air conditioning, car in park. She looked through the windshield at the vape shop and told me about October. The mammogram callback. The imaging center on Glades Road. Five weeks between the callback and the biopsy that came back clean, and in those five weeks, two appointments she drove herself to, telling me she was helping with the school auction. She sat in the car afterward both times, watching women come out the door. She told her sister in Tampa the first day. Joanne knew for five weeks. I found out in June, eight months after it was over.
+
+I asked her why not me. I kept my voice in the range you use for asking, not accusing; twenty-six years teaches you the half step between them. She said, "Because you would have handled it. You'd have had a folder by Friday. Second opinions, the good surgeon, the parking validated. And I'd have spent five weeks managing how scared you were on top of how scared I was. Alone was lighter." Then she turned and asked about mine. Wide, she said. Flat and low, like wet sand. It never spikes and it never lets up, and she'd been carrying it since the first Tuesday, and she wanted to know what it was.
+
+So with the vents on recirculate I told my wife what I had told no one. Eighteen months ago, the property group that owns eleven of the fourteen office parks I keep irrigated took their contracts to a national outfit. I covered payroll out of pocket for a quarter, and then I signed for ninety-one thousand dollars against the house, on my lunch hour, at the bank on Yamato Road. The house is in my name from before we married, so nobody needed her signature, and I let that fact decide. I've been paying eleven hundred and change a month in interest out of an account she has never seen. She didn't ask the balance, or the rate, which I could quote to the eighth of a point. She asked what we ate for dinner the night I signed. I don't remember what we ate. That was the part that undid me.
+
+She was angry, and I want this accurate: this is not a story where nobody gets to be angry. Angry about the signature, not the dollars. About the part where the paperwork let me go around her, and I went. It lasted nine days. I know it was nine because we missed one Tuesday, the only one we have ever missed.
+
+Carol asked him once, at the end of a lesson. What it is. The heaviness. He looked at her arm the way a mechanic looks at a noise. "Your elbow is low," he said. "The frame carries the arm. If you carry the arm, of course it is heavy." Then he took our forty dollars, made change from the green box, and that is the most he has ever said on the subject.
+
+We still go. Tuesdays, four o'clock.
+
+We practice at home too, in the kitchen, between the island and the stove, four steps each way. On our tile it is only a dance. Whatever that vinyl floor has, our kitchen doesn't, and I have stopped trying to work out which part is the active ingredient, the floor or the old man or the strings with no melody. In the kitchen we have to do it the slow way, with words. We are not good at it. We are better than we were. Last Tuesday, on the second slow, she told me her shoulder has started clicking and she hates how the doctor says "at our age." I told her the loan is down to eighty-six. Freight, announced before it ships.
+
+So something got saved. I believe that the way I believe in compound interest, which is to say completely, having checked the math. And something is gone that stays gone. There were five weeks in October when my wife sat in a parking lot on Glades Road deciding whether she was going to die, and I was nine miles away pricing valve boxes. No count, no frame, no Tuesday puts me in the passenger seat of that car. Joanne knew first. My wife was scared for her life, and her sister knew first, and that is a true fact about our marriage now, permanent, the way a date is permanent.
+
+At the studio there is a moment, on the last slow, when the weight comes all the way on, hers in my chest, mine in her arms, both of us holding all of it. Nothing gets lighter. I want to be exact about that. Nothing has ever once gotten lighter. It is the same freight in better hands. Then the strings stop, and Mr. Sandor says "Frame," to no one in particular, and we let go of each other, careful, the way you set down a suitcase you intend to pick up again.
+
+Slow, slow. Quick, quick. And on the last slow, we hold.

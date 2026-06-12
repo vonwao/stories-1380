@@ -1,5 +1,5 @@
 {
-  "built": "2026-06-12T02:16:41.741Z",
+  "built": "2026-06-12T03:03:27.873Z",
   "stories": [
     {
       "slug": "last-human-lane",
@@ -18,6 +18,24 @@
       "audio": "fiction/the-request-line/the-request-line.mp3",
       "text": "fiction/the-request-line/story.md",
       "status": "reviewed"
+    },
+    {
+      "slug": "walkie",
+      "title": "Channel Nine",
+      "words": 2046,
+      "minutes": 15,
+      "audio": null,
+      "text": "fiction/walkie/story.md",
+      "status": "draft"
+    },
+    {
+      "slug": "dance-lessons",
+      "title": "Dance Lessons",
+      "words": 1648,
+      "minutes": 12,
+      "audio": null,
+      "text": "fiction/dance-lessons/story.md",
+      "status": "draft"
     },
     {
       "slug": "dream-a-little",
@@ -56,6 +74,24 @@
       "status": "draft"
     },
     {
+      "slug": "la-promesa",
+      "title": "La Promesa",
+      "words": 1650,
+      "minutes": 12,
+      "audio": null,
+      "text": "fiction/la-promesa/story.md",
+      "status": "draft"
+    },
+    {
+      "slug": "spelling-bee",
+      "title": "Round Seven",
+      "words": 1649,
+      "minutes": 12,
+      "audio": null,
+      "text": "fiction/spelling-bee/story.md",
+      "status": "draft"
+    },
+    {
       "slug": "the-claw",
       "title": "The Claw",
       "words": 1650,
@@ -65,12 +101,30 @@
       "status": "draft"
     },
     {
+      "slug": "healing-line",
+      "title": "The Healing Line",
+      "words": 1618,
+      "minutes": 12,
+      "audio": null,
+      "text": "fiction/healing-line/story.md",
+      "status": "draft"
+    },
+    {
       "slug": "hurricane-box",
       "title": "The Hurricane Box",
       "words": 1634,
       "minutes": 12,
       "audio": null,
       "text": "fiction/hurricane-box/story.md",
+      "status": "draft"
+    },
+    {
+      "slug": "the-mango-tree",
+      "title": "The Mango Tree",
+      "words": 1647,
+      "minutes": 12,
+      "audio": null,
+      "text": "fiction/the-mango-tree/story.md",
       "status": "draft"
     },
     {

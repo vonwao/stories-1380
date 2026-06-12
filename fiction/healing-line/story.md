@@ -1,0 +1,43 @@
+# The Healing Line
+
+Every Tuesday at seven in the evening, a line forms on West Forty-Ninth Street in Hialeah, outside a storefront church wedged between a cell phone repair shop and a bakery that closes at six. The church is called Iglesia El Buen Pastor, which is a lot of name for a room with forty folding chairs and a window unit that drips on the sidewalk. The healing works. I want to say that plainly, up front, because everything else I'm going to tell you depends on it. It works the way penicillin works. And it works, as far as anyone in this neighborhood has ever been able to prove, exactly once per person. One turn, your whole life. In Spanish, which is how we mostly say it, el turno.
+
+The rules were never announced. They were discovered, the way rules get discovered in Hialeah: somebody tries something, and everybody talks. Sixty years of trying and talking, and by now the neighborhood knows those rules better than it knows the building code. You get one. You can spend it on yourself, or you can spend it on somebody else, but the spending is yours, and there are no refunds, and you cannot hand your turn across a table like a twenty dollar bill. People have tried. People have tried everything.
+
+I don't believe in it. I need to explain what I mean by that, because people always hear it wrong. I believe it works; I've seen the bloodwork. I do medical billing for a clinic on Palm Avenue, which means I spend nine hours a day finding out exactly what suffering costs, line by line, in codes. I am good at finding tricks. It's my whole job. In my twenties I went looking for the trick in that church, and I looked the way an auditor looks, and I did not find it. What I don't believe is anyone who tells me they know what it is. The pastor doesn't claim to know. Hermana Olga, who stands at the front of the line every Tuesday with her hand out, claims less than anybody. She's around eighty. She takes no money. There's no basket on Tuesdays, no envelope, nothing. When people cry on her shoulder and thank her, she looks at her shoes and says, yo no hice nada. I didn't do anything. Then she asks if you've eaten.
+
+Everybody here knows everybody's balance. That's the part outsiders never quite picture. Yuniel from the body shop spent his turn at nineteen on a broken wrist, two weeks before a baseball tryout that went nowhere, and mothers still use him to frighten their children into patience. Old Fela died at ninety-one with her turn unspent, like money under a mattress, and her funeral was full of people quietly doing the math. I know two marriages where the balance came up before the ring did. It's a small economy, and like every economy in Hialeah it runs on gossip and on love, in that order. Or maybe the other order. I've never been sure.
+
+My father spent his turn in nineteen ninety-six, on my mother, when I was fifteen. Her oncologist used the word inexplicable, and then stopped using words at all. She got eleven more years, good ones, and then a stroke took her on a Sunday between breakfast and church, because whatever the turno fixes, it fixes the one thing in front of it. It is not immortality. Nothing is immortality.
+
+So when my father's kidneys quit, slowly and then all at once, he had nothing left to spend. He was seventy-one. Dialysis three mornings a week at a center on West Forty-Ninth, four hours in a vinyl recliner, watching game shows with the sound off. He never once asked me for my turn. I want that on the record. Then in March he went in with fluid in his lungs, and I sat all night in a hospital chair doing the arithmetic I had been refusing to do. I was thirty-four. I was healthy. The odds said I might go my whole life and never need the thing, and meanwhile the man who taught me to drive was drowning a teaspoon at a time on the other side of a curtain.
+
+He said no, of course. Ese turno es tuyo, mija. That turn is yours. I told him I had run the numbers, and the numbers said a turn sitting in a drawer is worth nothing. I didn't do it out of faith. I did it out of arithmetic. Loving somebody is not a miracle; it's a budget decision you make every day, and that Tuesday I just made it out loud.
+
+We waited in the line for about forty minutes. It's a quiet line. Nobody preaches at you. A girl ahead of us had a cane. A man behind us held a folder of scans against his chest like a passport. When we got to the front I said, no es para mí. Es para él. Not for me. For him. Hermana Olga looked at me for a long moment, longer than she looks at most people. Tú sabes, she said. Do you know. Not, do you understand the rules. Do you know. I said yes. She put one hand flat on my father's chest and one hand on my arm, and nothing happened that I could testify to. No heat, no light. My father says he felt warm, but my father also believes brandy cures colds, so.
+
+On Thursday they drew his labs before dialysis. On Tuesday his creatinine had been nine point two. On Thursday it was one point zero. The tech ran it twice. The nephrologist used the word error, then the word remission, and after the third clean week he stopped scheduling my father altogether. There is a billing code for spontaneous remission. I know it by heart. In nineteen years, I have billed it exactly once.
+
+What does a man do with years he wasn't going to get? Small things, mostly, which I have come to believe is the right answer. He bought a used Buick and started driving other people's fathers to the appointments he no longer had; he knew every route, every front desk, every machine. He taught my daughter Vanessa to play dominoes, and then to lose at dominoes, which is harder. He danced at my cousin's wedding, badly, all night. He calls me every morning at eight to ask what I ate for breakfast, which is his way of asking everything else.
+
+Last October I found the lump myself, in the shower, the way they tell you to. I am forty-six. Stage two, the doctor said, and I sat there knowing the billing code before she finished the sentence. I knew what every test would cost before anyone could tell me what any of it would mean. The biopsy came back on a Friday. By Sunday the neighborhood knew, the way it always knows. By Monday the offers started. Migdalia at the bakery told me her turn was mine, and she said it angrily, because that is how we offer things here. And on Wednesday my daughter, who is sixteen, sat across from me at the kitchen table with her hands flat on the wood and offered me hers.
+
+This is the part people argue with. I said no. I said it to all of them, and I said it twice to her. Mija, listen to me. Stage two has medicine. Real medicine, with percentages a person can live inside. If you spend your turn on percentages, and then at forty you have the thing with no percentages, no other door, what then? Save it. Spend it someday on somebody you love who has nothing else. That's what it's for. I didn't know that's what it was for until I heard myself say it.
+
+She cried, and she promised me nothing. She's mine. She knows numbers too.
+
+My father didn't offer me anything. He had nothing left to offer, and he is not a man who performs. He just started driving.
+
+Chemo is on Tuesdays. I didn't pick that. The scheduler picked it, and I let it stand, for reasons I don't audit too closely. So in the morning there is the drip, and the cold cap, and the pastelitos he smuggles past the nurses. In the evening he drives me home down West Forty-Ninth, slow, in the left lane, like the old man he got to become. And we pass the church.
+
+The line is always there. Ordinary people in work clothes. Somebody holding a baby. Somebody holding paperwork. They wait under the streetlight, quietly, and Olga stands in the doorway with her hand already out.
+
+I still don't know what it is. I have had twelve years to decide, and I haven't decided, and I notice the not-deciding has gotten comfortable. People say grace. But grace doesn't keep a ledger, and this thing keeps a ledger. I don't have a word for something that counts that carefully and still says yes. Maybe there isn't one. Maybe that's why the line is so quiet.
+
+My turn is in that building somewhere. It is twelve years old now. It walks around Hialeah in my father's body, buying day-old bread for the neighbors, losing at dominoes on purpose, driving me home with both hands on the wheel.
+
+Last Tuesday, at the red light by the church, he caught me looking at the line. He didn't say anything. He reached over and put his hand on top of mine, and we sat like that until the light changed.
+
+His hands are warm. They have been warm for twelve years.
+
+I keep count.
