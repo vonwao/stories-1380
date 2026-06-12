@@ -1,6 +1,78 @@
 {
-  "built": "2026-06-12T03:09:32.941Z",
+  "built": "2026-06-12T03:27:44.795Z",
   "stories": [
+    {
+      "slug": "walkie",
+      "title": "Channel Nine",
+      "words": 2046,
+      "minutes": 15,
+      "audio": "fiction/walkie/walkie.mp3",
+      "text": "fiction/walkie/story.md",
+      "status": "draft"
+    },
+    {
+      "slug": "dance-lessons",
+      "title": "Dance Lessons",
+      "words": 1648,
+      "minutes": 12,
+      "audio": "fiction/dance-lessons/dance-lessons.mp3",
+      "text": "fiction/dance-lessons/story.md",
+      "status": "draft"
+    },
+    {
+      "slug": "kitchen-hands",
+      "title": "Kitchen Hands",
+      "words": 1647,
+      "minutes": 12,
+      "audio": "fiction/kitchen-hands/kitchen-hands.mp3",
+      "text": "fiction/kitchen-hands/story.md",
+      "status": "draft"
+    },
+    {
+      "slug": "la-promesa",
+      "title": "La Promesa",
+      "words": 1650,
+      "minutes": 12,
+      "audio": "fiction/la-promesa/la-promesa.mp3",
+      "text": "fiction/la-promesa/story.md",
+      "status": "draft"
+    },
+    {
+      "slug": "spelling-bee",
+      "title": "Round Seven",
+      "words": 1649,
+      "minutes": 12,
+      "audio": "fiction/spelling-bee/spelling-bee.mp3",
+      "text": "fiction/spelling-bee/story.md",
+      "status": "draft"
+    },
+    {
+      "slug": "the-claw",
+      "title": "The Claw",
+      "words": 1650,
+      "minutes": 12,
+      "audio": "fiction/the-claw/the-claw.mp3",
+      "text": "fiction/the-claw/story.md",
+      "status": "draft"
+    },
+    {
+      "slug": "healing-line",
+      "title": "The Healing Line",
+      "words": 1618,
+      "minutes": 12,
+      "audio": "fiction/healing-line/healing-line.mp3",
+      "text": "fiction/healing-line/story.md",
+      "status": "draft"
+    },
+    {
+      "slug": "hurricane-box",
+      "title": "The Hurricane Box",
+      "words": 1634,
+      "minutes": 12,
+      "audio": "fiction/hurricane-box/hurricane-box.mp3",
+      "text": "fiction/hurricane-box/story.md",
+      "status": "draft"
+    },
     {
       "slug": "last-human-lane",
       "title": "The Last Human Lane",
@@ -9,6 +81,15 @@
       "audio": "fiction/last-human-lane/last-human-lane.mp3",
       "text": "fiction/last-human-lane/story.md",
       "status": "reviewed"
+    },
+    {
+      "slug": "the-mango-tree",
+      "title": "The Mango Tree",
+      "words": 1647,
+      "minutes": 12,
+      "audio": "fiction/the-mango-tree/the-mango-tree.mp3",
+      "text": "fiction/the-mango-tree/story.md",
+      "status": "draft"
     },
     {
       "slug": "the-request-line",
@@ -20,21 +101,30 @@
       "status": "reviewed"
     },
     {
-      "slug": "walkie",
-      "title": "Channel Nine",
-      "words": 2046,
-      "minutes": 15,
-      "audio": null,
-      "text": "fiction/walkie/story.md",
+      "slug": "the-yard-sale",
+      "title": "The Yard Sale",
+      "words": 1649,
+      "minutes": 12,
+      "audio": "fiction/the-yard-sale/the-yard-sale.mp3",
+      "text": "fiction/the-yard-sale/story.md",
       "status": "draft"
     },
     {
-      "slug": "dance-lessons",
-      "title": "Dance Lessons",
+      "slug": "third-wednesday",
+      "title": "Third Wednesday",
       "words": 1648,
       "minutes": 12,
-      "audio": null,
-      "text": "fiction/dance-lessons/story.md",
+      "audio": "fiction/third-wednesday/third-wednesday.mp3",
+      "text": "fiction/third-wednesday/story.md",
+      "status": "draft"
+    },
+    {
+      "slug": "un-condemned",
+      "title": "Un-Condemned",
+      "words": 1647,
+      "minutes": 12,
+      "audio": "fiction/un-condemned/un-condemned.mp3",
+      "text": "fiction/un-condemned/story.md",
       "status": "draft"
     },
     {
@@ -65,102 +155,12 @@
       "status": "draft"
     },
     {
-      "slug": "kitchen-hands",
-      "title": "Kitchen Hands",
-      "words": 1647,
-      "minutes": 12,
-      "audio": null,
-      "text": "fiction/kitchen-hands/story.md",
-      "status": "draft"
-    },
-    {
-      "slug": "la-promesa",
-      "title": "La Promesa",
-      "words": 1650,
-      "minutes": 12,
-      "audio": null,
-      "text": "fiction/la-promesa/story.md",
-      "status": "draft"
-    },
-    {
-      "slug": "spelling-bee",
-      "title": "Round Seven",
-      "words": 1649,
-      "minutes": 12,
-      "audio": null,
-      "text": "fiction/spelling-bee/story.md",
-      "status": "draft"
-    },
-    {
-      "slug": "the-claw",
-      "title": "The Claw",
-      "words": 1650,
-      "minutes": 12,
-      "audio": null,
-      "text": "fiction/the-claw/story.md",
-      "status": "draft"
-    },
-    {
-      "slug": "healing-line",
-      "title": "The Healing Line",
-      "words": 1618,
-      "minutes": 12,
-      "audio": null,
-      "text": "fiction/healing-line/story.md",
-      "status": "draft"
-    },
-    {
-      "slug": "hurricane-box",
-      "title": "The Hurricane Box",
-      "words": 1634,
-      "minutes": 12,
-      "audio": null,
-      "text": "fiction/hurricane-box/story.md",
-      "status": "draft"
-    },
-    {
-      "slug": "the-mango-tree",
-      "title": "The Mango Tree",
-      "words": 1647,
-      "minutes": 12,
-      "audio": null,
-      "text": "fiction/the-mango-tree/story.md",
-      "status": "draft"
-    },
-    {
       "slug": "the-notary",
       "title": "The Notary",
       "words": 1298,
       "minutes": 9,
       "audio": null,
       "text": "fiction/the-notary/story.md",
-      "status": "draft"
-    },
-    {
-      "slug": "the-yard-sale",
-      "title": "The Yard Sale",
-      "words": 1649,
-      "minutes": 12,
-      "audio": null,
-      "text": "fiction/the-yard-sale/story.md",
-      "status": "draft"
-    },
-    {
-      "slug": "third-wednesday",
-      "title": "Third Wednesday",
-      "words": 1648,
-      "minutes": 12,
-      "audio": null,
-      "text": "fiction/third-wednesday/story.md",
-      "status": "draft"
-    },
-    {
-      "slug": "un-condemned",
-      "title": "Un-Condemned",
-      "words": 1647,
-      "minutes": 12,
-      "audio": null,
-      "text": "fiction/un-condemned/story.md",
       "status": "draft"
     }
   ]
