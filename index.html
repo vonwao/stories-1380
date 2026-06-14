@@ -177,7 +177,7 @@
           <div class="track-head">
             <span class="t-no">${String(i + 1).padStart(2, "0")}</span>
             <span class="t-title">${s.title}</span>
-            <span class="t-meta">${s.minutes} min${s.audio ? " · ♪" : ""}${s.status === "draft" ? '<span class="draft">draft</span>' : ""}</span>
+            <span class="t-meta">${s.minutes} min${s.audio ? " · ♪" : ""}${s.audioStatus === "preview" ? '<span class="draft">preview</span>' : ""}${s.status === "draft" ? '<span class="draft">draft</span>' : ""}</span>
           </div>
           <div class="t-body">
             ${s.audio ? `<audio controls preload="none" src="${s.audio}"></audio>`
