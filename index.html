@@ -105,6 +105,9 @@
   footer { margin-top: 72px; font-size: 13px; color: var(--paper-dim);
     letter-spacing: 0.06em; line-height: 2; }
   footer b { color: var(--amber-dim); font-weight: 500; }
+  .draft-access { background: none; border: 0; color: var(--line); cursor: pointer;
+    font: inherit; font-size: 12px; padding: 0 8px; opacity: 0.45; }
+  .draft-access:hover { color: var(--amber-dim); opacity: 1; }
 </style>
 </head>
 <body>
@@ -119,7 +122,7 @@
 
   <footer>
     <b>Whatever's keeping you awake</b> &mdash; these run about five to ten minutes each.<br>
-    Drafts are marked; they haven't had their final pass yet.
+    <button id="draftAccess" class="draft-access" type="button" aria-label="Draft access">.</button>
   </footer>
 </div>
 
@@ -134,8 +137,9 @@
   function draftsUnlocked() { return localStorage.getItem("draftKey") === DRAFT_HASH; }
   async function unlockDrafts() {
     const p = prompt("Drafts passphrase:");
-    if (p && (await sha256(p)) === DRAFT_HASH) { localStorage.setItem("draftKey", DRAFT_HASH); location.reload(); }
+    if (p && (await sha256(p)) === DRAFT_HASH) { localStorage.setItem("draftKey", DRAFT_HASH); loadStories(); return true; }
     else if (p) alert("Not it.");
+    return false;
   }
 
   // minimal markdown: paragraphs + em/strong/quotes; stories are plain prose.
@@ -155,10 +159,30 @@
       .join("");
   }
 
-  fetch("manifest.json")
-    .then((r) => r.json())
-    .then(({ stories }) => {
+  async function loadManifest(path) {
+    const r = await fetch(path, { cache: "no-store" });
+    if (!r.ok) throw new Error(`${path}: ${r.status}`);
+    return r.json();
+  }
+
+  async function loadStories() {
+    const main = await loadManifest("manifest.json");
+    let stories = main.stories;
+    if (draftsUnlocked()) {
+      try {
+        const drafts = await loadManifest("drafts.json");
+        const seen = new Set(stories.map((s) => s.slug));
+        stories = stories.concat(drafts.stories.filter((s) => !seen.has(s.slug)));
+      } catch (_) {
+        // Local previews before a public deploy may not have drafts.json.
+      }
+    }
+    renderStories(stories);
+  }
+
+  function renderStories(stories) {
       const root = document.getElementById("tracks");
+      root.innerHTML = "";
       stories.forEach((s, i) => {
         const el = document.createElement("article");
         el.className = "track";
@@ -194,11 +218,15 @@
         });
         root.appendChild(el);
       });
-    })
+  }
+
+  document.getElementById("draftAccess").addEventListener("click", unlockDrafts);
+
+  loadStories()
     .catch(() => {
       document.getElementById("tracks").innerHTML =
         "<p class='no-audio'>manifest.json missing — run <code>node portal/build.js</code> and serve from the repo root.</p>";
-    });
+    })
 </script>
 </body>
 </html>
