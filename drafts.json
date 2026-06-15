@@ -1,5 +1,5 @@
 {
-  "built": "2026-06-12T03:27:10.589Z",
+  "built": "2026-06-15T02:45:34.360Z",
   "stories": [
     {
       "slug": "walkie",
@@ -21,6 +21,17 @@
       "audioDurationSeconds": 306,
       "audioStatus": "preview",
       "text": "fiction/dance-lessons/story.md",
+      "status": "draft"
+    },
+    {
+      "slug": "florida-man",
+      "title": "Florida Man, Corrected",
+      "words": 2015,
+      "minutes": 12,
+      "audio": "fiction/florida-man/florida-man.mp3",
+      "audioDurationSeconds": 695,
+      "audioStatus": "full",
+      "text": "fiction/florida-man/story.md",
       "status": "draft"
     },
     {
@@ -68,6 +79,17 @@
       "status": "draft"
     },
     {
+      "slug": "the-guest-book",
+      "title": "The Guest Book",
+      "words": 1895,
+      "minutes": 12,
+      "audio": "fiction/the-guest-book/the-guest-book.mp3",
+      "audioDurationSeconds": 719,
+      "audioStatus": "full",
+      "text": "fiction/the-guest-book/story.md",
+      "status": "draft"
+    },
+    {
       "slug": "healing-line",
       "title": "The Healing Line",
       "words": 1618,
@@ -98,6 +120,17 @@
       "audioDurationSeconds": 544,
       "audioStatus": "full",
       "text": "fiction/the-mango-tree/story.md",
+      "status": "draft"
+    },
+    {
+      "slug": "the-tortoise",
+      "title": "The Tortoise",
+      "words": 1864,
+      "minutes": 15,
+      "audio": "fiction/the-tortoise/the-tortoise.mp3",
+      "audioDurationSeconds": 901,
+      "audioStatus": "full",
+      "text": "fiction/the-tortoise/story.md",
       "status": "draft"
     },
     {
