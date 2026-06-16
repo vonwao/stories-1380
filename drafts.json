@@ -1,5 +1,5 @@
 {
-  "built": "2026-06-15T02:45:34.360Z",
+  "built": "2026-06-16T04:31:36.459Z",
   "stories": [
     {
       "slug": "walkie",
@@ -21,6 +21,17 @@
       "audioDurationSeconds": 306,
       "audioStatus": "preview",
       "text": "fiction/dance-lessons/story.md",
+      "status": "draft"
+    },
+    {
+      "slug": "dream-a-little",
+      "title": "Dream a Little",
+      "words": 926,
+      "minutes": 6,
+      "audio": "fiction/dream-a-little/dream-a-little.mp3",
+      "audioDurationSeconds": 387,
+      "audioStatus": "full",
+      "text": "fiction/dream-a-little/story.md",
       "status": "draft"
     },
     {
@@ -164,17 +175,6 @@
       "audioDurationSeconds": 675,
       "audioStatus": "full",
       "text": "fiction/un-condemned/story.md",
-      "status": "draft"
-    },
-    {
-      "slug": "dream-a-little",
-      "title": "Dream a Little",
-      "words": 926,
-      "minutes": 7,
-      "audio": null,
-      "audioDurationSeconds": null,
-      "audioStatus": null,
-      "text": "fiction/dream-a-little/story.md",
       "status": "draft"
     },
     {
