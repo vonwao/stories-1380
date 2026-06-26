@@ -1,0 +1,103 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex, nofollow">
+<title>Workspace · all audio</title>
+<style>
+  :root { color-scheme: dark; }
+  * { box-sizing: border-box; }
+  body { margin:0; background:#14151a; color:#e9e9ee;
+         font:16px/1.5 -apple-system,Segoe UI,Roboto,sans-serif; padding:20px; }
+  header { max-width:760px; margin:0 auto 16px; }
+  h1 { font-size:20px; margin:0 0 4px; }
+  .sub { color:#9a9aa6; font-size:13px; }
+  .bar { max-width:760px; margin:0 auto 14px; display:flex; gap:8px; }
+  input { flex:1; background:#1c1d24; border:1px solid #2a2b34; border-radius:10px;
+          color:#e9e9ee; padding:9px 12px; font-size:15px; }
+  button { background:#2a2b34; border:1px solid #3a3b46; color:#e9e9ee;
+           border-radius:10px; padding:9px 12px; font-size:14px; cursor:pointer; }
+  button:active { transform:scale(.97); }
+  .wrap { max-width:760px; margin:0 auto; display:flex; flex-direction:column; gap:12px; }
+  .item { background:#1c1d24; border:1px solid #2a2b34; border-radius:14px; padding:13px 15px; }
+  .name { font-weight:600; font-size:16px; word-break:break-word; }
+  .meta { color:#8a8a96; font-size:12px; margin:3px 0 9px; display:flex; gap:10px; flex-wrap:wrap; }
+  .tag { background:#23242c; border-radius:6px; padding:1px 7px; }
+  audio { width:100%; margin-top:4px; }
+  .row { display:flex; gap:8px; margin-top:9px; }
+  .row button { font-size:13px; padding:6px 10px; }
+  .msg { max-width:760px; margin:30px auto; color:#9a9aa6; text-align:center; }
+  a { color:#7ab8ff; }
+</style>
+</head>
+<body>
+<header>
+  <h1>🎧 Workspace · all audio</h1>
+  <div class="sub">Every <code>.mp3</code> currently in <b>stories-1380</b>, newest first. Reads the repo live on each load — nothing to regenerate. Unlisted, not access-controlled.</div>
+</header>
+<div class="bar">
+  <input id="q" placeholder="filter by name / folder…" oninput="render()">
+  <button onclick="load()">↻ Refresh</button>
+</div>
+<div id="list" class="wrap"></div>
+<div id="msg" class="msg">Loading…</div>
+
+<script>
+const REPO = "vonwao/stories-1380", BRANCH = "main";
+const SITE = "https://vonwao.github.io/stories-1380";
+let FILES = [];
+
+function fmtSize(b){ return b > 1048576 ? (b/1048576).toFixed(1)+" MB" : Math.round(b/1024)+" KB"; }
+function fmtDate(d){ if(!d) return ""; const t=new Date(d);
+  return t.toLocaleDateString(undefined,{month:"short",day:"numeric"})+" "+t.toLocaleTimeString(undefined,{hour:"numeric",minute:"2-digit"}); }
+
+async function load(){
+  const msg = document.getElementById("msg");
+  msg.textContent = "Loading…"; document.getElementById("list").innerHTML = "";
+  try {
+    const r = await fetch(`https://api.github.com/repos/${REPO}/git/trees/${BRANCH}?recursive=1`);
+    if(!r.ok) throw new Error("tree "+r.status);
+    const data = await r.json();
+    FILES = data.tree.filter(t => t.type==="blob" && t.path.toLowerCase().endsWith(".mp3"))
+                     .map(t => ({ path:t.path, size:t.size, date:null }));
+    // best-effort: per-file last-commit date for newest-first sort (bounded to keep under rate limit)
+    if (FILES.length <= 40) {
+      await Promise.all(FILES.map(async f => {
+        try {
+          const c = await fetch(`https://api.github.com/repos/${REPO}/commits?path=${encodeURIComponent(f.path)}&per_page=1`);
+          if (c.ok) { const j = await c.json(); f.date = j[0]?.commit?.committer?.date || null; }
+        } catch(e){}
+      }));
+    }
+    FILES.sort((a,b) => (b.date||"").localeCompare(a.date||"") || a.path.localeCompare(b.path));
+    msg.textContent = FILES.length ? "" : "No mp3s found.";
+    render();
+  } catch(e) {
+    msg.innerHTML = "Couldn't load file list ("+e.message+"). GitHub API is rate-limited to 60/hr without a token — wait a minute and hit Refresh.";
+  }
+}
+
+function render(){
+  const q = (document.getElementById("q").value||"").toLowerCase();
+  const list = document.getElementById("list");
+  const items = FILES.filter(f => f.path.toLowerCase().includes(q));
+  list.innerHTML = items.map(f => {
+    const url = SITE + "/" + f.path.split("/").map(encodeURIComponent).join("/");
+    const name = f.path.split("/").pop();
+    const folder = f.path.includes("/") ? f.path.slice(0, f.path.lastIndexOf("/")) : "(root)";
+    return `<div class="item">
+      <div class="name">${name}</div>
+      <div class="meta"><span class="tag">${folder}</span><span>${fmtSize(f.size)}</span><span>${fmtDate(f.date)}</span></div>
+      <audio controls preload="none" src="${url}"></audio>
+      <div class="row">
+        <button onclick="navigator.clipboard&&navigator.clipboard.writeText('${url}')">Copy link</button>
+        <button onclick="window.open('${url}','_blank')">Open</button>
+      </div>
+    </div>`;
+  }).join("");
+}
+load();
+</script>
+</body>
+</html>
