@@ -1,0 +1,205 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex, nofollow">
+<title>Style Calibration Survey</title>
+<style>
+  :root { color-scheme: dark; }
+  * { box-sizing: border-box; }
+  body { margin:0; background:#14151a; color:#e9e9ee;
+         font:16px/1.55 -apple-system,Segoe UI,Roboto,sans-serif; padding:18px 16px 120px; }
+  header,.lane,.note { max-width:720px; margin:0 auto; }
+  h1 { font-size:21px; margin:0 0 4px; }
+  .sub { color:#9a9aa6; font-size:13px; margin-bottom:6px; }
+  h2 { font-size:14px; letter-spacing:.04em; text-transform:uppercase; color:#7ab8ff;
+       margin:26px auto 8px; max-width:720px; }
+  .card { background:#1c1d24; border:1px solid #2a2b34; border-radius:14px;
+          padding:14px 15px; margin:0 auto 12px; max-width:720px; }
+  .src { color:#8a8a96; font-size:12px; margin-bottom:6px; }
+  .txt { font-size:16px; }
+  .txt.q { font-style:italic; }
+  .desc { color:#cfcfd6; }
+  .rate { display:flex; gap:7px; margin-top:11px; flex-wrap:wrap; }
+  .rate button { flex:1; min-width:64px; background:#23242c; border:1px solid #33343f;
+    color:#e9e9ee; border-radius:10px; padding:9px 6px; font-size:14px; cursor:pointer; }
+  .rate button.on { background:#2b6fff; border-color:#2b6fff; color:#fff; font-weight:600; }
+  .opts { display:flex; gap:7px; flex-wrap:wrap; margin-top:10px; }
+  .opts button { background:#23242c; border:1px solid #33343f; color:#e9e9ee;
+    border-radius:999px; padding:7px 13px; font-size:14px; cursor:pointer; }
+  .opts button.on { background:#2b6fff; border-color:#2b6fff; color:#fff; font-weight:600; }
+  .hint { color:#8a8a96; font-size:12px; margin-top:7px; }
+  .footer { position:fixed; left:0; right:0; bottom:0; background:#0f1014ee;
+    border-top:1px solid #2a2b34; padding:10px 16px; display:flex; gap:10px; align-items:center;
+    backdrop-filter:blur(6px); }
+  .footer .prog { color:#9a9aa6; font-size:13px; flex:1; }
+  .footer button { background:#2b6fff; border:none; color:#fff; border-radius:10px;
+    padding:11px 16px; font-size:15px; font-weight:600; cursor:pointer; }
+  .footer button.sec { background:#2a2b34; }
+  dialog { background:#1c1d24; color:#e9e9ee; border:1px solid #2a2b34; border-radius:14px;
+    width:min(680px,92vw); padding:16px; }
+  textarea { width:100%; height:46vh; background:#0f1014; color:#e9e9ee; border:1px solid #2a2b34;
+    border-radius:10px; padding:10px; font:13px/1.4 ui-monospace,Menlo,monospace; }
+</style>
+</head>
+<body>
+<header>
+  <h1>Style Calibration</h1>
+  <div class="sub">Rate each passage by how much it <b>lights you up</b> — not whether it's "good," but whether you want your own stories to feel like that. Then answer the preference questions. Auto-saves as you go. At the end, tap <b>Export</b> and paste the result back to me.</div>
+</header>
+<div id="app"></div>
+
+<div class="footer">
+  <div class="prog" id="prog">0 / 0</div>
+  <button class="sec" onclick="clearAll()">Reset</button>
+  <button onclick="exportAnswers()">Export ▸</button>
+</div>
+
+<dialog id="dlg">
+  <div style="margin-bottom:8px">Copy this and paste it back in chat:</div>
+  <textarea id="out" readonly></textarea>
+  <div style="display:flex;gap:10px;margin-top:10px">
+    <button onclick="copyOut()" style="background:#2b6fff;border:none;color:#fff;border-radius:10px;padding:10px 16px;font-weight:600">Copy</button>
+    <button onclick="document.getElementById('dlg').close()" style="background:#2a2b34;border:none;color:#fff;border-radius:10px;padding:10px 16px">Close</button>
+  </div>
+</dialog>
+
+<script>
+const RATE = [["love","🔥 Love"],["like","👍 Like"],["meh","😐 Meh"],["cold","🥶 Cold"]];
+
+const PASSAGES = [
+ ["DREAD / WITHHELD SUSPENSE", [
+  ["d1","du Maurier — Rebecca", "Last night I dreamt I went to Manderley again.", 1],
+  ["d2","Ishiguro — Never Let Me Go", "My name is Kathy H. I'm thirty-one years old, and I've been a carer now for over eleven years.", 1],
+  ["d3","Shirley Jackson — The Haunting of Hill House", "No live organism can continue for long to exist sanely under conditions of absolute reality… and whatever walked there, walked alone.", 1],
+  ["d4","Cormac McCarthy — Blood Meridian", "See the child.", 1],
+  ["d5","Gillian Flynn — Gone Girl", "When I think of my wife, I always think of her head.", 1],
+  ["d6","Patricia Highsmith — The Talented Mr. Ripley", "A charming narrator whose calm, reasonable voice slowly makes you complicit in something monstrous.", 0],
+ ]],
+ ["GRIEF & THE DEAD", [
+  ["g1","Toni Morrison — Beloved", "124 was spiteful. Full of a baby's venom.", 1],
+  ["g2","Joan Didion — The Year of Magical Thinking", "Life changes fast. Life changes in the instant. You sit down to dinner and life as you know it ends.", 1],
+  ["g3","C.S. Lewis — A Grief Observed", "No one ever told me that grief felt so like fear.", 1],
+  ["g4","George Saunders — Lincoln in the Bardo", "The dead crowd a graveyard at night, talking over one another, refusing to admit they've died.", 0],
+  ["g5","Max Porter — Grief Is the Thing with Feathers", "A giant talking crow moves in with a father and two boys after the mother dies — half nursemaid, half nightmare.", 0],
+ ]],
+ ["PROSE PUNCH / VOICE", [
+  ["p1","García Márquez — One Hundred Years of Solitude", "Many years later, as he faced the firing squad, Colonel Aureliano Buendía was to remember that distant afternoon when his father took him to discover ice.", 1],
+  ["p2","Nabokov — Lolita", "Lolita, light of my life, fire of my loins.", 1],
+  ["p3","Vonnegut — Slaughterhouse-Five", "Billy Pilgrim has come unstuck in time.", 1],
+  ["p4","Joan Didion — The White Album", "We tell ourselves stories in order to live.", 1],
+  ["p5","Denis Johnson — Jesus' Son", "A strung-out narrator describes a car crash with wrecked, luminous calm — saying the unsayable plainly.", 0],
+ ]],
+ ["WARM / SINCERE / HEART", [
+  ["h1","Marilynne Robinson — Gilead", "An old preacher, dying, writes a letter to his small son — totally unguarded, no irony, trying to hand over a life.", 0],
+  ["h2","E.B. White — Charlotte's Web", "Where's Papa going with that ax?", 1],
+  ["h3","Ray Bradbury — Dandelion Wine", "An ordinary small-town summer made luminous — a boy realizes, with a shock, that he is alive.", 0],
+  ["h4","Fredrik Backman — A Man Called Ove", "A grumpy, grieving man's hard shell cracks into warmth and humor without ever turning sappy.", 0],
+ ]],
+ ["MAGIC / UNCANNY-DOMESTIC", [
+  ["m1","García Márquez — One Hundred Years of Solitude", "Remedios the Beauty ascends bodily into heaven while folding laundry — narrated as flatly as the weather.", 0],
+  ["m2","Aimee Bender — The Particular Sadness of Lemon Cake", "A girl bites her mother's birthday cake and can suddenly taste her mother's hidden despair.", 0],
+  ["m3","Karen Russell — St. Lucy's Home for Girls Raised by Wolves", "Wolf-children sent to a convent to be civilized — domestic surreal played dead straight.", 0],
+  ["m4","Shirley Jackson — We Have Always Lived in the Castle", "A girl introduces herself calmly and mentions, in passing, that everyone else in her family is dead.", 0],
+ ]],
+ ["SPARE / DEVASTATING", [
+  ["s1","Hemingway (attributed)", "For sale: baby shoes, never worn.", 1],
+  ["s2","Cormac McCarthy — The Road", "A father and son push a cart through gray ash, each the other's world entire, carrying the fire.", 0],
+  ["s3","Raymond Carver — What We Talk About When We Talk About Love", "Two couples at a kitchen table, the gin going down, circling what love is — the important thing left unsaid.", 0],
+  ["s4","Amy Hempel — In the Cemetery Where Al Jolson Is Buried", "A woman fails her dying best friend, told in spare, jokey fragments that devastate.", 0],
+  ["s5","Jenny Offill — Dept. of Speculation", "A marriage told in sharp numbered fragments — facts, worries, jokes — that add up to heartbreak.", 0],
+ ]],
+];
+
+const PREFS = [
+ ["pref1","What do you want MORE of in your stories? (tap any)", true,
+   ["suspense","emotional weight","beautiful sentences","strangeness","humor"]],
+ ["pref2","What do you want LESS of? (tap any)", true,
+   ["cleverness","ambiguity","restraint","sentimentality","explanation"]],
+ ["pref3","Endings you want more of:", false,
+   ["open & unresolved","floor-drop twist","warm landing, real cost","quiet inversion"]],
+ ["pref4","Pace you want:", false, ["slow-burn dread","fast & gripping","quiet & meditative"]],
+ ["pref5","Prose:", false, ["plain & spare","rich & musical","in between"]],
+ ["pref6","Emotion:", false, ["held at arm's length","go straight at it"]],
+ ["pref7","The strange thing:", false, ["keep it mysterious","hint an explanation","doesn't matter if it grips"]],
+ ["pref8","First sentences should:", false, ["grab by the throat","set a mood quietly"]],
+ ["pref9","You want the reader to mostly feel: (pick up to 2)", true,
+   ["scared","moved","unsettled","dazzled","comforted"]],
+ ["pref10","Group Chat specifically:", false, ["keep it quiet-elegy","rebuild as a thriller","a hybrid"]],
+];
+
+const KEY = "style-survey-v1";
+let answers = JSON.parse(localStorage.getItem(KEY) || "{}");
+function save(){ localStorage.setItem(KEY, JSON.stringify(answers)); updateProg(); }
+
+const app = document.getElementById("app");
+let total = 0;
+for (const [lane, items] of PASSAGES) {
+  const h = document.createElement("h2"); h.textContent = lane; app.appendChild(h);
+  for (const [id, src, txt, isQuote] of items) {
+    total++;
+    const c = document.createElement("div"); c.className = "card";
+    c.innerHTML = `<div class="src">${src}</div>
+      <div class="txt ${isQuote?'q':'desc'}">${isQuote?'“'+txt+'”':txt}</div>
+      <div class="rate" id="r_${id}"></div>`;
+    app.appendChild(c);
+    const box = c.querySelector("#r_"+id);
+    for (const [val,label] of RATE) {
+      const b = document.createElement("button"); b.textContent = label;
+      if (answers[id]===val) b.classList.add("on");
+      b.onclick = () => { answers[id]=val; save();
+        box.querySelectorAll("button").forEach(x=>x.classList.remove("on")); b.classList.add("on"); };
+      box.appendChild(b);
+    }
+  }
+}
+const ph = document.createElement("h2"); ph.textContent = "Preference questions"; app.appendChild(ph);
+for (const [id, q, multi, opts] of PREFS) {
+  total++;
+  const c = document.createElement("div"); c.className = "card";
+  c.innerHTML = `<div class="txt">${q}</div><div class="opts" id="o_${id}"></div>`;
+  app.appendChild(c);
+  const box = c.querySelector("#o_"+id);
+  for (const opt of opts) {
+    const b = document.createElement("button"); b.textContent = opt;
+    const sel = () => multi ? (answers[id]||[]).includes(opt) : answers[id]===opt;
+    if (sel()) b.classList.add("on");
+    b.onclick = () => {
+      if (multi) { let a = answers[id]||[]; a = a.includes(opt) ? a.filter(x=>x!==opt) : [...a,opt];
+        answers[id]=a; b.classList.toggle("on"); }
+      else { answers[id]=opt; box.querySelectorAll("button").forEach(x=>x.classList.remove("on")); b.classList.add("on"); }
+      save();
+    };
+    box.appendChild(b);
+  }
+}
+
+function answeredCount(){
+  let n=0;
+  for (const k in answers){ const v=answers[k]; if (Array.isArray(v)? v.length : v) n++; }
+  return n;
+}
+function updateProg(){ document.getElementById("prog").textContent = answeredCount()+" / "+total+" answered"; }
+updateProg();
+
+function exportAnswers(){
+  const lines = ["STYLE SURVEY RESULTS",""];
+  lines.push("PASSAGES:");
+  for (const [lane, items] of PASSAGES)
+    for (const [id, src] of items)
+      if (answers[id]) lines.push(`  ${id} [${answers[id]}] ${src}`);
+  lines.push("", "PREFERENCES:");
+  for (const [id, q] of PREFS) {
+    const v = answers[id]; if (!v || (Array.isArray(v)&&!v.length)) continue;
+    lines.push(`  ${id}: ${Array.isArray(v)? v.join(", "): v}  (${q})`);
+  }
+  lines.push("", `(${answeredCount()}/${total} answered)`);
+  document.getElementById("out").value = lines.join("\n");
+  document.getElementById("dlg").showModal();
+}
+function copyOut(){ const t=document.getElementById("out"); t.select(); navigator.clipboard && navigator.clipboard.writeText(t.value); }
+function clearAll(){ if(confirm("Clear all answers?")){ answers={}; save(); location.reload(); } }
+</script>
+</body>
+</html>
