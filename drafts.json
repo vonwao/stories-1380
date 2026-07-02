@@ -1,5 +1,5 @@
 {
-  "built": "2026-06-16T04:31:36.459Z",
+  "built": "2026-07-02T03:33:17.818Z",
   "stories": [
     {
       "slug": "walkie",
@@ -200,6 +200,39 @@
       "status": "draft"
     },
     {
+      "slug": "no-real-home",
+      "title": "No Real Home (essay · partial)",
+      "words": 546,
+      "minutes": 4,
+      "audio": null,
+      "audioDurationSeconds": null,
+      "audioStatus": null,
+      "text": "fiction/no-real-home/story.md",
+      "status": "draft"
+    },
+    {
+      "slug": "the-committal",
+      "title": "The Committal (partial)",
+      "words": 612,
+      "minutes": 4,
+      "audio": null,
+      "audioDurationSeconds": null,
+      "audioStatus": null,
+      "text": "fiction/the-committal/story.md",
+      "status": "draft"
+    },
+    {
+      "slug": "the-deer",
+      "title": "The Deer (partial)",
+      "words": 578,
+      "minutes": 4,
+      "audio": null,
+      "audioDurationSeconds": null,
+      "audioStatus": null,
+      "text": "fiction/the-deer/story.md",
+      "status": "draft"
+    },
+    {
       "slug": "the-notary",
       "title": "The Notary",
       "words": 1298,
@@ -208,6 +241,17 @@
       "audioDurationSeconds": null,
       "audioStatus": null,
       "text": "fiction/the-notary/story.md",
+      "status": "draft"
+    },
+    {
+      "slug": "the-steady-hand",
+      "title": "The Steady Hand (partial)",
+      "words": 559,
+      "minutes": 4,
+      "audio": null,
+      "audioDurationSeconds": null,
+      "audioStatus": null,
+      "text": "fiction/the-steady-hand/story.md",
       "status": "draft"
     }
   ]
