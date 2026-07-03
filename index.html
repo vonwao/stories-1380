@@ -153,7 +153,7 @@
         b = b.replace(/&/g, "&amp;").replace(/</g, "&lt;")
              .replace(/\*\*(.+?)\*\*/g, "<strong>$1</strong>")
              .replace(/\*(.+?)\*/g, "<em>$1</em>")
-             .replace(/\n/g, "<br>");
+             .replace(/\n/g, " "); // in-paragraph newlines are soft: collapse, or TTS pauses at every source line break
         return `<p>${b}</p>`;
       })
       .join("");
