@@ -1,5 +1,5 @@
 {
-  "built": "2026-07-06T03:40:47.361Z",
+  "built": "2026-07-06T03:41:53.417Z",
   "stories": [
     {
       "slug": "walkie",
@@ -147,7 +147,7 @@
     {
       "slug": "the-tortoise",
       "title": "The Tortoise",
-      "words": 1864,
+      "words": 1736,
       "minutes": 15,
       "audio": "fiction/the-tortoise/the-tortoise.mp3",
       "audioDurationSeconds": 901,
