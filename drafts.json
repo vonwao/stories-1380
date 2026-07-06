@@ -1,5 +1,5 @@
 {
-  "built": "2026-07-06T03:41:53.417Z",
+  "built": "2026-07-06T04:00:19.281Z",
   "stories": [
     {
       "slug": "walkie",
@@ -38,9 +38,16 @@
       "slug": "florida-man",
       "title": "Florida Man, Corrected",
       "words": 2282,
-      "minutes": 12,
-      "audio": "fiction/florida-man/florida-man-v1.mp3",
-      "audioDurationSeconds": 695,
+      "minutes": 14,
+      "audio": "fiction/florida-man/florida-man.mp3",
+      "audioAlternates": [
+        {
+          "label": "v1",
+          "audio": "fiction/florida-man/florida-man-v1.mp3",
+          "audioDurationSeconds": 695
+        }
+      ],
+      "audioDurationSeconds": 833,
       "audioStatus": "full",
       "text": "fiction/florida-man/story.md",
       "status": "draft"
@@ -148,9 +155,16 @@
       "slug": "the-tortoise",
       "title": "The Tortoise",
       "words": 1736,
-      "minutes": 15,
-      "audio": "fiction/the-tortoise/the-tortoise-v1.mp3",
-      "audioDurationSeconds": 901,
+      "minutes": 12,
+      "audio": "fiction/the-tortoise/the-tortoise.mp3",
+      "audioAlternates": [
+        {
+          "label": "v1",
+          "audio": "fiction/the-tortoise/the-tortoise-v1.mp3",
+          "audioDurationSeconds": 901
+        }
+      ],
+      "audioDurationSeconds": 738,
       "audioStatus": "full",
       "text": "fiction/the-tortoise/story.md",
       "status": "draft"
