@@ -1,5 +1,5 @@
 {
-  "built": "2026-07-06T02:51:32.224Z",
+  "built": "2026-07-06T03:40:47.361Z",
   "stories": [
     {
       "slug": "walkie",
@@ -37,7 +37,7 @@
     {
       "slug": "florida-man",
       "title": "Florida Man, Corrected",
-      "words": 2015,
+      "words": 2282,
       "minutes": 12,
       "audio": "fiction/florida-man/florida-man.mp3",
       "audioDurationSeconds": 695,
