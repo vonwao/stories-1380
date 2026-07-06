@@ -1,5 +1,5 @@
 {
-  "built": "2026-07-03T03:41:42.776Z",
+  "built": "2026-07-06T02:51:32.224Z",
   "stories": [
     {
       "slug": "walkie",
@@ -87,6 +87,17 @@
       "audioDurationSeconds": 532,
       "audioStatus": "full",
       "text": "fiction/the-claw/story.md",
+      "status": "draft"
+    },
+    {
+      "slug": "the-coffee-shop",
+      "title": "The Coffee Shop",
+      "words": 1178,
+      "minutes": 7,
+      "audio": "fiction/the-coffee-shop/the-coffee-shop.mp3",
+      "audioDurationSeconds": 390,
+      "audioStatus": "full",
+      "text": "fiction/the-coffee-shop/story.md",
       "status": "draft"
     },
     {
