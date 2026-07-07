@@ -1,5 +1,5 @@
 {
-  "built": "2026-07-06T04:00:19.281Z",
+  "built": "2026-07-07T04:27:51.766Z",
   "stories": [
     {
       "slug": "walkie",
@@ -86,6 +86,17 @@
       "status": "draft"
     },
     {
+      "slug": "sleep-hygiene",
+      "title": "Sleep Hygiene (opening)",
+      "words": 939,
+      "minutes": 5,
+      "audio": "fiction/sleep-hygiene/sleep-hygiene.mp3",
+      "audioDurationSeconds": 320,
+      "audioStatus": "full",
+      "text": "fiction/sleep-hygiene/story.md",
+      "status": "draft"
+    },
+    {
       "slug": "the-claw",
       "title": "The Claw",
       "words": 1650,
@@ -167,6 +178,17 @@
       "audioDurationSeconds": 738,
       "audioStatus": "full",
       "text": "fiction/the-tortoise/story.md",
+      "status": "draft"
+    },
+    {
+      "slug": "the-undreaming",
+      "title": "The Undreaming (opening)",
+      "words": 997,
+      "minutes": 6,
+      "audio": "fiction/the-undreaming/the-undreaming.mp3",
+      "audioDurationSeconds": 335,
+      "audioStatus": "full",
+      "text": "fiction/the-undreaming/story.md",
       "status": "draft"
     },
     {
