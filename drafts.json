@@ -97,17 +97,6 @@
       "status": "draft"
     },
     {
-      "slug": "the-algorithm-said-no",
-      "title": "The Algorithm Said No (partial)",
-      "words": 682,
-      "minutes": 5,
-      "audio": "fiction/the-algorithm-said-no/the-algorithm-said-no.mp3",
-      "audioDurationSeconds": 277,
-      "audioStatus": "full",
-      "text": "fiction/the-algorithm-said-no/story.md",
-      "status": "draft"
-    },
-    {
       "slug": "the-claw",
       "title": "The Claw",
       "words": 1650,
