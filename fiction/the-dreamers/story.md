@@ -100,7 +100,7 @@ The village did what places do at night — it was his uncle's village and also 
 
 "Last time you were alone." He looked at Mattias, and his eyes were calm the way deep water is calm. "It will get very loud in your chest. That's not you. Don't fight it, don't argue with it. You have one job. Look at your uncle. Only at him."
 
-The room was the room from before. His uncle small in the bed, the blanket rising too little and too slowly. Standing at the head of the bed, the tall thing, patient as furniture. The cold came off it like a door open to winter, and the loudness started in Mattias's chest, exactly as promised, the whole body wanting to be small, wanting to be at the door again, wanting to accept.
+The room was the room from before. His uncle small in the bed, the blanket rising too little and too slowly. Standing at the head of the bed, the tall one, patient as furniture. The cold came off it like a door open to winter, and the loudness started in Mattias's chest, exactly as promised, the whole body wanting to be small, wanting to be at the door again, wanting to accept.
 
 He looked at his uncle.
 
