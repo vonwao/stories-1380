@@ -1,5 +1,5 @@
 {
-  "built": "2026-07-09T06:40:33.030Z",
+  "built": "2026-07-11T09:45:43.154Z",
   "stories": [
     {
       "slug": "walkie",
@@ -120,8 +120,8 @@
     },
     {
       "slug": "the-dreamers",
-      "title": "The Dreamers — Night Work (scene)",
-      "words": 742,
+      "title": "The Dreamers — Episode 1",
+      "words": 1866,
       "minutes": 4,
       "audio": "fiction/the-dreamers/the-dreamers.mp3",
       "audioDurationSeconds": 248,
