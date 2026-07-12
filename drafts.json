@@ -1,5 +1,5 @@
 {
-  "built": "2026-07-12T20:10:33.698Z",
+  "built": "2026-07-12T20:13:04.073Z",
   "stories": [
     {
       "slug": "walkie",
@@ -302,6 +302,17 @@
       "status": "draft"
     },
     {
+      "slug": "the-astronauts-son",
+      "title": "The Astronaut's Son",
+      "words": 1071,
+      "minutes": 8,
+      "audio": null,
+      "audioDurationSeconds": null,
+      "audioStatus": null,
+      "text": "fiction/the-astronauts-son/story.md",
+      "status": "draft"
+    },
+    {
       "slug": "the-committal",
       "title": "The Committal",
       "words": 2705,
@@ -354,6 +365,17 @@
       "audioDurationSeconds": null,
       "audioStatus": null,
       "text": "fiction/the-steady-hand/story.md",
+      "status": "draft"
+    },
+    {
+      "slug": "two-breakfasts",
+      "title": "Two Breakfasts",
+      "words": 1066,
+      "minutes": 8,
+      "audio": null,
+      "audioDurationSeconds": null,
+      "audioStatus": null,
+      "text": "fiction/two-breakfasts/story.md",
       "status": "draft"
     }
   ]
