@@ -36,7 +36,7 @@ He shook his head, and she watched him until the head-shake became words. "No. I
 
 "Yes."
 
-"But before we finish today, I want to give you another report, from Russia. There has been a big turnaround in Omsk. The fighting men who had a foothold in the town have left, and it has been peaceful now for several days. Sacha says the weather has been beautiful for the yearly festival, and they harvested some lovely vegetables. And this also is a lesson for us. Yes?"
+"But before we finish today, I want to give you another report, from Russia. There has been a big turnaround in Tolensk. The fighting men who had a foothold in the town have left, and it has been peaceful now for several days. Sacha says the weather has been beautiful for the yearly festival, and they harvested some lovely vegetables. And this also is a lesson for us. Yes?"
 
 Murmurs went around; someone on the far side of the circle said thank God in a language Mattias didn't place.
 
