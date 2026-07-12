@@ -1,0 +1,27 @@
+# The Potato Question
+
+I taught physics for thirty-four years at the same gymnasium, and in June, at the retirement dinner, the headmaster gave a speech about a colleague whose name he got right on the second try, and in September I took a bus to a monastery in the hills because I had a question and no remaining institution to ask it in.
+
+The monastery takes guests. You get a room with a bed, a desk, a hook, and a window, which after a life of accumulating turns out to be the correct number of things. At dinner the first night, the guestmaster, Brother Timo, a wide calm man of about sixty, asked me how long I'd stay and what I'd come for, and I had rehearsed this on the bus, and I said it: I had spent my life explaining how things work to people who mostly wanted the grade, and now that it was over I needed to know whether it had amounted to anything, or whether I had simply been a man standing in a river handing water to the water.
+
+Brother Timo listened to the whole question with his eyes closed, which I would learn is his way of taking something seriously, and then he opened them and said, "We peel potatoes at six. You'll help."
+
+I assumed this was monastery for "we'll get to it." It was not monastery for anything. At six the next morning I sat in the kitchen with a knife, a bucket of potatoes, and Brother Timo, and we peeled. That's the day. Prayers happen around you like weather; guests can go or not; the potatoes are not optional. I asked my question again on the third day, rephrased, improved, footnoted. He said the eyes go deeper in the autumn potatoes, cut a wider circle around them.
+
+I want you to understand that I know this story. I taught teenagers for three decades; I have seen every film in which the wise man assigns menial labor and the labor turns out to be the answer. I sat there peeling and thinking: this is the oldest trick in the drawer, wax on, wax off, the peeling is the lesson, and I am not fourteen, and I did not come here to be enlightened by starch. I composed, over several mornings, a small lecture about how the dignity-of-simple-work routine is a way of dodging real questions, and one Thursday I delivered it, into the bucket, at some length.
+
+Brother Timo peeled through the whole thing. Then he said, "Good," and, after a moment, "the lesson isn't the peeling. The peeling is because there are ninety of us and guests eat too." And then, because I had finally asked him something with an edge on it: "Your question isn't ready. You'll know it's ready when it gets smaller."
+
+My daughter arrived on the twelfth day. Kata. She'd driven four hours with a folder of printouts about a cardiologist appointment I had moved twice, and she found me in the kitchen in an apron, and I watched my only child stand in the door of a monastery kitchen doing the arithmetic of my sanity. Widowed eighteen months, retired three, now peeling in the hills. On paper I was a brochure for concern.
+
+They gave her a knife. That is the genius of the place; there's no parlor for having it out in, there's the bucket. So my daughter sat across from me and peeled badly, furious, in her city coat, and said, "You didn't answer my calls for four days," and I said the reception was in the orchard, which was true and no defense, and she said, "You can't just—" and stopped, and started again, quieter, with the thing under the thing: "You disappeared. Dad. You can't keep disappearing. When Mom died you went somewhere behind your face for a year and now you're here and I need to know if you're—" and she gestured with the knife at everything, the hills, the habit hanging by the door, my apron, "—if this is where you go instead of coming to us."
+
+The kitchen was quiet. Brother Timo, with the discretion of large men, had become entirely potato.
+
+And I heard my question get smaller. It happened in real time, like ice going in a glass. I had come up the hill with: did my life's work amount to anything? — a question you can hold seminars about, a question with no address on it. And across the bucket sat this cross, tired, badly-peeling woman who had learned her stubbornness at my dinner table, and the question that was actually mine, the small one, the one with an address, was: why do I go behind my face when the people I taught everything to are standing right there wanting in?
+
+I don't have its answer either, before you ask. But there's a difference between not answering a question that lives in the clouds and not answering one that drives four hours with a folder.
+
+I came home with her that afternoon. That's the ending; I'm aware it's not a very monastic one. I made the cardiologist appointment. I peel the potatoes at her place on Sundays now, and her boy, my grandson, sits with me sometimes, and last week, unprompted, aged nine, he asked me why the sky is dark at night — which happens to be a genuinely deep question, Olbers' paradox, the kind I used to build my best week of the year around — and I heard myself begin, "Well — how far do you think the dark goes?" and he looked up, and there was the river, and there was the water, and I handed it over.
+
+At the door of the monastery, when we left, Brother Timo gave my daughter a jar of honey and me nothing at all, correctly. He shook my hand and said the new potatoes come in June, and they're easier, and I said I'd keep it in mind, and he said, with his eyes closed, "No you won't. You have a kitchen now."
