@@ -1,5 +1,5 @@
 {
-  "built": "2026-07-12T20:13:04.073Z",
+  "built": "2026-07-12T20:15:39.070Z",
   "stories": [
     {
       "slug": "walkie",
@@ -269,6 +269,17 @@
       "status": "draft"
     },
     {
+      "slug": "his-move",
+      "title": "His Move",
+      "words": 1175,
+      "minutes": 8,
+      "audio": null,
+      "audioDurationSeconds": null,
+      "audioStatus": null,
+      "text": "fiction/his-move/story.md",
+      "status": "draft"
+    },
+    {
       "slug": "ninety-minutes",
       "title": "Ninety Minutes",
       "words": 872,
@@ -288,6 +299,17 @@
       "audioDurationSeconds": null,
       "audioStatus": null,
       "text": "fiction/no-real-home/story.md",
+      "status": "draft"
+    },
+    {
+      "slug": "sobada",
+      "title": "Sobada",
+      "words": 1064,
+      "minutes": 8,
+      "audio": null,
+      "audioDurationSeconds": null,
+      "audioStatus": null,
+      "text": "fiction/sobada/story.md",
       "status": "draft"
     },
     {
