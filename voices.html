@@ -1,0 +1,106 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Voice Picker — 1380 Stories</title>
+<style>
+  :root { --bg:#faf7f2; --card:#fff; --ink:#26221c; --sub:#7a7266; --line:#e8e2d8; --acc:#8a5a2b; }
+  @media (prefers-color-scheme: dark) {
+    :root { --bg:#171512; --card:#211e1a; --ink:#ece7de; --sub:#9a9184; --line:#332e27; --acc:#d9a866; }
+  }
+  * { box-sizing:border-box; margin:0; }
+  body { background:var(--bg); color:var(--ink); font:16px/1.55 Georgia, 'Times New Roman', serif; padding:2rem 1rem 5rem; }
+  main { max-width:760px; margin:0 auto; }
+  h1 { font-size:1.6rem; margin-bottom:.3rem; }
+  .sub { color:var(--sub); font-size:.95rem; margin-bottom:1.2rem; }
+  .sample-line { background:var(--card); border:1px solid var(--line); border-radius:10px; padding: .8rem 1rem; font-style:italic; color:var(--sub); margin-bottom:1.6rem; font-size:.95rem; }
+  h2 { font-size:1.05rem; margin:1.8rem 0 .6rem; color:var(--acc); font-variant:small-caps; letter-spacing:.05em; }
+  .voice { background:var(--card); border:1px solid var(--line); border-radius:10px; padding:.75rem .9rem; margin-bottom:.55rem; display:flex; gap:.85rem; align-items:flex-start; }
+  .play { flex:none; width:2.6rem; height:2.6rem; border-radius:50%; border:1px solid var(--acc); background:none; color:var(--acc); font-size:1.05rem; cursor:pointer; margin-top:.15rem; }
+  .play.on { background:var(--acc); color:var(--card); }
+  .vname { font-weight:bold; }
+  .tags { color:var(--sub); font-size:.82rem; margin:.1rem 0 .15rem; }
+  .notes { font-size:.9rem; }
+  .fav { color:var(--acc); font-size:.82rem; border:1px solid var(--acc); border-radius:999px; padding:0 .5rem; margin-left:.4rem; white-space:nowrap; }
+  footer { color:var(--sub); font-size:.85rem; margin-top:2.5rem; }
+</style>
+</head>
+<body>
+<main>
+  <h1>Voice Picker</h1>
+  <p class="sub">Every voice reads the same calibration lines (rendered with eleven_v3). Tap to compare. Casting notes from <code>tools/audio/VOICE_CASTING.md</code>.</p>
+  <div class="sample-line">"The music ended, and nobody moved for a while. Nineteen years at this desk, and I still can't tell you who the second breakfast is for. Sit down. Drink your water. It's colder than it looks."</div>
+  <div id="groups"></div>
+  <footer>
+    <p>The Otto voice clone exists but is kept off this public page on purpose. New shared-library voices can be added on request — say the vibe, not the name.</p>
+  </footer>
+</main>
+<script>
+const GROUPS = [
+  ["The cast (proven)", [
+    ["evan", "Evan — Conversational & Narrative", "male · young · calm American", "Otto's pick for first-person: “the most me.” Nonfiction + reflective narrators (the-astronauts-son).", true],
+    ["chris", "Chris — Charming, Down-to-Earth", "male · middle-aged · casual", "The fiction workhorse: expressive, wry, carries dialogue. The Dreamers, the-tortoise, the-same-voice.", true],
+  ]],
+  ["Proven in stories", [
+    ["roger", "Roger — Laid-Back, Casual, Resonant", "male · middle-aged · conversational", "the-mango-tree (70s narrator). Current provisional pick for the-potato-question."],
+    ["will", "Will — Relaxed Optimist", "male · young · chill", "walkie. Younger, easygoing."],
+    ["bill", "Bill — Wise, Mature, Balanced", "male · old · crisp", "un-condemned (retired inspector, 68). The senior-man option."],
+    ["brian", "Brian — Deep, Resonant, Comforting", "male · middle-aged · classy", "third-wednesday. Bedtime-deep."],
+    ["sarah", "Sarah — Mature, Reassuring", "female · confident", "hurricane-box (preview)."],
+    ["bella", "Bella — Professional, Bright, Warm", "female · middle-aged", "the-yard-sale."],
+    ["jessica", "Jessica — Playful, Bright, Warm", "female · young", "kitchen-hands (line cook, 28)."],
+    ["lily", "Lily — Velvety Actress", "female · British", "healing-line."],
+    ["eric", "Eric — Smooth, Trustworthy", "male · middle-aged", "la-promesa."],
+    ["adam", "Adam — Dominant, Firm", "male · middle-aged", "spelling-bee (the father)."],
+    ["daniel", "Daniel — Steady Broadcaster", "male · British · formal", "florida-man."],
+    ["leoni", "Leoni Vergara", "female · Latin American · conversational", "Group Chat's Mamá. The characterful-community-voice standard."],
+    ["ivanna", "Ivanna", "female · young · casual", "Group Chat's Vicky."],
+    ["samantha", "Samantha — Soft and Intimate", "female · young · relaxed", "Group Chat's Nagyi (read flat). Held for intimate first-person."],
+  ]],
+  ["Auditioned or in the account, unproven", [
+    ["george", "George — Warm Storyteller", "male · British · narrative", "Rejected for Otto's own voice (“not me”) but auditioned only as Otto — open as a CHARACTER narrator."],
+    ["ash", "Ash — Calm, Soothing Narrative", "male · young · calm", "Strong all-rounder from the bake-off; “less personal” than Evan."],
+    ["matilda", "Matilda — Knowledgeable, Professional", "female · upbeat", "Was slated for the-test-drive (paused)."],
+    ["alice", "Alice — Clear, Engaging Educator", "female · British", "Was slated for sinkhole-garden (paused)."],
+    ["river", "River — Relaxed, Neutral", "neutral · calm", "Was slated for el-mejor-cafe (paused). The androgynous option."],
+  ]],
+  ["Wildcards (in the account, never cast)", [
+    ["callum", "Callum — Husky Trickster", "male · characters", "The most characterful thing in the account. Funny-true mischief candidate?"],
+    ["laura", "Laura — Enthusiast, Quirky", "female · young · sassy", "Untested."],
+    ["charlie", "Charlie — Deep, Confident", "male · Australian", "Untested."],
+    ["josh", "Josh — Teacher for Kids", "male · young · pleasant", "Could suit kid-adjacent stories (the-astronauts-son alternate?)."],
+    ["carolina", "Carolina — Conversational", "female · Latin American (Spanish)", "Spanish-language option beyond Leoni."],
+    ["evan-young", "Evan — Young, Confident, Professional", "male · young", "The other Evan. More polished, less warm."],
+  ]],
+  ["New candidates (added 2026-07-12, never heard before today)", [
+    ["hayes", "Hayes M — Warm British Non-Fiction", "male · British · audiobook", "From the casting doc's audition list. Evan-like lane."],
+    ["chuck", "Chuck — Regular Guy", "male · American", "From the audition list. Chris-like lane — community voice, not studio."],
+    ["nate", "Nate — Warm, Relaxed, Natural", "male · American · podcast", "Closest available to the casting doc's Nate. Podcast-host register."],
+  ]],
+];
+const root = document.getElementById("groups");
+let current = null;
+for (const [title, voices] of GROUPS) {
+  const h = document.createElement("h2"); h.textContent = title; root.appendChild(h);
+  for (const [slug, name, tags, notes, fav] of voices) {
+    const d = document.createElement("div"); d.className = "voice";
+    d.innerHTML = `<button class="play" data-slug="${slug}">▶</button>
+      <div><span class="vname">${name}</span>${fav ? '<span class="fav">house voice</span>' : ''}
+      <div class="tags">${tags}</div><div class="notes">${notes}</div></div>`;
+    root.appendChild(d);
+  }
+}
+root.addEventListener("click", (e) => {
+  const btn = e.target.closest(".play"); if (!btn) return;
+  if (current && current.btn === btn) { current.audio.pause(); return; }
+  if (current) { current.audio.pause(); }
+  const audio = new Audio(`voices/${btn.dataset.slug}.mp3`);
+  current = { audio, btn };
+  btn.classList.add("on"); btn.textContent = "■";
+  audio.play().catch(() => { btn.textContent = "✕"; });
+  audio.onpause = audio.onended = () => { btn.classList.remove("on"); btn.textContent = "▶"; if (current && current.btn === btn) current = null; };
+});
+</script>
+</body>
+</html>

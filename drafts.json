@@ -1,5 +1,5 @@
 {
-  "built": "2026-07-12T20:18:44.928Z",
+  "built": "2026-07-13T03:18:42.825Z",
   "stories": [
     {
       "slug": "walkie",
@@ -97,6 +97,17 @@
       "status": "draft"
     },
     {
+      "slug": "the-astronauts-son",
+      "title": "The Astronaut's Son",
+      "words": 1071,
+      "minutes": 6,
+      "audio": "fiction/the-astronauts-son/the-astronauts-son.mp3",
+      "audioDurationSeconds": 388,
+      "audioStatus": "full",
+      "text": "fiction/the-astronauts-son/story.md",
+      "status": "draft"
+    },
+    {
       "slug": "the-claw",
       "title": "The Claw",
       "words": 1650,
@@ -171,6 +182,17 @@
       "audioDurationSeconds": 544,
       "audioStatus": "full",
       "text": "fiction/the-mango-tree/story.md",
+      "status": "draft"
+    },
+    {
+      "slug": "the-same-voice",
+      "title": "The Same Voice",
+      "words": 866,
+      "minutes": 5,
+      "audio": "fiction/the-same-voice/the-same-voice.mp3",
+      "audioDurationSeconds": 284,
+      "audioStatus": "full",
+      "text": "fiction/the-same-voice/story.md",
       "status": "draft"
     },
     {
@@ -335,17 +357,6 @@
       "status": "draft"
     },
     {
-      "slug": "the-astronauts-son",
-      "title": "The Astronaut's Son",
-      "words": 1071,
-      "minutes": 8,
-      "audio": null,
-      "audioDurationSeconds": null,
-      "audioStatus": null,
-      "text": "fiction/the-astronauts-son/story.md",
-      "status": "draft"
-    },
-    {
       "slug": "the-committal",
       "title": "The Committal",
       "words": 2705,
@@ -398,17 +409,6 @@
       "audioDurationSeconds": null,
       "audioStatus": null,
       "text": "fiction/the-potato-question/story.md",
-      "status": "draft"
-    },
-    {
-      "slug": "the-same-voice",
-      "title": "The Same Voice",
-      "words": 866,
-      "minutes": 6,
-      "audio": null,
-      "audioDurationSeconds": null,
-      "audioStatus": null,
-      "text": "fiction/the-same-voice/story.md",
       "status": "draft"
     },
     {
