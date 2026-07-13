@@ -1,5 +1,5 @@
 {
-  "built": "2026-07-13T03:18:42.825Z",
+  "built": "2026-07-13T03:20:45.257Z",
   "stories": [
     {
       "slug": "walkie",
@@ -182,6 +182,17 @@
       "audioDurationSeconds": 544,
       "audioStatus": "full",
       "text": "fiction/the-mango-tree/story.md",
+      "status": "draft"
+    },
+    {
+      "slug": "the-potato-question",
+      "title": "The Potato Question",
+      "words": 1015,
+      "minutes": 7,
+      "audio": "fiction/the-potato-question/the-potato-question.mp3",
+      "audioDurationSeconds": 399,
+      "audioStatus": "full",
+      "text": "fiction/the-potato-question/story.md",
       "status": "draft"
     },
     {
@@ -398,17 +409,6 @@
       "audioDurationSeconds": null,
       "audioStatus": null,
       "text": "fiction/the-notary/story.md",
-      "status": "draft"
-    },
-    {
-      "slug": "the-potato-question",
-      "title": "The Potato Question",
-      "words": 1015,
-      "minutes": 7,
-      "audio": null,
-      "audioDurationSeconds": null,
-      "audioStatus": null,
-      "text": "fiction/the-potato-question/story.md",
       "status": "draft"
     },
     {
