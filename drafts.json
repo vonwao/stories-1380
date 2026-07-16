@@ -1,5 +1,5 @@
 {
-  "built": "2026-07-13T03:20:45.257Z",
+  "built": "2026-07-16T02:09:49.357Z",
   "stories": [
     {
       "slug": "walkie",
@@ -332,6 +332,17 @@
       "audioDurationSeconds": null,
       "audioStatus": null,
       "text": "fiction/no-real-home/story.md",
+      "status": "draft"
+    },
+    {
+      "slug": "one-sentence",
+      "title": "One Sentence",
+      "words": 2682,
+      "minutes": 19,
+      "audio": null,
+      "audioDurationSeconds": null,
+      "audioStatus": null,
+      "text": "fiction/one-sentence/story.md",
       "status": "draft"
     },
     {
