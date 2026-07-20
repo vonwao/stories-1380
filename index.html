@@ -208,7 +208,7 @@
           <div class="t-body">
             ${s.audio ? `<audio controls preload="none" src="${s.audio}"></audio>`
                       : `<p class="no-audio">audio coming soon — text only for now</p>`}
-            ${(s.audioAlternates || []).map((a) => `<p class="alt-label">earlier render — ${a.label}</p><audio controls preload="none" src="${a.audio}"></audio>`).join("")}
+            ${(s.audioAlternates || []).map((a) => `<p class="alt-label">alternate render — ${a.label}</p><audio controls preload="none" src="${a.audio}"></audio>`).join("")}
             <button class="readbtn">Read it</button>
             <div class="story" style="display:none"></div>
           </div>`;

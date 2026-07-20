@@ -1,5 +1,5 @@
 {
-  "built": "2026-07-16T05:31:26.632Z",
+  "built": "2026-07-20T00:59:21.583Z",
   "stories": [
     {
       "slug": "walkie",
@@ -7,6 +7,13 @@
       "words": 2046,
       "minutes": 12,
       "audio": "fiction/walkie/walkie.mp3",
+      "audioAlternates": [
+        {
+          "label": "v2-preview",
+          "audio": "fiction/walkie/walkie-v2-preview.mp3",
+          "audioDurationSeconds": 488
+        }
+      ],
       "audioDurationSeconds": 702,
       "audioStatus": "full",
       "text": "fiction/walkie/story.md",
@@ -29,6 +36,13 @@
       "words": 926,
       "minutes": 6,
       "audio": "fiction/dream-a-little/dream-a-little.mp3",
+      "audioAlternates": [
+        {
+          "label": "v2-preview",
+          "audio": "fiction/dream-a-little/dream-a-little-v2-preview.mp3",
+          "audioDurationSeconds": 521
+        }
+      ],
       "audioDurationSeconds": 387,
       "audioStatus": "full",
       "text": "fiction/dream-a-little/story.md",
@@ -235,6 +249,11 @@
           "label": "v1",
           "audio": "fiction/the-tortoise/the-tortoise-v1.mp3",
           "audioDurationSeconds": 901
+        },
+        {
+          "label": "v2-preview",
+          "audio": "fiction/the-tortoise/the-tortoise-v2-preview.mp3",
+          "audioDurationSeconds": 466
         }
       ],
       "audioDurationSeconds": 738,
@@ -375,6 +394,17 @@
       "status": "draft"
     },
     {
+      "slug": "read-at-214",
+      "title": "Read at 2:14 a.m.",
+      "words": 529,
+      "minutes": 4,
+      "audio": null,
+      "audioDurationSeconds": null,
+      "audioStatus": null,
+      "text": "fiction/read-at-214/story.md",
+      "status": "draft"
+    },
+    {
       "slug": "sobada",
       "title": "Sobada",
       "words": 1064,
@@ -438,6 +468,28 @@
       "audioDurationSeconds": null,
       "audioStatus": null,
       "text": "fiction/the-notary/story.md",
+      "status": "draft"
+    },
+    {
+      "slug": "the-reasonable-one",
+      "title": "The Reasonable One",
+      "words": 532,
+      "minutes": 4,
+      "audio": null,
+      "audioDurationSeconds": null,
+      "audioStatus": null,
+      "text": "fiction/the-reasonable-one/story.md",
+      "status": "draft"
+    },
+    {
+      "slug": "smallest-restaurant",
+      "title": "The Smallest Restaurant in California",
+      "words": 525,
+      "minutes": 4,
+      "audio": null,
+      "audioDurationSeconds": null,
+      "audioStatus": null,
+      "text": "fiction/smallest-restaurant/story.md",
       "status": "draft"
     },
     {

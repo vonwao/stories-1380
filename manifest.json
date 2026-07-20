@@ -1,5 +1,5 @@
 {
-  "built": "2026-06-11T17:15:47.009Z",
+  "built": "2026-07-20T00:57:07.845Z",
   "stories": [
     {
       "slug": "last-human-lane",
@@ -18,6 +18,13 @@
       "words": 1645,
       "minutes": 9,
       "audio": "fiction/the-request-line/the-request-line.mp3",
+      "audioAlternates": [
+        {
+          "label": "v2-preview",
+          "audio": "fiction/the-request-line/the-request-line-v2-preview.mp3",
+          "audioDurationSeconds": 483
+        }
+      ],
       "audioDurationSeconds": 547,
       "audioStatus": "full",
       "text": "fiction/the-request-line/story.md",
