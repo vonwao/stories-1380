@@ -1,0 +1,1021 @@
+{
+ "built": "2026-07-21T16:40:31.659Z",
+ "site": "https://vonwao.github.io/stories-1380",
+ "groups": [
+  {
+   "name": "Deep Books",
+   "count": 1,
+   "items": [
+    {
+     "group": "Deep Books",
+     "key": "the-number-ch1-5",
+     "title": "The Number · ch1–5",
+     "status": "draft",
+     "textPath": null,
+     "primary": {
+      "path": "deep-books/the-number-ch1-5.mp3",
+      "seconds": 1877,
+      "date": null
+     },
+     "alts": []
+    }
+   ]
+  },
+  {
+   "name": "Fiction",
+   "count": 27,
+   "items": [
+    {
+     "group": "Fiction",
+     "key": "the-third-crystal",
+     "title": "The Third Crystal",
+     "status": "draft",
+     "textPath": "fiction/the-third-crystal/story.md",
+     "primary": {
+      "path": "fiction/the-third-crystal/the-third-crystal-charlie.mp3",
+      "seconds": 440,
+      "date": "2026-07-16T01:31:44-04:00",
+      "label": "charlie"
+     },
+     "alts": [
+      {
+       "path": "fiction/the-third-crystal/the-third-crystal-evan.mp3",
+       "seconds": 418,
+       "date": "2026-07-16T01:31:44-04:00",
+       "label": "evan"
+      }
+     ]
+    },
+    {
+     "group": "Fiction",
+     "key": "the-potato-question",
+     "title": "The Potato Question",
+     "status": "draft",
+     "textPath": "fiction/the-potato-question/story.md",
+     "primary": {
+      "path": "fiction/the-potato-question/the-potato-question.mp3",
+      "seconds": 399,
+      "date": "2026-07-12T23:21:03-04:00",
+      "label": "main"
+     },
+     "alts": []
+    },
+    {
+     "group": "Fiction",
+     "key": "the-astronauts-son",
+     "title": "The Astronaut's Son",
+     "status": "draft",
+     "textPath": "fiction/the-astronauts-son/story.md",
+     "primary": {
+      "path": "fiction/the-astronauts-son/the-astronauts-son.mp3",
+      "seconds": 388,
+      "date": "2026-07-12T23:20:39-04:00",
+      "label": "main"
+     },
+     "alts": []
+    },
+    {
+     "group": "Fiction",
+     "key": "the-same-voice",
+     "title": "The Same Voice",
+     "status": "draft",
+     "textPath": "fiction/the-same-voice/story.md",
+     "primary": {
+      "path": "fiction/the-same-voice/the-same-voice.mp3",
+      "seconds": 284,
+      "date": "2026-07-12T23:20:39-04:00",
+      "label": "main"
+     },
+     "alts": []
+    },
+    {
+     "group": "Fiction",
+     "key": "the-dreamers",
+     "title": "The Dreamers — Episode 1",
+     "status": "draft",
+     "textPath": "fiction/the-dreamers/story.md",
+     "primary": {
+      "path": "fiction/the-dreamers/the-dreamers.mp3",
+      "seconds": 248,
+      "date": "2026-07-09T02:40:35-04:00",
+      "label": "main"
+     },
+     "alts": []
+    },
+    {
+     "group": "Fiction",
+     "key": "the-undreaming-e1",
+     "title": "The Undreaming, Episode 1: Tío Feo (partial)",
+     "status": "draft",
+     "textPath": "fiction/the-undreaming-e1/story.md",
+     "primary": {
+      "path": "fiction/the-undreaming-e1/the-undreaming-e1.mp3",
+      "seconds": 245,
+      "date": "2026-07-08T18:25:56-04:00",
+      "label": "main"
+     },
+     "alts": []
+    },
+    {
+     "group": "Fiction",
+     "key": "sleep-hygiene",
+     "title": "Sleep Hygiene (opening)",
+     "status": "draft",
+     "textPath": "fiction/sleep-hygiene/story.md",
+     "primary": {
+      "path": "fiction/sleep-hygiene/sleep-hygiene.mp3",
+      "seconds": 320,
+      "date": "2026-07-07T00:27:56-04:00",
+      "label": "main"
+     },
+     "alts": []
+    },
+    {
+     "group": "Fiction",
+     "key": "the-undreaming",
+     "title": "The Undreaming (opening)",
+     "status": "draft",
+     "textPath": "fiction/the-undreaming/story.md",
+     "primary": {
+      "path": "fiction/the-undreaming/the-undreaming.mp3",
+      "seconds": 334,
+      "date": "2026-07-07T00:27:56-04:00",
+      "label": "main"
+     },
+     "alts": []
+    },
+    {
+     "group": "Fiction",
+     "key": "florida-man",
+     "title": "Florida Man, Corrected",
+     "status": "draft",
+     "textPath": "fiction/florida-man/story.md",
+     "primary": {
+      "path": "fiction/florida-man/florida-man.mp3",
+      "seconds": 833,
+      "date": "2026-07-06T00:00:29-04:00",
+      "label": "main"
+     },
+     "alts": [
+      {
+       "path": "fiction/florida-man/florida-man-v1.mp3",
+       "seconds": 695,
+       "date": "2026-07-05T23:57:55-04:00",
+       "label": "v1"
+      }
+     ]
+    },
+    {
+     "group": "Fiction",
+     "key": "the-tortoise",
+     "title": "The Tortoise",
+     "status": "draft",
+     "textPath": "fiction/the-tortoise/story.md",
+     "primary": {
+      "path": "fiction/the-tortoise/the-tortoise.mp3",
+      "seconds": 738,
+      "date": "2026-07-06T00:00:29-04:00",
+      "label": "main"
+     },
+     "alts": [
+      {
+       "path": "fiction/the-tortoise/the-tortoise-v1.mp3",
+       "seconds": 901,
+       "date": "2026-07-05T23:57:55-04:00",
+       "label": "v1"
+      },
+      {
+       "path": "fiction/the-tortoise/the-tortoise-v2-preview.mp3",
+       "seconds": 466,
+       "date": "2026-07-19T23:30:27-04:00",
+       "label": "v2 preview"
+      }
+     ]
+    },
+    {
+     "group": "Fiction",
+     "key": "the-coffee-shop",
+     "title": "The Coffee Shop",
+     "status": "draft",
+     "textPath": "fiction/the-coffee-shop/story.md",
+     "primary": {
+      "path": "fiction/the-coffee-shop/the-coffee-shop.mp3",
+      "seconds": 390,
+      "date": "2026-07-05T22:51:49-04:00",
+      "label": "main"
+     },
+     "alts": []
+    },
+    {
+     "group": "Fiction",
+     "key": "dream-a-little",
+     "title": "Dream a Little",
+     "status": "draft",
+     "textPath": "fiction/dream-a-little/story.md",
+     "primary": {
+      "path": "fiction/dream-a-little/dream-a-little.mp3",
+      "seconds": 387,
+      "date": "2026-06-16T09:02:55-04:00",
+      "label": "main"
+     },
+     "alts": [
+      {
+       "path": "fiction/dream-a-little/dream-a-little-v2-preview.mp3",
+       "seconds": 521,
+       "date": "2026-07-19T23:30:27-04:00",
+       "label": "v2 preview"
+      }
+     ]
+    },
+    {
+     "group": "Fiction",
+     "key": "the-guest-book",
+     "title": "The Guest Book",
+     "status": "draft",
+     "textPath": "fiction/the-guest-book/story.md",
+     "primary": {
+      "path": "fiction/the-guest-book/the-guest-book.mp3",
+      "seconds": 719,
+      "date": "2026-06-14T22:58:15-04:00",
+      "label": "main"
+     },
+     "alts": []
+    },
+    {
+     "group": "Fiction",
+     "key": "walkie",
+     "title": "Channel Nine",
+     "status": "draft",
+     "textPath": "fiction/walkie/story.md",
+     "primary": {
+      "path": "fiction/walkie/walkie.mp3",
+      "seconds": 702,
+      "date": "2026-06-14T12:51:57-04:00",
+      "label": "main"
+     },
+     "alts": [
+      {
+       "path": "fiction/walkie/walkie-v2-preview.mp3",
+       "seconds": 488,
+       "date": "2026-07-19T23:30:27-04:00",
+       "label": "v2 preview"
+      }
+     ]
+    },
+    {
+     "group": "Fiction",
+     "key": "dance-lessons",
+     "title": "Dance Lessons",
+     "status": "draft",
+     "textPath": "fiction/dance-lessons/story.md",
+     "primary": {
+      "path": "fiction/dance-lessons/dance-lessons.mp3",
+      "seconds": 306,
+      "date": "2026-06-14T12:51:57-04:00",
+      "label": "main"
+     },
+     "alts": []
+    },
+    {
+     "group": "Fiction",
+     "key": "kitchen-hands",
+     "title": "Kitchen Hands",
+     "status": "draft",
+     "textPath": "fiction/kitchen-hands/story.md",
+     "primary": {
+      "path": "fiction/kitchen-hands/kitchen-hands.mp3",
+      "seconds": 556,
+      "date": "2026-06-14T12:51:57-04:00",
+      "label": "main"
+     },
+     "alts": []
+    },
+    {
+     "group": "Fiction",
+     "key": "la-promesa",
+     "title": "La Promesa",
+     "status": "draft",
+     "textPath": "fiction/la-promesa/story.md",
+     "primary": {
+      "path": "fiction/la-promesa/la-promesa.mp3",
+      "seconds": 586,
+      "date": "2026-06-14T12:51:57-04:00",
+      "label": "main"
+     },
+     "alts": []
+    },
+    {
+     "group": "Fiction",
+     "key": "spelling-bee",
+     "title": "Round Seven",
+     "status": "draft",
+     "textPath": "fiction/spelling-bee/story.md",
+     "primary": {
+      "path": "fiction/spelling-bee/spelling-bee.mp3",
+      "seconds": 637,
+      "date": "2026-06-14T12:51:57-04:00",
+      "label": "main"
+     },
+     "alts": []
+    },
+    {
+     "group": "Fiction",
+     "key": "the-claw",
+     "title": "The Claw",
+     "status": "draft",
+     "textPath": "fiction/the-claw/story.md",
+     "primary": {
+      "path": "fiction/the-claw/the-claw.mp3",
+      "seconds": 532,
+      "date": "2026-06-14T12:51:57-04:00",
+      "label": "main"
+     },
+     "alts": []
+    },
+    {
+     "group": "Fiction",
+     "key": "healing-line",
+     "title": "The Healing Line",
+     "status": "draft",
+     "textPath": "fiction/healing-line/story.md",
+     "primary": {
+      "path": "fiction/healing-line/healing-line.mp3",
+      "seconds": 649,
+      "date": "2026-06-14T12:51:57-04:00",
+      "label": "main"
+     },
+     "alts": []
+    },
+    {
+     "group": "Fiction",
+     "key": "hurricane-box",
+     "title": "The Hurricane Box",
+     "status": "draft",
+     "textPath": "fiction/hurricane-box/story.md",
+     "primary": {
+      "path": "fiction/hurricane-box/hurricane-box.mp3",
+      "seconds": 288,
+      "date": "2026-06-14T12:51:57-04:00",
+      "label": "main"
+     },
+     "alts": []
+    },
+    {
+     "group": "Fiction",
+     "key": "the-mango-tree",
+     "title": "The Mango Tree",
+     "status": "draft",
+     "textPath": "fiction/the-mango-tree/story.md",
+     "primary": {
+      "path": "fiction/the-mango-tree/the-mango-tree.mp3",
+      "seconds": 544,
+      "date": "2026-06-14T12:51:57-04:00",
+      "label": "main"
+     },
+     "alts": []
+    },
+    {
+     "group": "Fiction",
+     "key": "the-yard-sale",
+     "title": "The Yard Sale",
+     "status": "draft",
+     "textPath": "fiction/the-yard-sale/story.md",
+     "primary": {
+      "path": "fiction/the-yard-sale/the-yard-sale.mp3",
+      "seconds": 566,
+      "date": "2026-06-14T12:51:57-04:00",
+      "label": "main"
+     },
+     "alts": []
+    },
+    {
+     "group": "Fiction",
+     "key": "third-wednesday",
+     "title": "Third Wednesday",
+     "status": "draft",
+     "textPath": "fiction/third-wednesday/story.md",
+     "primary": {
+      "path": "fiction/third-wednesday/third-wednesday.mp3",
+      "seconds": 568,
+      "date": "2026-06-14T12:51:57-04:00",
+      "label": "main"
+     },
+     "alts": []
+    },
+    {
+     "group": "Fiction",
+     "key": "un-condemned",
+     "title": "Un-Condemned",
+     "status": "draft",
+     "textPath": "fiction/un-condemned/story.md",
+     "primary": {
+      "path": "fiction/un-condemned/un-condemned.mp3",
+      "seconds": 674,
+      "date": "2026-06-14T12:51:57-04:00",
+      "label": "main"
+     },
+     "alts": []
+    },
+    {
+     "group": "Fiction",
+     "key": "last-human-lane",
+     "title": "The Last Human Lane",
+     "status": "reviewed",
+     "textPath": "fiction/last-human-lane/story.md",
+     "primary": {
+      "path": "fiction/last-human-lane/last-human-lane.mp3",
+      "seconds": 420,
+      "date": "2026-06-14T09:16:44-04:00",
+      "label": "main"
+     },
+     "alts": []
+    },
+    {
+     "group": "Fiction",
+     "key": "the-request-line",
+     "title": "The Request Line",
+     "status": "reviewed",
+     "textPath": "fiction/the-request-line/story.md",
+     "primary": {
+      "path": "fiction/the-request-line/the-request-line.mp3",
+      "seconds": 547,
+      "date": "2026-06-14T09:16:44-04:00",
+      "label": "main"
+     },
+     "alts": [
+      {
+       "path": "fiction/the-request-line/the-request-line-v2-preview.mp3",
+       "seconds": 483,
+       "date": "2026-07-19T23:30:27-04:00",
+       "label": "v2 preview"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Essays / Podcast",
+   "count": 10,
+   "items": [
+    {
+     "group": "Essays / Podcast",
+     "key": "even-the-machine",
+     "title": "Even The Machine",
+     "status": "preview",
+     "textPath": null,
+     "primary": {
+      "path": "audio/even-the-machine-ash-preview.mp3",
+      "seconds": 69,
+      "date": "2026-06-30T01:46:49-04:00",
+      "label": "preview"
+     },
+     "alts": []
+    },
+    {
+     "group": "Essays / Podcast",
+     "key": "even-the-machine-clocks-out",
+     "title": "Even The Machine Clocks Out",
+     "status": "essay",
+     "textPath": null,
+     "primary": {
+      "path": "audio/even-the-machine-clocks-out.mp3",
+      "seconds": 273,
+      "date": "2026-06-29T23:59:57-04:00"
+     },
+     "alts": []
+    },
+    {
+     "group": "Essays / Podcast",
+     "key": "the-coffee-shop",
+     "title": "The Coffee Shop",
+     "status": "essay",
+     "textPath": null,
+     "primary": {
+      "path": "audio/the-coffee-shop.mp3",
+      "seconds": 390,
+      "date": "2026-06-29T23:59:57-04:00"
+     },
+     "alts": []
+    },
+    {
+     "group": "Essays / Podcast",
+     "key": "freedom-has-a-birthday",
+     "title": "Freedom Has A Birthday",
+     "status": "essay",
+     "textPath": null,
+     "primary": {
+      "path": "audio/freedom-has-a-birthday.mp3",
+      "seconds": 317,
+      "date": "2026-06-29T12:57:22-04:00"
+     },
+     "alts": []
+    },
+    {
+     "group": "Essays / Podcast",
+     "key": "the-skill-nobody-sells",
+     "title": "The Skill Nobody Sells",
+     "status": "essay",
+     "textPath": null,
+     "primary": {
+      "path": "audio/the-skill-nobody-sells.mp3",
+      "seconds": 334,
+      "date": "2026-06-29T12:57:22-04:00"
+     },
+     "alts": []
+    },
+    {
+     "group": "Essays / Podcast",
+     "key": "still-active",
+     "title": "Still Active",
+     "status": "essay",
+     "textPath": null,
+     "primary": {
+      "path": "audio/still-active.mp3",
+      "seconds": 356,
+      "date": "2026-06-27T15:54:44-04:00"
+     },
+     "alts": []
+    },
+    {
+     "group": "Essays / Podcast",
+     "key": "the-night-ward",
+     "title": "The Night Ward",
+     "status": "essay",
+     "textPath": null,
+     "primary": {
+      "path": "audio/the-night-ward.mp3",
+      "seconds": 402,
+      "date": "2026-06-27T15:54:44-04:00"
+     },
+     "alts": []
+    },
+    {
+     "group": "Essays / Podcast",
+     "key": "the-seed-vault",
+     "title": "The Seed Vault",
+     "status": "essay",
+     "textPath": null,
+     "primary": {
+      "path": "audio/the-seed-vault.mp3",
+      "seconds": 394,
+      "date": "2026-06-27T15:54:44-04:00"
+     },
+     "alts": []
+    },
+    {
+     "group": "Essays / Podcast",
+     "key": "group-chat",
+     "title": "Group Chat",
+     "status": "preview",
+     "textPath": null,
+     "primary": {
+      "path": "audio/group-chat-preview.mp3",
+      "seconds": 319,
+      "date": "2026-06-26T08:07:31-04:00",
+      "label": "preview"
+     },
+     "alts": []
+    },
+    {
+     "group": "Essays / Podcast",
+     "key": "singularity-was-subtle",
+     "title": "Singularity Was Subtle",
+     "status": "essay",
+     "textPath": null,
+     "primary": {
+      "path": "audio/singularity-was-subtle.mp3",
+      "seconds": 233,
+      "date": "2026-06-25T14:45:50-04:00"
+     },
+     "alts": []
+    }
+   ]
+  },
+  {
+   "name": "Voice tests",
+   "count": 30,
+   "items": [
+    {
+     "group": "Voice tests",
+     "key": "_voices_nate",
+     "title": "Nate",
+     "status": "sample",
+     "textPath": null,
+     "primary": {
+      "path": "voices/nate.mp3",
+      "seconds": 13,
+      "date": "2026-07-12T23:21:27-04:00",
+      "label": "Nate"
+     },
+     "alts": []
+    },
+    {
+     "group": "Voice tests",
+     "key": "_voices_carolina",
+     "title": "Carolina",
+     "status": "sample",
+     "textPath": null,
+     "primary": {
+      "path": "voices/carolina.mp3",
+      "seconds": 13,
+      "date": "2026-07-12T23:21:03-04:00",
+      "label": "Carolina"
+     },
+     "alts": []
+    },
+    {
+     "group": "Voice tests",
+     "key": "_voices_chuck",
+     "title": "Chuck",
+     "status": "sample",
+     "textPath": null,
+     "primary": {
+      "path": "voices/chuck.mp3",
+      "seconds": 14,
+      "date": "2026-07-12T23:21:03-04:00",
+      "label": "Chuck"
+     },
+     "alts": []
+    },
+    {
+     "group": "Voice tests",
+     "key": "_voices_evan-young",
+     "title": "Evan Young",
+     "status": "sample",
+     "textPath": null,
+     "primary": {
+      "path": "voices/evan-young.mp3",
+      "seconds": 12,
+      "date": "2026-07-12T23:21:03-04:00",
+      "label": "Evan Young"
+     },
+     "alts": []
+    },
+    {
+     "group": "Voice tests",
+     "key": "_voices_hayes",
+     "title": "Hayes",
+     "status": "sample",
+     "textPath": null,
+     "primary": {
+      "path": "voices/hayes.mp3",
+      "seconds": 14,
+      "date": "2026-07-12T23:21:03-04:00",
+      "label": "Hayes"
+     },
+     "alts": []
+    },
+    {
+     "group": "Voice tests",
+     "key": "_voices_adam",
+     "title": "Adam",
+     "status": "sample",
+     "textPath": null,
+     "primary": {
+      "path": "voices/adam.mp3",
+      "seconds": 11,
+      "date": "2026-07-12T23:20:39-04:00",
+      "label": "Adam"
+     },
+     "alts": []
+    },
+    {
+     "group": "Voice tests",
+     "key": "_voices_alice",
+     "title": "Alice",
+     "status": "sample",
+     "textPath": null,
+     "primary": {
+      "path": "voices/alice.mp3",
+      "seconds": 15,
+      "date": "2026-07-12T23:20:39-04:00",
+      "label": "Alice"
+     },
+     "alts": []
+    },
+    {
+     "group": "Voice tests",
+     "key": "_voices_ash",
+     "title": "Ash",
+     "status": "sample",
+     "textPath": null,
+     "primary": {
+      "path": "voices/ash.mp3",
+      "seconds": 16,
+      "date": "2026-07-12T23:20:39-04:00",
+      "label": "Ash"
+     },
+     "alts": []
+    },
+    {
+     "group": "Voice tests",
+     "key": "_voices_bella",
+     "title": "Bella",
+     "status": "sample",
+     "textPath": null,
+     "primary": {
+      "path": "voices/bella.mp3",
+      "seconds": 12,
+      "date": "2026-07-12T23:20:39-04:00",
+      "label": "Bella"
+     },
+     "alts": []
+    },
+    {
+     "group": "Voice tests",
+     "key": "_voices_bill",
+     "title": "Bill",
+     "status": "sample",
+     "textPath": null,
+     "primary": {
+      "path": "voices/bill.mp3",
+      "seconds": 14,
+      "date": "2026-07-12T23:20:39-04:00",
+      "label": "Bill"
+     },
+     "alts": []
+    },
+    {
+     "group": "Voice tests",
+     "key": "_voices_brian",
+     "title": "Brian",
+     "status": "sample",
+     "textPath": null,
+     "primary": {
+      "path": "voices/brian.mp3",
+      "seconds": 13,
+      "date": "2026-07-12T23:20:39-04:00",
+      "label": "Brian"
+     },
+     "alts": []
+    },
+    {
+     "group": "Voice tests",
+     "key": "_voices_callum",
+     "title": "Callum",
+     "status": "sample",
+     "textPath": null,
+     "primary": {
+      "path": "voices/callum.mp3",
+      "seconds": 16,
+      "date": "2026-07-12T23:20:39-04:00",
+      "label": "Callum"
+     },
+     "alts": []
+    },
+    {
+     "group": "Voice tests",
+     "key": "_voices_charlie",
+     "title": "Charlie",
+     "status": "sample",
+     "textPath": null,
+     "primary": {
+      "path": "voices/charlie.mp3",
+      "seconds": 14,
+      "date": "2026-07-12T23:20:39-04:00",
+      "label": "Charlie"
+     },
+     "alts": []
+    },
+    {
+     "group": "Voice tests",
+     "key": "_voices_chris",
+     "title": "Chris",
+     "status": "sample",
+     "textPath": null,
+     "primary": {
+      "path": "voices/chris.mp3",
+      "seconds": 10,
+      "date": "2026-07-12T23:20:39-04:00",
+      "label": "Chris"
+     },
+     "alts": []
+    },
+    {
+     "group": "Voice tests",
+     "key": "_voices_daniel",
+     "title": "Daniel",
+     "status": "sample",
+     "textPath": null,
+     "primary": {
+      "path": "voices/daniel.mp3",
+      "seconds": 15,
+      "date": "2026-07-12T23:20:39-04:00",
+      "label": "Daniel"
+     },
+     "alts": []
+    },
+    {
+     "group": "Voice tests",
+     "key": "_voices_eric",
+     "title": "Eric",
+     "status": "sample",
+     "textPath": null,
+     "primary": {
+      "path": "voices/eric.mp3",
+      "seconds": 14,
+      "date": "2026-07-12T23:20:39-04:00",
+      "label": "Eric"
+     },
+     "alts": []
+    },
+    {
+     "group": "Voice tests",
+     "key": "_voices_evan",
+     "title": "Evan",
+     "status": "sample",
+     "textPath": null,
+     "primary": {
+      "path": "voices/evan.mp3",
+      "seconds": 12,
+      "date": "2026-07-12T23:20:39-04:00",
+      "label": "Evan"
+     },
+     "alts": []
+    },
+    {
+     "group": "Voice tests",
+     "key": "_voices_george",
+     "title": "George",
+     "status": "sample",
+     "textPath": null,
+     "primary": {
+      "path": "voices/george.mp3",
+      "seconds": 14,
+      "date": "2026-07-12T23:20:39-04:00",
+      "label": "George"
+     },
+     "alts": []
+    },
+    {
+     "group": "Voice tests",
+     "key": "_voices_ivanna",
+     "title": "Ivanna",
+     "status": "sample",
+     "textPath": null,
+     "primary": {
+      "path": "voices/ivanna.mp3",
+      "seconds": 12,
+      "date": "2026-07-12T23:20:39-04:00",
+      "label": "Ivanna"
+     },
+     "alts": []
+    },
+    {
+     "group": "Voice tests",
+     "key": "_voices_jessica",
+     "title": "Jessica",
+     "status": "sample",
+     "textPath": null,
+     "primary": {
+      "path": "voices/jessica.mp3",
+      "seconds": 16,
+      "date": "2026-07-12T23:20:39-04:00",
+      "label": "Jessica"
+     },
+     "alts": []
+    },
+    {
+     "group": "Voice tests",
+     "key": "_voices_josh",
+     "title": "Josh",
+     "status": "sample",
+     "textPath": null,
+     "primary": {
+      "path": "voices/josh.mp3",
+      "seconds": 14,
+      "date": "2026-07-12T23:20:39-04:00",
+      "label": "Josh"
+     },
+     "alts": []
+    },
+    {
+     "group": "Voice tests",
+     "key": "_voices_laura",
+     "title": "Laura",
+     "status": "sample",
+     "textPath": null,
+     "primary": {
+      "path": "voices/laura.mp3",
+      "seconds": 13,
+      "date": "2026-07-12T23:20:39-04:00",
+      "label": "Laura"
+     },
+     "alts": []
+    },
+    {
+     "group": "Voice tests",
+     "key": "_voices_leoni",
+     "title": "Leoni",
+     "status": "sample",
+     "textPath": null,
+     "primary": {
+      "path": "voices/leoni.mp3",
+      "seconds": 14,
+      "date": "2026-07-12T23:20:39-04:00",
+      "label": "Leoni"
+     },
+     "alts": []
+    },
+    {
+     "group": "Voice tests",
+     "key": "_voices_lily",
+     "title": "Lily",
+     "status": "sample",
+     "textPath": null,
+     "primary": {
+      "path": "voices/lily.mp3",
+      "seconds": 16,
+      "date": "2026-07-12T23:20:39-04:00",
+      "label": "Lily"
+     },
+     "alts": []
+    },
+    {
+     "group": "Voice tests",
+     "key": "_voices_matilda",
+     "title": "Matilda",
+     "status": "sample",
+     "textPath": null,
+     "primary": {
+      "path": "voices/matilda.mp3",
+      "seconds": 11,
+      "date": "2026-07-12T23:20:39-04:00",
+      "label": "Matilda"
+     },
+     "alts": []
+    },
+    {
+     "group": "Voice tests",
+     "key": "_voices_river",
+     "title": "River",
+     "status": "sample",
+     "textPath": null,
+     "primary": {
+      "path": "voices/river.mp3",
+      "seconds": 12,
+      "date": "2026-07-12T23:20:39-04:00",
+      "label": "River"
+     },
+     "alts": []
+    },
+    {
+     "group": "Voice tests",
+     "key": "_voices_roger",
+     "title": "Roger",
+     "status": "sample",
+     "textPath": null,
+     "primary": {
+      "path": "voices/roger.mp3",
+      "seconds": 16,
+      "date": "2026-07-12T23:20:39-04:00",
+      "label": "Roger"
+     },
+     "alts": []
+    },
+    {
+     "group": "Voice tests",
+     "key": "_voices_samantha",
+     "title": "Samantha",
+     "status": "sample",
+     "textPath": null,
+     "primary": {
+      "path": "voices/samantha.mp3",
+      "seconds": 16,
+      "date": "2026-07-12T23:20:39-04:00",
+      "label": "Samantha"
+     },
+     "alts": []
+    },
+    {
+     "group": "Voice tests",
+     "key": "_voices_sarah",
+     "title": "Sarah",
+     "status": "sample",
+     "textPath": null,
+     "primary": {
+      "path": "voices/sarah.mp3",
+      "seconds": 12,
+      "date": "2026-07-12T23:20:39-04:00",
+      "label": "Sarah"
+     },
+     "alts": []
+    },
+    {
+     "group": "Voice tests",
+     "key": "_voices_will",
+     "title": "Will",
+     "status": "sample",
+     "textPath": null,
+     "primary": {
+      "path": "voices/will.mp3",
+      "seconds": 14,
+      "date": "2026-07-12T23:20:39-04:00",
+      "label": "Will"
+     },
+     "alts": []
+    }
+   ]
+  }
+ ]
+}

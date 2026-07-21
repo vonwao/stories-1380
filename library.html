@@ -1,0 +1,120 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex, nofollow">
+<title>Library · all writing audio</title>
+<style>
+  :root { color-scheme: dark; }
+  * { box-sizing: border-box; }
+  body { margin:0; background:#14151a; color:#e9e9ee;
+         font:16px/1.5 -apple-system,Segoe UI,Roboto,sans-serif; padding:18px 14px 60px; }
+  header { max-width:780px; margin:0 auto 12px; }
+  h1 { font-size:20px; margin:0 0 3px; }
+  .sub { color:#9a9aa6; font-size:12.5px; }
+  .bar { max-width:780px; margin:12px auto; }
+  input { width:100%; background:#1c1d24; border:1px solid #2a2b34; border-radius:10px;
+          color:#e9e9ee; padding:10px 13px; font-size:15px; }
+  .wrap { max-width:780px; margin:0 auto; }
+  .group { margin:14px 0 4px; }
+  .ghead { display:flex; align-items:baseline; gap:8px; cursor:pointer; user-select:none;
+           padding:8px 4px; border-bottom:1px solid #2a2b34; }
+  .ghead h2 { font-size:15px; margin:0; letter-spacing:.02em; }
+  .gcount { color:#8a8a96; font-size:12px; }
+  .chev { color:#8a8a96; font-size:12px; margin-left:auto; }
+  .item { background:#1c1d24; border:1px solid #23242c; border-radius:12px; padding:11px 13px; margin:9px 0; }
+  .top { display:flex; align-items:baseline; gap:8px; flex-wrap:wrap; }
+  .name { font-weight:600; font-size:15.5px; }
+  .meta { color:#8a8a96; font-size:12px; display:flex; gap:9px; flex-wrap:wrap; align-items:center; }
+  .tag { border-radius:6px; padding:1px 7px; font-size:11px; }
+  .t-reviewed { background:#16351f; color:#7fdca0; }
+  .t-draft { background:#2a2b34; color:#c9c9d4; }
+  .t-preview,.t-essay { background:#2a2340; color:#c3b0ff; }
+  .t-sample { background:#23242c; color:#8a8a96; }
+  audio { width:100%; margin-top:9px; height:34px; }
+  .alts { margin-top:8px; display:flex; gap:6px; flex-wrap:wrap; }
+  .alt { background:#23242c; border:1px solid #33343e; color:#bfc6d4; border-radius:8px;
+         padding:4px 9px; font-size:12px; cursor:pointer; }
+  .alt:active { transform:scale(.97); }
+  .txt { color:#7ab8ff; font-size:12px; text-decoration:none; }
+  .msg { max-width:780px; margin:26px auto; color:#9a9aa6; text-align:center; }
+  .hidden { display:none; }
+</style>
+</head>
+<body>
+<header>
+  <h1>📚 Library · all writing audio</h1>
+  <div class="sub">Grouped by type, newest first. Alternate voice takes fold under each piece. Unlisted.</div>
+</header>
+<div class="bar"><input id="q" placeholder="search titles…" oninput="render()"></div>
+<div id="list" class="wrap"></div>
+<div id="msg" class="msg">Loading…</div>
+
+<script>
+const SITE = "https://vonwao.github.io/stories-1380";
+let DATA = null;
+const collapsed = { "Voice tests": true };   // voice tests start collapsed
+
+function fmtDur(s){ if(!s) return ""; const m=Math.round(s/60); return m<1?"<1m":m+"m"; }
+function url(p){ return SITE + "/" + p.split("/").map(encodeURIComponent).join("/"); }
+function statusClass(s){ return "t-" + (["reviewed","draft","preview","essay","sample"].includes(s)?s:"draft"); }
+
+async function load(){
+  try {
+    const r = await fetch("audio-index.json?" + Date.now());
+    if(!r.ok) throw new Error(r.status);
+    DATA = await r.json();
+    document.getElementById("msg").textContent = "";
+    render();
+  } catch(e){ document.getElementById("msg").textContent = "Couldn't load audio-index.json ("+e.message+")."; }
+}
+
+function render(){
+  if(!DATA) return;
+  const q = (document.getElementById("q").value||"").toLowerCase().trim();
+  const list = document.getElementById("list");
+  list.innerHTML = DATA.groups.map(g => {
+    const items = g.items.filter(it => !q || it.title.toLowerCase().includes(q));
+    if(!items.length) return "";
+    const open = q ? true : !collapsed[g.name];
+    const rows = items.map(it => {
+      const p = it.primary;
+      const alts = (it.alts||[]).map(a =>
+        `<button class="alt" onclick="play('${url(a.path)}',this)">▶ ${a.label||"alt"}${a.seconds?" · "+fmtDur(a.seconds):""}</button>`
+      ).join("");
+      return `<div class="item">
+        <div class="top">
+          <span class="name">${it.title}</span>
+          <span class="tag ${statusClass(it.status)}">${it.status}</span>
+        </div>
+        <div class="meta">
+          ${p.seconds?`<span>${fmtDur(p.seconds)}</span>`:""}
+          ${p.date?`<span>${new Date(p.date).toLocaleDateString(undefined,{month:"short",day:"numeric"})}</span>`:""}
+          ${it.textPath?`<a class="txt" href="${url(it.textPath)}" target="_blank">text ↗</a>`:""}
+        </div>
+        <audio controls preload="none" src="${url(p.path)}"></audio>
+        ${alts?`<div class="alts">${alts}</div>`:""}
+      </div>`;
+    }).join("");
+    return `<div class="group">
+      <div class="ghead" onclick="toggle('${g.name}')">
+        <h2>${g.name}</h2><span class="gcount">${items.length}</span>
+        <span class="chev">${open?"▾":"▸"}</span>
+      </div>
+      <div class="${open?"":"hidden"}">${rows}</div>
+    </div>`;
+  }).join("");
+  document.getElementById("msg").textContent = "";
+}
+
+function toggle(name){ collapsed[name] = !collapsed[name]; render(); }
+function play(u, btn){
+  // swap the story's main <audio> to this alternate and play
+  const audio = btn.closest(".item").querySelector("audio");
+  audio.src = u; audio.play();
+}
+load();
+</script>
+</body>
+</html>
