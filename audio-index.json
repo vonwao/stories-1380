@@ -1,5 +1,5 @@
 {
- "built": "2026-07-22T22:11:16.398Z",
+ "built": "2026-07-22T22:16:33.940Z",
  "site": "https://vonwao.github.io/stories-1380",
  "groups": [
   {
@@ -36,7 +36,7 @@
   },
   {
    "name": "Fiction",
-   "count": 27,
+   "count": 28,
    "items": [
     {
      "group": "Fiction",
@@ -461,6 +461,39 @@
        "seconds": 483,
        "date": "2026-07-19T23:30:27-04:00",
        "label": "v2 preview"
+      }
+     ]
+    },
+    {
+     "group": "Fiction",
+     "key": "the-crystal-opening",
+     "title": "The Crystal — Book One, Opening",
+     "status": "draft",
+     "textPath": "fiction/the-crystal-opening/story.md",
+     "primary": {
+      "path": "fiction/the-crystal-opening/the-crystal-opening-ch1-chris.mp3",
+      "seconds": 415,
+      "date": null,
+      "label": "ch1 chris"
+     },
+     "alts": [
+      {
+       "path": "fiction/the-crystal-opening/the-crystal-opening-ch1-nate.mp3",
+       "seconds": 438,
+       "date": null,
+       "label": "ch1 nate"
+      },
+      {
+       "path": "fiction/the-crystal-opening/the-crystal-opening-f0-charlie.mp3",
+       "seconds": 379,
+       "date": null,
+       "label": "f0 charlie"
+      },
+      {
+       "path": "fiction/the-crystal-opening/the-crystal-opening-f0-evan.mp3",
+       "seconds": 356,
+       "date": null,
+       "label": "f0 evan"
       }
      ]
     }
