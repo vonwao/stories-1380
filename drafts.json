@@ -1,5 +1,5 @@
 {
-  "built": "2026-07-20T00:59:21.583Z",
+  "built": "2026-07-22T22:09:14.150Z",
   "stories": [
     {
       "slug": "walkie",
@@ -435,6 +435,17 @@
       "audioDurationSeconds": null,
       "audioStatus": null,
       "text": "fiction/the-committal/story.md",
+      "status": "draft"
+    },
+    {
+      "slug": "the-crystal-opening",
+      "title": "The Crystal — Book One, Opening",
+      "words": 5496,
+      "minutes": 39,
+      "audio": null,
+      "audioDurationSeconds": null,
+      "audioStatus": null,
+      "text": "fiction/the-crystal-opening/story.md",
       "status": "draft"
     },
     {
