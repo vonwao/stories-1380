@@ -1,5 +1,5 @@
 {
-  "built": "2026-07-23T21:05:08.261Z",
+  "built": "2026-07-23T21:21:54.756Z",
   "stories": [
     {
       "slug": "walkie",
@@ -164,6 +164,11 @@
           "label": "03-the-assistant",
           "audio": "fiction/the-crystal-opening/the-crystal-opening-03-the-assistant.mp3",
           "audioDurationSeconds": 791
+        },
+        {
+          "label": "08-the-speed-of-light",
+          "audio": "fiction/the-crystal-opening/the-crystal-opening-08-the-speed-of-light.mp3",
+          "audioDurationSeconds": 809
         }
       ],
       "audioDurationSeconds": 356,

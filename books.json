@@ -64,7 +64,8 @@
           "n": 8,
           "title": "The Speed of Light",
           "voice": "Chris",
-          "audio": null
+          "minutes": 13,
+          "audio": "fiction/the-crystal-opening/the-crystal-opening-08-the-speed-of-light.mp3"
         }
       ]
     }

@@ -1,5 +1,5 @@
 {
- "built": "2026-07-23T21:05:16.837Z",
+ "built": "2026-07-23T21:22:16.651Z",
  "site": "https://vonwao.github.io/stories-1380",
  "groups": [
   {
@@ -68,6 +68,12 @@
        "seconds": 791,
        "date": "2026-07-23T16:23:51-04:00",
        "label": "03 the assistant"
+      },
+      {
+       "path": "fiction/the-crystal-opening/the-crystal-opening-08-the-speed-of-light.mp3",
+       "seconds": 808,
+       "date": null,
+       "label": "08 the speed of light"
       }
      ]
     },
