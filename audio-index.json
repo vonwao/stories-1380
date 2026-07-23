@@ -1,5 +1,5 @@
 {
- "built": "2026-07-22T22:16:33.940Z",
+ "built": "2026-07-23T04:52:07.731Z",
  "site": "https://vonwao.github.io/stories-1380",
  "groups": [
   {
@@ -471,29 +471,23 @@
      "status": "draft",
      "textPath": "fiction/the-crystal-opening/story.md",
      "primary": {
-      "path": "fiction/the-crystal-opening/the-crystal-opening-ch1-chris.mp3",
-      "seconds": 415,
+      "path": "fiction/the-crystal-opening/the-crystal-opening-00-prologue.mp3",
+      "seconds": 356,
       "date": null,
-      "label": "ch1 chris"
+      "label": "00 prologue"
      },
      "alts": [
       {
-       "path": "fiction/the-crystal-opening/the-crystal-opening-ch1-nate.mp3",
-       "seconds": 438,
+       "path": "fiction/the-crystal-opening/the-crystal-opening-01-two-candles.mp3",
+       "seconds": 736,
        "date": null,
-       "label": "ch1 nate"
+       "label": "01 two candles"
       },
       {
-       "path": "fiction/the-crystal-opening/the-crystal-opening-f0-charlie.mp3",
-       "seconds": 379,
+       "path": "fiction/the-crystal-opening/the-crystal-opening-02-the-professors-book.mp3",
+       "seconds": 664,
        "date": null,
-       "label": "f0 charlie"
-      },
-      {
-       "path": "fiction/the-crystal-opening/the-crystal-opening-f0-evan.mp3",
-       "seconds": 356,
-       "date": null,
-       "label": "f0 evan"
+       "label": "02 the professors book"
       }
      ]
     }

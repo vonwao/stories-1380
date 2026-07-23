@@ -1,0 +1,53 @@
+{
+  "books": [
+    {
+      "id": "the-crystal",
+      "title": "The Crystal",
+      "series": "The Third Crystal \u00b7 Book One",
+      "blurb": "Copenhagen, 1669. A lens grinder's apprentice buys a stone off a sailor and finds a rule of the world nobody has told him. A secret history of the light we didn't understand for 250 years \u2014 and of what it costs to see something first.",
+      "status": "In progress \u00b7 new chapters as they're written",
+      "text": "fiction/the-crystal-opening/story.md",
+      "chapters": [
+        {
+          "n": 0,
+          "title": "Prologue \u2014 The Kitchen Table",
+          "voice": "Evan",
+          "minutes": 6,
+          "audio": "fiction/the-crystal-opening/the-crystal-opening-00-prologue.mp3"
+        },
+        {
+          "n": 1,
+          "title": "Two Candles",
+          "voice": "Chris",
+          "minutes": 12,
+          "audio": "fiction/the-crystal-opening/the-crystal-opening-01-two-candles.mp3"
+        },
+        {
+          "n": 2,
+          "title": "The Professor's Book",
+          "voice": "Chris",
+          "minutes": 11,
+          "audio": "fiction/the-crystal-opening/the-crystal-opening-02-the-professors-book.mp3"
+        },
+        {
+          "n": 3,
+          "title": "The Assistant",
+          "voice": "Chris",
+          "audio": null
+        },
+        {
+          "n": 4,
+          "title": "The Darkness",
+          "voice": "Chris",
+          "audio": null
+        },
+        {
+          "n": 5,
+          "title": "The Third Crystal",
+          "voice": "Chris",
+          "audio": null
+        }
+      ]
+    }
+  ]
+}
