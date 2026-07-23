@@ -1,5 +1,5 @@
 {
- "built": "2026-07-23T04:52:07.731Z",
+ "built": "2026-07-23T20:23:50.015Z",
  "site": "https://vonwao.github.io/stories-1380",
  "groups": [
   {
@@ -38,6 +38,39 @@
    "name": "Fiction",
    "count": 28,
    "items": [
+    {
+     "group": "Fiction",
+     "key": "the-crystal-opening",
+     "title": "The Crystal — Book One, Opening",
+     "status": "draft",
+     "textPath": "fiction/the-crystal-opening/story.md",
+     "primary": {
+      "path": "fiction/the-crystal-opening/the-crystal-opening-00-prologue.mp3",
+      "seconds": 356,
+      "date": "2026-07-23T00:52:12-04:00",
+      "label": "00 prologue"
+     },
+     "alts": [
+      {
+       "path": "fiction/the-crystal-opening/the-crystal-opening-01-two-candles.mp3",
+       "seconds": 736,
+       "date": "2026-07-23T00:52:12-04:00",
+       "label": "01 two candles"
+      },
+      {
+       "path": "fiction/the-crystal-opening/the-crystal-opening-02-the-professors-book.mp3",
+       "seconds": 664,
+       "date": "2026-07-23T00:52:12-04:00",
+       "label": "02 the professors book"
+      },
+      {
+       "path": "fiction/the-crystal-opening/the-crystal-opening-03-the-assistant.mp3",
+       "seconds": 791,
+       "date": null,
+       "label": "03 the assistant"
+      }
+     ]
+    },
     {
      "group": "Fiction",
      "key": "the-third-crystal",
@@ -461,33 +494,6 @@
        "seconds": 483,
        "date": "2026-07-19T23:30:27-04:00",
        "label": "v2 preview"
-      }
-     ]
-    },
-    {
-     "group": "Fiction",
-     "key": "the-crystal-opening",
-     "title": "The Crystal — Book One, Opening",
-     "status": "draft",
-     "textPath": "fiction/the-crystal-opening/story.md",
-     "primary": {
-      "path": "fiction/the-crystal-opening/the-crystal-opening-00-prologue.mp3",
-      "seconds": 356,
-      "date": null,
-      "label": "00 prologue"
-     },
-     "alts": [
-      {
-       "path": "fiction/the-crystal-opening/the-crystal-opening-01-two-candles.mp3",
-       "seconds": 736,
-       "date": null,
-       "label": "01 two candles"
-      },
-      {
-       "path": "fiction/the-crystal-opening/the-crystal-opening-02-the-professors-book.mp3",
-       "seconds": 664,
-       "date": null,
-       "label": "02 the professors book"
       }
      ]
     }
