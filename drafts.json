@@ -1,5 +1,5 @@
 {
-  "built": "2026-07-23T20:23:04.722Z",
+  "built": "2026-07-23T20:24:31.479Z",
   "stories": [
     {
       "slug": "walkie",
@@ -145,8 +145,8 @@
     },
     {
       "slug": "the-crystal-opening",
-      "title": "The Crystal — Book One, Opening",
-      "words": 5496,
+      "title": "The Crystal — Book One",
+      "words": 17601,
       "minutes": 6,
       "audio": "fiction/the-crystal-opening/the-crystal-opening-00-prologue.mp3",
       "audioAlternates": [
