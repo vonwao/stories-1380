@@ -66,6 +66,31 @@
           "voice": "Chris",
           "minutes": 13,
           "audio": "fiction/the-crystal-opening/the-crystal-opening-08-the-speed-of-light.mp3"
+        },
+        {
+          "n": 9,
+          "title": "Margrethe",
+          "voice": "Chris",
+          "audio": null
+        },
+        {
+          "n": 10,
+          "title": "The University Hour",
+          "voice": "Chris",
+          "audio": null
+        },
+        {
+          "n": 11,
+          "title": "The Fever",
+          "voice": "Chris",
+          "minutes": 10,
+          "audio": "fiction/the-crystal-opening/the-crystal-opening-11-the-fever.mp3"
+        },
+        {
+          "n": 12,
+          "title": "The Book from Holland",
+          "voice": "Chris",
+          "audio": null
         }
       ]
     }

@@ -1,5 +1,5 @@
 {
- "built": "2026-07-23T21:22:16.651Z",
+ "built": "2026-07-24T03:55:13.440Z",
  "site": "https://vonwao.github.io/stories-1380",
  "groups": [
   {
@@ -72,8 +72,14 @@
       {
        "path": "fiction/the-crystal-opening/the-crystal-opening-08-the-speed-of-light.mp3",
        "seconds": 808,
-       "date": null,
+       "date": "2026-07-23T17:22:18-04:00",
        "label": "08 the speed of light"
+      },
+      {
+       "path": "fiction/the-crystal-opening/the-crystal-opening-11-the-fever.mp3",
+       "seconds": 593,
+       "date": null,
+       "label": "11 the fever"
       }
      ]
     },

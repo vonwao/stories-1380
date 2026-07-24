@@ -1,1038 +1,2224 @@
 # The Crystal — Book One
 
-Work in progress. The modern prologue and the first seven Copenhagen chapters.
+Work in progress. The modern prologue and the first twelve Copenhagen chapters.
 
 ## Prologue — The Kitchen Table
 
-STATUS: PROVISIONAL — drafted in the validated zero-performance register; to be re-cut against Otto's voice memo when it arrives.
+STATUS: PROVISIONAL — revise again after Otto records the planned voice memo.
 
 ---
 
-The week I got laid off, my sister started leaving Mia with me on Tuesdays. She said it was because day care was expensive. I think it was so I'd have a reason to shower.
+I got laid off on a Thursday. The following Tuesday, my sister left Mia with me for the afternoon.
 
-Twenty-two years doing quality control for a company that makes parts for airplane doors. Then a Thursday meeting with a man I'd never met, a folder with my name spelled wrong, and that was that. I'm not going to make it sound worse than it was. They paid me out. But when you've spent your whole life checking whether things are true — that's what quality control is, people think it's paperwork, it's actually checking whether things are true — and then nobody wants you to check anything anymore, you end up standing in your kitchen at two in the afternoon, not sure what you're for.
+She said day care was too expensive. She also told me to take a shower before they came over. I did not ask which reason was the real one.
 
-So. Tuesday. Mia is nine. She had homework, a worksheet about light, and the worksheet was wrong. Not wrong exactly. It said light is a wave, with a little drawing of a wave, and it moved on like that settled it. And I remembered something from a class I took thirty years ago, a thing the professor showed us that I never tried myself, not once in thirty years, which tells you something about me that I'm still thinking about.
+I had worked for the same company for twenty-two years. We made latches and seals for airplane doors. My job was quality control. I checked parts, checked other people's checks, and went to meetings about why the checks had not been entered in the correct system.
 
-I own a lot of cheap sunglasses. Fishing habit. I got three pairs out of the junk drawer and checked the little sticker inside the arm, because this only works if they say polarized. Two did. The third pair was from a gas station and said nothing, so I dug around and found a fourth pair, polarized, one arm missing. Fine. You need three lenses. I popped a lens out of the broken pair with my thumb, which felt great, I'd been wanting to break something all week.
+The layoff took eleven minutes. A man I had never met read from a sheet of paper. The folder on the table said GILL. My name has one L. I corrected it before I left. I don't know why.
 
-Here's the whole experiment, and I want you to notice it costs nothing if you already own sunglasses.
+They gave me a severance payment. I was not going to lose the house. My sister knew that. What she also knew was that I had stopped answering the fishing group and had spent most of Monday replacing a good hinge on the pantry door.
 
-I turned on the lamp by the couch and took the shade off. I held one lens up in front of it. A little darker through the lens — that's sunglasses doing what sunglasses do. Then I held the second lens behind the first one and started turning it, slow, like a dial.
+Mia is nine. She arrived with a backpack, a bag of cheese crackers, and instructions that she could use her tablet after she finished her homework.
 
-The lamp went out.
+The homework was a worksheet about light.
 
-Not dimmer. Out. Black. Two pieces of gray plastic, each one see-through on its own, and at one particular angle together they add up to a wall. Mia stopped kicking the chair. I turned the lens a little more and the lamp came back, turned it back and killed it again. You can find the exact angle where it dies. It's not gradual at the end — it's like a door clicking shut.
+Question one said light was a wave. There was a blue wave beside the sentence. Mia copied the answer into the blank.
 
-That alone is worth doing. But that's not the trick.
+"It can also act like a particle," I said.
 
-I kept the two lenses crossed, lamp dead. Then I took the third lens — the one from the broken gas-station-adjacent pair — and I slid it in between the two, and I tilted it crooked. Halfway. Like a picture frame nobody straightened.
+"The answer is wave."
 
-The lamp came back on.
+"I know what the sheet says."
 
-I'm going to say that again, because when you read it it slides past, and when it happens on your actual couch it does not slide past. Two filters were blocking all the light. All of it. I put a third filter into the middle of the stack. I added another layer of sunglasses. More plastic in the way. And light came through all three that could not get through two.
+"Then why are you helping?"
+
+This was fair. I went to the kitchen for another soda.
+
+Question four showed two pairs of sunglasses. It asked why sunglasses make sunlight less bright. I have a drawer full of cheap sunglasses because I lose them on the boat, buy another pair, and then find the old ones under a seat. I took out three pairs.
+
+"Those are Mom's," Mia said.
+
+They were not. They were much too scratched to be my sister's. I checked anyway.
+
+Two pairs had POLARIZED printed inside the arm. The third did not. I found another pair with one arm missing and a cracked frame. Those were mine.
+
+"I want to show you something."
+
+"Is it on the worksheet?"
+
+"No."
+
+"I have three more questions."
+
+"It takes one minute."
+
+It took longer because I could not get the lens out of the broken frame. I tried my thumbnail, a butter knife, and then a screwdriver. Mia ate crackers and watched me scratch the table.
+
+"Mom said not to let you start a project."
+
+"This is not a project."
+
+The lens came out and bounced under the refrigerator.
+
+I got it back. Then I turned on the lamp in the living room and took off the shade.
+
+I held one pair of sunglasses in front of the bulb. The light looked gray through it. I put the second pair behind the first and turned it slowly.
+
+The light got darker. Then it went almost black.
+
+Mia came over from the table.
+
+"That's because it's two sunglasses," she said.
+
+"Watch."
+
+I turned the second pair another quarter turn. The lamp came back. I turned it the other way and made it dark again.
+
+She took the glasses and tried it. It worked for her too. She held them close to the bulb, then near her face. She wanted to know whether it still worked upside down. It did.
+
+"Okay," she said. "Two sunglasses."
+
+I kept them crossed so the light was dark. Then I slid the loose lens between them. I had to turn it around a little before I found the right position.
+
+The lamp came back through all three.
 
 Mia said, "Wait."
 
-That's the correct response. She grabbed the lenses out of my hands and did it herself, and it worked, and she did it again, and it worked again. It's not a trick of your eyes. You can lay the lenses on the table in a row, put your phone flashlight under them, take a picture. The picture shows it too. The camera has no imagination and it agrees: two filters, dark. Three filters, light.
+Mia took the loose lens out. Dark. She put it back. Light.
 
-She asked me why, and I did the thing adults do — I started a sentence I couldn't finish. Because a filter is supposed to only take away. That's what a filter is. A screen door can keep bugs out; it cannot stand in the middle of the porch and cause bugs. If light gets through the whole stack, that light has to make it past lens one, lens two, AND lens three. Every layer only blocks. So adding a layer should only ever mean less. Everyone knows that, the way everyone in 1490 knew you'd sail off the edge.
+She did that six or seven times.
 
-I told her I'd find out why. She went back to kicking the chair. Case closed, in her world — Uncle Gil is on it.
+"Is this one less sunglass?" she asked.
 
-Uncle Gil was up until two in the morning.
+"No."
 
-Because here's what got me, and this is the part I'd want you to sit on. It's not just that it's strange. Lots of things are strange. It's that it's been strange for a very long time, and the strangeness was this cheap the whole time. Nothing in that experiment needs a lab. Plastic polarizers are a modern convenience, sure — but the same thing works with a certain clear crystal that sailors used to carry, and candles, and people had both of those three hundred and fifty years ago. I checked. That's what I do. Somebody could have seen this in 1670.
+"Because it's broken?"
 
-So the question I actually couldn't put down wasn't how does the light work. I'm an engineer; I figured somebody smarter than me worked that out, and I'd go read it, and I did start reading it, and I'll tell you, the answer is worse and better than anything I'd have guessed. The question that kept me up was the other one.
+"No."
 
-Did anybody see this back then? And if somebody did — some workshop guy, some nobody with good hands and a bad position — what happened to him when he tried to tell people?
+"Then why?"
 
-That Saturday there was an estate sale over in Lantana. I only saw the flyer because it was stuck under a real-estate magnet on my sister's fridge, and I only kept reading because of one line in the little item list, between "brass instruments" and "shop tools."
+I had seen this demonstration in a college class. That was around 1989. I remembered what happened and almost none of the explanation.
 
-It said: optical glass, old.
+I told her each lens only let through light going in one direction.
+
+"Light goes forward."
+
+"Not that direction."
+
+"What other direction is it going?"
+
+I started using my hands. This did not help. I said the word *orientation*. Then I said it again, slower, which also did not help.
+
+Mia put the loose lens over one eye and looked at me.
+
+"Can I write that my uncle doesn't know?"
+
+"For question four?"
+
+"For extra credit."
+
+"There is no extra credit."
+
+"Then can I use my tablet?"
+
+I made her finish the worksheet. She put down the answers her teacher wanted. For the last question she drew a flashlight shining through a glass of water. The water was supposed to make a rainbow. Her rainbow had black in it.
+
+My sister picked her up at six. Mia took the loose lens home in her pocket. I did not notice until I started the experiment again after dinner and could not find it.
+
+I texted my sister.
+
+She sent back a picture of Mia holding the lens in front of the television. The screen was black through it. The rest of the picture showed a cartoon.
+
+I found a replacement in another pair.
+
+Then I started reading.
+
+The first explanation I found assumed I already knew what polarized light was. The second had arrows and a formula. I understood the formula after a while, but I still did not understand what the light was doing between the pieces of plastic. Every page led to another term.
+
+At one in the morning I was reading about a Danish doctor named Rasmus Bartholin. In 1669 he published a book about a clear crystal from Iceland. Look through the crystal and you see two copies of whatever is behind it. He turned the crystal, watched the two images move, and wrote down rules for what they did.
+
+He had the crystal. He had candles. He had more than one piece.
+
+I wanted to know whether he had ever put three pieces in a row.
+
+This was not a sensible question to become interested in at one in the morning. I had an unemployment website open in another tab. It asked whether I had completed a work-search activity that week. I had not.
+
+I kept reading until after two.
+
+The next morning I searched for estate sales. I do that even when I am employed. Most of what I buy is stuff I could get new for less money.
+
+There was a sale in Lantana on Saturday. The listing included fishing rods, a drill press, brass instruments, shop tools, and old optical glass.
+
+I went for the drill press.
 
 ## Chapter 1 — Two Candles
 
 Copenhagen, 1669.
 
-The lens had been giving Anders trouble since Monday, and it was Thursday now, and the trouble was almost over, which was the part that required care. A lens is ruined at the end or not at all. The beginning is just work — you rough the blank against the iron form, wet grit hissing under it, and any fool with patient arms can do that. But the last hour, when the glass is nearly right and every pass either finishes it or wrecks it, that hour belonged to Anders, in this shop and increasingly in this city, and everyone in the trade knew it whether they said so or not.
+Anders sang while he polished lenses. He had a strong voice and very little control over it.
 
-He worked by the window with his sleeves tied back. The lens was for a canon of the cathedral chapter whose eyes had gone soft and who paid for the privilege of pretending they hadn't — he'd ordered the spectacles through a servant, in a plain case, no engraving. Anders held the glass up to the morning and looked through it at the roof line across the street, then at his own thumbnail, then at the roof line again. Not yet. He set it back on the form and went on, small circles, counting strokes without meaning to.
+On Thursday morning he was halfway through the second verse of a hymn when Villum said, "That's not the tune."
 
-He was nineteen. He had been in this workshop since he was four years old, and he remembered almost nothing from before it: a room, a woman's back at a hearth, and the smell of vinegar, which they had used against the plague that summer, and which had worked no better than anything else. The plague took a quarter of the city and both his parents in the same August. Somebody's charity had carried him to the spectacle maker on Klosterstræde as a scrub boy, because Mester Villum's wife was alive then and wanted help she wasn't allowed to hire properly. The wife died young. The boy stayed. That was the whole story as far as Villum ever told it, and Anders had stopped asking, because the answer never grew.
+"It is near the tune."
 
-What he had of his father was the name — Pedersen, Peder's son, a rope maker no one remembered — and his hands, maybe. Somebody had given him the hands. They were not from Villum, who was a decent craftsman and knew it and knew also, in the private way a man knows a thing he has decided never to say aloud, that his apprentice had passed him years ago.
+"It has not been near it since breakfast."
 
-"Is it done?" Villum said from the bench, not looking up. He was punching hinge pins out of a strip of brass, a job he saved for mornings because it needed no thought and let him watch the street.
+Anders stopped singing. The lens on his iron form was almost finished, and he preferred not to have Villum blame the hymn if something went wrong.
+
+It was a difficult lens for a canon at the cathedral. The canon read with the page held close to his nose but did not want spectacles that made this obvious. He had sent a servant to order thin frames and a plain case. No engraving.
+
+Anders worked by the front window. He added water and fine grit, made six slow circles, and checked the lens against the roof across the street. The roof line still bent at one edge.
+
+"Is it done?" Villum asked.
 
 "After dinner."
 
-"He's sending the servant at four."
+"The servant comes at four."
 
-"After dinner," Anders said again, and Villum let it go, because the canon would come back three times a year for the rest of his life if the lens was right, and Villum had learned what the boy's after-dinner meant. It meant right.
+"I know."
 
-At Easter, Villum had said they would speak to the guild about Anders making his journeyman's piece. He had said it while examining a difficult lens Anders had finished and had not looked up from the glass. Anders had been carrying the sentence for three weeks without asking Villum to repeat it. In the small locked box under his bed were the coins for the guild fee, a new apron his own size, and a brass graver he had bought used. He had not yet told anyone about the graver.
+Villum was punching hinge pins out of brass at the other bench. He had asked the same question twice already. Anders had given the same answer twice. There was no reason for either of them to do it again, but both probably would.
 
-Behind Anders, above the water barrel, hung a small slate. This was an old argument that had ended in a truce. Anders asked questions — had always asked them, from the first year, in the way other boys stole food — and a workshop has no room for a boy who stops mid-polish to ask why the image in a lens turns upside down. Things had been thrown, in the early days. What settled it was the slate: Villum ruled that a question asked out loud during work cost Anders a skilling from his box, but a question written on the slate cost nothing, and could be asked after supper, if Villum was in the mood, which was roughly never. The slate had held the truce for ten years. Currently it said, in Anders's cramped chalk hand: why does the far roof shake above a hot pan and not above a cold one. Below that: what is the color at the edge of the canon's lens, and why only at the edge.
+At nineteen, Anders had been in the shop for fifteen years. He was good at the wheel. On some work he was better than Villum, and he knew exactly which work.
 
-Villum had not been in the mood since roughly 1662.
+This lens was one of those pieces.
+
+He checked it again. The bent edge was gone.
+
+"Now," he said.
+
+Villum wiped his fingers and took the lens. He held it toward the window, turned it, and tried it against a printed sheet.
+
+"After dinner," Anders reminded him.
+
+"I heard you the first time."
+
+Villum set the lens beside its mate. He did not say it was good. He also did not touch it again.
+
+Above the water barrel hung a slate covered in Anders's questions. The slate had been Villum's idea. When Anders was nine, he had ruined a strip of brass because he stopped hammering to ask why the image in a curved lens turned upside down. Villum said that questions spoken during work would cost a skilling. Questions written on the slate were free.
+
+Anders had tested the distinction often.
+
+That morning the slate read:
+
+*Why does the roof shake above a hot pan and not a cold one?*
+
+*Why is there color at the edge of the canon's lens?*
+
+Underneath, Villum had added:
+
+*Why does Anders sing when God has given him other gifts?*
+
+The handwriting was larger and better than Anders's.
+
+"That is not a question about the work," Anders said.
+
+"It concerns everyone in the workshop."
+
+"There are two people in the workshop."
+
+"Both have complained."
+
+Anders left it on the slate.
+
+At Easter, Villum had said they would speak to the guild about a journeyman's piece. Three weeks had passed. Anders had not asked when the conversation would happen. Asking would make him sound like a boy waiting to be granted something.
+
+Under his bed was a locked box with the guild money, a new apron, and a used brass graver. He had bought the graver without telling Villum. Its handle carried another man's initials, but the point was sound. Anders sometimes took it out at night and practiced letters on scrap.
+
+On one piece of brass he had written:
+
+*VILLUM & PEDERSEN*
+
+He kept that piece at the bottom of the box.
+
+The shop sign outside said only VILLUM. Anders did not object to this. He noticed it every morning.
 
 *
 
-The sailor came in a little after noon, which was the wrong hour for customers, and he was the wrong kind of man for the shop besides — customers came in fine coats or sent servants, and this was a Norway-trade deckhand with tar on his cuffs, standing in the doorway with his hat in one hand and a lumpy kerchief in the other, looking at the racks of spectacles the way men look at things priced past their year's wages.
+The sailor came shortly after noon, while Villum was eating bread and herring at the bench.
 
-"I was told," he said, "that glass men buy strange glass."
+He stood just inside the door with tar on his cuffs and a parcel tied in a dirty kerchief. He had been paid off a ship from Iceland by way of Bergen. He told them this before giving his name.
 
-"You were told wrong," Villum said.
+"I was told glass men buy strange glass," he said.
 
-The sailor stayed in the doorway. He'd been paid off a ship that morning, out of Iceland by way of Bergen, and whatever he'd been paid, his face said it wasn't enough, and the kerchief was the rest of his plan. He came to the counter and unwrapped it.
+"Some glass men may," Villum said. "Who told you?"
 
-The stone was the size of a fist, more or less, but no fist had ever been that shape — it had flat faces that met each other at slants, all its corners leaning the same direction, like a box built by a drunk carpenter who happened to be very precise. It was clear. Not glass-clear, which always has a green heart when you look through the thickness of it; clear like hard water. One face had cleaved fresh and caught the window light.
+"A man at the harbor."
 
-"Off the east fjords," the sailor said. "There's a farm where it comes out of the hill. The Icelanders break it out with bars. I've seen a piece big as a church bench." He turned it so the light ran along the fresh face. "Look through it."
+"Then sell it to him."
 
-"I've seen crystal," Villum said.
+The sailor grinned. "He said you would say that."
 
-"Look through it at something."
+Villum continued eating.
 
-Villum, to end the visit, took the stone and held it over the strip of brass on the bench, and Anders watched his master's face do something it had never once done in fifteen years, which was stop.
+The sailor unwrapped the parcel. Inside was a clear stone about the size of his fist. Its faces were flat but slanted. The corners all leaned in the same direction. One face had been broken recently and was cleaner than the others.
 
-Villum put the stone down. He picked it up again. He held it over the row of punched hinge pins, and looked, and moved the stone slowly side to side, and put it down again, and this time he stepped back from it, wiping his fingers on his apron as though the stone had left something on them.
+"It comes out of a hill on the east coast," the sailor said. "Farmers pry it loose. There are pieces larger than this table."
 
-"There's a flaw in it," Villum said. "It doubles."
+"Then you should have brought one of those."
 
-"It all doubles," the sailor said. "Every piece from that hill. Look through any of it and you'll see two of whatever's behind. Two masts, two gulls, two of your own hand. The Icelanders don't sell it for looking through. They sell it because it's clear and pretty, and priests like it." He shrugged. "This one I kept because it's a good size."
+"It would have sunk me."
 
-Anders had come around the bench. He didn't remember deciding to.
+Anders laughed. Villum did not, but he stopped eating.
 
-Through the stone, the hinge pins lay in two rows. Not blurred, not smeared the way a bad lens smears — two, cleanly, each pin lying beside a paler brother of itself, both of them sharp. He moved the stone. The two rows moved. He rotated it slowly against the light, and one row of pins stood still while the other row swung around it in a slow circle, the way a boy swings a bucket.
+The sailor set the stone over a row of hinge pins.
 
-Every piece of glass Anders had ever touched had done one thing: bent light by one rule. You could feel the rule in your hands after enough years; the curve you ground was a sentence in that rule. Here was a stone doing two things at once to the same light, and doing both of them perfectly, and rotating one of its answers around the other as if to be admired.
+There were suddenly two rows.
 
-"How much," Anders said.
+Villum leaned closer. He moved the stone aside, checked the pins, and put it back. Two rows again.
 
-Villum's head came up. Apprentices do not buy. But there are silences a master can spend on discipline or save for better use, and Villum, whatever else he was, had never been a waster.
+"It is cracked," he said.
 
-"For a curiosity with a flaw through it," Villum said to the sailor, before Anders could ruin the price by wanting it out loud twice, "and it is all flaw, you've said so yourself — every piece from that hill spoiled the same way — four skillings."
+"No crack."
 
-They settled at nine, and a beer, which the sailor drank standing up while telling them a second time about the piece as big as a church bench, and then he was gone down Klosterstræde with his hat on, and the stone sat on the counter between master and apprentice like a question neither of them was going to write on the slate.
+"Then it was cut and joined."
+
+"One piece."
+
+Villum turned it. One row of pins stayed near the first position. The other moved around it.
+
+Anders came to the counter.
+
+"Let me."
+
+Villum kept the stone for another turn before handing it over.
+
+Both rows were sharp. Anders moved his head and then the stone. He held it over a letter in the account book. The letter doubled too. When he rotated the stone, one copy moved while the other stayed nearly still.
+
+He tried another face.
+
+"How much?" he asked.
+
+Villum looked at him.
+
+The sailor said, "Twelve skillings."
+
+"Four," Villum said.
+
+"Ten."
+
+"Five."
+
+"Eight?" Anders said.
+
+Villum closed his eyes.
+
+The sailor said, "Eight is fair."
+
+"No one asked the apprentice," Villum said.
+
+"He is the one who wants it."
+
+"That has never improved a price."
+
+They settled at nine skillings and a cup of beer. The sailor drank the beer standing at the counter. He told them again about the great pieces in Iceland. On the second telling, the largest piece had grown from the size of a table to the size of a church bench.
+
+"By supper it will be a church," Villum said.
+
+The sailor agreed that this was possible.
+
+When he left, the crystal remained on the counter.
+
+"Eight," Villum said.
+
+"He would not have taken five."
+
+"We will never know."
+
+"You settled at nine."
+
+"Because after you offered eight, I was negotiating with myself."
+
+Anders picked up the stone.
 
 "Out of your box," Villum said.
 
-"Yes, Mester."
+"I know."
 
-"The locked one."
+"The guild box."
 
-Anders looked at him.
+"It is my money."
 
-"A man who buys a stone buys it with the money he meant for something else," Villum said. "That is how buying works."
+"Yes."
 
-"Yes, Mester."
+Anders waited. Villum waited too.
 
-"After the canon's lens."
+"You said we would speak after Easter," Anders said.
 
-"Yes, Mester."
+"We will."
 
-The lens went out at four, in its plain case, and it was right.
+"Easter was three weeks ago."
+
+"And yet you found something else to buy first."
+
+Anders put the stone down harder than he meant to. It was soft enough to mark. A pale scratch appeared where it struck a brass pin.
+
+Villum pointed to the lens by the window. "The canon first."
+
+"It is finished."
+
+"Then fit the frame."
+
+The servant arrived at four. Anders fitted the spectacles and watched him try them against the smallest line on a printed sheet. The servant paid the balance and asked who had made the lenses.
+
+Villum said, "The shop made them."
+
+Anders was still annoyed about this after the man left.
+
+At supper, Villum put the better piece of herring on Anders's plate.
+
+Neither mentioned the servant.
 
 *
 
-He had meant to go to bed. There was a half-day of grinding tomorrow and the light-boned tiredness in his arms that a man should spend on sleep. Instead, when the shop was shuttered and Villum's tread had finished with the stairs, Anders set the stone on the workbench, and set a candle behind it, and sat down on his stool to look at one flame through the clear of it.
+Anders usually said his evening prayers beside the bed. That night he remembered them after he was already downstairs with the crystal.
 
-Two flames.
+He said the Lord's Prayer standing at the workbench. Halfway through, he noticed that the stone doubled the edge of his thumbnail and had to begin again.
 
-He'd known it would double. He had seen the pins. It was different with the candle, at night, in the empty shop, and he sat there longer than he meant to before he even touched the stone, because the two flames did not hold still — they breathed together, brightened together, leaned together when the draft came under the door. Whatever the stone was doing, it was doing it to everything the flame did, instantly, both copies alive.
+When he was done, he set a candle behind the crystal.
 
-Then he did what his hands always did eventually, which was everything.
+Two flames appeared.
 
-He turned the stone in a slow circle and watched one flame swing around the other, a little orbit, and marked with chalk on the bench where the moving flame stood at each quarter turn. He slid the stone left and right to see if the two flames traded places. He tipped it through every slant. He took it to the thickest and thinnest parts to see if the doubling grew with thickness — it did, the two flames walking apart as the stone thickened, which meant the stone wasn't making a false second flame out of nothing; it was taking the light apart into two portions and bending each portion by its own rule. Two rules, in one clear stone.
+He had expected it. The hinge pins and the printed letter had doubled. The candle was still different. Both flames moved when a draft came under the door. Both narrowed when the wick bent. Neither looked like a reflection.
 
-He tried the explanations in the order his trade would ask them.
+Anders turned the crystal.
 
-A crack inside, silvering the light like a mirror? He held the stone to the candle edge-on and looked into its depth from every face. No crack. The clear went all the way through, cleaner than any glass he'd ever ground.
+One flame moved around the other. He marked its position on the bench with chalk, turned the stone a quarter turn, and marked it again. After a full turn, the moving flame had made a rough circle.
 
-Two stones, cut cunning and glued? He wet the faces and looked for a seam line. He found the fresh cleave the sailor had made and, with a knife point at an edge — his stomach tight, nine skillings — pressed until a flake parted. The flake came away flat-faced, leaning-cornered, the same drunk-carpenter shape as the whole. The stone was one stuff all the way down, and it broke in its own shape, like it had a grain the way wood has a grain. And the flake, held to the candle, doubled. A chip the size of a fingernail, and inside it, the same two rules, entire.
+He did it a second time.
 
-Soft, too. The knife had marked it far too easily — softer than glass, soft almost as alabaster. He sat with that a while. Every hard clear thing he knew bent light one way. Here was a stone soft as scribbling chalk that did something no glass in Europe could do.
+Then he tested thickness. At the thick end of the crystal, the flames stood farther apart. At the thin end, they came closer together.
 
-The candle was down to a stub, and the chalk marks had crept along the bench like a tide line, and somewhere out in the dark the watchman called an hour Anders didn't catch. He was not tired anymore, which he knew enough to distrust. He looked at his marks. The orbit of the second flame was regular. The doubling grew evenly with thickness. It broke to its own shape, down to a flake. Nothing about it was ragged. A flaw is ragged — a flaw in glass is a private accident, no two alike, and this stone's strangeness was the opposite of an accident. It was as regular as a rule. It was a rule. A rule nobody had told him, sitting on a workbench on Klosterstræde, having come out of a hill in Iceland where farmers pried it loose with iron bars and sold it to priests for being pretty.
+He checked for a crack. He wet the faces and held them near the candle. He found no seam.
 
-In the morning he showed Villum the orbit of the second flame, the chalk marks, the flake.
+The fresh edge tempted him. He put the point of his knife against it and pressed. Nothing happened. He pressed harder and a flat chip came away.
 
-Villum looked for the length of a held breath, and Anders saw it cost him something, and watched him pay it and close his purse.
+Nine skillings, he thought.
 
-"Sailor's glass," Villum said. "It doubles. You knew that when you paid nine skillings for it." He tied on his apron. "The chapter house wants two pairs by Friday, plain frames. Start on those."
+He held the chip over the flame.
 
-"Yes, Mester."
+It made two smaller flames.
 
-The stone went up on the shelf above Anders's bench, next to his box of small tools, where it sat catching the morning through the window. He wrote nothing on the slate. He had tried, standing there with the chalk, and found that what he had was not a question yet — it was too big and too shapeless, like asking why is water wet, and Villum's slate had rules, and the first rule was that a question had to have an answer the size of an evening.
+Anders sat back. He had expected a crack or some joining inside the larger piece. The chip had neither. It was the same clear material all the way through, and it did the same thing.
 
-That night he lit a candle and looked again, in case the stone had healed.
+He made more marks. He wrote down the order of the faces and which image moved. Once he lost track and had to wipe a section of the bench clean with his sleeve. He began again.
 
-Two flames. He blew them out together.
+The crystal was easy to scratch. It cleaved along smooth planes. It doubled more through the thick parts than the thin. The moving image returned to the same places each time he turned the stone.
+
+By then the candle was low.
+
+Anders wanted to call the doubling a flaw because Villum had called it one. A flaw in a lens changed when the lens changed. This did not. The stone repeated itself.
+
+He wrote that on the slate.
+
+*The stone repeats itself.*
+
+It was not yet a useful question.
+
+The watchman called midnight in the street. Anders had promised himself he would stop at eleven.
+
+He stopped at half past twelve.
+
+*
+
+Villum found the chalk marks in the morning.
+
+"You used the good candle."
+
+"Half of it."
+
+"Most of it."
+
+Anders showed him the circle and the chip. Villum looked through both pieces and turned the larger one twice.
+
+"It does the same thing," Anders said.
+
+"Yes."
+
+"Through every part."
+
+"It seems so."
+
+"A flaw would not do that."
+
+Villum put the stone down. "A flaw may do whatever it likes. That is why it is a flaw."
+
+"You know that is not an answer."
+
+"It is the answer before breakfast."
+
+Villum tied on his apron and took two plain frames from a drawer.
+
+"The chapter house wants these by Friday."
+
+Anders did not move.
+
+"You saw it," he said.
+
+"I saw two hinge pins where I own one."
+
+"And that does not bother you?"
+
+"I paid nothing for the second."
+
+It was an old kind of joke. Villum had used versions of it for years. Anders had once found them funny.
+
+"You would rather I not ask," Anders said.
+
+Villum looked at him then. "I would rather you finish what feeds you before you begin what does not."
+
+Anders heard *feeds you* and thought of being four years old at Villum's door. He thought Villum had meant him to.
+
+He took the frames.
+
+On Sunday, at the Church of Our Lady, Anders came in late on the response to the second hymn. The woman in front of him turned around. He lowered his voice for the rest of the verse.
+
+He had been thinking about the moving flame.
 
 ## Chapter 2 — The Professor's Book
 
-The stone had been on the shelf five months when the university came to it, in the person of a magister's clerk with a head cold, who stood dripping by the counter while Villum fitted his master's new spectacles into their frames, and who said, sniffing, to no one in particular, that all the town's learned men were mad this winter for a stone out of Iceland.
+The stone had been on the shelf five months when a university clerk came in for a spectacle case.
 
-Anders's hands kept working. His hands were good at that.
+He had a cold and wiped his nose on the back of his glove. While Villum found a case large enough for the spectacles, the clerk noticed the crystal above Anders's bench.
 
-"Mad how," Villum said.
+"Professor Bartholin has written a book about those," he said.
 
-"Professor Bartholin has put out a book on it. The doubling stone — you've heard. He's done experiments." The clerk said the word the way one reports a colleague's expensive new habit. "Everyone respectable has read it, or says so. There are pieces of the stone in the mail to Paris, I'm told. To England."
+Anders stopped grinding.
 
-"A book on a stone," Villum said, in the voice he kept for the follies of the fine, and sold the clerk a case, and closed the door behind him, and stood for a moment in the middle of his own shop with his thumb working the corner of his jaw, which was Villum arriving at a decision he intended to present as obvious.
+"About stones?" Villum asked.
 
-"A spectacle maker," he said, "who is asked about the famous stone by some canon at supper, and stands there with his mouth open, does the shop no good."
+"About that stone. He has sent pieces to Paris and England. Everyone at the university is talking about it."
 
-"No, Mester."
+"What does the book say?"
 
-"It's a business matter."
+"I have not read it."
 
-"Yes, Mester."
+"But everyone is talking."
 
-"Paulli prints it. You'll go in the morning." He found a coin, considered it, and exchanged it for a smaller one. "And you'll carry the messages to the chapter house on the same trip, so it isn't a wasted walk."
+"I said everyone at the university."
 
-So it was Villum who bought the book, and Villum who owned it, and Villum who set it on the shelf below the racks where a customer might notice its spine and think well of the establishment. All of that was true, and Anders let it be true, the way you let a lid sit loose on a pot you intend to open. The book was called Experimenta crystalli islandici disdiaclastici. It had figures — engraved plates, the stone drawn leaning on a table like a small tired building, with letters at its corners and lines of sight ruled through it. Anders stood in Paulli's shop with it open in both hands long enough that the printer's boy asked if he meant to eat it.
+Villum charged him for the larger case.
 
-The problem, which he'd known was coming and had walked toward anyway, was that the book was in Latin.
+After the clerk left, Anders took the crystal down.
 
-Anders had Latin the way the shop cat had Latin. He'd sat under the sermon Latin of two churches for fifteen years, and he could sound the letters, and here and there a word lay close enough to its Danish cousin to grab — crystallus was no mystery; refractio he knew in his arms if not his ears. But the sentences ran on like eels, and the words he wanted most were exactly the ones that swam past. He got the book home, and got it open by candle after supper, and by the end of the first evening had wrung perhaps six sentences out of two pages, and one of the six was wrong in a way he could prove with the stone in front of him, which meant it wasn't the professor who was wrong, it was Anders's Latin.
+"A book," he said.
 
-Pride would have cost him a winter. He spent two skillings instead.
+"I heard him."
 
-There was a theology student who lodged over the baker's on the corner, a long-necked boy from Jutland named Niels who was slowly starving in the honorable manner of students, and who could be had, it turned out, for beer and a seat by a warm hearth. He was preparing for an examination in which three men would decide whether he was fit to preach, although he had already been preaching to Anders for free since the day they met. The arrangement ran three evenings a week. Niels read aloud, Danish out of the Latin, working through it phrase by phrase with his finger on the line. Anders made him stop, go back, say it plainly, and say what a word meant exactly. Niels began the first evening with a theologian's opinion of tradesmen's questions. Then Anders showed him the orbit of the second flame over the candle. Niels went quiet and turned the page with a different hand.
+"Paulli may have it."
 
-What the book said, worked through that winter at the pace of beer and tallow, was this.
+"Then Paulli may sell it."
 
-The professor had gotten his stones from the learned traffic that followed the Iceland expedition the year before — great clear pieces, some of them, far finer than the sailor's lump. He had done experiments with them, numbered and orderly, and written each one plainly: what he did, what he saw. He confirmed the doubling — every image doubled through the stone, always. He found that of the two images, one behaved itself. It sat where glass would put it, and moved as glass would move it, and obeyed the rule of refraction that the learned had settled a generation before — the rule, Anders noted, arriving at last with a name and a diagram, that he had known his whole working life as the way the curve answers the light. Seeing the trade's oldest secret written out as geometry was like seeing a drawing of his own hands.
+Villum began sorting screws. Anders waited. He had learned that waiting worked better on Villum than repeating himself, although he disliked it more.
 
-The other image obeyed nothing. The professor called it the mobile image, the unsettled one — it stood where no rule put it, and when you turned the stone, it walked its circle around its steady brother, exactly as it had walked on a workbench on Klosterstræde for an audience of one. The professor had measured its angles with care, through face after face, and written the numbers down, and the numbers refused every rule he brought them. One stone. Two refractions. The professor had even named the stone for it, in his title: disdiaclastic, twice-breaking. It was, he wrote, a marvel unlike anything glass or water or any known crystal did to light.
+Villum found a screw with a damaged head and dropped it into the scrap cup.
 
-Niels read on. Anders checked everything. That was the shape of those evenings: the book claimed, and the stone answered. The angles the professor gave — Anders cut a sighting board, ruled it, and got the sailor's stone to give him back the professor's own numbers, near enough, with the grain of the stone allowed for. The parallel faces, the leaning corners always leaning alike, the cleaving into its own shape down to flakes: all in the book, all true, all things a boy with a knife had found for himself at night and told no one. There was a strange comfort in it that he didn't examine too closely. The stone on his shelf and the stones in the professor's study were citizens of the same law. Whatever it was, it wasn't his private madness. It was in Latin now. It was in the mail to Paris.
+"If a canon asks what the book says," he said, "I cannot tell him that my apprentice preferred not to know."
 
-Then the book did the thing he hadn't allowed himself to expect, and explained.
+"No."
 
-The explanation took two evenings, and Niels earned his beer, because it rode on the natural philosophy of the Frenchman Descartes, in which light was a pressure passed instant through fine matter, and bodies were riddled with pores that let such pressure through this way or that. The professor proposed that the Iceland stone had, as it were, two families of pores — two systems of passages through its substance — and light entering the stone was divided between them, each family passing its share by its own path. Two doors through the same wall. Hence two images.
+"It is a business purchase."
 
-"Read that part again," Anders said.
+"Of course."
 
-Niels read it again.
+"You will carry the chapter-house messages on the same walk."
 
-Anders sat with the stone in his hand. The explanation had a shape he knew. When a lens came out wrong and a customer asked why, there was a kind of answer the trade kept ready — the glass had a vein in it, the fire had been sullen that week — answers that were not lies, exactly, but were doors painted on a wall. Said aloud, they satisfied. They sent the customer home. They told the man at the bench nothing, changed nothing, predicted nothing. You could not take the sullen fire into your hands and grind a better lens with it.
+Villum opened the money drawer, took out a coin, frowned at it, and chose a smaller one.
 
-Two families of pores. Well enough. Which family took which portion of the light? What decided it? If he stood the stone on its other face, did the light change doors? Could a door be stopped? The book did not say. The book, he made Niels confirm twice, did not ask.
+Paulli's shop smelled of ink and wet wool. The book was thin and newly bound. Its title took up most of the first page:
 
-And on the last evenings, deep in the final pages, the professor himself all but said so. Whether these things arose thus or otherwise, the causes lay hidden; he offered his conjecture and would not war for it; let abler men — Niels translated it a phrase at a time, frowning — let others inquire further, the matter being worthy of it. The greatest natural philosopher in Denmark, a man with the ear of kings, closing his book on the stone with a door held politely open.
+*Experimenta crystalli islandici disdiaclastici.*
 
-Niels shut the covers and stretched his neck and said something admiring about the professor's honesty, which was just, and reached for his beer.
+Anders knew *crystalli*. He knew nothing about *disdiaclastici*.
 
-Anders looked at the stone and understood, with a clarity that arrived not as a thrill but strangely like fear, that no one knew. Not the master upstairs, which had been true all his life and cost nothing. Not the trade. Not the professor, by the professor's own pen. Not Paris, which was even now unwrapping its pieces of the hill from Iceland. The stone on his shelf was breaking a rule of the world in front of anyone who cared to light a candle, and the sum of what mankind could say about it was a description — a very good description, honestly made, correct in every angle — of the outside of a locked door.
+The figures were easier. The crystal appeared from several sides with letters at each corner. Lines passed through it at measured angles. One plate showed two images and the path each one took.
 
-He had thought, all winter, that he was catching up to the learned. He caught them that night. It took one winter, two skillings a week, and a theology student. Past this page there was no one ahead of him on the road, and the road went on.
+"Are you buying it?" the printer's boy asked.
 
-He bought the ledger two days later from a chandler's widow who was selling off her husband's effects — a fat quarto ledger, water-stained along the bottom edge, the first thirty leaves ruled and filled with tallow and wick in a dead man's careful hand, the remaining two hundred blank. Paper was money and the stain made it cheap. He cut nothing out. He turned past the tallow to the first white page and sat with the pen a long time, because the professor's book had taught him this too, watching Niels's finger travel the orderly numbered experiments: that what you saw was worth nothing to anyone else until it was written so another man could stand where you stood.
+"Yes."
 
-At the top of the page he put the date, and no name, there being no one to show it to.
+"Then you may read it somewhere else."
 
-First: which door for which light. The candle at one hour after shop close. The stone on its broad face, the sighting board at —
+Anders paid and carried it home under his coat.
 
-He filled the page, and ruled off the bottom of it the way the chandler ruled off a day.
+Villum put the book on a shelf where customers could see the spine. Anders waited until supper to open it.
+
+The Latin stopped him in the first paragraph.
+
+He could pronounce church Latin well enough to sing it badly. He knew common prayers, trade words, and the phrases printed under diagrams. Bartholin wrote for other learned men. His sentences contained clauses that went on for half a page.
+
+Anders spent an hour on two sentences. His translation claimed that the crystal sent both images along the same path. The stone beside the book showed that this was wrong.
+
+At breakfast, Villum asked what the professor had discovered.
+
+"That his Latin is difficult."
+
+"I could have told you that for nothing."
+
+"You did not know."
+
+"Then I have discovered it."
+
+Villum spread butter on his bread. "Ask the student over the baker."
+
+Anders had hoped Villum would suggest this. He did not want Villum to know that.
 
 *
 
-In April the chapter house ordered reading spectacles for two of its canons, and a servant came the same week from a house on Store Kannikestræde with a note: the learned owner, being told there was a spectacle maker in the city whose lenses did not lie, wished a pair ground for close work at his desk, his eyes being worn from years of fine observation. He would have the young man bring them himself, the fitting being particular, at whatever hour suited the shop.
+Niels came from Jutland and lodged in a room above the baker's ovens. In winter the floor was warm. In summer, he said, the room would kill him.
 
-Villum read the note twice and had his apron off before the second reading was done. Then his face performed a small war, and duty lost, because Friday was market day for the household and a master cannot be in two places.
+He was studying theology and preparing for an examination in which three churchmen would decide whether he could be trusted with a congregation. Niels believed the examination would go well. The baker did not share this confidence and had begun asking for rent in advance.
 
-"You'll go," he said. "You'll wear the good coat. You'll speak when spoken to, and you'll not—" he was already climbing the stairs after the coat "—you'll NOT be interesting."
+"Two skillings an evening," Niels said when Anders showed him the book.
 
-"Whose house is it?" Anders called after him.
+"One."
 
-"Professor Bartholin's," said Villum, from the landing, as though it were a name like any other.
+"Two, and beer."
+
+"One, beer, and you may sit by our stove."
+
+"Bread?"
+
+"If there is bread."
+
+"There is always bread in a spectacle shop."
+
+"Why?"
+
+"Your customers are old. Old people eat early."
+
+They settled on one skilling, beer, and whatever supper remained.
+
+The first evening, Niels read the title.
+
+"Experiments with the doubly refracting Iceland crystal," he said.
+
+"Doubly refracting."
+
+"Twice-breaking, if you prefer."
+
+"Why did you not say that?"
+
+"Because the professor did not write for men who prefer it."
+
+Anders put the crystal over a line of print. "Then tonight he did."
+
+Niels read the opening pages aloud in Danish. He stopped often to choose a word. Anders stopped him more often.
+
+"Unusual ray," Niels said.
+
+"Unusual how?"
+
+"That is what he calls it."
+
+"You said wandering before."
+
+"I improved it."
+
+"Put it back."
+
+"It does not wander. The angle follows a rule."
+
+"Which rule?"
+
+"The professor is getting to it."
+
+He was not.
+
+Bartholin began with what he had done. He set the stone over marks and printed letters. He viewed them from different sides. He measured the two paths through each face. One image followed the known rule of refraction. The other did not.
+
+Niels read the measurements. Anders made a sighting board from scrap wood and marked the professor's angles on it. The sailor's stone gave nearly the same results.
+
+On the third evening, Niels arrived with a sermon he had written.
+
+"Ten minutes," he said. "Then the crystal."
+
+"No."
+
+"You make me explain natural philosophy. You can listen to Christian instruction."
+
+"I listen every Sunday."
+
+"I am told you sing through most of it."
+
+Villum was in the back room and made a noise that might have been a cough.
+
+Niels preached for twelve minutes on Jonah. He used a kitchen pot, a city gate, and a storm as examples. Anders understood the pot and the storm. The city gate became difficult.
+
+"Well?" Niels asked.
+
+"The sailors threw him out of the boat."
+
+"That is the text."
+
+"You said the boat was the soul."
+
+"For part of it."
+
+"When did it stop?"
+
+Niels took the beer from Anders's side of the table. "Read your own Latin."
+
+They continued the next evening.
+
+By Christmas they had worked through most of the experiments. Bartholin described the crystal carefully. Its faces ran parallel in pairs. It cleaved along the same slanted planes. The distance between the two images increased with thickness. When the stone turned, one image stayed almost fixed while the other moved around it.
+
+Anders had already seen much of this. He had not measured it as well. The professor's figures let him correct two marks on his board and discard a test that had been giving different answers because his candle moved.
+
+Villum sometimes sat at the far end of the table while Niels read. He claimed the stove was warmer there. When Niels reached a new experiment, Villum looked up from his repairs. If Anders asked whether he wanted to see, he said no.
+
+One evening Villum took the sighting board upstairs with him by mistake.
+
+He returned it before breakfast.
+
+*
+
+The explanation came near the end of the book.
+
+Niels read the passage once and then began again more slowly. Bartholin followed Descartes. Light, in this account, passed as pressure through very fine matter. Bodies contained pores or passages suited to receive it. The Iceland crystal might have two sets of passages. Each set could send part of the light along a different path.
+
+"Two kinds of passage," Anders said.
+
+"Yes."
+
+"Has he found them?"
+
+"They are too small to see."
+
+"Has he found anything that requires two kinds?"
+
+Niels looked back at the page. "There are two rays."
+
+"I can see the two rays."
+
+"The passages explain them."
+
+"Do they explain which light takes which passage?"
+
+"No."
+
+"If I turn the stone onto another face?"
+
+"He does not say."
+
+"Can a passage be blocked?"
+
+"Anders."
+
+"Does he say?"
+
+"No."
+
+Niels closed the book on one finger. "A conjecture is not a fraud because it is incomplete."
+
+"I did not call it a fraud."
+
+"You made the face."
+
+"What face?"
+
+"The one you make when Villum tells a customer the glass was bad."
+
+From the far end of the table, Villum said, "Sometimes the glass is bad."
+
+"Not as often as you say."
+
+"Often enough to feed you."
+
+Niels opened the book again. He read the final passage. Bartholin allowed that the causes might be otherwise than he had proposed. He would not insist. The matter deserved further work by abler investigators.
+
+When Niels finished, Anders asked, "Then he does not know?"
+
+"He knows everything we have spent three months reading."
+
+"About the cause."
+
+"No."
+
+"About what decides the two paths."
+
+"No."
+
+Anders turned the crystal on the table.
+
+Niels said, "He is honest about the limit."
+
+"Yes."
+
+"You sound disappointed."
+
+"I paid you to find the answer."
+
+"You paid me to read the book."
+
+"That was poorly negotiated."
+
+"You have a history of it."
+
+Villum laughed from the other end of the table.
+
+Anders did not feel frightened or triumphant. He was tired. He had spent a winter expecting the answer to appear on the next page.
+
+"Read the last sentence again," he said.
+
+Niels did.
+
+*
+
+Two days later, Anders bought a damaged ledger from a chandler's widow. The first thirty pages contained old accounts for tallow and wick. The rest were blank. A water stain along the bottom made it cheap.
+
+He began after the old accounts.
+
+Niels found him writing before their next session.
+
+"Put your name on it," he said.
+
+"Why?"
+
+"Because you will leave it somewhere, and another fool will claim it."
+
+"Who would want my candle marks?"
+
+"You bought a dead man's candle accounts."
+
+Anders wrote his name inside the front cover.
+
+On the first blank page he entered the date, the face of the stone, the distance to the candle, and the positions of the two images. Then he wrote the question Bartholin's book had not answered:
+
+*What decides which path?*
+
+The next week Niels passed his examination. He came to the shop in a clean collar and made Villum and Anders listen to the news twice. No parish had been offered yet. He raised his translation price to two skillings anyway.
+
+Anders paid it once, for the last pages.
+
+*
+
+In April, the chapter house ordered reading spectacles for two canons. The same week a servant brought a note from a house on Store Kannikestræde.
+
+Professor Rasmus Bartholin needed spectacles for close work at his desk. He wanted the person who ground them to bring them and fit them.
+
+Villum read the note twice.
+
+"You will go," he said.
+
+Anders took the paper.
+
+"Wear the good coat. Answer what he asks. Do not begin with the slate."
+
+"I would not."
+
+"Anders."
+
+"I would not begin with it."
+
+Villum went upstairs to find the coat.
 
 ## Chapter 3 — The Assistant
 
-The good coat had been Villum's once, taken in at the shoulders by the tailor on the corner in exchange for a mended clasp, and it changed how doors opened. Anders had noticed this before and it never stopped being informative. In his work clothes he was a pair of hands; in the coat he was a young man of no particular rank, which was a different thing entirely — porters nodded, a woman selling eels moved her basket out of his path, and the manservant at the house on Store Kannikestræde looked at the coat, then at the spectacle case in his hands, priced them both, and admitted him to the hall to wait.
+Villum's good coat was tight across Anders's back and short at the wrists.
 
-The hall alone held more books than Anders had seen in his life outside a church. They went up the wall on shelves to the height of two men, and the overflow stood in stacks on a side table, and on top of the nearest stack, holding the place in a folio the way another house would use a knife or a dead flower, sat a piece of Iceland spar the size of a goose egg.
+"Do not reach for anything," Villum said.
 
-He was still looking at it when the manservant came back.
+"I have to fit spectacles."
 
-The professor received him in a study that smelled of ink and cold ash. Rasmus Bartholin was heavier than Anders had imagined him — he had, without noticing he was doing it, built the author of the Experimenta out of the book's own lean geometry, all ruled lines, and instead here was a broad man in his forties with a strong gray-shot beard and the wide, upholstered look of a person who has held offices. Dean, the clerk had said. Royal physician. The king's own eyes had presumably been examined by the eyes now blinking at Anders across a desk covered in papers, correspondence, a brass rule, two quills gone to stubs — and spar. Pieces of it lay among the papers like paperweights, which is what they were being. One great cleaved slab, long as a forearm, clear as spring water, held down a stack of letters by the window. Anders kept his gaze off it the way a man keeps his hand off a hot stove, by continuous effort, renewed every moment.
+"Reach carefully."
 
-"The spectacle maker's," Bartholin said. "Good. Sit down there. They tell me your master grinds honestly."
+Villum brushed the shoulders again. The coat had been altered for Anders two years before, and he had grown since. A tailor on the corner had done the work in exchange for a mended clasp. One sleeve twisted slightly. Villum kept trying to straighten it.
 
-"He does, Herr Professor."
+"It is straight," Anders said.
 
-What followed was Anders's trade and he did it well, and it steadied him the way the bench always steadied him. Close-work lenses must be fitted to the actual distance a man reads at, which is never the distance he claims to read at; scholars all hold their books nearer than their dignity admits. He had the professor hold a page as he would truly hold it, late at night, no one watching — Bartholin, to his credit, laughed once and dropped his arms four inches — and Anders measured the distance with a knotted cord, and tried the pairs he'd brought, and marked the case of the pair that answered with a scratch of his thumbnail. The professor read a few lines of Latin aloud through them, easily, and looked over the rims with the mild surprise of a man whose profession is knowing better than others and who has just been served exactly right by a boy of nineteen.
+"Stand still."
 
-"You have good hands," Bartholin said, pushing coins across the desk. "Tell your master."
+"The professor asked for a spectacle maker, not a coat."
 
-That was the audience. That was the whole audience, and it was already ending; the professor's attention was returning to his papers with the finality of a tide going out, and the manservant was materializing at the door, and Anders stood in the middle of the study of the one man in Denmark who had written a book about the stone on his own shelf at home, with the question pressing up his throat like a swallowed coal, and what he had promised Villum sat on top of it, and what his coat was sat on top of that.
+"He has spectacle makers. He asked for ours."
 
-He asked anyway. He kept it as small as a question can be made.
+Anders put the lens case inside the coat. Villum moved it to the other pocket because the first made the front hang badly.
 
-"Herr Professor — the crystal." He tipped his head, no more, toward the slab on the letters. "The unsettled image. Does anyone yet know what decides its path?"
+"Answer what he asks," Villum said.
 
-Bartholin looked up, and for a moment Anders stood inside the man's full attention, and it was like standing in sunlight, and he understood in that moment precisely what the coin of the learned world was and how little of it he would ever hold.
+"You said that yesterday."
 
-"You've heard of my book," the professor said, pleased.
-
-"Yes, Herr Professor."
-
-"No," Bartholin said, comfortably, turning back to his letters. "No one knows. It is a very pretty question. Mind the step as you go."
-
-It was said kindly. That was the thing Anders carried down the stairs, the kindness of it — the professor had not laughed at him, had not asked what business a lens grinder's boy had with the paths of light. He had simply answered the way a man answers a child who asks what the moon is made of, fondly, finally, from behind a closed door, and gone back to his correspondence. Anders was on the fourth step down, holding the banister, learning what the closed door felt like from the outside, when a voice above him said:
-
-"What do you mean, what decides its path?"
-
-The young man on the landing had a portfolio of papers under one arm and the look of someone who had been going somewhere else in a hurry, some minutes ago, and had stopped. He was perhaps five-and-twenty, sandy, quick-eyed, dressed better than a servant and worse than a son of the house, and he came down the stairs two at a time, talking as he came.
-
-"Because that's not what people ask. I've stood in that hall for a year handing men their hats, and every one of them asks the professor to see the doubling — see it, like a card trick — and the clever ones ask how thick a piece must be to double a written line clean apart, because they want one cut for a gift. Nobody asks what decides." He arrived on Anders's step and stood a stair above him, which put their eyes level. "So. What made you ask it?"
-
-And Anders, who had spent fifteen years learning what could be said to whom, and had just had the lesson given its final polish upstairs, looked at this person balanced between servant and son, and found he could not place him, and because he could not place him he told him the truth.
-
-"I have a piece of the stone," he said. "The doubled image walks a circle when the stone is turned. A circle is a rule. Someone should know what the rule serves."
-
-The young man looked at him for a moment.
-
-"Come off the stairs," he said. "The hall's cold. There's a fire in the copying room and nobody in it until three."
+"Today you are wearing my coat."
 
 *
 
-His name was Ole Rømer. He was the professor's man the way a tool is a man's — he said this himself, cheerfully, without bitterness, laying it out like a map. He'd come from Aarhus at eighteen, a merchant's son with no money to speak of; the professor had taken him into the house to study, and then discovered he was useful, and now he lived in the attic and worked at the great table in the copying room, where for four years his life had been the observations of Tycho Brahe — the dead astronomer's numbers, decades of them, a national treasure in a chaos of papers, which Rømer was ordering and checking for publication, one night of the sky at a time.
+The house on Store Kannikestræde had a servants' entrance beside the main door. Anders went to the main door because the note bore Professor Bartholin's seal.
 
-"Forty years of nights," he said. "The man measured everything. I have checked eleven years of him so far, and I'll tell you what I've learned: he was nearly always right, and where he was wrong, he was wrong by the same amount, which is better than right — a man who errs regularly has left you his instrument in the error, you can work backward to the bend in it. An honest error is a gift." He had his boots on the fender of the copying-room fire. "You'll take some beer. The professor's beer is good and he doesn't count it."
+The man who answered looked at the coat, the case, and Anders's shoes.
 
-The copying room ran the width of the house at the back, and the great table down its middle carried the solar system of Rømer's labor: banks of paper in a private order, weights holding each bank — and the weights were spar, of course, spar was the house's pebble, there were pieces holding Tycho's nights down all along the table like markers in some enormous game. Anders kept looking at them. Rømer kept noticing him keep looking.
+"Delivery?"
 
-"You truly have a piece of your own."
+"A fitting."
 
-"Bought off a sailor. Nine skillings."
+Anders showed the note.
 
-"And you've done what with it — no." Rømer swung his boots down. "Show me. There's spar in reach of every chair in this house, God knows. Show me the circle."
+The man read it and let him into the hall.
 
-So Anders came around the great table, and took up the nearest weight — asking with his eyes first; Rømer waved him on — and held it over one of Tycho's pages, over a line of the dead man's numbers, and doubled them. And then, slowly, the way he did it every night at home, he turned the stone. The ghost numbers walked their circle around the true ones. Sixty years dead, and Tycho's sevens went around like little moons.
+Books covered one wall from floor to ceiling. More stood in piles on a side table. A piece of Iceland spar held open a folio on top of the nearest pile.
 
-"Yes," Rømer said. He'd come to stand at Anders's shoulder. "The mobile image. It's in the book — he measured its angles through every face."
+Anders moved close enough to see the page but did not touch the stone. It was clearer than his own and nearly the size of a goose egg.
 
-"He measured where it goes," Anders said. "Not what sends it. The book says the stone has two families of passages and the light divides between them. Well enough. What decides the division? Stand the stone on another face — does a portion of the light change families? Is the division equal? Always equal? By what law equal? If a man knew what decides it—" he heard himself, and stopped, the way he had learned to stop.
+The servant returned and led him upstairs.
 
-Rømer was not looking at him the way the professor had. He was looking at him the way a man looks at a page of Tycho's that doesn't tally.
+Rasmus Bartholin received him in a study that smelled of ink and cold ash. He was broader than the portrait Anders had imagined from the book. His beard had begun to gray. Papers covered the desk, held in place by several pieces of spar. A long clear slab lay across a stack of letters near the window.
 
-"Go on," Rømer said. "Finish it. If a man knew what decides it—"
+Bartholin pointed to a chair.
 
-"—then he wouldn't have a description. He'd have a handle."
+"The spectacle maker's young man."
 
-The fire spat. Somewhere in the front of the house a door opened and shut, and Rømer glanced toward the sound with an assistant's reflex, and let it go.
+"Anders Pedersen, Herr Professor."
 
-"You should hear how they talk about it in the letters," he said, sitting back down. "I copy the professor's correspondence, so I know the traffic. The stone has been to Paris. Pieces of it sit tonight in the cabinets of men whose names you'd know — no. Whose names you wouldn't know, which is my entire point, but whose names the world knows." He tipped beer into two cups, judged them, evened them. "And what the traffic says is: a marvel. A most curious refraction. Monsieur, I have received the crystal and shown it at supper, to general astonishment. It's a card trick to them too, Anders — a better class of card trick. It goes around the table after the fruit." He handed a cup across. "Your question isn't in the letters. I'd have copied it."
+"They tell me your master grinds honestly."
 
-Anders drank his beer and asked the thing he'd been circling since the stairs. "And when you write to them, the men in Paris, they answer you?"
+"He does."
 
-Rømer looked at the papers covering the table. "I sent a question to a man in Leiden my first year here. My own name. My own postage. It came back six months later inside a packet addressed to Professor Bartholin. The man had answered him."
+Anders opened the case.
 
-"Had the professor written too?"
+The fitting settled him. Scholars, like everyone else, lied about the distance at which they read. Bartholin held the test page too far away at first. Anders asked him to read as he did at night when no one watched.
 
-"No." Rømer smiled, but the old embarrassment was still in it. "I had mentioned whose house I worked in. That was enough. So now my letters go under his seal, and men answer. They sometimes call me his young colleague. That is generous of them."
+Bartholin laughed and brought the page four inches closer.
 
-"And if you leave the house?"
+Anders measured the distance with a knotted cord and tried the first pair. Bartholin read a line of Latin, shook his head, and tried the second.
 
-"Then I had better have another house waiting." Rømer rubbed a thumb over a black spot on one of Tycho's pages. "Or a result with my name already fastened to it."
+"Better."
 
-"And a man outside all of it?"
+"The left?"
 
-Rømer looked at him. "Keeps very good notes."
+"A little weak."
 
-It was said the way the professor had said no one knows — without cruelty, as a fact of the made world, like tide tables. But Rømer heard it land, and had the grace to look into the fire for a moment, and then did the thing that Anders would remember for thirty years, would turn over on the worst nights and be unable either to keep or throw away.
+Anders changed it. Bartholin read two more lines and forgot to comment. That was the pair.
 
-"Bring your stone some evening," Rømer said. "Thursdays the professor dines at his brother's. I'm here with Tycho and the beer. Two men can measure faster than one — and you ask the questions I'd have asked if I still had the time. I've an errand in it too, mind." He rapped the spar weight with one knuckle. "I sit in the house of the man who found this thing, and it holds his mail down. Somebody in this building should be looking through it."
+"You have good hands," he said. "Tell your master."
 
-Down on the street the afternoon was going gray and the eel woman was gone. Anders walked back toward Klosterstræde with the empty spectacle case under his arm and the whole map in his head at once, the way you carry a thing you'll unpack for years: the hall where clever men asked for a card trick; the sunlit half-minute of the professor's attention, and the door in it closing, kindly; and above the door, on the stairs, where he had already been counted out and dismissed and was leaving by the rules — one person in that entire learned house had heard the actual question. The one balanced on the landing between servant and son. The one four years deep in a dead man's numbers, paying the road's price, who knew exactly what a question cost and had stopped anyway.
+He pushed the payment across the desk and reached for another paper.
 
-Thursdays.
+Anders packed the rejected lenses. The servant appeared at the door.
 
-Villum asked how the professor had liked the lenses. Anders said the professor had liked them well, and that the house had more books than the Latin school, and did not mention the rest, having no shelf yet to put it on. That night he took out the ledger and wrote the date, and under it, in his cramped hand, a single line before the evening's measurements, where a chandler would have put the name of a supplier:
+The fitting was over.
 
-R. — Thursdays. Asks what decides.
+He looked at the long crystal on the letters.
+
+"Herr Professor."
+
+Bartholin looked up.
+
+"In your book, the second image moves when the stone turns."
+
+"Yes."
+
+"What decides which light takes that path?"
+
+Bartholin leaned back. "You read Latin?"
+
+"With help."
+
+"Whose help?"
+
+"A theology student."
+
+"Then he has earned his beer."
+
+Anders did not know whether Niels had been seen entering the shop or whether all theology students worked for beer.
+
+"Does anyone know?" Anders asked.
+
+"No. Not yet." Bartholin adjusted the new spectacles. "It is a pretty question."
+
+"Have you put two stones together?"
+
+Bartholin's attention moved back to the paper. "Mind the stair. The fourth step is loose."
+
+The servant opened the door wider.
+
+Anders left.
+
+On the fourth step, he tested the board with his foot. It moved.
+
+"He warns everyone about that and never has it fixed," a voice said above him.
+
+A young man stood on the landing with a portfolio under one arm. He was perhaps six years older than Anders. His coat was good cloth worn hard at the elbows. There was ink on his right cuff.
+
+"What did you mean about two stones?" he asked.
+
+Anders looked toward the study door.
+
+"He cannot hear you," the man said. "He is already reading."
+
+"I asked whether a second stone changes the two paths."
+
+"Why would it?"
+
+"I do not know."
+
+"Then why ask?"
+
+"Because one stone makes two. A second should tell us whether the two are still the same kind of light."
+
+The man shifted the portfolio to his other arm. "How?"
+
+"I said I do not know."
+
+"Yes, but you said it as if that ended the matter."
+
+"It ends my answer."
+
+The man smiled. "Come downstairs. I have a piece we can use."
+
+*
+
+His name was Ole Rømer. He lived in the attic and worked in a copying room at the back of the house.
+
+The room held a long table covered with Tycho Brahe's observations. Rømer had been ordering and checking them for four years. Bundles of paper stood in rows, with pieces of spar used as weights.
+
+"Forty years of numbers," he said. "Most of them written by cold men in poor light."
+
+He moved two bundles to clear a place. A page slid to the floor.
+
+"You should not put the smooth paper underneath," Anders said.
+
+"Thank you."
+
+"It will happen again."
+
+"Thank you again."
+
+Rømer put the smooth paper back underneath.
+
+He poured beer into two cups.
+
+"Does the professor allow that?" Anders asked.
+
+"He allows beer."
+
+"For you?"
+
+"He has never separated the question."
+
+The beer was better than anything Villum bought. Anders drank half the cup before remembering he was in the good coat.
+
+Rømer took one of the crystal weights from a bundle. Anders set it over a column of Tycho's figures and turned it. One copy moved around the other.
+
+"Bartholin measured all this," Rømer said.
+
+"He measured where it goes."
+
+"That is usually what measurement means."
+
+"Not what sends it there."
+
+Rømer sat down. "Show me the question again."
+
+Anders placed a second piece of spar over the first. The numbers became difficult to follow. Depending on how he turned the upper stone, he saw three copies or four.
+
+"Which is which?" Rømer asked.
+
+"I cannot tell."
+
+"Good."
+
+"Why is that good?"
+
+"Because now I understand what you do not know."
+
+They tried to follow one seven through both stones. Rømer marked the copies with scraps of paper. Anders moved a scrap because it was crooked. Rømer moved it back.
+
+"It marks the number," Anders said.
+
+"It marks where the number was."
+
+"Crookedly."
+
+"The heavens are not ruled to your bench."
+
+After several turns they lost the original seven entirely.
+
+Rømer laughed first. Anders did not want to, then did.
+
+They began again with a black dot on clean paper.
+
+An hour passed. They learned very little. Two stones produced more images. Some lay on top of one another at certain turns. They needed a smaller light or a way to cover the images they were not following.
+
+Rømer wrote this down.
+
+A clock sounded in the hall.
+
+"I have to finish a page before dinner," Rømer said.
+
+"Then I should go."
+
+"You may stay. I work better when another man is waiting for me."
+
+"That is not true."
+
+"It might be."
+
+Rømer returned the crystals to their bundles and found his place in Tycho's observations. Anders sat opposite with the black dot still in front of him.
+
+The page contained columns of dates, times, and positions. Some entries had been copied neatly. Others were crowded into margins or corrected in a second hand.
+
+"Whose writing?" Anders asked.
+
+"Six men, at least. Tycho dictated. Assistants wrote. Then someone recopied part of it after a damp summer."
+
+"How do you know which number is right?"
+
+"Sometimes I do not."
+
+Rømer showed him three observations of the same star. Each result lay a little farther north than observations made with another instrument.
+
+"The sight was bent," he said. "The error repeats whenever they used it."
+
+"How much?"
+
+Rømer pointed to the difference.
+
+Anders checked it. "Near enough."
+
+"You trust me quickly."
+
+"I trust a repeated error."
+
+"I said that last week to Professor Bartholin."
+
+"Did he believe you?"
+
+"He told me to check another year."
+
+"Did you?"
+
+"Two."
+
+Rømer dipped his pen and resumed copying. He was quick, but his tools spread across the table as he worked. He reached for a knife that had disappeared beneath the portfolio.
+
+Anders found it and placed it beside his hand.
+
+"You should keep it on the right."
+
+"I did."
+
+"No."
+
+"I intended to."
+
+Rømer's boot had begun to smoke at the edge of the fire. Anders smelled it first.
+
+"Your heel."
+
+Rømer pulled his foot back and struck at it with his hand. The leather had darkened but had not caught.
+
+"My father bought these."
+
+"Then the professor's beer is not your whole provision."
+
+"My father trades in Aarhus. He believes I am studying toward a respectable office."
+
+"Are you not?"
+
+"I have spent four years deciding whether Tycho wrote a three or an eight."
+
+"You said the work mattered."
+
+"It matters to Paris. That is more useful than respectability."
+
+Rømer's father had written twice that winter asking when he would come home. There was a place for him in the business. Rømer could keep accounts, speak to ships, and marry someone his mother already knew.
+
+"Will you?" Anders asked.
+
+"No."
+
+"Have you told him?"
+
+"Not in that order."
+
+Rømer finished the line and sanded it.
+
+"What about you?" he asked. "Will you have Villum's shop?"
+
+"He has not said."
+
+"You have been there fifteen years."
+
+"He said we would speak to the guild."
+
+"When?"
+
+"After Easter."
+
+"It is after Easter."
+
+"Yes."
+
+"Why not ask him?"
+
+"I have."
+
+Rømer waited.
+
+"Not in that order," Anders said.
+
+This time Anders laughed first.
+
+"Under whose name?" Anders asked.
+
+Rømer showed him the page. There was no name.
+
+"You work in the professor's house," Anders said.
+
+"Yes."
+
+"Men answer your letters."
+
+Rømer looked at him. "Sometimes."
+
+"Professor Bartholin sends work to Paris."
+
+"Professor Bartholin sends his work to Paris."
+
+"You copy it."
+
+"I also copy Tycho. Neither man has complained."
+
+Anders thought Rømer was making fun of him. "Then why did you bring me down here?"
+
+"Because I wanted to see what happened."
+
+"You could have asked the professor."
+
+"I did not think of the question."
+
+This answer improved Anders's opinion of him.
+
+Rømer put more wood on the fire. "My first year here, I wrote to a man in Leiden about a bad set of observations. I signed my own name. Six months later the answer came inside a packet addressed to Professor Bartholin."
+
+"Did Bartholin write to him too?"
+
+"No."
+
+"What did he do with the answer?"
+
+"Gave it to me at breakfast."
+
+"Did he explain?"
+
+"There was nothing to explain. The man saw the name of the house in my letter."
+
+Rømer rubbed at the ink on his cuff and made it worse.
+
+"Now I send letters under the professor's seal," he said. "They answer quickly."
+
+"Under your name?"
+
+"My name is inside."
+
+"And if you leave?"
+
+"I intend to leave for a better house."
+
+He said it lightly, but began arranging Tycho's pages as soon as he had said it.
+
+"You have a shop," Rømer said. "You can try this whenever you like."
+
+"Villum owns the shop."
+
+"But he lets you work."
+
+"On spectacles."
+
+"Then we are both badly used."
+
+"You drink better beer."
+
+"That is true."
+
+Rømer looked toward the hall. "The professor dines with his brother on Thursdays. I am here with Tycho. Bring your stone next week."
+
+"Why mine?"
+
+"If we break one of his, I lose the beer."
+
+Anders agreed.
+
+*
+
+Villum was waiting when Anders returned.
+
+"Well?"
+
+"The spectacles fit."
+
+"The professor said so?"
+
+"He read without complaint."
+
+"That is not what I asked."
+
+"He said I had good hands."
+
+Villum took the coat and checked the sleeves and pockets. He smelled the collar.
+
+"Did he give you beer?"
+
+"His assistant did."
+
+"The assistant."
+
+"Ole Rømer. He works on Tycho's observations."
+
+"Of course he does."
+
+Villum hung up the coat.
+
+"I am going back Thursday," Anders said.
+
+Villum turned. "For what?"
+
+"Beer."
+
+The joke did not work.
+
+"And the crystal," Anders added.
+
+"I assumed there would be something."
 
 ## Chapter 4 — The Darkness
 
-By the sixth Thursday, Rømer no longer asked whether Anders was coming.
+On Thursdays, Anders ate supper twice.
 
-There would be a place cleared at the end of the copying table, two cups beside the beer jug, and three or four pieces of spar borrowed from their work as paperweights. Rømer finished whatever page of Tycho he had begun. Anders waited without touching anything. Then they put the dead astronomer aside and worked until the professor's carriage returned from his brother's house.
+Villum served at six. Rømer served again in the copying room, usually bread, sausage from Aarhus, and whatever he could remove from Bartholin's kitchen without causing an inquiry.
 
-At first they did the things Bartholin had already done. They laid the crystal over ink. They turned it. They stood it on each of its broad faces and marked where the second line appeared. Rømer owned a divided rule finer than anything in Villum's shop, and Anders owned the patience to begin again when a candle guttered or a card shifted. Between them they made tables that agreed.
+"The professor does not count bread," Rømer said.
 
-They also learned each other's bad habits.
+"You said that about the beer."
 
-Rømer guessed before he measured. Anders measured before he had decided what the measurement could answer. Rømer left tools wherever his hand finished with them. Anders returned each one to the same place and became unpleasant if it had moved. The first time Rømer used the fine point of a compass to clear wax from a candlestick, Anders took it from him without a word and cleaned it on his own cuff.
+"He does not count beer either."
+
+"What does he count?"
+
+"Everything I do."
+
+By the fourth Thursday, Anders had learned to arrive hungry.
+
+Rømer finished his assigned page before they began. Anders sat at the other end of the table and tried not to correct the placement of the tools. When Rømer used the point of a good compass to clean wax from a candlestick, Anders took it away.
 
 "You are not master here," Rømer said.
 
-"Neither are you."
+"It is not your compass."
 
-That became an argument about whether a borrowed instrument was more like a borrowed horse or borrowed stockings. It lasted most of an hour and settled nothing. The next Thursday Rømer had bought a cheap compass for the wax.
+"Then neither are you."
 
-They talked while their eyes adjusted to the room. Rømer talked about Aarhus, where his father traded with ships and could turn a damaged cargo into three smaller profits before breakfast. Anders talked about glass. He did not talk about the plague year or the people before Villum. Those memories had no order to them. A bed against a wall. His mother's hair stuck to her cheek. Someone carrying him under the arms while bells sounded without stopping. Then Villum's wife at the shop door saying that four years old was not old enough to be useful and taking him in anyway.
+Anders cleaned the point on his cuff and put it beside the rule.
 
-She had been wrong about the useful part. Villum found work for him before the week was out.
+The next week Rømer had bought a cheap compass for the wax. It bent on first use. He kept it anyway.
 
-On the seventh Thursday, Rømer set two crystals one behind the other and announced that the problem would yield before supper.
+On another Thursday, Rømer put a tables board between them instead of the crystals.
 
-It did not. A black dot on a card became four black dots, unless the stones were turned in certain ways, when two of them lay over each other and looked like three. The lines were beautiful and useless. Every route remained mixed with another route. Anders could not tell which stone had done what.
+"One game," he said.
 
-"More light," Rømer said. "We need sunlight."
+"I did not come for a game."
 
-"We need less."
+"You ate the sausage."
 
-Rømer looked up from the card.
+"That was supper."
 
-Anders put the first crystal back over the ink and covered half of it with his hand. "One line through one place. We keep asking the whole stone at once."
+"It was my sausage."
 
-They tried a candle behind a sheet of card with a hole pricked through it. The hole made two small lights after the first crystal, but by the time those lights entered the second, they had widened and crossed and become difficult to follow. Rømer wanted a longer room. Anders wanted a smaller hole. The copying room could not grow, so they spent the rest of the evening ruining cards.
+Anders agreed to one game.
 
-The answer, when it came, arrived in the shop inside a tarred cloth.
+He disliked the dice. Rømer said this was because Anders could not file them into obedience. Anders said it was because dice were a poor substitute for judgment.
 
-The sailor's name was Jens Lykke. He had ordered a pair of distance spectacles for a brother who served on a Dutch ship and had paid half in advance. The brother's ship had sailed early. The spectacles remained in Villum's drawer for nine months while Jens promised payment on his next return, then his next, then certainly before Advent. When he appeared in March, he brought no money. He brought a piece of spar larger than Anders's first one and clearer at the edges.
+Rømer won.
 
-"From the same coast," he said. "Worth twice what I owe you."
+"Again," Anders said.
 
-"Then sell it for twice what you owe me," Villum said. "Bring me what I owe the glass man."
+"The crystals?"
 
-"Glass breaks. This does not."
+"Again."
 
-"It cleaves if you look at it sternly."
+Rømer won the second game too. Anders discovered on the walk home that he was still adding the throws in his head. The following week he won three games and would not allow Rømer to stop after the second.
 
-Villum kept his body between Jens and the workbench. He had been cheerful with the man when he entered. That was gone now. The shop had owed the glass merchant for six weeks. Anders knew because the amount sat in Villum's ledger underlined twice, though Villum believed he did not look at the ledger.
+"I thought you disliked dice," Rømer said.
 
-Jens unwrapped the crystal again. A window frame doubled behind it.
+"I understand them better now."
 
-"Nine skillings," Anders said.
+"You roll them."
 
-Villum turned. Jens stopped smiling.
+"Not like that."
 
-"The spectacles and four more," Anders said. "I will pay the four."
+They continued to disagree about this.
 
-"From what?"
+They repeated Bartholin's experiments with two crystals. A dot became four dots. At some turns, two lay on top of each other and looked like one. They could not follow a single path through both stones.
 
-Anders did not answer.
+Rømer wanted brighter light.
 
-Villum's eyes went to the little locked box beneath the bench. He had made the box himself when Anders was twelve. It had held buttons at first, then the small coins Villum paid him for private work after his apprenticeship should properly have ended. By Easter there might have been enough in it for the guild fee, a new apron, and a used brass graver. They had not yet spoken of which master would inspect his piece. They had only begun to speak as if the inspection would happen.
+"We have too much," Anders said.
 
-"No," Villum said.
+He covered part of the first crystal with a card. That was not enough. They put a candle behind another card and pierced it with a needle. Two small lights appeared after the first crystal. By the time the lights reached the second, both had spread.
 
-"You said a stone is bought with the money meant for something else. This is the something else."
+"A longer room," Rømer said.
 
-"That was a warning."
+"A smaller hole."
 
-"I heard it."
+"The room is available now."
 
-Jens looked between them. "Should I come back?"
+"Can you make it longer?"
 
-"No," they said together.
+Rømer considered the wall. "Not before the professor returns."
 
-Villum took the spectacles out of the drawer and placed them on the counter. He counted the original deposit beside them, coin by coin, though Jens had not asked for it back.
+They made the hole smaller and ruined five cards. Anders sang under his breath while he worked.
 
-"This is the choice," Villum said to Anders. "The man takes his stone and his deposit. The spectacles remain mine to sell. Or you pay his balance and take the stone. There will be no account between the shop and this foolishness."
+"That hymn is wrong," Rømer said.
 
-It was fair. Villum was most dangerous when he was fair.
+"Villum says the same."
 
-Anders knelt, unlocked the box, and counted out the coins.
+"Villum is right often."
 
-Jens departed with the spectacles and less satisfaction than he had expected. Villum entered the payment in the ledger. He did not look at Anders while he wrote.
+"You have met him once."
 
-"Easter," Anders said.
+"It was a productive visit."
 
-"What about it?"
+They stopped when Bartholin's carriage entered the street.
 
-"You said you would speak to the guild after Easter."
+*
 
-"I said we would speak after Easter."
+The second crystal came to the shop in March.
 
-"No. You said—"
+Jens Lykke had ordered distance spectacles for his brother on a Dutch ship and paid half in advance. The ship sailed before the spectacles were ready. For nine months Jens had promised to collect them and pay the rest.
 
-"I remember what I said." Villum closed the ledger. "I also remember what I thought you wanted."
+He returned with no money and a piece of Iceland spar wrapped in tarred cloth.
 
-There were customers that afternoon, so the argument had to stop. Villum fitted a widow for near lenses while Anders ground the edge of a replacement and tried not to grind it too small. They worked politely. At supper Villum asked for the salt and Anders passed it. The locked box stayed open under the bench.
+"Same coast as the first," he said. "This is better."
 
-That Thursday the second crystal went to Store Kannikestræde in the good coat, wrapped against its own sharp corners.
+Villum kept eating his breakfast.
 
-Rømer understood the value of it at once. He did not say so. He examined each face, held it toward the candle, and fetched the divided rule. Only after Anders showed him the clear edge did he ask what it had cost.
+"I asked for coin."
 
-"Four skillings and a pair of spectacles."
+"This is worth twice the balance."
 
-"That is not what it cost."
+"Then you will have money left after you sell it."
 
-"You sound like Villum."
+"You already have a buyer."
 
-"Then your master has been right at least once."
+Jens looked at Anders.
 
-Anders began cutting cards.
+Villum put down his bread. "No."
 
-The apparatus took three weeks. They made it from things no scholar would have listed as instruments: two candle boxes, a length of straight molding from the shop, cards blackened with soot, and small wooden jaws lined with leather so the crystals could be turned without slipping. Anders made the jaws. Rømer made a scale around each one in ink and divided it into equal parts. Neither scale was quite true, so they made them again.
+Anders asked to see the crystal.
 
-At one end, a candle stood behind a card pierced with a single hole. The first stone divided that little light into two. A second card caught the two spots. They cut a narrow window around one and covered the other.
+It was larger than his first piece. One edge was clear enough to use with a narrow light. He held it over the window frame and turned it.
 
-That was the part Anders had wanted. One route continued. The other struck black card and stopped.
+"The spectacles and four skillings," Jens said.
 
-They placed the second stone in the surviving route. It divided the light again. At the far end of the molding, they marked where one chosen spot fell and cut a final window there. The rest of the light landed elsewhere on the card, faint but visible if one leaned around the box. Anders never called that light gone. It had gone where they had not asked it to go.
+"Two," Villum said.
 
-They turned the second stone.
+"Three," Anders said.
 
-The marked spot weakened. It returned. It weakened again. Near one position, it left the window empty.
+Villum stared at him.
 
-Rømer moved his face close to the far card.
+"I am helping," Anders said.
 
-"The candle is still burning," he said.
+"You helped last time."
+
+Jens folded his arms. They settled at four.
+
+"From the box," Villum said.
+
+Anders had moved the locked box to the shop after Villum promised the guild conversation. It stood under the bench beside his new apron. The guild fee was inside. So was the used graver, wrapped in cloth.
+
+"I can replace four skillings."
 
 "Yes."
 
-"The first spot is still at the middle card."
+"Before the guild meets."
+
+"If that is what you do."
+
+Anders knelt and unlocked the box.
+
+Villum saw the graver. He picked it up and turned the handle until the former owner's initials showed.
+
+"When did you buy this?"
+
+"Before Easter."
+
+"With whose advice?"
+
+"Mine."
+
+"That is clear."
+
+The point was sound. Villum tested it on his thumbnail, wrapped it again, and put it back.
+
+Anders counted out four skillings. Jens left with the spectacles.
+
+"He still owes the shop," Villum said.
+
+"He gave us the stone."
+
+"He gave you the stone. The shop made the spectacles."
+
+"You agreed."
+
+"I agreed to stop you offering six."
+
+Villum entered the transaction in the ledger. Anders watched him put the spectacles down as paid and the crystal nowhere.
+
+"The guild," Anders said.
+
+"Not now."
+
+"When?"
+
+"When four skillings are back in the box and the silver frame is done."
+
+"You did not mention the frame."
+
+"It is a journeyman's piece. I should not need to."
+
+"You have never called it that."
+
+Villum closed the ledger.
+
+A customer came in before Anders could answer. It was a widow who had sat on her spectacles. Villum was friendly with her. Anders spent the next half hour heating and bending a frame while pretending not to hear them discuss her nephew's marriage.
+
+The nephew wanted to marry the daughter of a cooper on Gammel Strand. The widow objected because the cooper drank. Villum said the daughter did not.
+
+"She will learn," the widow said.
+
+"Perhaps he will stop."
+
+"You do not believe that."
+
+"I repair spectacles. Marriages cost more."
+
+The widow laughed hard enough that Anders had to take the frame off her face.
+
+"Hold still," he said.
+
+"You used to be friendlier."
+
+"He used to sing," Villum said.
+
+"He still does."
+
+"Not where customers can hear."
+
+The widow asked Anders whether he planned to marry. He said no too quickly. She asked whether there was a particular woman refusing him or whether women had organized.
+
+"The bridge sits straight now," Anders said.
+
+"He blushes," she told Villum.
+
+"That costs extra."
+
+Villum charged her only for the new screw.
+
+At supper Villum asked for the salt. Anders passed the pepper first.
+
+"Very good," Villum said. "Now the salt."
+
+*
+
+Rømer liked the new crystal.
+
+He examined the clear edge, measured it, and asked what Anders had paid.
+
+"Four skillings."
+
+"Villum accepted that?"
+
+"After a discussion."
+
+"Did you win?"
+
+"I own the stone."
+
+"I asked whether you won."
+
+They began work.
+
+The apparatus took three Thursdays. They used two candle boxes, a straight length of molding from the shop, soot-blackened cards, and wooden jaws lined with leather. Anders cut the jaws. Rømer ruled a scale around each one. The first scale was uneven, so they scraped it off.
+
+At one end, a candle stood behind a small hole in a card. The first crystal split that light into two spots. A second card caught them. Anders cut a narrow window around one spot and covered the other.
+
+One route continued.
+
+They placed the second crystal in that route. It divided the light again. At the far end, they marked one of the new spots and cut a final window.
+
+They turned the second crystal.
+
+The chosen spot weakened. It brightened after another turn. Near one position, it disappeared from the window.
+
+Rømer leaned close to the far card.
+
+"The candle is burning."
 
 "Yes."
 
-"And there is light behind the final card. Just not here."
+"The first light reaches the middle card."
 
-"Just not here."
+"Yes."
 
-Rømer put his finger on the empty window. "Again."
+Rømer looked behind the final card. Faint light had landed away from the window.
 
-Anders turned the second crystal away, and light filled the little square. He turned it back, slowly. The square dimmed until the card looked whole.
+"It went there."
 
-They changed the candle. They cut another window. They exchanged the two crystals, which forced them to rebuild both sets of jaws because the pieces were not the same size. They worked past the sound of the professor's carriage in the street and did not hear the front door.
+"Part of it."
 
-Bartholin opened the copying-room door while Anders was kneeling under the table looking for a dropped screw.
+"Again."
 
-Rømer rose so fast that his knee struck the molding and moved the final card. The light returned at its edge.
+Anders turned the second crystal away. Light filled the small window. He turned it back until the window was dark.
+
+They changed the candle and cut another set of cards. They exchanged the stones. The second arrangement required new jaws because the crystals were different sizes.
+
+The result remained.
+
+They were rebuilding the final holder when Bartholin opened the door.
+
+Rømer stood quickly and struck the molding with his knee. The final card moved. Light appeared at one edge.
 
 "Ole."
 
 "Herr Professor."
 
-Bartholin looked at the candle boxes, the soot cards, and his assistant standing over them. Anders came out from under the table with the screw in his palm.
+Bartholin looked at the candle boxes and black cards. Anders came out from under the table with a screw.
 
-"We were repeating the refractions," Rømer said.
-
-"With the spectacle maker."
-
-"His name is Anders Pedersen."
-
-Bartholin recognized him after that, or appeared to. "The pretty question."
+"Pedersen," Bartholin said.
 
 "Yes, Herr Professor."
 
-Bartholin stepped into the room. Anders waited for Rømer to restore the final card, but Rømer was watching the professor. Anders moved it himself. The marked window went dark.
+"The two stones."
 
-Bartholin looked at the first crystal, then at the mask, and then at the second. He understood the path quickly. Anders saw the understanding arrive, which was different from surprise.
+"We separated one path so we could follow it."
 
-"You have hidden one of the refractions," Bartholin said.
+Anders returned the final card to its mark. The window went dark.
 
-"So we can follow the other."
+Bartholin examined the first mask and then the second crystal.
 
-"And the second crystal carries it elsewhere."
+"The missing light is behind the card," he said.
 
-"At this turn, yes."
+"Yes."
 
-Bartholin touched the edge of the final card. "Then you have made a dark hole."
+"Then the hole is dark because the crystal sends the light elsewhere."
 
-"It was light before."
+"At this turn."
 
-"A hole is light or dark according to where you put it."
+Bartholin turned the second crystal. The light came back.
 
-He did not say this unkindly. He adjusted the spectacles Anders had fitted and leaned nearer. Rømer began to explain the turning scale, faster than he usually spoke. Bartholin listened for perhaps half a minute.
+Rømer showed him the scale and began explaining the positions. Bartholin listened, then looked at Tycho's papers along the table.
 
-"Keep the candles from the papers," he said. "Tycho has survived enough."
+"No more open candles in this room."
 
-He went upstairs.
+"We can shield them," Rømer said.
 
-Rømer stood with both hands on the table.
+"No more."
 
-"He understood it," Anders said.
+Bartholin went upstairs.
 
-"Of course."
+Rømer sat down and rubbed his knee.
 
-"He understood it and left."
+"He looked," Anders said.
 
-"He has seen light move through spar for ten years."
+"He also ended the work."
 
-"Not this."
+"We can take it to the shop."
 
-"No. Not this."
+"Will Villum allow that?"
 
-Rømer put the apparatus back in order. The far window was dark again. "We need to know what it does between the two positions. We need a way to compare the brightness without trusting our eyes. Then we need to tell him what follows."
+"It is my apparatus."
 
-"Something has to follow before he looks?"
+Rømer looked at the molding Anders had taken from Villum's scrap and at the candle boxes from Bartholin's kitchen.
 
-"Something always has to follow."
+"Mostly," Anders said.
 
-Anders thought of the professor's study and the great slab holding down letters. "He found the second path before he knew what followed."
+They packed the cards and jaws. Anders carried both crystals.
 
-"He was a professor when he found it."
+*
 
-They packed in silence. Anders carried both crystals home because he no longer wanted one left in Bartholin's house as a weight.
+Villum was waiting at the shop table. The unfinished silver frame lay beside the ledger.
 
-Villum was awake. A single lamp burned above the shop ledger. Beside it lay the unfinished silver spectacle frame that Anders had promised to joint that evening.
-
-"The customer comes at noon," Villum said.
+"The customer comes at noon," he said.
 
 "I can finish before breakfast."
 
-"You said that last week."
+"You said you would finish tonight."
 
-Anders set down the bundle. "I made the path dark."
+Anders set down the apparatus.
 
-Villum glanced at it. "Then light it and sit."
+"We made one path dark."
 
-"The light was there. With one turn of the second stone it would not pass the same place."
-
-"Did the stone break?"
-
-"No."
-
-"Did the candle fail?"
-
-"No."
-
-"Then it went somewhere."
-
-Anders stopped. That was exactly right, and Villum had reached it in three questions.
-
-"Yes," he said. "It went somewhere. But the stone decided where."
-
-"Stones do not decide."
-
-"Then something in the light did."
-
-Villum looked tired rather than angry. That made Anders want anger. Anger could be answered.
-
-"When my wife brought you through that door," Villum said, "she told me God had spared you for some purpose. You were four, and you bit me when I washed your hair. I told her your purpose appeared to be making my life harder."
-
-Anders sat.
-
-"She was certain about you," Villum continued. "She was certain enough for both of us. Then you learned the wheel. You learned figures. You learned to fit a lens better than men with their own signs over their doors. I began to think she had been right."
-
-"This is what I learned it for."
-
-"No. You learned it so no one could send you hungry from a door."
-
-"That is what you wanted."
+"With the stones."
 
 "Yes."
 
-"It is not all I want."
+"Did you put the work away at the professor's?"
 
-Villum put his hand on the unfinished silver frame. "This was to be part of your piece."
+"He told us to."
 
-Anders had known it was fine work. He had not known that.
+"A sensible man."
 
-"The hinge is too narrow," Villum said. "The bridge must be remade. I left it because I wanted to see whether you found the faults without being told. That is what I meant to speak about after Easter."
+"He saw it."
 
-The open box under the bench came into Anders's mind. He could count what was missing without looking.
+Villum touched the silver frame. "Sit down."
 
-"I can earn it again."
+Anders stayed standing.
 
-"You can. You can also finish this by noon. But I cannot ask the guild to examine a man who leaves a customer's silver in pieces while he makes boxes for darkness."
+"This was to be your piece," Villum said.
 
-Anders reached for the frame.
+"You never told me."
 
-"Not tonight," Villum said. "Your hands are shaking."
+"I wanted to see whether you found the faults."
 
-"They are not."
-
-Villum placed a finger against the silver and held it to the table. Anders could have taken it. Instead he opened his hand and saw the tremor.
-
-He carried the crystals upstairs. He put them beside the first one and sat on the floor without taking off the good coat.
-
-Below him, Villum moved through the workshop, checking the stove and banking the fire. It was the same set of sounds Anders had heard every night since childhood. The bolt. The iron door. The scrape of ash. For years those sounds had meant that he was inside and would remain inside until morning.
-
-He took out his ledger.
-
-On one page he wrote the positions of the two stones and the size of the three openings. On the next he wrote what Bartholin had said. He left out the professor's tone because he did not know how to measure it.
-
-At the bottom he added the thing Villum had seen before either of them.
-
-The light is not destroyed. It is refused at one place and found at another.
-
-He read it twice. Then he crossed out *refused*. The word made the stone sound like a man at a door.
-
-He wrote *absent* instead.
-
-## Chapter 5 — The Third Crystal
-
-Anders finished the silver frame eleven minutes before the customer came.
-
-The bridge sat level. The new hinge opened without lifting the right temple. He had polished away the last file marks and cleaned the lenses twice. When the customer tried it on, Villum made the usual small adjustments behind each ear and accepted the balance of the payment.
-
-He did not mention the guild.
-
-Anders waited until the customer had gone. "You said there were faults you wanted me to find."
+"The hinge is narrow and the bridge sits high."
 
 "You found them."
 
-"And repaired them."
+"Then send it."
 
-"You did."
+"It is not finished."
 
-Villum entered the sale in the ledger.
+"It will be."
 
-"Is it good enough for a piece?"
+"That is what you said to the customer."
 
-Villum sanded the wet ink and tipped the powder back into its jar. "It was made for a customer."
+Anders pulled out the chair and sat.
 
-"That does not answer me."
-
-"A piece is made under an agreement with a master. We do not have one."
-
-"We did yesterday."
-
-"Yesterday I thought you meant to buy your standing. You bought a stone."
-
-Anders put away the polishing cloth. It needed washing, but he folded it into its usual square.
-
-"Can I earn the fee again?"
-
-"Of course."
-
-"Then say what I earn. Do not let me find out afterward that it was for something else."
-
-Villum looked at him. He appeared ready to answer sharply, then did not. "Four skillings to replace what you spent. The shop's orders before your own. No experiments here while work is waiting."
-
-"There is always work waiting."
-
-"Then you understand the advantage of owning a shop."
-
-"Thursdays."
-
-"What about them?"
-
-"One evening. After the shutters are closed."
-
-Villum rubbed the ink from his thumb. "One evening here. The lamp goes out at eleven. Nothing is fixed to the bench. Nothing scorches. When I go upstairs, I am finished with it. You do not wake me to look at a dark card."
-
-"Agreed."
-
-"Say all of it."
-
-Anders said all of it.
-
-On Thursday, Rømer arrived at the back door carrying their molding under his coat.
-
-Bartholin had not forbidden the experiments. This was the explanation Rømer gave while he took off his wet shoes. The professor had only said that a room containing Tycho's papers was not an optical workshop, and that the Academy in Paris would regard a burned national treasure as a poor exchange for a dark hole.
-
-"He said Academy?" Anders asked.
-
-"He said it in a sentence about fire."
-
-"But he thought of Paris."
-
-"He often thinks of Paris. It is one of the afflictions of learned men."
-
-They rebuilt the apparatus along the back wall of the shop. The molding rested on two stools and a stack of old ledgers. Villum watched Anders align the pierced card and first crystal. He had seen every part separately, but not the path assembled.
-
-"You made the jaws," he said.
-
-"Yes."
-
-"The grain runs the wrong way in this one."
-
-"It was scrap."
-
-"Scrap still has grain."
-
-Anders turned the second jaw over. Villum was right. He had cut it quickly because Rømer had been waiting.
-
-Villum went upstairs at nine. He did not ask to see the darkness.
-
-Rømer had spent the week devising ways to measure what happened between light and dark. One was a row of paper squares washed with different amounts of ink. Another was a little wheel cut into spokes, half black and half bare, which made a gray blur when spun. He was pleased with the wheel until Anders pointed out that it required one man to spin, one to turn the crystal, and another to make the comparison.
-
-"We can borrow a man."
-
-"From where?"
-
-"The university is full of them."
-
-"Can he see in the dark?"
-
-The wheel went back into Rømer's portfolio.
-
-They used the washed squares. Anders turned the second crystal one division at a time. Rømer wrote which square best matched the light at the final window. They disagreed often. At one position Anders chose the fourth square and Rømer chose the sixth. When they exchanged places, Anders chose the fifth and Rømer the fourth.
-
-"Our eyes lie," Anders said.
-
-"Not always in the same direction. That may be useful."
-
-"It may also be two men guessing."
-
-"Most tables begin there."
-
-They did the entire turn twice. The second set did not match the first closely enough. The final spot wandered as the crystal turned, and sometimes the edge of it slipped behind the card. Each time Anders moved the card, they lost the exact position they had begun from.
-
-He narrowed the wooden jaw around the second crystal.
-
-"That one is tight," Rømer said.
-
-"It slips."
-
-"Then line it again."
-
-Anders pressed the peg.
-
-The crystal gave a quiet click. A thin corner dropped onto the molding.
-
-Neither man moved.
-
-Anders released the jaw and lifted the larger piece. A clean plane shone where the corner had been.
-
-"That sound," Rømer said, "was four skillings."
-
-"It is still usable."
-
-"That is what a man says immediately before discovering the second sound."
-
-The broken piece was no longer than the first joint of Anders's thumb. He put it in his palm and looked through it at the nearest ink square. Two gray edges appeared. The chip was small, but the cleaved faces were clear.
-
-Rømer checked the clock by the bell sounding from the Church of Our Lady. "Half past ten."
-
-They set the damaged crystal back in its jaw with leather folded under the missing corner. The spot returned, but the apparatus would not hold its line. Eleven sounded while Anders was cutting a new support.
-
-Rømer put down the ink square.
-
-"The lamp," he said.
-
-"I know."
-
-"You said eleven."
-
-"To Villum."
-
-"I assumed the promise extended to clocks."
-
-Anders kept cutting.
-
-Rømer collected the loose pages. "The result will remain stupid until next Thursday."
-
-"The crystal will not remain in this jaw."
-
-"Then it will be stupid in a different jaw."
-
-Anders looked at the apparatus. The candle made its first pair of lights. One passed the mask, divided again, and sent the chosen part toward the final window. The window was pale now because the second crystal had moved. They knew how to make it dark. They did not know why the permitted route weakened as the second stone turned, or why it returned after another half-turn. They had built a better way to state the question.
-
-Rømer put on his coat. "Extinguish it."
-
-"I will."
-
-"Now."
-
-Anders pinched out the candle. Rømer waited until the wick stopped glowing, then left by the back door.
-
-The shop was not dark. Light from Villum's lamp showed beneath the door at the top of the stairs. Anders began putting away the cards. He returned the rule to Rømer's portfolio, then remembered Rømer had taken it. He stacked the washed squares. He picked up the broken corner of spar.
-
-A clean moon doubled beneath it on the wet window.
-
-He had spent weeks asking what the second crystal refused. The chip suggested a smaller question. What would happen if the light were asked something else before it reached the refusal?
-
-Anders stood still until the idea had fully arrived. Then he lit the candle again.
-
-The chip would not fit the wooden jaws. He fixed it between two pieces of card with beeswax and cut small openings on either side. He placed it after the first masked route and before the second crystal. It divided the spot. Most of the new light missed the second opening. He moved the card holder until one part passed through.
-
-At the final window, nothing appeared.
-
-He turned the chip.
-
-A narrow bar of light crossed the edge of the window and left again.
-
-Anders moved the final card to follow it. That was cheating. He knew it and did it anyway. The bar became a spot as he adjusted the chip. Then it reached the place that had been dark.
-
-The spot was weak. It was unmistakable.
-
-He took the chip out. The place went dark.
-
-He put it back. Light.
-
-He turned it a little farther. Dark again.
-
-His first thought was that the second stone had moved. He marked its corners in ink. He removed the chip and returned it without touching the rest. The light came and went. He exchanged the larger crystals and rebuilt the line. It happened again. He covered the new branch made by the chip and sent only the other one through. The useful position changed, but light returned to the final window.
-
-He began to laugh. It was not loud at first. It came out each time the spot returned, a breath he could not hold. By the fifth time he was on his knees because the final window stood below the level of the stools.
-
-The shop door above him opened.
-
-Villum stood on the stairs in his nightshirt.
-
-Anders had not called him. The laugh had.
-
-Villum looked at the lit candle, then at the apparatus. "What time is it?"
-
-"I broke the stone."
-
-"What time?"
-
-"I found it because I broke it."
-
-Villum came down two steps. "Put out the lamp."
-
-"Look first."
+"You keep moving the guild," he said.
 
 "No."
 
-"You said you would not come back down. You came down."
+"You said after Easter. Then four skillings. Now this frame."
 
-"Because I heard you."
+"All of those things are true."
 
-"Then you are here."
+"You need me here."
 
-Villum descended the rest of the stairs. He did not approach the apparatus.
+Villum did not answer at once.
 
-Anders removed the chip. The final window went dark. He replaced it at the marked angle. The light returned.
+"You think if my name goes on the sign, I will leave," Anders said.
 
-"The first stone leaves one route," Anders said. "The last will not pass it at this turn. But this piece comes between them and changes what the last one can do."
+"Your name does not require the guild to leave."
 
-"The broken piece makes another path."
+"My certificate does."
+
+"Then say you want to leave."
+
+"I want you to ask me to stay."
+
+Both men were quiet.
+
+Villum picked up the silver frame and examined the narrow hinge.
+
+"My wife brought you in," he said. "I told her four was too young to be useful."
+
+"I know."
+
+"You bit me when I washed your hair."
+
+"You pulled it."
+
+"You had lice."
+
+"That does not improve the story."
+
+"It improves my part."
+
+Anders almost laughed. He was still too angry.
+
+"She wanted you," Villum said. "I learned to."
+
+"And the shop learned to need me."
 
 "Yes."
 
-"And you choose one part of that path."
+The answer came too quickly for Anders to use against him.
+
+Villum pushed the frame across the table.
+
+"Finish what you promised. Put the four skillings back. Then we speak to the guild."
+
+"And if I do?"
+
+"Then we speak."
+
+"That is not the same as asking them."
+
+"No."
+
+Anders took the frame upstairs. His hands were shaking, so he did not work on it.
+
+He entered the new positions in his ledger. Twice he wrote the wrong number and scraped it out. Below him, Villum banked the fire and checked the front bolt.
+
+At half past two Anders stopped trying to write and went to bed.
+
+## Chapter 5 — The Third Crystal
+
+Anders finished the silver frame before noon.
+
+The bridge sat level. The new hinge opened cleanly. Villum inspected both and put the frame in its case.
+
+The customer was a brewer who had broken three frames in two years. He put on the new pair, opened and closed both temples, and complained that the right one pressed above his ear.
+
+Anders adjusted it.
+
+"Too loose now," the brewer said.
+
+Anders adjusted it back by less than the width of the hinge.
+
+"Better."
+
+The brewer read the largest line on the test sheet and then the smallest. He paid without asking Villum to reduce the price.
+
+"Who made the bridge?" he asked.
+
+"Anders," Villum said.
+
+The brewer looked at Anders's hands. "Thin."
+
+"It will hold."
+
+"The last one held until I sat on it."
+
+"This one will do the same."
+
+The brewer laughed and left wearing the spectacles.
+
+Villum watched through the window until he had crossed the street.
+
+"You could have said they would survive him," he said.
+
+"They will not."
+
+"Customers pay for hope."
+
+"Not enough for that much."
+
+"The four skillings?" he asked.
+
+Anders showed him the box.
+
+Villum counted the coins and found the graver underneath.
+
+"Do not count that again," Anders said.
+
+"I did not count it the first time."
+
+Villum closed the box.
+
+"Next month," he said.
+
+"The guild?"
+
+"I will speak to Mester Holm next month. If you keep the orders current."
+
+"And Thursdays?"
+
+Villum looked toward the crystal apparatus stacked against the back wall.
+
+"One Thursday here. The lamp goes out at eleven. Nothing fixed to the bench. No scorched cards. When I go upstairs, you do not wake me."
+
+"Agreed."
+
+"Even if God himself appears in one of the holes."
+
+"I would wake you for that."
+
+"Then we do not have an agreement."
+
+Anders agreed not to wake him for God.
+
+*
+
+Rømer arrived at the back door with wet shoes, the long piece of molding under his coat, and a paper wheel he had made during the week.
+
+He arrived before Villum had finished supper. There was cabbage and a small piece of pork left in the pot. Rømer accepted a bowl.
+
+"This is better than the professor's table," he said.
+
+Villum looked at the thin broth in Rømer's bowl. "Then you should leave his house immediately."
+
+"I have considered it."
+
+"Do you pay him rent?"
+
+"I work."
+
+"That was not the question."
+
+Rømer ate the pork before answering. "No."
+
+"And he feeds you."
+
+"Usually."
+
+"And sends your letters."
 
 "Yes."
 
-"Then the last stone sends part of it through your hole."
+Villum nodded. "Terrible conditions."
+
+Anders knew Villum had meant him to hear this. Rømer did not.
+
+"His stair is unsafe," Rømer said.
+
+"There it is."
+
+After supper, Villum stayed long enough to inspect the paper wheel.
+
+The wheel had alternating black and white spokes. When he spun it, they blurred into gray.
+
+"We compare the light to this," he said.
+
+"Who spins it?"
+
+"One of us."
+
+"Who turns the crystal?"
+
+"The other."
+
+"Who compares the light?"
+
+Rømer stopped the wheel.
+
+"Villum?"
+
+"Ask him."
+
+They used paper squares washed with different amounts of ink.
+
+Villum watched them rebuild the apparatus on two stools along the back wall. He corrected the grain in one wooden jaw and then returned to the ledger.
+
+"It was scrap," Anders said.
+
+"Scrap has grain."
+
+At nine, Villum went upstairs.
+
+Anders turned the second crystal one division at a time. Rømer chose the ink square that looked closest to the final light. They disagreed often. When they exchanged places, they disagreed with their earlier choices.
+
+"I chose four before," Rømer said.
+
+"You chose six."
+
+"I wrote four."
+
+"Then you wrote it wrong."
+
+Rømer checked the page. He had written six.
+
+"The light may have changed."
+
+"Your memory changed."
+
+"Write that in the table."
+
+They repeated the turn. The final spot moved as the crystal turned. Sometimes its edge slipped behind the card, which changed the brightness more than the turn did.
+
+Anders tightened the wooden jaw.
+
+"Too much," Rømer said.
+
+"It keeps slipping."
+
+"Line it again."
+
+Anders pressed the peg.
+
+The crystal clicked.
+
+A thin corner fell onto the molding.
+
+Rømer and Anders looked at it.
+
+"Four skillings," Rømer said.
+
+"Not all four."
+
+"How much is that corner?"
+
+"Be quiet."
+
+The larger piece still worked. The broken corner was clear and about as long as the first joint of Anders's thumb. He held it over one of the ink squares. Two edges appeared.
+
+The Church of Our Lady sounded the half hour.
+
+"Ten thirty," Rømer said.
+
+They lined the damaged crystal with folded leather and tried again. It shifted after two turns. Anders began cutting a new support.
+
+Eleven sounded.
+
+Rømer gathered the papers.
+
+"Leave it," Anders said.
+
+"I am."
+
+"The support."
+
+"It will still be wrong next Thursday."
+
+"I can finish it in ten minutes."
+
+Rømer put on his coat. "Do not make me explain your promise to Villum."
+
+"You are not part of it."
+
+"Good."
+
+Anders put out the candle. Rømer waited until the wick stopped glowing and left.
+
+Light still showed beneath the door at the top of the stairs. Villum had not gone to bed.
+
+Anders stacked the cards and put the washed squares in order. He found the broken piece under the molding.
+
+The moon in the shop window doubled through it.
+
+He held the piece over the first crystal's selected spot. The little chip divided that light too.
+
+Anders looked at the staircase. Villum's lamp was still on.
+
+He relit the candle.
+
+The chip did not fit any jaw. He fixed it between two pieces of card with beeswax and cut a small opening on either side. He placed it after the first masked route and before the second crystal.
+
+The chip divided the spot. Most of the new light missed the next opening. Anders moved the holder until one branch passed through.
+
+The final window remained dark.
+
+He turned the chip.
+
+A narrow bar of light crossed one edge of the window.
+
+Anders moved the final card to follow it. He knew this changed the test, but he needed to find the light before he could fix the line. He adjusted the chip and found the spot.
+
+He returned the final card to its old mark.
+
+The spot remained there, weak but visible.
+
+Anders removed the chip. The window went dark.
+
+He replaced it. Light.
+
+He turned it farther. Dark.
+
+He marked the corners of both large crystals in ink. He took the chip out and returned it without moving the other pieces. The light came back.
+
+Then he exchanged the large crystals and rebuilt the path. The useful position changed, but the third piece brought light through the final window again.
+
+Anders laughed once. On the next repetition he laughed again.
+
+The wax holding the chip softened near the candle. It tilted and the spot disappeared. Anders pressed the cards together and burned his thumb.
+
+He sucked the burn, reset the chip, and tried again.
+
+Light.
+
+He changed the first mask. Light.
+
+He put the soot-black card behind the last window and checked that no glow leaked around it. The spot remained.
+
+He wrote the three positions on the nearest clean paper. His hand left a streak of wax beside the figures.
+
+The upstairs door opened.
+
+Villum stood on the stairs in his nightshirt.
+
+"What time is it?"
+
+"I broke the stone."
+
+"I heard that part."
+
+"No. I found something with the piece."
+
+"Put out the lamp."
+
+"Look once."
+
+"We had an agreement."
+
+"You are already awake."
+
+Villum came down.
+
+Anders removed the chip. The window went dark. He replaced it at the marked turn. The light returned.
+
+"Again," Villum said.
+
+Anders repeated it.
+
+Villum inspected the masks and looked behind the final card. He turned the last crystal himself.
+
+"It is real," Anders said.
 
 "Yes."
 
-Villum had understood again. Anders wanted him to say the next thing without being led.
+"The middle piece changes what reaches the last."
 
-"It was dark," Anders said.
-
-"I saw."
-
-"And now it is light."
-
-"I saw that too."
+"It divides it again."
 
 "No one has done this."
 
-Villum looked toward the front window. The shutters were closed, but light showed at their edges.
+"You do not know that."
 
-"I want you to say what it is," Anders said.
+"Bartholin did not."
 
-"It is after eleven."
+"Bartholin did not put it in his book."
 
-"That is not what it is."
+Anders waited.
 
-"It is work you promised not to do."
+"It matters," Villum said. "And you broke the stone and stayed past eleven."
 
-"You think it is real."
+"I can do both."
 
-"Yes."
+"You did both."
 
-The answer stopped him.
+"Then what do you want?"
 
-Villum picked up the unfinished jaw and turned it so the grain showed. "You think I cannot see because I do not want what you want. I see it. I see three stones and holes cut in card. I see that a light missing from one hole returns when you change the route between. I also see a customer wait while you sleep tomorrow. I see four skillings broken in half. I see you ask for an agreement and break it on the same day."
+"Tomorrow's work done tomorrow."
 
-"The thing does not become less true because I stayed up."
+Villum picked up the broken corner.
 
-"No. You become less trustworthy."
+"Do you think Jens gives refunds?"
 
-Villum pinched out the lamp.
+"No."
 
-They stood in the smell of the wick. The moonlight at the shutters was too faint to pass through the apparatus.
+"Pity."
 
-"Go to bed," Villum said.
+He put the chip back in its wax holder.
 
-Anders remained until Villum climbed the stairs. Then he felt along the molding and lifted the chip from its wax. He put it in his pocket.
+"The lamp," he said.
 
-Rømer returned before breakfast, wet-haired and missing one glove. Anders had sent a boy from the bakery with a note at dawn.
+Anders extinguished it.
 
-They rebuilt the path on the counter because Villum had put the stools away. Rømer did not congratulate him. He made Anders show each mask and each mark. He removed the third piece, turned the final crystal through a full circle, and found the dark place again. Then he replaced the chip himself.
+*
+
+At dawn, Anders paid the baker's boy to carry a note to Store Kannikestræde.
+
+Rømer arrived before breakfast. His hair was wet, and he wore one glove.
+
+"Where is the other?" Anders asked.
+
+"Not here."
+
+"I can see that."
+
+"Show me."
+
+They rebuilt the path on the counter. Villum had put away the stools. Rømer checked every mask and mark before he let Anders insert the third piece.
 
 The light returned.
 
-Rømer did it four times. On the fifth, he sat back on his heels.
+Rømer repeated the test with a different candle. He exchanged the large stones and found the position again.
 
 "Interesting," he said.
 
-Anders stared at him.
+Anders looked at him.
 
-"What?"
+"Do not start."
 
-"That is what the professor says."
+"That is what the professor said."
 
-"It is interesting."
+"The professor was right. It is interesting."
 
-"It was impossible yesterday."
+"It was dark. We added another stone. It became light."
 
-"No. We failed to do it yesterday. That is not the same."
+"I am present."
 
-"What would be enough for you?"
+"What is missing?"
 
-Rømer looked at the little piece of spar in its wax. "A table that survives a different candle. A fixed line. A way to name the turns. Some account of what changes after the first stone."
+"Fixed holders. Better marks. A comparison that is not two tired men choosing gray paper."
 
 "You saw it."
 
-"I am trying to keep what I saw alive for more than a morning."
+"Yes."
 
-The front bell rang. Before Villum could come down, Rømer lifted the molding off the counter. Anders took the candle box. They carried the pieces into the back room while Villum admitted a university clerk in a fur-trimmed coat.
+The answer helped more when Rømer gave it plainly.
 
-The man wanted spectacles for his wife. He also knew Rømer.
+The front bell rang. They carried the apparatus into the back room while Villum admitted a university clerk in a fur-trimmed coat.
 
-"Herr Rømer. I heard the professor had you making optical instruments now."
+The clerk needed spectacles for his wife. He recognized Rømer.
 
-Rømer glanced at Anders. "Pedersen made the instrument."
+"Herr Rømer. I hear Professor Bartholin has you building instruments."
 
-The clerk had already turned to the counter. "Master Pedersen?"
+"Pedersen built this one," Rømer said.
 
-Villum said, "There is no Master Pedersen here."
+The clerk looked toward Villum. "Master Pedersen?"
 
-Anders stood in the back doorway holding the candle box.
+"There is no Master Pedersen here," Villum said.
 
-"The apprentice, then," Rømer said. "The experiment is his."
+Anders stood in the back doorway holding a candle box.
 
-"Very good," the clerk said, though he had not looked around.
+"Anders Pedersen," Rømer said. "The experiment is his."
 
-Villum began asking how far the man's wife held her sewing. The conversation moved on. Rømer opened his mouth once and closed it.
+"Very good."
 
-Later, on the first clean page of their ledger, he wrote:
+The clerk did not turn around.
 
-*Experiment with three crystals, conducted in the workshop of Mester Villum, by Anders Pedersen and Ole Christensen Rømer.*
+Later, Rømer opened their ledger and wrote:
 
-He handed Anders the pen.
+*Three-crystal experiment. Found by Anders Pedersen. Repeated by Ole Rømer.*
 
-Anders struck out Rømer's name.
+Anders read it.
 
-"That is childish," Rømer said.
+"You were not here when I found it."
 
-"You called it interesting."
+"That is what I wrote."
 
-"And I was here."
+"Your name is larger."
 
-"Not when I found it."
+"My name has more letters."
 
-Rømer took the pen back. Beneath the crossed-out name he wrote his own again, smaller.
+Anders took the pen and rewrote his own name more heavily.
 
-"If you want the page answered," he said, "leave someone on it who can send it."
+"Now it looks childish," Rømer said.
 
-Anders looked through the doorway. Villum had the clerk hold a printed prayer at sewing distance while he tried the first pair of lenses. He was patient with the man. His voice gave nothing away.
+"It looked childish before."
 
-"Then send it," Anders said.
+"Shall I remove mine?"
 
-Rømer sanded the page. "When the table is good."
+Anders considered the question.
 
-That afternoon Anders copied the entry into his private ledger. He put only his own name on it.
+"No."
 
-He also wrote the promise he had broken, though he put it in the margin and used fewer words.
+Rømer sanded the page.
+
+That afternoon Anders copied the experiment into his private ledger. He used the same wording and made both names the same size.
+
+He had slept less than two hours. During the afternoon he punched a hinge hole in the wrong side of a brass strip.
+
+Villum examined it.
+
+"You can cut it down for a child's frame," Anders said.
+
+"We do not have an order for a child."
+
+"We will."
+
+"Customers do not arrive to rescue scrap."
+
+Villum dropped the strip into the cup.
+
+"Go upstairs for an hour."
+
+"I am working."
+
+"You are making inventory for imaginary children."
+
+Anders went upstairs. He took the private ledger with him.
+
+He meant to review the positions before sleeping. He woke near dusk with his face against the page and a line of dried ink across his cheek.
 
 ## Chapter 6 — Paris Takes Him
 
-For three months, Thursdays belonged to France.
+For three months, Rømer missed more Thursdays than he kept.
 
-Rømer still came when he could, but he no longer arrived with empty pockets and an appetite. He brought lists. A French quadrant needed a new screw. A clock case would not close in damp weather. Professor Picard wanted the old measurements from Tycho's northern wall compared with the new plan of the ruins. Did Anders know a brass worker who did not lie about delivery? Could Villum grind two small lenses to a French curve before Saturday?
+Jean Picard had arrived from France with clocks, telescopes, a quadrant, and a list of work. When Rømer came to the shop, he brought part of the list. A clock case would not close in damp weather. A screw on the quadrant needed replacing. Picard wanted two small lenses ground to a French curve before Saturday.
 
-The Frenchman had come to measure where a vanished building had stood.
-
-Anders did not understand the value of this until Rømer explained it. Tycho Brahe had measured the sky from Hven for twenty years. Paris wanted those measurements, but a star seen from one place crossed the instruments at a different time than it did from another. Before the old numbers could be joined to new ones, the learned men needed the exact distance between Tycho's observatory and theirs.
+He had come to determine the position of Tycho Brahe's old observatory on Hven. Paris wanted to compare Tycho's observations with new ones. To do that, Picard needed the distance between the vanished observatory and Paris more exactly than any map gave it.
 
 "They know the island is there," Anders said.
 
@@ -1040,17 +2226,13 @@ Anders did not understand the value of this until Rømer explained it. Tycho Bra
 
 "It has not moved."
 
-"Not enough to trouble a fisherman."
-
-"But enough to trouble Paris."
-
-"That is nearly the definition of Paris."
+"No. That helps."
 
 Picard had brought two clocks, a quadrant with a telescope fixed to it, a sector, and long tubes that took two men to move safely. He inspected each instrument after the voyage. Rømer inspected them after Picard. Then he brought the damaged pieces to Klosterstræde and asked Anders to inspect what they had both missed.
 
-Villum liked the French work. He did not like the haste.
+Villum liked the French payments and complained about the French deadlines.
 
-"Men who cross a sea believe the sea has paid their bill," he said after Rømer left another request on the bench. "Saturday is Saturday in Paris too."
+"Saturday," he said after Rømer left another request, "is the day after tomorrow in Denmark."
 
 Still, he took the orders. The payments arrived under Bartholin's seal and were entered in the ledger without delay. For the first time since Anders had bought the second crystal, the box beneath the bench held more than it had before.
 
@@ -1078,7 +2260,7 @@ Villum listened from the workbench.
 
 "The Academy pays Picard. Picard pays for what he needs."
 
-"That is a long road between a hand and a coin."
+"That sounds slow."
 
 "Two marks," Rømer said. "One now."
 
@@ -1110,7 +2292,7 @@ Anders said, "I will."
 
 The crossing took longer than Rømer had promised and made Anders sick over the side twice. Hven sat low in the water ahead of them. Farms and church land rose green from the shore. Nothing in the view announced that the most famous observatory in Europe had once stood there.
 
-Rømer was kind enough not to mention the sickness until Anders could stand.
+Rømer waited until Anders could stand before mentioning the sickness.
 
 "Tycho kept a tame elk," he said as they climbed from the landing.
 
@@ -1124,11 +2306,15 @@ Rømer was kind enough not to mention the sickness until Anders could stand.
 
 Anders stopped on the path. "That cannot be true."
 
-"Then Paris has already improved you."
+"I thought you would like that part."
+
+"I do. I do not believe it."
+
+"Those are separate pleasures."
 
 Uraniborg was less than a ruin. Local people had taken much of the stone. Grass covered the rest. Picard's men had opened parts of the ground to find the old foundations, and the lines of the former house showed as trenches and patches of broken masonry. A wooden shelter stood near the center with a slit in its roof. Instruments crowded the shelter and the ground around it. Clock cases sat on planks above the damp. A telescope tube longer than the shop lay under oiled cloth.
 
-Anders had expected something grander. He had also expected less work.
+Anders had expected more stone and fewer people carrying boards.
 
 Jean Picard wore a priest's black coat under a heavier traveling coat. He was not old, but he had the narrow, dried look of a man who forgot meals without suffering from it. He took Anders's hand when Rømer introduced him and turned it palm upward.
 
@@ -1168,9 +2354,9 @@ He said the word to Rømer.
 
 Rømer translated it though Anders had understood.
 
-They worked until sunset. Picard wanted the clocks compared, then compared again. He wanted the telescope's line checked against the quadrant. He wanted the wooden pier tested for movement after each man stepped away from it. Nothing was trusted because it had worked once.
+They worked until sunset. Picard wanted the clocks compared, then compared again. He wanted the telescope's line checked against the quadrant. He wanted the wooden pier tested after each man stepped away from it.
 
-Anders recognized this part. The scale was larger and the language belonged to universities, but the labor was familiar. A measurement had to survive the hand that wanted it.
+Anders knew this kind of work. Picard checked people as often as he checked instruments.
 
 After dark, Jupiter appeared above the opened roof.
 
@@ -1212,7 +2398,7 @@ He went back to the instrument.
 
 The eclipse came later than Anders expected. Nothing crossed in front of anything. One of the small points merely weakened and vanished. Rømer called the instant. A man at the clock called a number. Picard repeated it. Rømer wrote.
 
-Then they waited for the next useful thing in the sky.
+Then they waited.
 
 Cold entered through the open roof. Anders stood outside the shelter and looked at the dark foundations. Tycho had built a house here for measuring everything. Kings had visited it. Emperors had sent gifts. Now a French priest had crossed the sea and dug trenches to learn exactly where the house had been.
 
@@ -1236,6 +2422,20 @@ Anders took the cup. "Bartholin agreed?"
 
 "September."
 
+Anders looked at the bag Rømer had brought from Copenhagen.
+
+"How many shirts are in there?"
+
+"Two."
+
+"You came to repair a telescope."
+
+"A man should have a second shirt."
+
+"On a one-day trip."
+
+"It has been useful."
+
 Anders drank. The beer was too hot and tasted of iron from the pot.
 
 "You did not tell me."
@@ -1244,13 +2444,17 @@ Anders drank. The beer was too hot and tasted of iron from the pot.
 
 "After I came here."
 
-"I wanted you to see it."
+"I wanted you to see the work."
 
-"The ruins?"
+"You wanted me to understand why you said yes."
 
-Rømer looked back through the shelter door. Picard stood over the clock while another man read the quadrant. "The road."
+"That too."
 
-There was no boast in it. That made the distance between them harder to resent.
+"You had already said yes."
+
+Rømer looked back through the shelter door. Picard stood over the clock while another man read the quadrant.
+
+"Not aloud," he said.
 
 The wind changed before dawn. The supply boat did not leave. By noon the water between Hven and the Danish coast was white and steep. Anders stood at the landing with his tool roll while a fisherman explained that a councilman's daughter could be the king's daughter and he still would not take a small boat into that water.
 
@@ -1274,11 +2478,19 @@ Rømer remained on Hven through the winter. When ice stopped the regular boats, 
 
 He earned back the four skillings. He earned the guild fee. Villum accepted the coins but did not arrange the examination.
 
-In April, Rømer returned to the shop carrying a French clock screw wrapped in paper and news he could not keep from his face.
+In April, Rømer returned to the shop carrying a French clock screw wrapped in paper. He had also bought new boots.
 
-Paris had agreed to take him.
+"Your father?" Anders asked.
 
-He would leave with Picard in May. There would be work at the new observatory and men whose names were on the books in Bartholin's hall. Cassini. Huygens. The Academy would pay him. Not much, Rømer said, but enough that his father's money would no longer be the difference between study and hunger.
+"Picard."
+
+"He bought you boots?"
+
+"He paid me."
+
+Rømer put one foot on the bench rail so Anders could inspect the leather. Then he announced that Paris had agreed to take him.
+
+He would leave with Picard in May. There would be work at the new observatory. Cassini and Huygens attended the Academy. The pay was not much, but Rømer would no longer need money from his father.
 
 Anders closed the shop for midday and bought beer. Villum did not object. The three of them drank at the bench among the trays of lenses.
 
@@ -1302,17 +2514,21 @@ Rømer read every page.
 
 Rømer did not answer immediately.
 
-"You said his name before you ever met Picard," Anders continued. "You said a result needed a name fastened to it. He can give it one."
+"You will be in the same Academy," Anders said.
 
-"Huygens can give his own name to anything he pleases."
+"So will a hundred men who want him to read something."
 
-"Then show him mine."
+"This is twelve pages."
 
-"I will show him when I can make him look."
+"That will comfort him."
+
+"Show him."
+
+"I will try."
 
 "That is not a promise."
 
-Rømer folded the packet along its old crease. "All right. I promise I will put this in front of a man who can answer it."
+Rømer folded the packet along its old crease. "I promise I will put it in front of someone who can answer it."
 
 "Huygens."
 
@@ -1322,7 +2538,13 @@ Rømer folded the packet along its old crease. "All right. I promise I will put 
 
 "And on my first day they may ask me to wind clocks."
 
-Anders knew this was true. He hated that Rømer could use the truth to weaken any promise.
+Anders took the packet back.
+
+Rømer held on to the other end.
+
+"I said I would try."
+
+Anders let go.
 
 "Write to me," he said.
 
@@ -1340,9 +2562,17 @@ Rømer put the packet inside his coat.
 
 At the door, he took Anders by the shoulders and kissed his cheek. It was how learned men and merchants parted after wine. They had never done it.
 
-"Keep the third piece safe," Rømer said.
+"Do not lose the third piece," Rømer said.
 
-"Keep the pages safer."
+"You lose more things than I do."
+
+"I find them eventually."
+
+"You never found the glove."
+
+"I know where it is. It is on Hven."
+
+"That is not finding it."
 
 Rømer left with Picard in May.
 
@@ -1352,552 +2582,2433 @@ It contained three pages about Paris, two figures of a new micrometer, and no me
 
 ## Chapter 7 — Do It Again
 
-Karen came to the shop on a wet Tuesday carrying her father's daybook under her cloak.
+Karen Madsen came to the shop on a wet Tuesday carrying her father's daybook under her cloak. The lower corner had got wet anyway.
 
-Villum had bought six rounds of Venetian glass in November. Three were clear enough for spectacles. Two held bubbles near the edge and could be cut down. One had a pale cord through the middle and was useful only for small lenses. Villum had entered the bad round at half price, as agreed with the carter. The account sent by the merchant charged full price for all six.
+She laid it on the counter and pulled a chair close to the stove.
 
-Karen put the daybook on the counter and opened it to a ribbon.
+"If the figures run, I shall blame you," she said.
 
-"My father says the account stands," she said.
+Villum looked at the rain on the window. "I ordered a dry day."
+
+"You have been sent the wrong one."
+
+Anders kept his foot on the grinding wheel. He had not seen her before. She was perhaps his age, and the ribbon holding her hair was blue enough to be expensive. He looked back at the lens before she noticed him looking.
+
+Villum had bought six rounds of Venetian glass from her father in November. Three had been good. One had a pale cord through its middle. The last two were smaller, both with bubbles near an edge. Villum had entered the poorer pieces at reduced prices. Mads's account charged him for six sound rounds.
+
+"My father says the account stands," Karen said.
 
 "Your father was not in the cart."
 
 "Neither was I."
 
-"Then we have established who did not see the glass."
+"Then we have found two innocent people."
 
-Anders kept his head over the wheel. The exchange had begun in the ordinary way. A merchant sent a son or clerk to insist upon a number. Villum produced his own ledger. The two men found a way to divide the insult and call it arithmetic.
+She did not smile. She opened the daybook to the wet ribbon and showed Villum three figures copied onto a separate sheet.
 
-Karen was neither son nor clerk. Villum had not found a place for her yet.
+"The shipment weighed thirty-one pounds when it left the quay. Your ledger gives twenty-eight."
 
-"The carter marked one round faulty," she said.
+"My ledger gives the weight when it reached the shop."
 
-"Then your father can read his own book."
+"Three pounds vanished between the quay and this room?"
 
-"One, yes. You have entered three."
+"Part of the crate did."
 
-Villum brought out the shop ledger. Anders stopped the wheel. He knew the line. He had unloaded the crate and held each round toward the winter window while Villum inspected it.
+Karen looked at him.
 
-Karen read Villum's entry. She read the merchant's entry again. Then she turned back two pages in her father's book.
+Anders stopped the wheel. "The bottom split when we lifted it down. We carried the glass inside and left the broken boards with the carter."
 
-"What are you looking for?" Villum asked.
+"How much did the boards weigh?"
 
-"The weight."
+"We did not weigh them."
 
-"Glass is sold by the round."
+"Of course not."
 
-"Freight is not."
+She crossed out the first line of her sheet. The stroke tore the damp paper.
 
-She found the shipment as it had been received at the quay. Beside the six rounds was a weight, and below it a second weight entered when the empty crate was returned.
+Villum went to the shelf for his ledger. "Did your father send you with an argument that depended on my crate?"
 
-"Your carter charged us for carrying thirty-one pounds," she said. "The quay clerk received twenty-eight, including the wood and straw."
+"He sent me for the money."
 
-"Then he dropped three pounds into the harbor."
+"That was unkind of him."
 
-"Or three of the rounds were cut smaller before they came here."
+"He said that if I brought back the full balance without an error, I could keep the Lübeck glass account next quarter."
 
-Villum leaned over the daybook.
+"Then you should not have told me about the error."
 
-Karen placed one finger beside a figure. "The carter marked one *broken*. He did not mark one faulty. My father's clerk copied the word as a loss, charged you for six sound rounds, and charged us freight for what was missing."
+"You noticed it."
 
-"I received six."
+"Anders noticed it. I was considering whether the missing weight might be rats."
 
-"Because the broken round was replaced by two smaller ones. These two." She touched Villum's ledger. "You called them bad because they were not full size."
+Anders had heard this answer whenever weight went missing. Villum was pleased with it every time.
 
-"They also had bubbles."
+Karen waited while Villum found the entry. Anders dried his hands and came to the counter. He remembered the shipment because one of the small pieces had cut through its straw. He had wrapped his thumb for four days.
 
-"Then they may be bad as well. That is a different argument."
+"Here," he said. "One round broke before it reached Copenhagen. The carter brought these two pieces in its place."
 
-Villum read both pages for a long time.
+"Pieces?"
 
-"What does your father say?" he asked.
+"They had been cut round again. Together they were about the size of one."
 
-"He has not seen this page."
+Karen read the carter's note. The word could have been *broken*. It could also have been *replaced*. The hand was hurried and the ink had faded.
 
-"You came to collect an account he had not checked?"
+"Then you received five rounds," she said.
 
-"He checked the total. He sent me to explain that it stands."
+"Six pieces," Villum said.
 
-"And now?"
+"You ordered six rounds."
 
-"Now it does not."
+"Which is why I did not pay full price."
 
-Villum looked at her differently. "Can you alter it?"
+Karen turned to a fresh part of her sheet. She began the account again. This time Anders stood beside her and told her what he remembered as she reached each line. She asked twice whether he was certain about the cord in the largest piece. The second time he brought the glass from the back and held it toward the window.
 
-"I can take it back."
-
-"That was not what I asked."
-
-"It is what I am permitted."
-
-Rain ticked against the front window. Anders had allowed the wheel to stop. The lens in his fingers was dry.
-
-Karen glanced toward him. "Will that spoil?"
-
-"Not if I wet it again."
-
-"Then you might do that."
-
-He wet it again.
-
-Villum and Karen rebuilt the account. She did the figures in a narrow hand, making each column before she entered anything in it. Villum argued for the half price he had been promised. Karen allowed the two undersized rounds at half, the corded one at three quarters, and removed the excess freight. The balance came out eleven skillings lower than either ledger.
-
-"My father will object to the corded round," she said.
-
-"Bring him the glass."
-
-"He will say you changed it."
-
-"Do you think I did?"
-
-"No."
-
-"Why?"
-
-"You entered the flaw before you received his account. A dishonest man would have waited to see which lie was cheapest."
-
-Villum laughed. It was the first time Anders had heard him laugh since before the second crystal.
-
-Karen closed the daybook. "That was not praise."
-
-"It was near enough."
-
-Villum gave her the bad glass wrapped in sacking. Anders held the door while she arranged the bundle under one arm and the book under the other.
-
-"You missed a mark," he said.
-
-She stopped.
-
-He pointed to the outer edge of the daybook page. A little cross had been drawn beside the shipment in faded ink.
-
-"That means my father checked the sum."
-
-"You made the cross."
-
-"How would you know?"
-
-"The downstroke bends left. Your figures do the same."
-
-Karen looked at the mark and then at him. "You watch hands."
-
-"It is my work."
-
-"Your work appears to be listening while pretending not to."
-
-She went into the rain.
-
-*
-
-She returned two days later with the corrected account and her father.
-
-Mads was a large man with a careful beard and a way of speaking to Villum that turned every concession into a favor he had decided to grant. He accepted the bad glass. He blamed the carter, then the quay clerk, then damp weather. He did not blame his own clerk and did not mention Karen's arithmetic.
-
-"Fortunately I found the confusion," he said.
-
-Karen stood half a step behind him.
-
-Anders watched her face. Nothing in it changed. She looked at the shelves, the grinding wheel, and the rows of finished frames. When her father and Villum began discussing a new shipment, she moved toward the back table.
-
-The three crystals lay there under cloth. Anders no longer kept them upstairs. He had built a case with separate beds for each piece and a place for the masks. Villum had objected to the use of good walnut, then shown him how to fit the lid so damp air would not enter at the hinge.
-
-Karen lifted the corner of the cloth.
-
-"Do not touch that."
-
-"I was not touching it."
-
-"You were deciding whether to."
-
-"Is that also your work?"
-
-Anders came around the wheel. "This is Iceland spar."
-
-"I know what it is. My father had a piece two years ago. He sold it to a councilor who wanted to show two coins where there was one."
-
-"That is what most men do with it."
-
-"What do you do?"
-
-"Something else."
-
-Karen waited. She was good at it.
-
-He showed her after the shop closed.
-
-She did not say yes at once. She went home with her father, then returned alone at eight with a note giving his permission for her to collect the revised ledger copy. Villum read the note, looked at Anders, and went upstairs without comment.
-
-Anders lit the apparatus. He explained the first split and the covered route. He turned the final crystal until the marked window went dark. Then he put in the small middle piece and brought the light back.
-
-Karen bent near the final card. "Do it again."
-
-He did.
-
-"Slower."
-
-He removed the middle piece. Darkness. He replaced it. Light.
-
-"The candle moved."
-
-"It did not."
-
-"The flame moved."
-
-"Flames do that."
-
-"Then how do you know the piece did it?"
-
-Anders pointed to the first card. "The opening fixes the line."
-
-"The light was brighter the second time."
-
-"It varies."
-
-"Then your comparison varies."
-
-"I have done this hundreds of times."
-
-"That is not an answer."
-
-He thought of Bartholin's stair and heard his own anger in the sentence before he spoke it. "You have seen it twice."
-
-"Yes."
-
-"And already you know what is wrong?"
-
-"No. I know what I would ask if this were an account."
-
-"Light is not an account."
-
-"Then you do not need the tables."
-
-She had found Rømer's sheets beside the case. Anders took them from her and set them farther from the candle.
-
-"These positions repeat," he said. "At this turn, dark. With the middle stone at this turn, light."
-
-"Do they repeat if you exchange the large stones?"
-
-"Yes."
-
-"Show me."
-
-He had done it with Rømer. The result was in the ledger. Rebuilding the jaws took time, and Mads's corrected account sat on the front counter waiting to be copied. Anders nearly told her to come another evening.
-
-Instead he exchanged the crystals.
-
-The chosen route now fell above the middle opening. He moved the card. The final spot fell below its old mark. He moved that too. Karen stood by the candle and shielded it each time he passed.
-
-He found the dark position. He inserted the chip.
-
-The light did not return.
-
-"You said it would."
-
-"The small piece is turned for the other order."
-
-"Then turn it."
-
-He turned it. A faint spot crossed the window and disappeared.
-
-"There."
-
-"It is gone."
-
-"It passed."
-
-"Do it again."
-
-He found it again. This time he marked the chip's position before it left the window.
-
-Karen took the pen from him and made a second mark on the opposite side of the holder. "Now you can see if the card itself moves."
-
-He repeated it. The spot returned.
-
-"Again," she said.
-
-On the fourth repetition, Anders became aware that she was holding her breath when the window darkened. On the fifth, she stopped him before he inserted the chip.
-
-"Leave the other first light uncovered."
-
-"Then there will be too many spots."
-
-"One can be the comparison."
-
-He looked at the middle card. The branch they always covered still struck it beside the narrow opening. Karen cut a square of clean paper and fixed it where that unused spot fell.
-
-"Now if the candle weakens, this weakens too," she said. "You compare the final light to this one, not to what you remember."
-
-"They are not the same route."
-
-"That is why one is the account and one is the coin."
-
-"That makes no sense."
-
-"You still understand it."
-
-He did.
-
-They began again. Karen drew four columns on a clean page: first stone, middle stone, last stone, comparison. In the final column she made simple marks for darker, equal, and brighter. Anders objected that the comparison light was stronger at every position.
-
-"Then cover part of it," she said.
-
-He laid thin paper over the reference square until the two lights were close. It was a poor measure. It was better than memory.
-
-Near ten, Villum came down for water. He found them shoulder to shoulder over the ruled page.
-
-"The account is on the counter," Karen said.
-
-"I see that."
-
-"We have not altered it."
-
-"I did not ask."
-
-Villum inspected the apparatus. Anders expected him to mention the lamp or the walnut case. Instead he read Karen's headings.
-
-"Whose figures?"
-
-"Mine," she said.
-
-"The method?"
-
-Karen pointed to the reference square. "Mine."
-
-Anders said, "The turning table was already mine."
-
-"I did not say it wasn't."
-
-Villum drank his water. "Can either of you make money with it?"
+She made the reduction for the two smaller pieces, then reduced the freight by the same fraction.
 
 "No," Anders said.
 
-Karen said, "Probably."
+Her pen stopped.
 
-They looked at each other.
+"The carter carried the full round until it broke. The freight stays."
 
-"How?" Villum asked.
+"It may have broken before he loaded it."
 
-"Men pay to see the crystal make two coins. They would pay more to see light disappear and return."
+"Then why was there glass dust inside the straw?"
 
-"It is not a trick for customers," Anders said.
+"There is glass dust everywhere in this shop."
 
-"Why not?"
+"Not Venetian glass."
 
-"Because it is a property of light."
+She looked at his apron. It held enough pale dust to prove her point in general. He fetched the old wrapping from beneath the glass shelf and unfolded it on the counter. A few bright grains still clung inside.
 
-"Does charging admission change the property?"
+"That proves where it was wrapped," she said.
 
-"It changes who looks."
+"It proves I kept rubbish for four months."
 
-"At present no one looks."
+"I had already learned that."
 
-Villum set down the cup. "I like her."
+Villum sat down behind the ledger. "Charge the freight."
 
-"I have not decided if I like either of you," Karen said.
+Karen drew a line through her second total. Her ears had gone red. Anders pretended to inspect the wrapping.
 
-She copied the corrected account, then copied their new table onto another sheet. Her handwriting changed between the two. The merchant's figures were narrow and crowded. The experiment had more room around it.
+They completed the account after noon. The correct balance was three skillings above Villum's figure and eight below Mads's. Karen checked the columns twice and then made Anders add them while she watched.
 
-At the door, Anders asked whether her father knew she had returned.
+"You do not trust your own sum?" he asked.
 
-"He knows I brought the account."
+"I trusted the first one."
 
-"That is not what I asked."
+He got the same result.
 
-"You watch hands, not fathers."
+Villum wrapped the corded glass for her father to inspect. "Will he give you the Lübeck account?"
 
-"Will you come back?"
+"No."
 
-Karen folded the experiment sheet into her sleeve. "Your comparison still depends on two people agreeing that one light is darker."
+"He should. You found his clerk's mistake."
 
-"I know."
+"You found my mistake."
 
-"Think of a better one."
+"Anders found it."
 
-"You think of it."
+"That is not better."
 
-"I am not the one who says light cannot be an account."
+She took the corrected account and the bad glass into the rain.
 
-She opened the door. The rain had stopped. Before leaving, she looked back toward the covered apparatus.
+*
 
-"Exchange the stones before I come," she said. "I want to see whether you have made the marks fit the answer."
+Mads came back with her two days later.
 
-The next Thursday, a letter arrived from Paris.
+He was a large man with a careful beard. He blamed the carter for the confusion, although the carter's price had not changed. Then he blamed the clerk who had copied the order. He accepted the new balance as a favor to Villum and said nothing about his daughter's arithmetic.
 
-Rømer had met Huygens twice. The first time, he wrote, they had spoken about clocks. The second time, they had spoken about clocks more exactly.
+Karen stood near the shelf with her hands clasped. She had no daybook this time.
+
+When Mads and Villum began discussing another shipment, she moved toward the back table. The three crystals lay there under a cloth. Anders had built a walnut case with separate beds for them and a place for the masks. Villum had objected to the use of good wood, then corrected the fit of the lid.
+
+Karen lifted the cloth.
+
+"Do not touch them."
+
+"I am touching the cloth."
+
+"You were going to touch them."
+
+She let the cloth fall. "My father had a piece of Iceland spar. He sold it to a councilor who showed his guests two coins where there was one."
+
+"That is what most men do."
+
+"What do you do?"
+
+Mads called her from the front. She went without waiting for the answer.
+
+At eight that evening she came back. Her hair had been put up differently, and the blue ribbon was now tied at the neck of her dress. She gave Villum a note saying she had permission to copy the revised account. The note also said she was to return before ten.
+
+"We are expected at my aunt's," she told Anders after Villum went upstairs. "There will be a fiddler."
+
+"Then copy the account."
+
+"Show me the crystals first."
+
+"You asked what I do with them."
+
+"I have not stopped asking."
+
+He lit the apparatus.
+
+He showed her how the first crystal split the candlelight. He covered one route and sent the other through the large middle piece. At the last crystal, the spot vanished from the marked window. When he added the small third piece, it returned.
+
+Karen leaned close enough for a loose end of ribbon to brush the table.
+
+"Do it again."
+
+He did.
+
+"The flame moved."
+
+"Flames move."
+
+"Then how do you know the crystal changed the light?"
+
+"Because it happens at the same position."
+
+"You are comparing this light with the one you remember."
+
+"I have done it hundreds of times."
+
+"You have remembered it hundreds of times."
+
+Anders straightened. "You have seen it twice."
+
+"That is why I am asking."
+
+He explained the masks, the turning table, and the marks around each holder. Halfway through, she asked which way the middle crystal had faced during the first trial. He showed her the line scratched into its mount.
+
+"And if you exchange the two large ones?"
+
+"It still works."
+
+"Show me."
+
+The holders were fixed with small screws. He began loosening the first. Karen reached for the other crystal to help.
+
+"Wait."
+
+She had already lifted it.
+
+The paper scale beneath the holder shifted. One pin dropped to the floor.
+
+Anders put down his screwdriver. "That was its position."
+
+"I thought the holder stayed."
+
+"It did until you lifted it."
+
+"Can you put it back?"
+
+"Approximately."
+
+"You said the positions repeat."
+
+"If people do not pick them up."
+
+She opened her mouth and then closed it. Together they searched under the table for the pin. Karen found it caught in the hem of her dress. There was dust on one knee when she stood.
+
+"I am sorry," she said.
+
+Anders had prepared several things to say. The apology left him with none of them.
+
+He reset the scale as well as he could and exchanged the crystals. The chosen light now fell above the middle opening, so he moved the card. The final spot fell low. He moved that card too. Karen held the candle shield while he worked and did not touch anything else.
+
+The first attempt failed. On the second, a weak spot crossed the window and disappeared.
+
+"There," Anders said.
+
+"I saw it."
+
+He turned the small crystal back. The light returned and passed again.
+
+"Do it again," she said.
+
+By the fourth trial, the spot returned at nearly the same mark. Karen watched the candle as often as she watched the window.
+
+"Could you use two candles?"
+
+"No two flames are the same."
+
+"Then use the other light."
+
+"What other light?"
+
+She pointed to the branch from the first crystal that struck the middle card beside the mask. Anders always covered it because it made the apparatus easier to read.
+
+He took away the cover. There were now three pale shapes on the cards.
+
+"That is worse," he said.
+
+"Only until we mark which is which."
+
+He cut a square of paper and fixed it where the unused light fell. The spot on the final card still changed when he turned the third crystal. The new square changed when the candle did.
+
+They tried to make the two spots nearly equal by laying thin paper over the brighter one. Karen judged the first attempt equal. Anders thought the reference was brighter. On the second, they exchanged opinions.
+
+"This has not solved it," he said.
+
+"No. Now we know what we disagree about."
+
+She took a sheet from the pile beside the case.
+
+"Not that one," Anders said. "That is Rømer's."
+
+He gave her shop paper instead. It had a grease mark in one corner.
+
+"You gave him the good paper."
+
+"He was writing to Paris."
+
+"I am making your figures usable."
+
+"On paper I paid for."
+
+"Then you should have bought better paper."
+
+She drew four columns. Her first heading crowded the second, so she scratched them out and began lower on the page. Anders entered the crystal positions. Karen made marks for the brightness of the two spots. On some trials they did not agree, and she wrote both answers.
+
+Near ten, Villum came down for water. He found them beside the apparatus. Karen had soot on her chin. Anders did not tell her.
+
+"The account?" Villum asked.
+
+"Copied," she said.
+
+"The crystals?"
+
+"Not copied."
+
+Villum read the headings on their sheet. "Can either of you make money with this?"
+
+"No," Anders said.
+
+"Perhaps," Karen said. "People paid my father to see one coin become two. They might pay to see a light disappear."
+
+"It is not a show."
+
+"It can be two things."
+
+"No."
+
+Villum drank his water. "I would charge four skillings."
+
+"Two," Karen said. "Four includes a chair."
+
+Villum laughed. Anders returned to the holder.
+
+The clock struck ten while Karen was recopying the last line.
+
+"Your aunt," he said.
+
+Karen looked at the clock and used a word he had not expected from a merchant's daughter.
+
+She scrubbed at the soot on her dress. Anders touched his own chin to show her. She wiped the wrong side of hers and made the mark wider.
+
+"Other side," he said.
+
+"You might have said so earlier."
+
+"You were making my figures usable."
+
+She looked at him for a moment and then laughed. It was a loud laugh. Villum called from upstairs to ask whether anything had broken.
+
+"Only the account," Karen called back.
+
+At the door, Anders asked if she would come again.
+
+"Not Friday. I dance on Friday."
+
+"Every Friday?"
+
+"When someone asks."
+
+She tucked their sheet inside her cloak. "Exchange the stones before next week. I want to see it again from the beginning."
+
+The following Thursday, a letter arrived from Paris. Rømer described two meetings with Huygens and several new clocks.
 
 There was no mention of the packet.
 
-Anders put the letter in the case beneath Karen's table. Then he exchanged the stones.
+Anders put the letter in the walnut case. He exchanged the stones before Karen arrived.
 
 ## Chapter 8 — The Speed of Light
 
-The news reached the shop before Rømer's letter did, which was how Anders learned that Paris had made his friend famous.
+The news reached the shop in February of 1677, nearly five years after Rømer left Copenhagen.
 
-Nearly five years had passed since the packet left Copenhagen inside a borrowed coat. In that time Anders had remade the silver frame as his journeyman piece and stood in the guild hall while two masters turned it over near a window and found nothing to say against the hinge. Villum had paid for the dinner afterward and complained about the price of it for a month. Karen had married Anders in her father's church the following autumn, over her father's arithmetic and with it. Mads had calculated the match to the skilling and announced himself satisfied, which Karen said was the nearest he came to weeping.
+A clerk from the customs house brought in his wife's spectacles. One screw had worked loose and fallen somewhere between their kitchen and the street. He wanted it replaced before she discovered he had sat on them.
 
-She kept Villum's books now. It had happened the way water enters a cellar, without any hour in which it could be said to begin. First she corrected the glass account. Then she ruled new columns for the lens stock. Then one evening Villum pushed the ledger across the counter without being asked and went to bed early.
+"She knows," Villum said.
 
-Rømer wrote at Easter and Michaelmas. The letters described the Observatory, a micrometer of his own design, and the French King's son, to whom he now taught mathematics. He asked after Villum's eyes and Karen's columns. He did not mention the crystals. Anders had stopped expecting him to and had not stopped noticing.
+"She suspects."
 
-The clerk in the fur-trimmed coat brought the news on a Tuesday in February.
+"A wife knows before a husband has finished deciding what to confess."
 
-He entered the shop with the look of a man carrying something too good to set down. His wife's spectacles needed a screw. While Anders found one, the clerk told the room that the Danish astronomer in Paris had measured how fast light moves.
+Karen looked up from the ledger. She and Anders had been married for three years, and Villum had recently begun offering him this sort of instruction.
 
-"Light does not move," Villum said. "It is present or it is absent."
+"Do go on," she said. "It is useful to us both."
 
-"The Academy says otherwise. Herr Rømer has shown that it travels, as a rider travels, and he has taken its pace."
+Villum found something to do in the back.
 
-Anders set down the screwdriver.
+Anders tried two screws before he found one that matched. The clerk watched him work.
 
-The clerk gave the account he had from a colleague, who had it from a printed journal in French. It concerned Jupiter, a moon, and a shadow, and by the third sentence it had gone wrong in the way borrowed explanations go wrong. The moon was late. Or the shadow was late. Or the tables were wrong, which proved that light had a speed.
+"You know Rømer, don't you?"
 
-"Tell it slowly," Anders said.
+"Ole Rømer?"
 
-"I have told it as I received it."
+"How many are there?"
 
-"Then tell me what he predicted. A measurement is a prediction that kept its word."
+"In Paris, only one."
 
-The clerk consulted his memory with visible effort. "In September he stood before the Academy and said the little moon would go into Jupiter's shadow ten minutes later than the tables promised. In November it did exactly that. Ten minutes. To the astonishment of the French, who own the tables."
+The clerk moved closer to the counter. "He has measured the speed of light."
 
-That was a shape Anders could hold. He asked the clerk nothing further, fitted the screw, and charged him nothing, which Karen entered that evening as a loss against curiosity.
+Anders dropped the screw. It landed on his apron and rolled to the floor.
 
-After the shop closed, he laid it out on the counter for her and Villum with a candle, a lens, and a dried pea.
+"Measured what?"
 
-"The moon circles Jupiter the way a clock turns," he said. "Every pass, it enters the shadow. The entries are the tick. Rømer and Picard timed a hundred of them from the island while I was seasick in their boat. The tick is regular. It must be regular. Nothing on Jupiter cares where we are."
+"The speed of light. The Academy has printed it."
 
-"But," Karen said.
+Villum came back from the rear of the shop. "Light is there or it is not."
 
-"But the earth does not stay in one place. Half the year we move toward Jupiter. Half the year we move away. When we move away, each tick arrives a little later than the last. The moon is not late. The news of it is late. It has farther to come."
+"Not anymore," the clerk said.
 
-Villum turned the dried pea under one finger. "Thunder," he said.
+The story had passed from a French journal to a secretary at the customs house and from the secretary to the clerk. By the time it reached Klosterstræde, Jupiter's moon had stopped in the sky for ten minutes while Rømer watched. The King of France may also have been present.
 
-"Thunder," Anders said. "You see the stroke and count until the sound. No one thinks the sound idled. It walked, and walking takes time. Rømer has counted the walk for light. Across the width of the circle the earth makes in a year, he says, the light spends above twenty minutes."
+Anders found the screw under the counter.
 
-Karen looked at the candle for a while. "Then nothing we see is where we see it."
+"Did Rømer predict the ten minutes before he saw them?"
 
-"Everything near is honest enough. The sky is in arrears."
+"I believe so."
 
-"Does Paris believe him?"
+"When?"
 
-Anders had been proud of the explanation until that question.
+"In September."
 
-"The clerk says the great Cassini does not. The observations are Cassini's own, and he prefers the moon irregular to the light slow."
+"And the observation?"
 
-"His own tables were wrong by ten minutes," Karen said, "and the man who told him so in advance is the foreigner he hired."
+"November. Before the Academy."
+
+"The King was not there."
+
+"That part came from my wife."
+
+The clerk had no more facts. Anders fitted the new screw and gave him the spectacles.
+
+"How much?" the clerk asked.
+
+"Nothing."
+
+Karen dipped her pen. "Two skillings."
+
+Anders looked at her.
+
+"The screw is nothing," she said. "The news was apparently worth the rest."
+
+The clerk paid.
+
+After he left, Villum stood at the front window and read the lettering on the apothecary's sign across the street. He could still see well across a room. Near work had become harder for him, especially in winter. He had not yet admitted this to anyone who had not watched him thread a needle.
+
+"Does it truly move?" he asked.
+
+"It must, if the report is right."
+
+"What report?"
+
+"I don't know yet."
+
+Karen closed the ledger. "Will Rømer write?"
+
+Rømer wrote twice a year, at Easter and Michaelmas. His letters described the Observatory, new instruments, arguments over tables, and the King's son, whom he taught mathematics. He asked after Villum's eyes and whether Karen still put sloping tails on her sevens. He did not mention the crystals.
+
+"He will write when he writes," Anders said.
+
+The post came every afternoon. For the next week he found reasons to be near the door when it arrived.
+
+*
+
+The full description of Rømer's demonstration reached Copenhagen in a second letter from the customs clerk's secretary. It was still in French. Niels came after supper and translated it at the kitchen table.
+
+Niels had a parish now, north of the city. He had also grown a beard that made him look older when he kept food out of it. Villum gave him a bowl of fish stew and told him he was welcome to translate until the bowl was empty.
+
+"Then I shall read slowly."
+
+"You always did."
+
+Niels read the report twice. The first time Anders stopped him at every sentence. The second time Karen wrote down the dates.
+
+Rømer had studied the eclipses of Io, the small moon they had timed on Hven. Io passed into Jupiter's shadow again and again. Those disappearances could be predicted, but over many months the observed times began to fall behind the tables. When Earth and Jupiter drew nearer, the delay diminished. When the planets moved apart, it grew.
+
+Rømer said Io was not changing its pace. The light had farther to travel.
+
+In September he told the Academy that an eclipse expected on the ninth of November would come about ten minutes later than the ordinary table said. In November, it did.
+
+Villum had put an apple in the middle of the table for Jupiter and a pea beside it for Io. Karen moved the candle, which stood for Earth, farther along the table.
+
+"If the pea circles at the same speed, why does the delay keep growing?" she asked. "It is only a little farther away each time."
+
+"A little farther on each observation," Anders said.
+
+He marked the table with crumbs. Karen moved the candle again. Niels ate one of the marks.
+
+"That was October," Anders said.
+
+"October was good."
+
+Anders put down more crumbs. He showed them the change accumulating while the Earth moved away and diminishing when it came around again.
+
+"How long does the light take to reach us?" Karen asked.
+
+"The report does not say. Only that crossing the full width of Earth's path adds above twenty minutes."
+
+"So when we look at Jupiter, how old is it?"
+
+"Older than it looks."
+
+"By how much?"
+
+"I just told you I don't know."
+
+"You told me about the width of Earth's path."
+
+"That is not the whole distance to Jupiter."
+
+Karen reached for the paper. "Show me."
+
+"Not tonight," Niels said. "I have another bowl in me but not another planet."
+
+Villum turned the pea under one finger. "Like thunder."
+
+Anders nodded. They all knew the pause between lightning and thunder. The stroke was already over while the sound was still coming.
+
+"Can anyone see the delay through spectacles?" Villum asked.
+
+"No."
+
+"Then I shall not put it on the sign."
+
+Karen took the apple back to the pantry. Niels finished the stew. Anders stayed at the table with the French report until the candle was low.
+
+*
+
+Copenhagen was pleased to have defeated Paris with a Dane.
+
+At the guild dinner that month, the toast was to Danish eyes. Several masters repeated that phrase, although the discovery had been made with French instruments, from a French observatory, using observations gathered by men from both countries. By the fourth toast, France had contributed only bad tables and a room.
+
+Anders drank with them.
+
+A brewer heard that he had known Rømer before Paris. Soon men were asking him about Hven. Had he repaired Picard's instrument? Had he watched the moon himself? Was Rømer tall? Was it true that Frenchmen ate frogs?
+
+Anders answered the questions he could. The others he improved.
+
+He told them about Rømer asking whether light took time to cross from Jupiter. He did not say that Rømer had told him to hold the question, or that Anders had then returned to his shop while Rømer carried the observations to Paris.
+
+"So you were there at the beginning," the brewer said.
+
+"I was on the island."
+
+The brewer filled his cup.
+
+On the walk home Anders recited the exchange as he remembered it. He could not make it sound as good as it had at the table.
+
+Karen listened until they reached the church.
+
+"Did you tell them about vomiting on Picard's boots?"
+
+"Near his boots."
+
+"That is the part I would have told."
+
+"They were asking about the light."
+
+"They were asking for a story."
+
+Anders had the chip of spar in his waistcoat. He had carried it there since becoming a journeyman because the pockets were deeper than those in his old coat. His journeyman certificate was four years old now. The silver frame he had made for it still stood in Villum's front case, without a price.
+
+"He asked me that question," he said.
 
 "Yes."
 
-"Then he will not forgive him for some time."
+"He knew the observations because I had asked."
 
-Copenhagen took the news personally. The city had sent Paris a merchant's son from Aarhus and Paris had been obliged to put his name in a journal. At the guild dinner that month the toast was to Danish eyes, which see what Frenchmen only compute. Men who could not have said whether Jupiter was a body or a beast drank with feeling. Anders drank too. The chip of spar was in his waistcoat pocket, where it lived now, wrapped in a square of wash-leather. He was aware of it the way one is aware of a coin owed and not yet mentioned.
+"Did he?"
 
-A brewer at the long table learned that Anders knew the man himself, had worked beside him, had been to the island. For a quarter of an hour Anders was handed from neighbor to neighbor like a relic. What was he like. Was he tall. Had he truly repaired the Frenchman's instrument. Anders answered, and heard himself borrowing warmth from a fire six years old, and was ashamed exactly as much as he was pleased, which was a new taste and did not improve with beer.
+"Not only because I asked."
 
-"He asked me a question once, on the island," he told Karen that night. "Whether light required time to come down to us. I asked it. He told me to hold the question."
+"Good."
 
-Karen was unlacing her sleeves. "And you believe you lent it to him."
+He could hear that he had lost an argument she had not intended to start.
 
-"I believe I asked it."
+They walked the rest of the way in silence. At home Karen discovered that he had stepped in horse dung. He cleaned both shoes by the kitchen door.
 
-"Did the question belong to you? Sailors ask it of lightning. Children ask it of the bell at Our Lady."
+*
 
-"They do not ask it beside a telescope with the man who could answer."
+Rømer's letter came in March under the seal of the Academy.
 
-"No," she said. "That is what he was there for."
+He wrote about the September prediction and the eclipse in November. Cassini still opposed his conclusion. Cassini believed the irregularity might belong to Io itself. Huygens had written in support, and other men at the Academy had begun to come around.
 
-Anders sat on the edge of the bed with the answer he did not say aloud, which was that he had been there too, and had come home on the supply boat, and that the difference between the two facts was the whole of the world.
+There was pride in the letter. Rømer did not hide it from Anders. He described where he had stood in the room and who had spoken after him. He made fun of a secretary who had prepared two versions of the minutes so that the Academy could decide afterward what it had believed.
 
-The letter came in March, three pages under the Academy's mark.
+Near the end he wrote that he had not forgotten the packet from Copenhagen.
 
-Rømer told the story plainly, the way he told things when they mattered to him. The September session. The November eclipse. The memoir read aloud before men who had known him first as Picard's Dane. He was candid about the arithmetic and more candid about the war. Cassini would not have the conclusion. Half the Academy stood with Cassini because he was Cassini. Huygens stood with Rømer and had written to him that the demonstration was sound and the pace of light a thing now known to natural philosophy.
+*I cannot bring it forward now. Cassini is angry enough about Jupiter. If I ask him in the same month to attend to an instrument made of three stones, he will decide that all Danes have been sent to tire him. Huygens may be the better man to see it. Let me first settle the present fight.*
 
-*You will laugh*, the letter said. *I have spent five years learning what you knew in your shop. It is not enough that the thing is true and shown true. Someone with standing must want it to be true. Huygens wants it. If he did not, my ten minutes would be an error in a Danish clock.*
+The next paragraph concerned a clock spring.
 
-*I have not forgotten what I carry of yours. Do not write back to me about it this month. A man being called wrong about the heavens by his own master cannot in the same season ask the Academy to look at three stones from a spectacle shop. When my credit is out of the fire I will spend some of it. This I have said before and I say it again, which is what a promise is.*
+Anders read the letter twice at the counter. He read the sentence about Huygens a third time.
 
-Anders read the letter three times. Karen read it once.
+"He has named someone," Karen said. "That is more than he did before."
 
-"He has learned it," she said. "What it costs to be right without permission. You wanted him to learn it."
+"He has named another delay."
 
-"I wanted him to learn it and post the packet."
+"Both can be true."
 
-"One thing at a time is how he does everything."
+"Five years, Karen."
 
-But something had begun in Anders that week that he did not report to her, and it went its own way quietly, like the water in the cellar. He took out the five years of tables. If Paris could be astonished by Danish observation, then the season had come; a wall had shown a door; the packet was twelve pages, and twelve pages was an introduction, not a proof. What was wanted now, while Danish eyes were toasted in two cities, was the whole account, fair-copied, with the tables reconciled and the Latin corrected, ready for the hour when Rømer's credit came out of the fire.
+"Write that to him."
 
-He began that night. He worked the way he had worked at nineteen, and he was not nineteen.
+Anders folded the letter. "He knows."
 
-That fortnight the shop held an order it had wanted for two years. The councilman whose daughter had rejected her spectacles had been persuaded by his physician to try again, the headaches having outlasted the daughter's marriage and two other spectacle makers. The lenses were Anders's to grind and the fitting was set for Friday noon, and this time the household would come to Klosterstræde, which Villum called an apology in the shape of an appointment.
+That evening he brought the experiment ledgers to the kitchen table. The earliest pages were hard to follow. Rømer's hand crossed his, the names of crystals changed, and two tables used opposite directions for the same turn.
 
-On Wednesday night Anders sat down after supper to rule one more table and looked up when the candle guttered, and it was past two.
+He began a fair copy.
 
-On Thursday his eyes were sand. He ground the left lens a shade beyond the mark, caught it, and began again with new glass. The new blank had a cord in it he should have seen at the window. He saw it after an hour's work. There was clear glass in the drawer, and there was time, if a man with steady hands worked until the light failed and started again at dawn.
+Karen asked what he was doing.
 
-At dawn Karen found him asleep across the bench, one arm shielding the fair copy from a pool of spilled oil that had missed it by the width of two fingers.
+"Making it possible for Huygens to read."
 
-The councilman's steward arrived at noon to say the family's coach was at the door. The left lens was on the wheel. It was right by one measure and wrong by the measure that mattered, which was that it was not done, and no apprentice stood behind Anders to be blamed, because he was the man now, and the man was asking a councilman to wait in the street.
+"Did Rømer ask for this?"
 
-Villum went out to the coach.
+"He has twelve pages from a nineteen-year-old lens grinder."
 
-Anders never learned exactly what was said. The coach left. The deposit went back into a servant's glove, counted, the way Villum always counted money he was returning, coin by coin.
+"You were twenty-two when he left."
 
-He came in and hung up his coat.
+"That is not the important error."
 
-"I can finish it by four," Anders said.
+She went to bed at eleven. Anders said he would come up after one table.
+
+When she woke near dawn, he was asleep beside her and smelled of lamp oil.
+
+*
+
+The shop had an important order that fortnight.
+
+Years earlier, a councilman's daughter had rejected a pair of Anders's spectacles. Now she had headaches, a husband, and two children. Her physician had sent her back. The fitting was arranged for Friday at noon, and this time the family would come to the shop.
+
+Villum called the appointment an apology.
+
+Anders had to grind two strong lenses. On Wednesday evening he finished the right one and meant to stop. The new fair copy lay open at the back table. One column from the old ledger still needed to be checked.
+
+Karen came down in her nightdress and stockings.
+
+"Are you coming up?"
+
+"After this page."
+
+"You said that upstairs."
+
+"I had not seen the figures upstairs."
+
+She picked up the completed lens and wrapped it in clean cloth.
+
+"Do not touch the left one tonight."
+
+"I know how to make spectacles."
+
+"Then this should be easy."
+
+He waited until she went upstairs. Then he checked the column. A measurement in Rømer's hand did not match the one beneath it, and Anders opened a second ledger to find the original.
+
+It was after two when he began the left lens.
+
+On Thursday morning he ground past the mark. The error was small, but the prescription was not forgiving. He started again with another blank.
+
+At the window he missed a pale cord in the glass. He found it after an hour at the wheel.
+
+Villum took the blank from him. "Sleep."
+
+"There is time."
+
+"There was time yesterday."
+
+Anders began a third lens.
+
+At dawn on Friday, Karen found him asleep across the bench. His arm lay over the fair copy. The third lens was still fixed to the tool with pitch.
+
+The councilman's steward arrived at noon. The coach waited in the street. Anders had one finished lens.
+
+Villum went outside.
+
+Through the window, Anders watched him speak to the steward and then to someone inside the coach. Villum took the deposit from the cash box and returned it coin by coin. The coach left for Weber's shop.
+
+Villum hung up his coat.
+
+"I can finish by four," Anders said.
 
 "There is no fitting at four."
 
-"Tomorrow, then."
+"Tomorrow."
 
-"They have gone to Weber." Villum sat down at the wheel, his own wheel, that he used rarely now because his near sight was leaving him a little every winter, the trade's old joke played on every man who stayed in it. "Twice," he said, to the wheel. "The same house twice."
+"No."
 
-"The lens broke badly. The glass had a cord."
+Villum sat at the wheel. He rested both hands on it.
 
-"The glass was in the drawer for a month. The cord did not swim into it on Wednesday."
+"I had Enevoldsen and Praetorius coming to dinner on Sunday."
 
-There was nothing to say to that, so Anders said nothing.
+Anders knew both names. They were guild masters.
 
-On Sunday, two masters of the guild had been invited to dine. It had not been said what the dinner was for, but the good cloth had been mentioned, and Villum had asked Karen a fortnight before what a man served to people he wished to bind rather than impress. On Saturday Villum told her, without looking up, that Sunday would be family only.
+"Why?"
 
-That was the whole of the punishment. It was worse than any speech.
+"I meant to ask them what they would require before a second name went over the door."
 
-"Ask him what the dinner was for," Anders said to Karen that night.
+Anders looked toward the front of the shop. The sign outside still carried Villum's name alone.
 
-"I know what it was for."
+"You meant to ask?"
 
-"Then tell me."
+"Yes."
 
-"No," she said. "You will hear it as a price, and begin to count again."
+"And now you don't."
 
-She was copying the week into the ledger at the small table, in the narrow hand that had once corrected her father across a counter. Anders sat opposite and read out the entries as she liked them read, date and debtor and sum, and somewhere between a gross of screws and the chandler he said Rømer's name.
+"Not Sunday."
 
-Karen laid down the pen.
+"The lens would have been ready at four."
 
-"That is the third time since supper," she said. "The entries are for glass."
+"The lady was ready at noon."
 
-"What did I say?"
+"One lost appointment does not change my work."
 
-"You said, He will owe me a year of this. You said it the way you say sums."
+Villum looked at the unfinished lens. He held it farther from his face to inspect the edge.
 
-Anders had no memory of saying it. That was the frightening part, and she watched the fright arrive and did not soften it.
+"It changed this work."
 
-"When they toasted him at the guild table," she said, "you smiled with your mouth closed. When his letter praised your tables, you read the praise twice and the ten minutes once. He measured the pace of light, and what you heard in it was the sound of your own name not being said."
+Anders pulled the lens from his hand. Some of the pitch came away with it.
 
-"He carries twelve pages of mine."
+"Tell them not to come, then."
 
-"He carries his own life. You put the pages into his coat. He did not ask for the errand."
+"I have."
 
-"He promised."
+Villum went upstairs. Anders finished the lens. No one had ordered it anymore, and he finished it anyway.
 
-"Yes. And you have turned the promise into a bank." She turned the ledger around to face him and pushed the pen across. "You keep an account of him in your head. I have watched you post entries to it for a year. Very well. Keep it where accounts are kept, where the debtor can see the page."
+*
 
-"That is childish."
+Karen entered the returned deposit that evening.
 
-"You said that to him once, about a name in a ledger. You told me so yourself, laughing. You were not laughing at him."
+Anders read out the amount. She wrote it down.
 
-Anders looked at the ruled page. He took the chip of spar out of his waistcoat pocket, unwrapped it, and set it on the ledger between them, where it doubled the ruled lines beneath itself, as it doubled everything, having no other manner of seeing.
+"Weber will make it badly," he said.
 
-Then he took up the pen, and under her columns, in the space for debts outstanding, he wrote: *O.R. — one hour of looking.*
+"Perhaps."
 
-Karen read it. She took the pen back and sanded the entry as if it were any other.
+"She will be back."
 
-"When he pays it," she said, "cross it out. And Anders. Not before."
+"Perhaps."
+
+"The left lens is finished."
+
+"I saw it."
+
+He gave her the next entry. A gross of screws. She wrote that down too.
+
+"Villum could still have held the dinner."
+
+Karen sanded the line.
+
+"You knew what it was for," he said.
+
+"He asked me what to serve."
+
+"You might have told me."
+
+"I did not think you needed another reason to stay awake."
+
+"So the two of you decided my future without me."
+
+"He was arranging to put your name on his shop."
+
+"His shop."
+
+"Yes, Anders. The one that feeds us."
+
+He stood up from the table. The movement knocked his knee against the underside and spilled the sand shaker. Karen caught it before it rolled off.
+
+"Rømer's letter came this week," he said.
+
+"Rømer did not spoil those lenses."
+
+"I did not say he did."
+
+"You have said his name six times since supper. You told Villum the missing hour was for Rømer's tables. At the guild you let those men think part of his discovery began with you."
+
+"Part of it did."
+
+"Then tell Rømer that. Stop telling the glass."
+
+Anders went to the back table and brought out the packet. The fair copy was twenty-six pages now.
+
+"He has had my work for five years."
+
+"And he owes you an answer."
+
+"At least."
+
+"What else?"
+
+Anders put the pages down.
+
+"When someone praises him," Karen said, "you become angrier that he has not helped you. He does not know you connect those things."
+
+"Do you think I want his discovery?"
+
+"No. I think you want it to prove he can help you. Each time he does something else, you become harder to live with."
+
+Karen sounded tired.
+
+Anders sat down again.
+
+"He did measure it," he said after a while.
+
+"Yes."
+
+"Ten minutes, predicted two months before."
+
+"I know."
+
+"It is a great piece of work."
+
+"Write and tell him."
+
+*
+
+On Sunday, Enevoldsen and Praetorius did not come. Villum ate with Anders and Karen at the kitchen table.
+
+Karen had already bought beef for guests. They ate it without the good cloth.
+
+Villum described a customer who had spent twenty minutes choosing between two identical frames. He had sold the man the more expensive one. Karen said this was dishonest. Villum said the expensive one had been on the left and had therefore required more carrying.
+
+Anders laughed. He had heard the joke before.
+
+After dinner he wrote to Paris.
+
+He congratulated Rømer. He told him that Copenhagen had claimed the result for Denmark and removed most of the French participation before the second cup. He told him that Villum had explained the finite speed of light to three customers and got it wrong differently each time.
+
+Then he wrote: *I have made a clean copy of the crystal observations. There are twenty-six pages now. I do not know whether I am helping you or making it harder for you to answer me.*
+
+He sat with that sentence for a long time. He nearly crossed out the second half.
+
+Karen read the letter when he offered it to her.
+
+"Send this one," she said.
+
+On Monday morning Anders took it to the post.
+
+## Chapter 9 — Margrethe
+
+Karen's labor began in November of 1678 while she was correcting Villum's count of brass screws.
+
+She stopped in the middle of a column and waited. Then she put the pen down.
+
+"What is it?" Anders asked.
+
+"Nothing yet."
+
+She stood, took two steps toward the stairs, and held the edge of the counter.
+
+Anders went for the midwife.
+
+"My mother first," Karen called after him.
+
+He went for both.
+
+The midwife lived three streets away. Karen's mother lived near the fish market. By the time Anders had delivered the news to one and found the other, the midwife was already at the shop and angry that he had fetched her too soon.
+
+Karen's mother sent Anders downstairs.
+
+"I live here," he said.
+
+"Not in this room today."
+
+Villum had moved the front work into the back. Customers came to the door, saw two men speaking quietly, and decided to return another time.
+
+Anders tried to finish a lens for a magistrate. His hands were steady until a cry came through the ceiling. The tool shifted. A crescent broke from the edge.
+
+"Put it down," Villum said.
+
+"It can be cut smaller."
+
+"Tomorrow."
+
+Anders put it down. He sat for a while, then stood. Villum gave him a broom. He swept beneath both benches, including places that had not been swept since summer.
+
+When that was done, Anders began a hymn.
+
+"No," Villum said.
+
+"I am not asking you to sing."
+
+"I am asking you not to."
+
+Anders sang under his breath. He did not know the last verse and repeated the third.
+
+The child came shortly after midnight.
+
+Karen's mother appeared at the top of the stairs and told Anders he had a daughter. Then she told him to bring hot water. He had heated so much water that there was nowhere left to put it.
+
+Upstairs, Karen lay against the pillows with her hair wet around her face. The baby was wrapped beside her. Anders had seen newborn children at church. They had been red and loud and not especially individual.
+
+This one was quiet. A fold in the blanket covered her mouth.
+
+"Is she breathing?" he asked.
+
+Karen moved the fold.
+
+"She has been breathing for an hour."
+
+"I cannot hear her."
+
+"You could not hear a cannon while you're looking at it."
+
+The baby's hand came loose. The fingers opened and closed without finding anything. Anders offered one finger. She held the joint below his nail.
+
+He began to cry. It happened before he knew he was going to do it.
+
+Karen watched him. "Now I am frightened."
+
+He laughed and wiped his face on his sleeve.
+
+They had not agreed on a name. Mads wanted another Karen. Villum had proposed Anna, after his wife, and then withdrawn the proposal before either of them answered.
+
+"Margrethe," Karen said.
+
+"Why Margrethe?"
+
+"There is no reason not to."
+
+Anders looked at the child.
+
+"Margrethe," he said.
+
+She continued holding his finger.
+
+*
+
+In the summer when Margrethe was nearly two, Anders and Karen brought the apparatus down after she was asleep.
+
+They had not used it for three weeks. There had been a run of orders from the garrison and then a stomach illness in the house. Margrethe recovered in two days. Anders and Karen took longer.
+
+Karen's reference card had yellowed near the candle. She replaced it and ruled a new table while Anders checked the holders. They were testing positions halfway between the old marks. The work was slow because one of them had to tend the flame while the other turned the crystal.
+
+"A little brighter," Anders said.
+
+"Equal."
+
+"It is plainly brighter."
+
+"Then write that you think so."
+
+"It is not an opinion."
+
+"It is two opinions. Yours and mine."
+
+Karen entered both.
+
+At the next position they exchanged places. Anders now called the spots equal. Karen thought the final one was brighter.
+
+"The chair changes it," he said.
+
+"The chair?"
+
+"This side of the table. Perhaps the wall returns light."
+
+"Or you like the answer better from there."
+
+They moved the apparatus away from the wall. The spots looked the same as before.
+
+Near eleven, Margrethe began crying upstairs. Karen waited for Anders to go. Anders waited for her.
+
+"I tended her last," he said.
+
+"You put a blanket over her."
+
+"She was cold."
+
+"You put it over her head."
+
+Anders went upstairs.
+
+Margrethe would not return to bed. He brought her down wrapped in the blanket and sat her on his lap while Karen finished the line. The child watched the two spots on the card.
+
+"Two," she said.
+
+"Yes."
+
+Karen turned the middle crystal. One spot weakened.
+
+"One," Margrethe said.
+
+She reached for the candle. Anders caught her wrist too hard. She cried again.
+
+Karen took her. "That is enough."
+
+"I stopped her."
+
+"The lamp should have been farther away."
+
+"She was on my lap."
+
+"That did not prevent it."
+
+Anders put out the flame.
+
+While Karen settled Margrethe, he covered the crystals and returned the table to her notebook. The page held four observations. In the margin Karen had written that the observers exchanged places. Under that she had drawn a small angry face.
+
+"What is this?" he asked when she returned.
+
+"You."
+
+"I do not look like that."
+
+"You did when I said equal."
+
+He added hair to the face. Karen said there was too much.
+
+They had promised to go to her cousin's dance on Saturday. Anders remembered this when Karen laid out his good coat on Friday night. Villum kept Margrethe and complained that the child had been given no useful instructions.
+
+At the dance Anders stepped on Karen twice. After the second time, he stopped apologizing. They stayed until the last set.
+
+On Sunday, the apparatus stayed covered.
+
+*
+
+By the winter of 1681, Margrethe had learned to open the drawer where Anders kept finished screws.
+
+She did not put them in her mouth. This was the argument she gave each time she was caught.
+
+The shop had changed around her. Karen kept Villum's main ledger at the small front desk. Anders had his own bench under the south window. His name was still not on the sign, but customers asked for him when a lens was difficult. Villum objected to this in public and repeated it later to people who had not been present.
+
+Margrethe spent mornings with Karen and afternoons upstairs with Villum when the shop was busy. He had taught her to recognize three kinds of screw and one letter of the alphabet. All four were called B.
+
+On a January afternoon, the front door opened and a man in a good dark coat came in carrying a wooden horse.
+
+Anders knew him before he took off his hat.
+
+Rømer had grown heavier in the face. His hair was shorter and his coat had buttons covered in the same cloth. He looked rested and well fed.
+
+"You took your time," Anders said.
+
+"The ice took most of it."
+
+They embraced. Rømer smelled of cold wool and the street.
+
+Margrethe came from behind the counter. She looked at the horse.
+
+"This is for you," Rømer said in Danish that had acquired a few French sounds.
+
+She took it and turned it over. It had four wheels. One of them did not touch the floor.
+
+"It is lame," she said.
+
+"It came from Paris."
+
+"Is Paris lame?"
+
+"Parts of it."
+
+Karen left the ledger and kissed Rømer's cheek. Villum remained at the back until Rømer went to him.
+
+"Mester Villum."
+
+"Professor."
+
+"Not until April."
+
+"Then I have spoken too soon."
+
+Rømer had been called home as professor of astronomy, royal mathematician, and director of the observatory at the Round Tower. He said the offices in one breath and then seemed embarrassed by the number of them.
+
+"Do you receive three salaries?" Karen asked.
+
+"That is not how the King arranges it."
+
+"Then the King understands titles."
+
+Rømer laughed. He gave Karen a packet of paper from France. It was smooth and nearly white. He gave Villum a small bottle of lens polish whose label Villum could not read.
+
+"Anders," Rømer said, "I owe you a gift."
+
+"You owe me an answer."
+
+The words came out before Anders decided whether he wanted their first afternoon to contain them.
+
+Rømer looked toward the back table. The walnut case sat on its shelf.
+
+"I know."
+
+Margrethe made the horse cross the counter. One wheel clicked against the wood.
+
+Rømer took off his gloves. "I met Huygens many times."
+
+"And?"
+
+"He has an excellent clock and a poor temper about other men's springs."
+
+"Did you show him the packet?"
+
+"No."
+
+Rømer said it plainly. Anders waited for the reason.
+
+"I nearly did in the first year. Picard advised me to wait until I had work of my own before I brought another man's unexplained observation into the Academy. Then there was Jupiter. Then Cassini."
+
+"Then five years."
+
+"Then nine."
+
+Karen moved the good paper away from Margrethe.
+
+"You have come home," Anders said. "The packet has not."
+
+"It is locked in Paris with my other papers. I did not think the sea would improve it."
+
+"Did you repeat it?"
+
+Rømer looked at him. "No."
+
+Margrethe pushed the horse too hard. It fell from the counter.
+
+Rømer picked it up and adjusted the high wheel by pulling its pin with his thumbnail. This made the wheel worse.
+
+"Do you have a small hammer?" he asked.
+
+Anders repaired the horse.
+
+*
+
+They ate at the kitchen table that evening. Niels came from his parish after dark. Rømer told stories about Versailles and the fountains, about a French nobleman who believed a pendulum clock ran faster when addressed in Latin, and about the rooms at the Observatory.
+
+Villum asked which story was least true.
+
+"The nobleman existed," Rømer said.
+
+"That was not my question."
+
+Margrethe sat on two folded blankets beside Karen. She fed pieces of carrot to the wooden horse. When Karen stopped her, she ate them herself.
+
+After supper, Anders asked what Huygens thought light was.
+
+Rømer took a hazelnut from the dish. "Newton thinks light may be small bodies thrown from a bright source."
+
+He rolled the nut across the table.
+
+"That explains straight lines," he said. "It does poorly when rays cross without striking one another."
+
+"And Huygens?"
+
+Rømer tapped the table with one finger, then again farther away. "A disturbance passed through fine matter. More like sound through air or a ripple through water. Each part gives motion to the next."
+
+"Which is it?"
+
+"No one knows."
+
+"Which do you think?"
+
+"I think Huygens explains refraction better."
+
+"That is not an answer."
+
+"It is the answer I have."
+
+Niels took the hazelnut. "Does either one explain the Iceland stone?"
+
+"Not yet."
+
+"Then Anders is tied with both of them," Villum said.
+
+Rømer smiled. Anders did not.
+
+Karen began clearing the bowls. "You asked him what he thinks. He told you."
+
+"He told me which calculation works."
+
+"That is often what thinking means for him."
+
+Rømer helped her carry the bowls.
+
+He stayed until Margrethe fell asleep on Villum's lap. When he left, one glove was missing.
+
+They found it the next morning in the screw drawer.
+
+*
+
+Rømer announced his marriage in August.
+
+He came to the shop without the wooden horse and asked Anders and Karen to attend the wedding at Our Lady's Church on the twenty-first of September.
+
+"Anne Marie Bartholin?" Anders asked.
+
+"Yes."
+
+Anders remembered a child on the stairs in Bartholin's house. She had watched him carry lens cases through the hall and once asked whether his apron had always been gray.
+
+"How old is she now?"
+
+"Seventeen."
+
+Rømer met his eyes. "Eighteen in October."
+
+Karen closed the ledger.
+
+"Does she want to marry you?" she asked.
+
+"Yes."
+
+"I was asking because no one has said anything about her yet."
+
+Rømer put both gloves on the counter. "She reads Italian. She knows the observatory better than most students, and she has already informed me that the kitchen instrument will not occupy the whole kitchen."
+
+"That is promising," Karen said.
+
+"She also dances."
+
+"Then I shall come."
+
+After Rømer left, Anders waited for Karen to speak.
+
+"He knew her when she was a child," she said.
+
+"He has been gone nine years."
+
+"That does not make her older."
+
+"She says yes."
+
+"According to him."
+
+Anders picked up a frame that did not need his attention.
+
+"You like him," he said.
+
+"I do."
+
+"You don't sound as if you do."
+
+"I can like him and dislike this."
+
+He turned the frame over. One screw sat a little high. He adjusted it.
+
+"You are going to the wedding," he said.
+
+"Yes. I want to meet her."
+
+*
+
+Karen had less than a minute with Anne Marie Bartholin after the church. The bride was small, serious, and surrounded by relatives. She thanked Anders for repairing an old pair of her father's spectacles. She told Karen that Ole had said her figures were better than his.
+
+"He loses his place," Anne Marie said.
+
+"He loses many things," Karen told her.
+
+Then an aunt took the bride away.
+
+The house on Store Kannikestræde was fuller than Anders had ever seen it. Professors, royal officials, family, observatory assistants, merchants, and several men from Paris filled the rooms. Anders recognized the staircase where he had met Rømer. The loose fourth step had been repaired.
+
+Bartholin greeted Anders by name. He asked whether Anders still worked with the crystal.
+
+"Yes."
+
+"And have you found the cause?"
+
+"No."
+
+"Nor have I."
+
+Someone called the professor away. He touched Anders's arm before leaving. The exchange lasted perhaps half a minute.
+
+Karen found Anders near the wall.
+
+"Dance with me."
+
+"Here?"
+
+"That is where the music is."
+
+"I do not know this one."
+
+"You do not know any of them."
+
+She took his hand. He stepped on her shoe during the first turn. During the second, he nearly backed into a university librarian. Karen laughed and kept him moving.
+
+Across the room, Rømer danced with Anne Marie. He was not good either. She corrected his hand twice and then stopped the dance to fix it.
+
+Anders watched them until Karen pinched his arm.
+
+"You are dancing with me."
+
+"I know."
+
+"Your feet don't."
+
+They stayed later than they had planned. When they reached the shop, Villum was asleep in his chair with Margrethe across his chest. The wooden horse stood on the table beside them. All four wheels touched the wood now.
+
+Anders lifted Margrethe. She woke enough to ask whether he had brought cake.
+
+He had not.
+
+Karen had wrapped a piece in her handkerchief. Margrethe ate half of it in their bed and fell asleep holding the rest.
+
+## Chapter 10 — The University Hour
+
+Karen obtained the university hour by asking Rømer in front of his wife.
+
+They had come to supper on a Sunday in March. Anne Marie was expecting a tour of the shop after the meal. Rømer was expecting fish.
+
+Karen waited until he had been served.
+
+"Anders needs an hour at the university," she said.
+
+Rømer put down his spoon.
+
+"For what?"
+
+"You know for what."
+
+"An hour with whom?"
+
+"People who can put a notice into the university acts."
+
+Anders had not known she meant to ask that evening. He looked at her across the table.
+
+"I can ask for the small mathematical room," Rømer said. "The larger question is who will come."
+
+"You."
+
+"I have seen it."
+
+"Then bring someone who hasn't."
+
+Anne Marie tasted the fish. "This has bones."
+
+"It is a fish," Villum said.
+
+"My father can come," Rømer said. He meant Bartholin. The word passed without comment from everyone except Anders. "I may also persuade Professor Aagaard from natural philosophy. He has an interest in Descartes."
+
+"Does he have an interest in being wrong?" Karen asked.
+
+"No greater than the rest of us."
+
+Rømer agreed to request the room for the following Thursday. He asked Anders how much equipment was required.
+
+"One box."
+
+Karen said, "Three."
+
+Anders said, "Two if I carry the long table separately."
+
+Anne Marie found another bone.
+
+*
+
+For ten days, Karen prepared Anders.
+
+She ruled a clean summary of their strongest trials on the French paper Rømer had brought her. She copied the positions of the crystals and put both brightness judgments wherever she and Anders had disagreed.
+
+Anders removed the disagreements.
+
+Karen put them back.
+
+"They make the table look uncertain."
+
+"It is uncertain."
+
+"The result is not."
+
+"Then the result can survive the table."
+
+They made two copies.
+
+She also wrote a short order for the demonstration:
+
+1. Show the light returning.
+2. Exchange the large stones.
+3. Show the comparison card.
+4. Answer questions.
+
+Anders added a line above the first:
+
+*Explain Bartholin's two refractions.*
+
+Karen crossed it out.
+
+"They know Bartholin."
+
+"They do not know what part matters."
+
+"They have one hour. Make them want the explanation."
+
+He copied the list again and kept his line.
+
+Margrethe helped pack the masks by placing every loose screw in one cup. This was useful until Anders discovered that she had also put in three buttons and a cherry stone.
+
+"The cherry is for luck," she said.
+
+"It is dried."
+
+"Then the luck will not spill."
+
+He left it in the cup.
+
+On Wednesday night, Anders slept poorly. He had not addressed professors since Bartholin's stairs. Whenever he woke, he remembered a different part of the apparatus that could break in transit.
+
+Before dawn he went downstairs and checked the walnut case.
+
+Villum found him there in his shirt.
+
+"If you open that case again, it will learn to fear you."
+
+"The small jaw was loose."
+
+"It was loose the first six times too."
+
+Villum made him go back to bed.
+
+*
+
+The mathematical room was inside the university buildings near Our Lady's Church. It held a lectern, six benches, a slate, and two windows that faced the wrong direction for their work.
+
+Karen was not permitted to attend the examination. Rømer had not called it an examination, but the porter at the university door did. Women could wait in the outer room if accompanied.
+
+Karen looked at Rømer.
+
+"That is not my rule," he said.
+
+"It became your rule when you walked past it."
+
+Anne Marie had come with them. She stayed with Karen in the outer room.
+
+Anders and Rømer carried the equipment inside.
+
+Bartholin arrived first. He was fifty-seven and complained about his knees on the stairs. Professor Aagaard came later with a younger man who took notes for him. Aagaard apologized for the delay and said he had only half an hour.
+
+Rømer closed the shutters. Candlelight showed around their edges.
+
+"Begin with the third stone," he told Anders quietly.
+
+Anders put Bartholin's book on the lectern.
+
+He began with the first crystal.
+
+He explained the ordinary and extraordinary images. He showed how one moved when the stone turned. Bartholin watched politely. Aagaard looked toward the covered apparatus.
+
+"Doctor Bartholin has published this," Aagaard said.
+
+"Yes. I need you to see what follows."
+
+"Then perhaps we should follow."
+
+Anders turned to the two-crystal arrangement. One holder had shifted in transit. The first selected spot fell against the edge of the mask. He loosened the screws and reset it.
+
+The note-taker asked whether he should record the adjustment.
+
+"No," Anders said.
+
+"Record it," Rømer said.
+
+Anders looked at him.
+
+"If the arrangement matters, the adjustment matters."
+
+Anders rebuilt the selected path. With the two large crystals at the crossed position, the final window went dark.
+
+Aagaard stood from the bench. He went behind the final card and found the rejected light.
+
+"The ray is moved," he said.
+
+"The chosen route is dark," Anders said.
+
+"Because the ray is elsewhere."
+
+"Yes."
+
+"Then we agree."
+
+Anders inserted the small third crystal at the marked turn. A narrow spot appeared in the final window.
+
+Bartholin came closer.
+
+Anders removed the small piece. The window went dark. He replaced it. The spot returned.
+
+"Again," Bartholin said.
+
+They did it again.
+
+Aagaard checked behind each card. The note-taker drew the apparatus. His first drawing put the third crystal after the second one. Anders corrected it.
+
+"What do you conclude?" Aagaard asked.
+
+Anders had prepared this answer in the kitchen.
+
+"The first stone does more than divide the light. What comes from it is no longer free to take either path in the next stone. The third piece changes what the final stone can do."
+
+"Changes the ray?"
+
+"Yes."
+
+"Into what?"
+
+"I do not know."
+
+Aagaard looked at Rømer. "A body may be turned. A pulse may acquire a direction. Neither requires a new kind of light."
+
+"I did not say new kind."
+
+"You wrote it here."
+
+He had Karen's table. At the top Anders had titled the two selected routes *first kind* and *second kind*.
+
+"That means the two paths."
+
+"Then the words should say paths."
+
+Anders took the sheet and changed them.
+
+Bartholin asked to see the brightness trials. Aagaard asked how brightness had been measured. Anders showed them the reference card and the layers of paper used to bring the spots close.
+
+"Who judged them?" Bartholin asked.
+
+"I did."
+
+Rømer looked up.
+
+The table contained two columns marked A and K.
+
+"Who is K?" Aagaard asked.
+
+"Karen."
+
+"Your wife?"
+
+"She kept the table."
+
+"And judged half the trials."
+
+"We both judged them."
+
+Aagaard handed the sheet back. "That is better than one observer. It is not a measure."
+
+"We know darker and brighter."
+
+"Sometimes you disagree."
+
+"The positions still repeat."
+
+Bartholin had reached the last page. "There may be a rule in these figures."
+
+"There is."
+
+"What is it?"
+
+"The light is greatest when the pieces agree and least when they are crossed."
+
+"Between those?"
+
+"It changes."
+
+"By how much?"
+
+Anders disliked the question because it was his own.
+
+"We are working on that."
+
+Professor Aagaard had twelve minutes left.
+
+He asked if the apparatus could remain at the university. Rømer would repeat the trials with the note-taker and prepare a Latin report. If the result held, Aagaard would present it to the faculty.
+
+Anders thought he had misunderstood.
+
+"Remain here for how long?"
+
+"A month should be enough."
+
+"I can come each Thursday."
+
+"Herr Pedersen, the purpose is to observe it without your hand."
+
+"It requires adjustment."
+
+"Then leave instructions."
+
+Rømer said, "I will be here."
+
+Anders looked at the apparatus. The first large crystal had cost his journeyman savings. The second had caused the break with Villum. The small piece had come from the crack he made himself. No university inventory named any of them.
+
+"No," he said.
+
+Aagaard was packing his notes.
+
+"No to a month?"
+
+"The crystals remain with me. You may test them in the shop."
+
+"I have teaching and patients. I cannot spend my mornings in a spectacle shop."
+
+"One morning."
+
+"You asked for the university to examine your observation. This is how it can."
+
+Rømer moved nearer. "Leave the stones, Anders."
+
+"You kept my pages in Paris for nine years."
+
+The room became quiet.
+
+Rømer's face changed. "It is locked with the papers I have not yet recovered."
+
+"Exactly."
+
+"This is not Paris."
+
+"It is not my shop."
+
+Aagaard put on his coat. "When you are prepared to leave the apparatus, Professor Rømer knows where to find me."
+
+He thanked Bartholin and went out. The note-taker followed with the drawing.
+
+Bartholin remained beside the final card.
+
+"I would like to have seen the month," he said.
+
+"You can come to the shop."
+
+"Perhaps."
+
+Anders heard what that meant and was angry at the professor for making him hear it.
+
+Rømer opened the shutters.
+
+*
+
+Karen was standing when Anders came into the outer room.
+
+"Did they see it?"
+
+"Yes."
+
+"And?"
+
+"They want to take it."
+
+Rømer came through the door carrying the long table.
+
+"They want to repeat it," he said.
+
+Karen looked at Anders.
+
+"Where are the crystals?"
+
+"In the case."
+
+"I can see that."
+
+Anne Marie sat beside the cold stove. She did not join the argument.
+
+"They asked for a month," Anders said.
+
+"And you said no."
+
+"They can come to us."
+
+"Did you know they would ask to keep it?"
+
+Rømer set down the table. "I told him it was likely."
+
+Karen closed her eyes.
+
+"You told him?"
+
+"Yesterday."
+
+She turned to Anders. "And you came anyway."
+
+"I wanted them to see it."
+
+"They saw it."
+
+"They wanted it without me."
+
+"Yes. That was the test."
+
+Anders lifted the case. "It is easy for you to leave a thing in a room that lets you enter."
+
+Rømer's reply took a moment.
+
+"It was not easy when I first entered it."
+
+"You lived in the professor's house."
+
+Anne Marie stood. "So did I. It did not make the university mine."
+
+No one answered her.
+
+They carried the boxes home.
+
+*
+
+At the kitchen table that night, Karen unfolded her copy of the observations.
+
+"You told them you judged the lights."
+
+"I corrected it."
+
+"After they read my initial."
+
+"Women are not admitted to the faculty."
+
+"I noticed."
+
+"Would it have helped if I began by saying my wife made the table?"
+
+"It would have been true."
+
+Anders put his cup down.
+
+"I was trying to make them take the work seriously."
+
+"And what were you afraid would happen if they knew I did some of it?"
+
+He did not answer.
+
+Karen folded the page along its old crease.
+
+"You wanted your name in their book," she said. "You did not say mine in the room."
+
+"I did."
+
+"When they found it."
+
+Upstairs, Margrethe called for water.
+
+Anders stood.
+
+"I went last time," Karen said.
+
+"I know."
+
+He brought Margrethe a cup. She drank, handed it back, and asked whether the professors had written his name.
+
+"Not today."
+
+"Did the cherry work?"
+
+"No."
+
+"You should have eaten it."
+
+When Anders returned to the kitchen, Karen had put the table away. Their supper was still on the stove. The bottom of the porridge had burned.
+
+## Chapter 11 — The Fever
+
+In the spring of 1689, Mads brought the Lübeck ledger to his daughter's desk.
+
+He set it down while Karen was entering a payment for Villum.
+
+"Jensen has gone," he said.
+
+"Where?"
+
+"Hamburg."
+
+"Why?"
+
+"He believes he can do better."
+
+Karen opened the ledger. Jensen had kept the glass account for six years. His figures were neat. His freight columns were not.
+
+"Can he?" she asked.
+
+Mads ignored the question. "I need this put right before the summer orders."
+
+"I have work."
+
+"This is your father's business."
+
+"That is why it has a clerk."
+
+"It had a clerk."
+
+Karen turned three pages. A payment had been carried twice, once in Lübeck money and once in Danish. She found a shipment entered by crate in one column and by weight in another.
+
+"How much did you pay Jensen?"
+
+Mads's beard moved when he tightened his mouth.
+
+"He was a trained man."
+
+"Then you should find another."
+
+Anders was at the south bench. He kept his head down.
+
+Mads offered Karen half Jensen's pay. She asked for all of it and one morning a week at his counting house. They argued until Villum closed the front door for dinner and told them they could continue outside.
+
+They settled at three quarters. Mads called it generous. Karen called it temporary.
+
+After he left, she carried the Lübeck book upstairs.
+
+"You waited seventeen years for that ledger," Anders said.
+
+"I waited for the pay."
+
+"You wanted the ledger."
+
+"I wanted him to ask properly."
+
+He kissed her on the stairs. Margrethe came around the corner, made a disgusted sound, and went back up.
+
+Karen worked at her father's counting house every Thursday. On those mornings Anders entered the shop payments. He disliked her headings and used them anyway.
+
+At home, Margrethe wanted to learn the Lübeck figures. Karen made her finish her church history first. Margrethe said no merchant had ever been saved from bad freight by knowing the kings of Israel.
+
+"A merchant who wants dinner in this house will finish the kings," Karen said.
+
+Margrethe finished them badly.
+
+The crystal apparatus remained in its case most weeks. Anders still kept the observations, but commissions and household work filled the evenings. He and Karen sometimes opened the case on Sunday afternoons. They no longer stayed until morning.
+
+In June they went to a cousin's wedding. Karen danced with three men because Anders sat too long over beer with Niels. On the walk home she complained about her shoes. The left one had split beside the toe.
+
+"I can mend it," Anders said.
+
+"You mend glass."
+
+"I can also mend a shoe."
+
+"That is what you said about the pantry hinge."
+
+The hinge still scraped.
+
+*
+
+Karen came home cold from her father's counting house in October.
+
+The day was not especially cold. She kept her cloak on during supper and went upstairs before the bowls were cleared.
+
+On Friday morning she had a fever.
+
+Anders sent Margrethe for Karen's mother. Villum went for the physician. Karen said they were behaving like fools and asked for the Lübeck ledger.
+
+"No," Anders said.
+
+"There is a payment due Monday."
+
+"Mads can find it."
+
+"That is precisely the problem."
+
+She tried to sit and became dizzy. Anders helped her lie down.
+
+The physician came near noon. He listened to her breathing, looked at her tongue, and asked questions she had already answered. He left a cordial and instructions to keep her warm.
+
+"What is it?" Anders asked him on the stairs.
+
+"A fever."
+
+"I know that."
+
+"Then we agree."
+
+The physician said he would return in the morning.
+
+Karen drank the cordial and complained that it tasted of old cupboards. By evening the fever was higher. She slept for short periods and woke angry that the room had changed.
+
+Margrethe brought water. She carried the cup with both hands and spilled very little.
+
+"Your shoes are at the cobbler," Karen told her.
+
+"I know."
+
+"The brown ones."
+
+"I know."
+
+"He is not to add ribbon. He will try to charge for it."
+
+"I won't let him."
+
+Karen closed her eyes.
+
+At midnight she asked Anders whether Mads had sent for the Lübeck book. He had not. She made him write a note telling her father where Jensen's duplicate payment was entered.
+
+"You can tell him later," Anders said.
+
+"I am telling him now."
+
+He wrote the note.
+
+*
+
+On the third day, Karen's fever eased.
+
+She ate broth and sat up without help. Villum opened the shop for half a day. Mads came to the bedroom and stood at the foot of the bed with the Lübeck ledger under his arm.
+
+"The duplicate is corrected," he said.
+
+"There are two freight entries in June."
+
+"I found them."
+
+"You found the marks I put beside them."
+
+Mads adjusted the ledger.
+
+"You can finish when you are well."
+
+"At three quarters."
+
+"At three quarters."
+
+Karen leaned back. "Write that down."
+
+He did not.
+
+After he left, she slept for four hours.
+
+That evening she asked Anders to wash her hair. He brought too much water and wet the floor. She sat on a stool in her shift while he poured from a cup and tried to keep the soap out of her eyes.
+
+"You are bad at this," she said.
+
+"You are moving."
+
+"My head is attached."
+
+He dried her hair by the stove. For an hour she had no fever.
+
+Margrethe came in with the repaired brown shoes. The cobbler had added no ribbon. Karen inspected the stitching and said he had done it too quickly.
+
+They ate upstairs. Villum brought stew in three bowls and forgot spoons.
+
+During the night the fever returned.
+
+*
+
+Niels came on the fifth morning.
+
+He no longer needed Anders to correct his Latin. He wore a black coat polished at the cuffs and carried the communion cup wrapped in linen.
+
+Karen received the sacrament. Afterward Niels began speaking to her in the soft voice he used at sickbeds.
+
+"You can speak normally," she said.
+
+He did.
+
+She asked him to take Margrethe downstairs and make her eat. Margrethe refused to go.
+
+"I am not hungry."
+
+"That has never stopped you."
+
+"I want to stay."
+
+Karen looked at Anders. He took Margrethe's hand.
+
+Downstairs, Niels cut bread and cheese. Margrethe sat at the table without eating.
+
+"Is she dying?" she asked.
+
+Niels looked at Anders.
+
+"We do not know," Anders said.
+
+"You always say that when you mean yes."
+
+"I do not."
+
+"You said it when the yellow cat was hurt."
+
+Anders had forgotten the cat.
+
+They went back upstairs before the bread was finished.
+
+Karen slept through most of the day. Her breathing became quick, then slow, then quick again. Her mother sat on one side of the bed. Anders sat on the other. Margrethe moved between the room and the stairs until Villum brought a chair for her.
+
+Near evening, Karen woke and asked what day it was.
+
+"Tuesday," Anders said.
+
+"No. Since I left Mads's."
+
+"Six days."
+
+She thought about this.
+
+"The shop payment to Sørensen."
+
+"I entered it."
+
+"Under glass or household?"
+
+"Glass."
+
+"Good."
+
+She slept again.
+
+Karen died before dawn.
+
+Anders was holding her hand. He felt the fingers loosen, then waited for another breath. Her mother went to wake Mads.
+
+Margrethe was asleep in the chair.
+
+*
+
+The funeral was held at Our Lady's Church.
+
+Anders sang badly. No one told him to lower his voice.
+
+Afterward the house filled with relatives and food. Mads spoke to Anders near the front window. He said Margrethe could stay with him and her grandmother for a while.
+
+"She lives here," Anders said.
+
+"The shop is not a place for a girl without her mother."
+
+"It was a place for Karen."
+
+"Karen was grown."
+
+"She lives here."
+
+Margrethe stood on the stairs listening. Anders saw her after he had said it the second time.
+
+Mads went home without her.
+
+For several weeks, Villum cooked. He boiled everything longer than required. Margrethe began taking a midday meal with her grandmother twice a week and returned with bread hidden in her pockets.
+
+Anders worked at the bench. He completed orders and spoke to customers. He did not open the walnut case.
+
+Karen's things remained where she had left them. Her broken dance shoes were beneath the bed. The French paper was in the desk. The shop ledger held her writing until the week of the fever and Anders's writing after it.
+
+One night in December, he woke and heard movement below.
+
+Margrethe was at the back table in her nightdress. She had opened the crystal notebook and set a candle beside it. The apparatus was still in its case.
+
+"What are you doing?"
+
+She jumped. Ink spilled across the lower corner of the page.
+
+"Nothing."
+
+"You have the book."
+
+"I can see that."
+
+The open page was an old brightness table. Karen had left two rows empty. It was not the last thing she had written. The table was three years old.
+
+Margrethe had copied values into one of the empty rows.
+
+"Where did these come from?" Anders asked.
+
+"The loose sheet."
+
+She showed him a trial sheet in Karen's hand. The crystal positions matched.
+
+"This observation used the old candle distance."
+
+"It is the same position."
+
+"Not the same trial."
+
+Margrethe rubbed at the ink on her finger.
+
+"It was empty."
+
+"Then it stays empty."
+
+"She meant to finish it."
+
+"You don't know that."
+
+"Neither do you."
+
+Anders took the pen. He struck through the copied values with one line. Margrethe made a sound and pulled the notebook toward her.
+
+The wet ink smeared under her hand.
+
+"Now look what you did," he said.
+
+"You did it."
+
+She ran upstairs.
+
+Anders remained at the table. He blotted the page and cleaned the spill. Then he closed the notebook.
+
+In the morning, Margrethe would not speak to him. She went to her grandmother's after breakfast and did not come back until Villum fetched her.
+
+The notebook stayed in the desk.
+
+## Chapter 12 — The Book from Holland
+
+Niels brought news of the book eleven months after Karen died.
+
+He had gone to the university library for a commentary on Saint Paul and found the librarian opening a parcel from Holland. One volume was Christiaan Huygens's *Treatise on Light*.
+
+"In French," Niels said.
+
+"Can you read it?"
+
+"Some of it."
+
+"Can you borrow it?"
+
+"It belongs to the university."
+
+"Could you get it for one night?"
+
+Niels ate the rest of his bread. "The librarian attends my church."
+
+He returned the following evening with the book wrapped in cloth and permission to keep it until Saturday morning.
+
+Anders cleared Karen's desk. The main shop ledger stayed in the drawer now unless he needed it. Margrethe had begun entering daily sales on a separate sheet after supper. She did not offer to help when Niels opened the French book.
+
+Villum brought down a lamp and sat near the stove. His near sight had worsened. He could read the large chapter headings if he held the page at arm's length.
+
+Niels began with the preface.
+
+Huygens wrote that he had completed the work during his years in France. He had read it to the Royal Academy twelve years earlier, in 1678.
+
+Niels stopped over the next names.
+
+"Cassini," he said. "Rømer. De la Hire."
+
+Anders took the book.
+
+He could not read the sentence, but Rømer's name required no translation. It was printed in the French form with an extra mark over the first vowel.
+
+"Read the whole part."
+
+Niels did.
+
+Huygens named those men as witnesses to the reading. He explained that copies made in 1678 could prove how little he had added since. He had intended to translate the work into Latin and publish it beside a second treatise. Then other business and other studies intervened. He had put it off until he feared the work might remain lost.
+
+"Twelve years," Anders said.
+
+"Yes."
+
+"He had the book. He did not publish it because he became interested in other things."
+
+"That is what he says."
+
+Villum shifted in his chair. "And now it is here."
+
+Anders returned the book to Niels.
+
+They read until the church bell struck ten. The first chapters concerned rays, waves, reflection, and ordinary refraction. Huygens treated light as a motion passed through very fine matter. Each part gave motion to the next. From that idea he produced the paths that ordinary light followed.
+
+He also described Rømer's proof.
+
+Niels read the paragraph slowly. Huygens called it ingenious. He gave the eclipses of Jupiter's nearest moon and the accumulated delay as Earth moved away. He accepted that light required about twenty-two minutes to cross the width of Earth's orbit.
+
+Anders asked to hear the word before Rømer's name again.
+
+"Ingenious."
+
+"You are certain?"
+
+"It is not a difficult word."
+
+Anders smiled. He did not want to, but he did.
+
+Margrethe came downstairs in her nightdress.
+
+"I can hear you turning pages."
+
+"Go to bed," Anders said.
+
+"I was in bed."
+
+Villum made room near the stove. She sat beside him and pulled part of his blanket over her legs.
+
+Niels marked the Iceland crystal chapter with a scrap of thread. It began more than halfway through the book. He was due at a christening early the next morning and refused to continue.
+
+"Bring the book here," Anders said.
+
+"You do not read French."
+
+"I know some words."
+
+"You know *lumière* because it is on the title."
+
+Niels wrapped the volume and put it inside his coat.
+
+"Friday," he said.
+
+*
+
+On Friday, Niels came before supper.
+
+Anders had spent the day copying diagrams from memory that he did not possess. He had also tried to read an old French invoice from Karen's desk and translated a request for six cases as a description of six houses.
+
+Niels brought the book out before eating.
+
+Huygens began the crystal chapter with Bartholin. He described the two refractions and proposed waves shaped differently inside the stone. The geometry took many pages. Anders listened, asked questions, and moved his own crystal to match the drawings.
+
+Then they reached the heading near the end.
+
+It announced a surprising phenomenon in rays passing through two separate pieces. The cause was not explained.
+
+Anders stood from the desk.
+
+"Read it."
+
+The experiment was familiar. A ray entered the first crystal and divided. At some relative turns of the second stone, each outgoing ray divided again, making four. At other turns, each one took only a single route through the second crystal. The brightness of the resulting rays changed with the agreement of the stones.
+
+Huygens had observed what Anders and Rømer first saw on the stairs twenty years before. He had done it with better pieces and without their masks.
+
+"Does he use a third?" Margrethe asked.
+
+She was sitting at the far end of the table with the daily sales.
+
+"Not yet," Anders said.
+
+Niels finished the section. There was no third piece.
+
+Huygens concluded that the light leaving the first crystal must acquire some form or disposition. That disposition decided how it could move the two kinds of matter in the next crystal. He had found no explanation that satisfied him. He left the problem to others.
+
+Anders opened the walnut case.
+
+He put the three pieces beside Huygens's book. The small one still carried the ink mark from the first successful trial.
+
+"Our third piece is not here," he said.
+
+"No," Niels said.
+
+"The masked path is not here."
+
+"No."
+
+"The tables are not here."
+
+"Anders."
+
+"I am asking."
+
+"No. They are not in the book."
+
+Margrethe had stopped writing.
+
+"But Rømer heard this in Paris," she said.
+
+"Yes."
+
+"Before he came home."
+
+"Yes."
+
+Villum got up from the stove. "Eat before you go."
+
+Anders closed the crystal case.
+
+"I am not hungry."
+
+"That has not stopped anyone in this house."
+
+Anders took his coat.
+
+*
+
+Rømer lived with Anne Marie in a house on Kannikestræde, close to her father and close to the university. The ground floor held an instrument room that opened into the kitchen. A passage telescope occupied most of one wall. Anne Marie had won the argument about the whole kitchen, but not by much.
+
+She let Anders in.
+
+"Ole is at the tower."
+
+"When will he return?"
+
+"Before midnight."
+
+Anders put Huygens's book on the kitchen table. "Did you know about this?"
+
+Anne Marie looked at the cover. "He received a copy in February."
+
+"Did you know he heard it in 1678?"
+
+"Yes."
+
+"Did you know what was in it?"
+
+"Some of it."
+
+He opened to the preface and pointed to Rømer's name.
+
+Anne Marie closed the book.
+
+"Do you want to ask me or him?"
+
+"Him."
+
+"Then wait."
+
+She gave him beer and returned to a set of household bills. Anders sat near the instrument room. Every few minutes the clock there released a small metal click.
+
+Rømer came home after eleven with two assistants. He dismissed them at the door when he saw Anders.
+
+"Niels borrowed that book," he said.
+
+"You were there."
+
+Rømer removed his coat.
+
+"Yes."
+
+"You heard him describe the two crystals."
+
+"Yes."
+
+"You heard him say the first leaves the light with a disposition."
+
+"His word was *disposition*. Yes."
+
+"And you wrote nothing to me."
+
+Anne Marie put down her pen.
+
+Rømer sat across from Anders. "I should have."
+
+Anders had prepared for an argument. The answer made him angrier.
+
+"Why didn't you?"
+
+"The reading was not about your arrangement."
+
+"It was my question."
+
+"It was Bartholin's question before either of us. Huygens had a complete theory of refraction. You had an observation with a third stone."
+
+"An observation you carried in your papers."
+
+"Yes."
+
+"Did you show it to him?"
+
+"No."
+
+"Did you tell him?"
+
+"No."
+
+"Did you repeat it?"
+
+Rømer looked toward the instrument room. "No."
+
+Anders pushed the book toward him.
+
+"He says he left the problem to others. You knew one."
+
+"I knew a man with three stones and no measure of brightness that two people could agree on."
+
+"Karen improved the measure."
+
+"Years later."
+
+"You did not know that because you did not ask."
+
+Rømer rubbed both hands over his face. He was tired. Anders had not considered what hour he might come home.
+
+"In 1678 I was still defending the Jupiter work. Cassini opposed me. Huygens was one of the few men supporting it. I was not going to interrupt his treatise to announce that a friend in Copenhagen had added another piece of crystal."
+
+"You could have written to me."
+
+"Yes."
+
+"In 1681, you came to my shop."
+
+"Yes."
+
+"You said nothing."
+
+"By then I had been silent for three years. I thought I should first recover the packet and look again."
+
+"When did you recover it?"
+
+"In 1684."
+
+"Where is it?"
+
+Rømer pointed toward the instrument room.
+
+Anders stood.
+
+Rømer went to a cabinet and unlocked it. He searched two shelves, moved a case of brass arcs, and took down a packet tied with faded thread.
+
+Anders recognized the paper.
+
+Rømer placed it on the kitchen table.
+
+"I did not destroy it," he said.
+
+"You did not answer it."
+
+"No."
+
+Anne Marie rose and left the room. She closed the door to the hall behind her.
+
+Anders untied the thread. The compact report he had given Rømer before Paris lay inside. It was twelve pages. The corners had worn soft.
+
+"What did you think each time you moved this?" he asked.
+
+"Usually that I should do what I had promised."
+
+"And then?"
+
+"I did something else."
+
+They sat without speaking.
+
+The clock clicked in the next room.
+
+Rømer touched Huygens's book. "His work does not contain yours."
+
+"I know."
+
+"That matters."
+
+"It would have mattered more if you had told him."
+
+Rømer nodded.
+
+Anders wrapped the twelve pages and put them inside his coat.
+
+"Do you want me at the shop?" Rømer asked.
+
+"Not now."
+
+Anders left the house.
+
+*
+
+Margrethe was awake when he came home.
+
+Niels had gone to his parish. Villum was asleep upstairs. Huygens's book remained on Karen's desk.
+
+"What did he say?" Margrethe asked.
+
+"He should have written."
+
+"Why didn't he?"
+
+"He was busy."
+
+"For twelve years?"
+
+"Longer."
+
+Anders set the returned packet beside the Dutch book.
+
+Margrethe looked at it but did not touch.
+
+"Is that ours?"
+
+"Yes."
+
+He took a clean sheet of the French paper from the desk. Only six sheets remained.
+
+At the top he wrote Huygens's name. Beneath it, he wrote the date.
+
+He began with his trade and crossed it out. He began with the first crystal and crossed that out too.
+
+At two in the morning the page held six lines. None of them had reached the third crystal.
