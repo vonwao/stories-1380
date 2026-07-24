@@ -1,0 +1,1138 @@
+{
+  "schemaVersion": 1,
+  "bookId": "the-crystal",
+  "bookTitle": "The Crystal",
+  "updatedAt": "2026-07-24",
+  "policy": {
+    "textEdition": "An immutable editorial snapshot, not every Git save.",
+    "audioLink": "Every render names its exact text edition and, when retained, its exact TTS-script hash.",
+    "evidence": "verified = artifact/session backed; inferred = chronology backed; legacy-gap = metadata was not retained."
+  },
+  "agents": {
+    "christoph": {
+      "displayName": "Christoph von Wachter",
+      "kind": "human",
+      "organization": null,
+      "product": null,
+      "model": null,
+      "note": "Creator, director, and final editorial authority for The Third Crystal."
+    },
+    "claude-fable": {
+      "displayName": "Claude Fable",
+      "kind": "model",
+      "organization": "Anthropic",
+      "product": "Claude",
+      "model": "Fable",
+      "note": "The user identified the early Claude writing model as Fable; the exact API model ID was not retained."
+    },
+    "codex-gpt5": {
+      "displayName": "Codex (GPT-5)",
+      "kind": "model",
+      "organization": "OpenAI",
+      "product": "Codex",
+      "model": "GPT-5",
+      "note": "Exact deployment/model ID was not recorded in the manuscript files."
+    },
+    "claude-code-opus": {
+      "displayName": "Claude Code (Opus)",
+      "kind": "model",
+      "organization": "Anthropic",
+      "product": "Claude Code",
+      "model": "Opus",
+      "note": "Headless production handoffs explicitly invoked with --model opus and high effort."
+    }
+  },
+  "voices": {
+    "evan": {
+      "displayName": "Evan",
+      "provider": "ElevenLabs",
+      "voiceId": "FxUqz8G7NkRtbO7TA7gS",
+      "role": "Modern frame / Gil"
+    },
+    "chris": {
+      "displayName": "Chris",
+      "provider": "ElevenLabs",
+      "voiceId": "iP95p4xoKVk53GoZ742B",
+      "role": "Historical narration"
+    }
+  },
+  "chapters": [
+    {
+      "id": "f0",
+      "number": 0,
+      "title": "Prologue — The Kitchen Table",
+      "canonicalTextEdition": "f0-codex-r1",
+      "textEditions": [
+        {
+          "id": "f0-claude-v1",
+          "label": "Original Claude draft",
+          "status": "superseded",
+          "createdAt": "2026-07-22",
+          "parent": null,
+          "sourceCommit": "a23ad26",
+          "includedCommits": [],
+          "contributions": [
+            {
+              "agent": "claude-fable",
+              "role": "draft",
+              "scope": "Substantive prose",
+              "evidence": "verified"
+            }
+          ],
+          "note": "The provisional modern-frame opening approved during the initial zero-performance experiment.",
+          "text": {
+            "path": "fiction/the-crystal-opening/versions/text/f0-claude-v1.md",
+            "sha256": "b6ea6044ca0dd7d1be15ff871bb0a8955239d14f58b309a3090449d51bfa7243",
+            "bytes": 5707,
+            "words": 1059
+          }
+        },
+        {
+          "id": "f0-codex-r1",
+          "label": "Current Codex rewrite",
+          "status": "canonical",
+          "createdAt": "2026-07-23",
+          "parent": "f0-claude-v1",
+          "sourceCommit": "8f7b4c3",
+          "includedCommits": [],
+          "contributions": [
+            {
+              "agent": "codex-gpt5",
+              "role": "rewrite",
+              "scope": "Rebuilt the frame scene around disagreement and less composed narration",
+              "evidence": "verified"
+            }
+          ],
+          "note": null,
+          "text": {
+            "path": "fiction/the-crystal-opening/versions/text/f0-codex-r1.md",
+            "sha256": "a9f8e71d2a7c2a0ee1946b79522b2e430e9eea03a0b236bd7842026cff36f718",
+            "bytes": 6092,
+            "words": 1128
+          }
+        }
+      ],
+      "audioRenders": [
+        {
+          "id": "f0-evan-v1",
+          "label": "Evan · original Claude text",
+          "textEdition": "f0-claude-v1",
+          "matchesCanonicalText": false,
+          "createdAt": "2026-07-22",
+          "production": {
+            "agent": "claude-fable",
+            "orchestratedBy": null,
+            "evidence": "verified"
+          },
+          "ttsScript": {
+            "retained": false,
+            "evidence": "legacy-gap",
+            "note": "The source edition is verified by chronology and an unchanged text history, but the exact preprocessed script was not retained.",
+            "normalizations": []
+          },
+          "synthesis": {
+            "provider": "ElevenLabs",
+            "model": "eleven_v3",
+            "voice": "evan",
+            "voiceSettings": null,
+            "audioTags": [],
+            "textToDialogue": false,
+            "chunkCount": null,
+            "assembly": "Legacy demo pipeline; details not retained"
+          },
+          "audio": {
+            "path": "fiction/the-crystal-opening/the-crystal-opening-00-prologue.mp3",
+            "sha256": "813330a52f8f709df952e76211b50d06a4649e674d75a8f9107553dd3c794a53",
+            "durationSeconds": 355.882,
+            "sizeBytes": 5695152,
+            "codec": "mp3",
+            "sampleRateHz": 44100,
+            "channels": 1,
+            "bitrateBps": 128000
+          },
+          "renderCommit": "a86c68d",
+          "publicationCommits": [
+            "a86c68d",
+            "4292cec"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ch01",
+      "number": 1,
+      "title": "Two Candles",
+      "canonicalTextEdition": "ch01-codex-r2",
+      "textEditions": [
+        {
+          "id": "ch01-claude-v1",
+          "label": "Original Claude draft",
+          "status": "superseded",
+          "createdAt": "2026-07-22",
+          "parent": null,
+          "sourceCommit": "0c304a8",
+          "includedCommits": [],
+          "contributions": [
+            {
+              "agent": "claude-fable",
+              "role": "draft",
+              "scope": "Substantive prose",
+              "evidence": "verified"
+            }
+          ],
+          "note": null,
+          "text": {
+            "path": "fiction/the-crystal-opening/versions/text/ch01-claude-v1.md",
+            "sha256": "2c0b0d151d13be8c89d9e7684c25ad2170fd9ca2cfdc031dc5118a40eb0b07e0",
+            "bytes": 12271,
+            "words": 2295
+          }
+        },
+        {
+          "id": "ch01-codex-r1",
+          "label": "Codex character revision",
+          "status": "superseded",
+          "createdAt": "2026-07-23",
+          "parent": "ch01-claude-v1",
+          "sourceCommit": "1adb8b4",
+          "includedCommits": [],
+          "contributions": [
+            {
+              "agent": "codex-gpt5",
+              "role": "revision",
+              "scope": "Deepened Anders and Villum and planted the journeyman stakes",
+              "evidence": "verified"
+            }
+          ],
+          "note": null,
+          "text": {
+            "path": "fiction/the-crystal-opening/versions/text/ch01-codex-r1.md",
+            "sha256": "fe2520433fbebf397650b875f55680f7b8e020c56f2780a257abbf200a55fd91",
+            "bytes": 12928,
+            "words": 2417
+          }
+        },
+        {
+          "id": "ch01-codex-r2",
+          "label": "Current Codex rewrite",
+          "status": "canonical",
+          "createdAt": "2026-07-23",
+          "parent": "ch01-codex-r1",
+          "sourceCommit": "f96f726",
+          "includedCommits": [],
+          "contributions": [
+            {
+              "agent": "codex-gpt5",
+              "role": "rewrite",
+              "scope": "Removed narrator over-explanation and rebuilt the chapter from the scene outward",
+              "evidence": "verified"
+            }
+          ],
+          "note": null,
+          "text": {
+            "path": "fiction/the-crystal-opening/versions/text/ch01-codex-r2.md",
+            "sha256": "12dbc4ab30c25166064b6cb54f954cf649015dbea6f2ec677925cefaa27ea27d",
+            "bytes": 10560,
+            "words": 1909
+          }
+        }
+      ],
+      "audioRenders": [
+        {
+          "id": "ch01-chris-claude-v1",
+          "label": "Chris · original Claude text",
+          "textEdition": "ch01-claude-v1",
+          "matchesCanonicalText": false,
+          "createdAt": "2026-07-23T04:47:05Z",
+          "production": {
+            "agent": "claude-fable",
+            "orchestratedBy": null,
+            "evidence": "verified"
+          },
+          "ttsScript": {
+            "retained": true,
+            "evidence": "verified",
+            "path": "fiction/the-crystal-opening/versions/tts/ch01-chris-claude-v1.md",
+            "sha256": "636f79d1674f74874c97354fda072d4b3865e64996a8d13a80ee3df3ecb29309",
+            "bytes": 12287,
+            "words": 2297,
+            "normalizations": [
+              "Spoken chapter heading",
+              "Years expanded for speech",
+              "Danish street-name diacritics simplified for pronunciation",
+              "Standalone scene-break markers removed"
+            ]
+          },
+          "synthesis": {
+            "provider": "ElevenLabs",
+            "model": "eleven_v3",
+            "voice": "chris",
+            "voiceSettings": {
+              "stability": 0.5,
+              "similarityBoost": 0.75,
+              "style": 0,
+              "speed": 1,
+              "speakerBoost": true
+            },
+            "audioTags": [],
+            "textToDialogue": false,
+            "chunkCount": 15,
+            "assembly": "ffmpeg concat (-c copy)",
+            "interChunkSilenceMs": 0,
+            "tailSilenceMs": 0,
+            "outputFormat": "mp3_44100_128"
+          },
+          "audio": {
+            "path": "fiction/the-crystal-opening/the-crystal-opening-01-two-candles.mp3",
+            "sha256": "8db1f726c6a6764bfdbd92f16678704054322a000b21278dfe363d738c5505a5",
+            "durationSeconds": 735.638,
+            "sizeBytes": 11771438,
+            "codec": "mp3",
+            "sampleRateHz": 44100,
+            "channels": 1,
+            "bitrateBps": 128000
+          },
+          "renderCommit": "4292cec",
+          "publicationCommits": [
+            "4292cec"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ch02",
+      "number": 2,
+      "title": "The Professor's Book",
+      "canonicalTextEdition": "ch02-codex-r2",
+      "textEditions": [
+        {
+          "id": "ch02-claude-v1",
+          "label": "Original Claude draft",
+          "status": "superseded",
+          "createdAt": "2026-07-22",
+          "parent": null,
+          "sourceCommit": "3d918e4",
+          "includedCommits": [],
+          "contributions": [
+            {
+              "agent": "claude-fable",
+              "role": "draft",
+              "scope": "Substantive prose",
+              "evidence": "verified"
+            }
+          ],
+          "note": null,
+          "text": {
+            "path": "fiction/the-crystal-opening/versions/text/ch02-claude-v1.md",
+            "sha256": "02ebf2a1b1723687d88fc3c6bc88272082a33cf399abb646c47bf2409d819f24",
+            "bytes": 11377,
+            "words": 2068
+          }
+        },
+        {
+          "id": "ch02-codex-r1",
+          "label": "Codex character revision",
+          "status": "superseded",
+          "createdAt": "2026-07-23",
+          "parent": "ch02-claude-v1",
+          "sourceCommit": "1adb8b4",
+          "includedCommits": [],
+          "contributions": [
+            {
+              "agent": "codex-gpt5",
+              "role": "revision",
+              "scope": "Deepened the opening character stakes",
+              "evidence": "verified"
+            }
+          ],
+          "note": null,
+          "text": {
+            "path": "fiction/the-crystal-opening/versions/text/ch02-codex-r1.md",
+            "sha256": "0e793f04b62821a422f96e6975f238aaebb3f38023e3d149385106997b89d438",
+            "bytes": 11351,
+            "words": 2066
+          }
+        },
+        {
+          "id": "ch02-codex-r2",
+          "label": "Current Codex rewrite",
+          "status": "canonical",
+          "createdAt": "2026-07-23",
+          "parent": "ch02-codex-r1",
+          "sourceCommit": "0fbb5cd",
+          "includedCommits": [],
+          "contributions": [
+            {
+              "agent": "codex-gpt5",
+              "role": "rewrite",
+              "scope": "Returned the exposition to scene and reduced composed commentary",
+              "evidence": "verified"
+            }
+          ],
+          "note": null,
+          "text": {
+            "path": "fiction/the-crystal-opening/versions/text/ch02-codex-r2.md",
+            "sha256": "44c9af36a4948371a7c95103acf893df4ca39da80c42af95f23980737e141577",
+            "bytes": 10046,
+            "words": 1725
+          }
+        }
+      ],
+      "audioRenders": [
+        {
+          "id": "ch02-chris-claude-v1",
+          "label": "Chris · original Claude text",
+          "textEdition": "ch02-claude-v1",
+          "matchesCanonicalText": false,
+          "createdAt": "2026-07-23T04:51:17Z",
+          "production": {
+            "agent": "claude-fable",
+            "orchestratedBy": null,
+            "evidence": "verified"
+          },
+          "ttsScript": {
+            "retained": true,
+            "evidence": "verified",
+            "path": "fiction/the-crystal-opening/versions/tts/ch02-chris-claude-v1.md",
+            "sha256": "6b30ec2f8c3b69e0b2b2ffda6868d04d9fd497b20c1c7badd618ec88767a5309",
+            "bytes": 11372,
+            "words": 2068,
+            "normalizations": [
+              "Spoken chapter heading",
+              "Danish street-name diacritics simplified for pronunciation",
+              "Standalone scene-break markers removed"
+            ]
+          },
+          "synthesis": {
+            "provider": "ElevenLabs",
+            "model": "eleven_v3",
+            "voice": "chris",
+            "voiceSettings": {
+              "stability": 0.5,
+              "similarityBoost": 0.75,
+              "style": 0,
+              "speed": 1,
+              "speakerBoost": true
+            },
+            "audioTags": [],
+            "textToDialogue": false,
+            "chunkCount": 14,
+            "assembly": "ffmpeg concat (-c copy)",
+            "interChunkSilenceMs": 0,
+            "tailSilenceMs": 0,
+            "outputFormat": "mp3_44100_128"
+          },
+          "audio": {
+            "path": "fiction/the-crystal-opening/the-crystal-opening-02-the-professors-book.mp3",
+            "sha256": "3030c6012923a7863938adc379ffcb299b25fdd1e1c93826741c84bec6230e9f",
+            "durationSeconds": 663.935,
+            "sizeBytes": 10624141,
+            "codec": "mp3",
+            "sampleRateHz": 44100,
+            "channels": 1,
+            "bitrateBps": 128000
+          },
+          "renderCommit": "4292cec",
+          "publicationCommits": [
+            "4292cec"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ch03",
+      "number": 3,
+      "title": "The Assistant",
+      "canonicalTextEdition": "ch03-codex-r2",
+      "textEditions": [
+        {
+          "id": "ch03-claude-v1",
+          "label": "Original Claude draft",
+          "status": "superseded",
+          "createdAt": "2026-07-22",
+          "parent": null,
+          "sourceCommit": "d2cf47c",
+          "includedCommits": [],
+          "contributions": [
+            {
+              "agent": "claude-fable",
+              "role": "draft",
+              "scope": "Substantive prose",
+              "evidence": "verified"
+            }
+          ],
+          "note": null,
+          "text": {
+            "path": "fiction/the-crystal-opening/versions/text/ch03-claude-v1.md",
+            "sha256": "f3af73d88da38d7b89cc44014d6e9d4c45cce40c36ecf252ca13c1481ca500cf",
+            "bytes": 13303,
+            "words": 2434
+          }
+        },
+        {
+          "id": "ch03-codex-r1",
+          "label": "Codex character revision",
+          "status": "superseded",
+          "createdAt": "2026-07-23",
+          "parent": "ch03-claude-v1",
+          "sourceCommit": "1adb8b4",
+          "includedCommits": [],
+          "contributions": [
+            {
+              "agent": "codex-gpt5",
+              "role": "revision",
+              "scope": "Deepened Anders, Villum, and Rømer before the audio edition",
+              "evidence": "verified"
+            }
+          ],
+          "note": null,
+          "text": {
+            "path": "fiction/the-crystal-opening/versions/text/ch03-codex-r1.md",
+            "sha256": "fa90dd9090bff41ba7bec232d50aca1832db9d5f1af57923615548c79a22f57b",
+            "bytes": 13373,
+            "words": 2457
+          }
+        },
+        {
+          "id": "ch03-codex-r2",
+          "label": "Current Codex rewrite",
+          "status": "canonical",
+          "createdAt": "2026-07-23",
+          "parent": "ch03-codex-r1",
+          "sourceCommit": "4ccedab",
+          "includedCommits": [],
+          "contributions": [
+            {
+              "agent": "codex-gpt5",
+              "role": "rewrite",
+              "scope": "Removed polished sociology-of-belief narration and let the encounter remain a scene",
+              "evidence": "verified"
+            }
+          ],
+          "note": null,
+          "text": {
+            "path": "fiction/the-crystal-opening/versions/text/ch03-codex-r2.md",
+            "sha256": "8f4c0377abd5393346bfb283374bb01474f7cbc0f52c0c12f3d19bcd3ac2af65",
+            "bytes": 11787,
+            "words": 2038
+          }
+        }
+      ],
+      "audioRenders": [
+        {
+          "id": "ch03-chris-codex-r1",
+          "label": "Chris · first Codex revision",
+          "textEdition": "ch03-codex-r1",
+          "matchesCanonicalText": false,
+          "createdAt": "2026-07-23T20:22:45Z",
+          "production": {
+            "agent": "claude-code-opus",
+            "orchestratedBy": "codex-gpt5",
+            "evidence": "verified"
+          },
+          "ttsScript": {
+            "retained": true,
+            "evidence": "verified",
+            "path": "fiction/the-crystal-opening/versions/tts/ch03-chris-codex-r1.md",
+            "sha256": "317d4fedcdff8c098d493da5c16a398b7d9fc98e680eef0c0ef2e7f3dc5bc772",
+            "bytes": 13352,
+            "words": 2457,
+            "normalizations": [
+              "Spoken chapter heading",
+              "Rømer simplified to Romer for pronunciation",
+              "Danish street-name diacritics simplified for pronunciation",
+              "Markdown emphasis and standalone scene-break markers removed"
+            ]
+          },
+          "synthesis": {
+            "provider": "ElevenLabs",
+            "model": "eleven_v3",
+            "voice": "chris",
+            "voiceSettings": {
+              "stability": 0.5,
+              "similarityBoost": 0.75,
+              "style": 0,
+              "speed": 1,
+              "speakerBoost": true
+            },
+            "audioTags": [],
+            "textToDialogue": false,
+            "chunkCount": 15,
+            "assembly": "ffmpeg concat (-c copy)",
+            "interChunkSilenceMs": 0,
+            "tailSilenceMs": 0,
+            "outputFormat": "mp3_44100_128"
+          },
+          "audio": {
+            "path": "fiction/the-crystal-opening/the-crystal-opening-03-the-assistant.mp3",
+            "sha256": "dd68fea015c9b5035cf040600f0975126252f595159369154ce2482480f55fe6",
+            "durationSeconds": 791.432,
+            "sizeBytes": 12663781,
+            "codec": "mp3",
+            "sampleRateHz": 44100,
+            "channels": 1,
+            "bitrateBps": 128000
+          },
+          "renderCommit": "77a4e92",
+          "publicationCommits": [
+            "77a4e92"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ch04",
+      "number": 4,
+      "title": "The Darkness",
+      "canonicalTextEdition": "ch04-codex-r2",
+      "textEditions": [
+        {
+          "id": "ch04-codex-v1",
+          "label": "Original Codex draft",
+          "status": "superseded",
+          "createdAt": "2026-07-23",
+          "parent": null,
+          "sourceCommit": "ce2c51f",
+          "includedCommits": [],
+          "contributions": [
+            {
+              "agent": "codex-gpt5",
+              "role": "draft",
+              "scope": "Substantive prose",
+              "evidence": "verified"
+            }
+          ],
+          "note": null,
+          "text": {
+            "path": "fiction/the-crystal-opening/versions/text/ch04-codex-v1.md",
+            "sha256": "662fdb80b87737dc5fbc8963449176b93c6609555b270b8400e2f59d77c4ff8d",
+            "bytes": 14913,
+            "words": 2636
+          }
+        },
+        {
+          "id": "ch04-codex-r2",
+          "label": "Current Codex rewrite",
+          "status": "canonical",
+          "createdAt": "2026-07-23",
+          "parent": "ch04-codex-v1",
+          "sourceCommit": "c2ce224",
+          "includedCommits": [
+            "069f9e1",
+            "c2ce224"
+          ],
+          "contributions": [
+            {
+              "agent": "codex-gpt5",
+              "role": "rewrite",
+              "scope": "Widened the life around the experiment and removed repeated account rhetoric",
+              "evidence": "verified"
+            }
+          ],
+          "note": null,
+          "text": {
+            "path": "fiction/the-crystal-opening/versions/text/ch04-codex-r2.md",
+            "sha256": "fa5586b7180e06deb17d083495545bc5d2878e9e2d5d963cb1c12cc9e0c42179",
+            "bytes": 11498,
+            "words": 1976
+          }
+        }
+      ],
+      "audioRenders": []
+    },
+    {
+      "id": "ch05",
+      "number": 5,
+      "title": "The Third Crystal",
+      "canonicalTextEdition": "ch05-codex-r1",
+      "textEditions": [
+        {
+          "id": "ch05-codex-v1",
+          "label": "Original Codex draft",
+          "status": "superseded",
+          "createdAt": "2026-07-23",
+          "parent": null,
+          "sourceCommit": "7906841",
+          "includedCommits": [],
+          "contributions": [
+            {
+              "agent": "codex-gpt5",
+              "role": "draft",
+              "scope": "Substantive prose",
+              "evidence": "verified"
+            }
+          ],
+          "note": null,
+          "text": {
+            "path": "fiction/the-crystal-opening/versions/text/ch05-codex-v1.md",
+            "sha256": "b5cc2d84619beb1d283535720cf686ca1b27c8f06bf66d8f2e71330bb3e27f89",
+            "bytes": 13380,
+            "words": 2381
+          }
+        },
+        {
+          "id": "ch05-codex-r1",
+          "label": "Current Codex rewrite",
+          "status": "canonical",
+          "createdAt": "2026-07-23",
+          "parent": "ch05-codex-v1",
+          "sourceCommit": "3314dc8",
+          "includedCommits": [],
+          "contributions": [
+            {
+              "agent": "codex-gpt5",
+              "role": "rewrite",
+              "scope": "Grounded the discovery's aftermath and reduced designed closing turns",
+              "evidence": "verified"
+            }
+          ],
+          "note": null,
+          "text": {
+            "path": "fiction/the-crystal-opening/versions/text/ch05-codex-r1.md",
+            "sha256": "d119969d91c73b8941fb12b65bd0395fce959940ab509a5a19f6d302e8c4c321",
+            "bytes": 10824,
+            "words": 1851
+          }
+        }
+      ],
+      "audioRenders": []
+    },
+    {
+      "id": "ch06",
+      "number": 6,
+      "title": "Paris Takes Him",
+      "canonicalTextEdition": "ch06-codex-r1",
+      "textEditions": [
+        {
+          "id": "ch06-codex-v1",
+          "label": "Original Codex draft",
+          "status": "superseded",
+          "createdAt": "2026-07-23",
+          "parent": null,
+          "sourceCommit": "c6bc24d",
+          "includedCommits": [],
+          "contributions": [
+            {
+              "agent": "codex-gpt5",
+              "role": "draft",
+              "scope": "Substantive prose",
+              "evidence": "verified"
+            }
+          ],
+          "note": null,
+          "text": {
+            "path": "fiction/the-crystal-opening/versions/text/ch06-codex-v1.md",
+            "sha256": "4fdf1c89def010e238220e0b75e45a93fbfbfb480b3bfa303aa46777a8f5f0af",
+            "bytes": 13586,
+            "words": 2362
+          }
+        },
+        {
+          "id": "ch06-codex-r1",
+          "label": "Current Codex rewrite",
+          "status": "canonical",
+          "createdAt": "2026-07-23",
+          "parent": "ch06-codex-v1",
+          "sourceCommit": "eed8946",
+          "includedCommits": [],
+          "contributions": [
+            {
+              "agent": "codex-gpt5",
+              "role": "rewrite",
+              "scope": "Simplified Rømer's ascent and reduced explanatory narration",
+              "evidence": "verified"
+            }
+          ],
+          "note": null,
+          "text": {
+            "path": "fiction/the-crystal-opening/versions/text/ch06-codex-r1.md",
+            "sha256": "0ae855feeff1cb7402a8c1a16b313f1386314282bb78bd48314722f130db94a6",
+            "bytes": 13314,
+            "words": 2306
+          }
+        }
+      ],
+      "audioRenders": []
+    },
+    {
+      "id": "ch07",
+      "number": 7,
+      "title": "Do It Again",
+      "canonicalTextEdition": "ch07-codex-r1",
+      "textEditions": [
+        {
+          "id": "ch07-codex-v1",
+          "label": "Original Codex draft",
+          "status": "superseded",
+          "createdAt": "2026-07-23",
+          "parent": null,
+          "sourceCommit": "93920c1",
+          "includedCommits": [],
+          "contributions": [
+            {
+              "agent": "codex-gpt5",
+              "role": "draft",
+              "scope": "Substantive prose",
+              "evidence": "verified"
+            }
+          ],
+          "note": null,
+          "text": {
+            "path": "fiction/the-crystal-opening/versions/text/ch07-codex-v1.md",
+            "sha256": "9dd54a8db7ad5abb281c7059669ebc225266551b2479907d458b1246aeda892b",
+            "bytes": 11912,
+            "words": 2116
+          }
+        },
+        {
+          "id": "ch07-codex-r1",
+          "label": "Current Codex rewrite",
+          "status": "canonical",
+          "createdAt": "2026-07-23",
+          "parent": "ch07-codex-v1",
+          "sourceCommit": "69b3260",
+          "includedCommits": [
+            "7361c10",
+            "69b3260"
+          ],
+          "contributions": [
+            {
+              "agent": "codex-gpt5",
+              "role": "rewrite",
+              "scope": "Gave Karen room to be wrong and quieted the chapter ending",
+              "evidence": "verified"
+            }
+          ],
+          "note": null,
+          "text": {
+            "path": "fiction/the-crystal-opening/versions/text/ch07-codex-r1.md",
+            "sha256": "c6c0f639287e00bef1656c2f53ef8ab19694a9569c7ff49bc92e392cd426bdc6",
+            "bytes": 11937,
+            "words": 2118
+          }
+        }
+      ],
+      "audioRenders": []
+    },
+    {
+      "id": "ch08",
+      "number": 8,
+      "title": "The Speed of Light",
+      "canonicalTextEdition": "ch08-codex-r1",
+      "textEditions": [
+        {
+          "id": "ch08-claude-v1",
+          "label": "Original Claude draft",
+          "status": "superseded",
+          "createdAt": "2026-07-23",
+          "parent": null,
+          "sourceCommit": "0b81102",
+          "includedCommits": [],
+          "contributions": [
+            {
+              "agent": "claude-fable",
+              "role": "draft",
+              "scope": "Substantive prose",
+              "evidence": "verified"
+            }
+          ],
+          "note": null,
+          "text": {
+            "path": "fiction/the-crystal-opening/versions/text/ch08-claude-v1.md",
+            "sha256": "a4c0e32fbf67c3bba0fc12974b1352dbafb063ef3fd5c4728002c57738a9b9d5",
+            "bytes": 13279,
+            "words": 2471
+          }
+        },
+        {
+          "id": "ch08-codex-r1",
+          "label": "Current Codex rewrite",
+          "status": "canonical",
+          "createdAt": "2026-07-23",
+          "parent": "ch08-claude-v1",
+          "sourceCommit": "c2ce224",
+          "includedCommits": [
+            "fcc7543",
+            "c2ce224"
+          ],
+          "contributions": [
+            {
+              "agent": "codex-gpt5",
+              "role": "rewrite",
+              "scope": "Let the chapter breathe and removed repeated account rhetoric",
+              "evidence": "verified"
+            }
+          ],
+          "note": null,
+          "text": {
+            "path": "fiction/the-crystal-opening/versions/text/ch08-codex-r1.md",
+            "sha256": "91af5222fe3d0ac81e8215d80ab67ef6264a747f91ce07f7ebbb922e14a43fd0",
+            "bytes": 15800,
+            "words": 2789
+          }
+        }
+      ],
+      "audioRenders": [
+        {
+          "id": "ch08-chris-claude-v1",
+          "label": "Chris · original Claude text",
+          "textEdition": "ch08-claude-v1",
+          "matchesCanonicalText": false,
+          "createdAt": "2026-07-23T21:21:42Z",
+          "production": {
+            "agent": "claude-fable",
+            "orchestratedBy": null,
+            "evidence": "verified"
+          },
+          "ttsScript": {
+            "retained": true,
+            "evidence": "verified",
+            "path": "fiction/the-crystal-opening/versions/tts/ch08-chris-claude-v1.md",
+            "sha256": "0bcd75e2f869ab3a8782f36f397449c9c55aa5b350fa031a712850533c1745a7",
+            "bytes": 13264,
+            "words": 2471,
+            "normalizations": [
+              "Spoken chapter heading",
+              "Rømer simplified to Romer for pronunciation",
+              "Danish street-name diacritics simplified for pronunciation",
+              "Markdown emphasis converted to spoken prose",
+              "Standalone scene-break markers removed"
+            ]
+          },
+          "synthesis": {
+            "provider": "ElevenLabs",
+            "model": "eleven_v3",
+            "voice": "chris",
+            "voiceSettings": {
+              "stability": 0.5,
+              "similarityBoost": 0.75,
+              "style": 0,
+              "speed": 1,
+              "speakerBoost": true
+            },
+            "audioTags": [],
+            "textToDialogue": false,
+            "chunkCount": 16,
+            "assembly": "ffmpeg concat (-c copy) + seam and tail silence",
+            "interChunkSilenceMs": 650,
+            "tailSilenceMs": 1200,
+            "outputFormat": "mp3_44100_128"
+          },
+          "audio": {
+            "path": "fiction/the-crystal-opening/the-crystal-opening-08-the-speed-of-light.mp3",
+            "sha256": "27012f206af38d56f1d22d701d2a703943ed3a12b80cfc9bf65fad0cdadcfb6c",
+            "durationSeconds": 808.488,
+            "sizeBytes": 12936693,
+            "codec": "mp3",
+            "sampleRateHz": 44100,
+            "channels": 1,
+            "bitrateBps": 128000
+          },
+          "renderCommit": "973099d",
+          "publicationCommits": [
+            "973099d"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ch09",
+      "number": 9,
+      "title": "Margrethe",
+      "canonicalTextEdition": "ch09-codex-v1",
+      "textEditions": [
+        {
+          "id": "ch09-codex-v1",
+          "label": "Current Codex draft",
+          "status": "canonical",
+          "createdAt": "2026-07-23",
+          "parent": null,
+          "sourceCommit": "25f4d85",
+          "includedCommits": [],
+          "contributions": [
+            {
+              "agent": "codex-gpt5",
+              "role": "draft",
+              "scope": "Substantive prose",
+              "evidence": "verified"
+            }
+          ],
+          "note": null,
+          "text": {
+            "path": "fiction/the-crystal-opening/versions/text/ch09-codex-v1.md",
+            "sha256": "f2ff27bb8183294f1710d700ae106b1b4e864ce3f242de23387a48f7106deb1d",
+            "bytes": 14067,
+            "words": 2453
+          }
+        }
+      ],
+      "audioRenders": []
+    },
+    {
+      "id": "ch10",
+      "number": 10,
+      "title": "The University Hour",
+      "canonicalTextEdition": "ch10-codex-v1",
+      "textEditions": [
+        {
+          "id": "ch10-codex-v1",
+          "label": "Current Codex draft",
+          "status": "canonical",
+          "createdAt": "2026-07-23",
+          "parent": null,
+          "sourceCommit": "c2ce224",
+          "includedCommits": [
+            "3b9f3aa",
+            "c2ce224"
+          ],
+          "contributions": [
+            {
+              "agent": "codex-gpt5",
+              "role": "draft",
+              "scope": "Substantive prose with a small follow-up rhetoric cleanup",
+              "evidence": "verified"
+            }
+          ],
+          "note": null,
+          "text": {
+            "path": "fiction/the-crystal-opening/versions/text/ch10-codex-v1.md",
+            "sha256": "fc973596c42d22eacb7b062b22ebfcb1160a1f89be9d613f4819f8255e4b2597",
+            "bytes": 11003,
+            "words": 1875
+          }
+        }
+      ],
+      "audioRenders": []
+    },
+    {
+      "id": "ch11",
+      "number": 11,
+      "title": "The Fever",
+      "canonicalTextEdition": "ch11-codex-v1",
+      "textEditions": [
+        {
+          "id": "ch11-codex-v1",
+          "label": "Current Codex draft",
+          "status": "canonical",
+          "createdAt": "2026-07-23",
+          "parent": null,
+          "sourceCommit": "36fada6",
+          "includedCommits": [],
+          "contributions": [
+            {
+              "agent": "codex-gpt5",
+              "role": "draft",
+              "scope": "Substantive prose",
+              "evidence": "verified"
+            }
+          ],
+          "note": null,
+          "text": {
+            "path": "fiction/the-crystal-opening/versions/text/ch11-codex-v1.md",
+            "sha256": "2426d337578d4f05d8bfda47fc20a254f4a2f7849f867003b7b015b67e191025",
+            "bytes": 9530,
+            "words": 1670
+          }
+        }
+      ],
+      "audioRenders": [
+        {
+          "id": "ch11-chris-codex-v1",
+          "label": "Chris · current Codex text",
+          "textEdition": "ch11-codex-v1",
+          "matchesCanonicalText": true,
+          "createdAt": "2026-07-24T03:54:20Z",
+          "production": {
+            "agent": "claude-code-opus",
+            "orchestratedBy": "codex-gpt5",
+            "evidence": "verified"
+          },
+          "ttsScript": {
+            "retained": true,
+            "evidence": "verified",
+            "path": "fiction/the-crystal-opening/versions/tts/ch11-chris-codex-v1.md",
+            "sha256": "b06d1ec7863108584e0c98a6aad3573240c63fe9b09a54c6cb6b1642226e5d08",
+            "bytes": 9525,
+            "words": 1671,
+            "normalizations": [
+              "Spoken chapter heading",
+              "1689 expanded to sixteen eighty-nine",
+              "Lübeck simplified to Lubeck for pronunciation",
+              "Sørensen simplified to Sorensen for pronunciation",
+              "Four standalone scene-break markers removed"
+            ]
+          },
+          "synthesis": {
+            "provider": "ElevenLabs",
+            "model": "eleven_v3",
+            "voice": "chris",
+            "voiceSettings": {
+              "stability": 0.5,
+              "similarityBoost": 0.75,
+              "style": 0,
+              "speed": 1,
+              "speakerBoost": true
+            },
+            "audioTags": [],
+            "textToDialogue": false,
+            "chunkCount": 10,
+            "assembly": "ffmpeg concat (-c copy) + seam and tail silence",
+            "interChunkSilenceMs": 650,
+            "tailSilenceMs": 1200,
+            "outputFormat": "mp3_44100_128"
+          },
+          "audio": {
+            "path": "fiction/the-crystal-opening/the-crystal-opening-11-the-fever.mp3",
+            "sha256": "f9cac3efafdf0f137d26aad65c2d0d7d49c09b2de93d85eb4ec236d39fe8f31c",
+            "durationSeconds": 592.769,
+            "sizeBytes": 9485194,
+            "codec": "mp3",
+            "sampleRateHz": 44100,
+            "channels": 1,
+            "bitrateBps": 128000
+          },
+          "renderCommit": "4970343",
+          "publicationCommits": [
+            "4970343"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ch12",
+      "number": 12,
+      "title": "The Book from Holland",
+      "canonicalTextEdition": "ch12-codex-v1",
+      "textEditions": [
+        {
+          "id": "ch12-codex-v1",
+          "label": "Current Codex draft",
+          "status": "canonical",
+          "createdAt": "2026-07-23",
+          "parent": null,
+          "sourceCommit": "c2ce224",
+          "includedCommits": [
+            "d202221",
+            "c2ce224"
+          ],
+          "contributions": [
+            {
+              "agent": "codex-gpt5",
+              "role": "draft",
+              "scope": "Substantive prose with a small follow-up rhetoric cleanup",
+              "evidence": "verified"
+            }
+          ],
+          "note": null,
+          "text": {
+            "path": "fiction/the-crystal-opening/versions/text/ch12-codex-v1.md",
+            "sha256": "b98fef815774179ee504dbd5d5865c3a8e031b182344e056e56bd0b6b4f93215",
+            "bytes": 10315,
+            "words": 1785
+          }
+        }
+      ],
+      "audioRenders": []
+    }
+  ]
+}

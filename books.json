@@ -7,8 +7,10 @@
       "blurb": "Copenhagen, 1669. A lens grinder's apprentice buys a stone off a sailor and finds a rule of the world nobody has told him. A secret history of the light we didn't understand for 250 years \u2014 and of what it costs to see something first.",
       "status": "In progress \u00b7 new chapters as they're written",
       "text": "fiction/the-crystal-opening/story.md",
+      "provenance": "fiction/the-crystal-opening/provenance.json",
       "chapters": [
         {
+          "id": "f0",
           "n": 0,
           "title": "Prologue \u2014 The Kitchen Table",
           "voice": "Evan",
@@ -16,6 +18,7 @@
           "audio": "fiction/the-crystal-opening/the-crystal-opening-00-prologue.mp3"
         },
         {
+          "id": "ch01",
           "n": 1,
           "title": "Two Candles",
           "voice": "Chris",
@@ -23,6 +26,7 @@
           "audio": "fiction/the-crystal-opening/the-crystal-opening-01-two-candles.mp3"
         },
         {
+          "id": "ch02",
           "n": 2,
           "title": "The Professor's Book",
           "voice": "Chris",
@@ -30,6 +34,7 @@
           "audio": "fiction/the-crystal-opening/the-crystal-opening-02-the-professors-book.mp3"
         },
         {
+          "id": "ch03",
           "n": 3,
           "title": "The Assistant",
           "voice": "Chris",
@@ -37,30 +42,35 @@
           "audio": "fiction/the-crystal-opening/the-crystal-opening-03-the-assistant.mp3"
         },
         {
+          "id": "ch04",
           "n": 4,
           "title": "The Darkness",
           "voice": "Chris",
           "audio": null
         },
         {
+          "id": "ch05",
           "n": 5,
           "title": "The Third Crystal",
           "voice": "Chris",
           "audio": null
         },
         {
+          "id": "ch06",
           "n": 6,
           "title": "Paris Takes Him",
           "voice": "Chris",
           "audio": null
         },
         {
+          "id": "ch07",
           "n": 7,
           "title": "Do It Again",
           "voice": "Chris",
           "audio": null
         },
         {
+          "id": "ch08",
           "n": 8,
           "title": "The Speed of Light",
           "voice": "Chris",
@@ -68,18 +78,21 @@
           "audio": "fiction/the-crystal-opening/the-crystal-opening-08-the-speed-of-light.mp3"
         },
         {
+          "id": "ch09",
           "n": 9,
           "title": "Margrethe",
           "voice": "Chris",
           "audio": null
         },
         {
+          "id": "ch10",
           "n": 10,
           "title": "The University Hour",
           "voice": "Chris",
           "audio": null
         },
         {
+          "id": "ch11",
           "n": 11,
           "title": "The Fever",
           "voice": "Chris",
@@ -87,6 +100,7 @@
           "audio": "fiction/the-crystal-opening/the-crystal-opening-11-the-fever.mp3"
         },
         {
+          "id": "ch12",
           "n": 12,
           "title": "The Book from Holland",
           "voice": "Chris",

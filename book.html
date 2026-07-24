@@ -10,7 +10,7 @@
   * { box-sizing: border-box; }
   body { margin:0; background:#14151a; color:#e9e9ee;
          font:16px/1.5 -apple-system,Segoe UI,Roboto,sans-serif; padding:18px 14px 130px; }
-  .wrap { max-width:680px; margin:0 auto; }
+  .wrap { max-width:760px; margin:0 auto; }
   header { margin-bottom:6px; }
   .series { color:#9a9aa6; font-size:12.5px; letter-spacing:.06em; text-transform:uppercase; }
   h1 { font-size:26px; margin:2px 0 4px; }
@@ -19,23 +19,57 @@
   .sub a { color:#7ab8ff; text-decoration:none; }
   .progressline { margin:14px 0 4px; color:#8a8a96; font-size:12.5px; }
   .chapters { margin-top:10px; }
+  .chblock { margin:8px 0; }
   .ch { display:flex; align-items:center; gap:12px; background:#1c1d24; border:1px solid #23242c;
-        border-radius:12px; padding:12px 14px; margin:8px 0; cursor:pointer; }
-  .ch:active { transform:scale(.995); }
-  .ch.disabled { opacity:.45; cursor:default; }
+        border-radius:12px; padding:12px 14px; }
+  .chblock.open .ch { border-radius:12px 12px 0 0; border-bottom-color:#30313b; }
   .ch.playing { border-color:#4a6ee0; }
   .num { color:#8a8a96; font-size:12px; min-width:26px; }
   .cinfo { flex:1; min-width:0; }
   .ctitle { font-weight:600; font-size:15.5px; }
-  .cmeta { color:#8a8a96; font-size:12px; display:flex; gap:8px; margin-top:1px; }
+  .cmeta { color:#8a8a96; font-size:12px; display:flex; flex-wrap:wrap; gap:4px 8px; margin-top:2px; }
+  .badges { display:flex; flex-wrap:wrap; gap:5px; margin-top:6px; }
+  .badge { border:1px solid #383a46; border-radius:999px; padding:2px 7px; color:#b9bbc7;
+           font-size:10.5px; line-height:1.35; }
+  .badge.codex { color:#a9caff; border-color:#385172; background:#1d2a3b; }
+  .badge.claude { color:#d4b7ff; border-color:#594373; background:#2b2139; }
+  .badge.sync { color:#92e2ad; border-color:#305a3e; background:#1b3022; }
+  .badge.stale { color:#f1c37a; border-color:#654f2c; background:#362a18; }
   .resume { color:#7fdca0; }
   .done { color:#7fdca0; }
   .playbtn { width:38px; height:38px; border-radius:50%; border:1px solid #33343e; background:#23242c;
              color:#e9e9ee; font-size:14px; flex:none; display:flex; align-items:center; justify-content:center; }
+  .playbtn:not(:disabled) { cursor:pointer; }
+  .playbtn:disabled { opacity:.28; }
   .ch.playing .playbtn { background:#2a3a6b; border-color:#4a6ee0; }
+  .provbtn { margin-top:6px; padding:0; border:0; background:transparent; color:#7ab8ff;
+             font-size:11.5px; cursor:pointer; text-align:left; }
+  .provpanel { border:1px solid #30313b; border-top:0; border-radius:0 0 12px 12px;
+               background:#181920; padding:14px; }
+  .provsection + .provsection { margin-top:17px; }
+  .provtitle { color:#d4d5dc; font-size:11px; font-weight:700; letter-spacing:.06em;
+               text-transform:uppercase; margin-bottom:7px; }
+  .edition, .render { border-top:1px solid #292b34; padding:9px 0; }
+  .edition:first-of-type, .render:first-of-type { border-top:0; padding-top:2px; }
+  .editiontop, .rendertop { display:flex; align-items:baseline; flex-wrap:wrap; gap:6px; }
+  .editionname, .rendername { font-size:13.5px; font-weight:600; color:#e1e2e8; }
+  .currenttag { color:#92e2ad; font-size:10.5px; text-transform:uppercase; letter-spacing:.05em; }
+  .provmeta { color:#9b9da8; font-size:11.5px; margin-top:2px; }
+  .provlinks { display:flex; flex-wrap:wrap; gap:10px; margin-top:5px; font-size:11.5px; }
+  .provlinks a { color:#7ab8ff; text-decoration:none; }
+  .listenver { border:1px solid #3b5279; background:#223351; color:#dce8ff; border-radius:7px;
+               padding:4px 8px; font-size:11.5px; cursor:pointer; margin-top:6px; }
+  details.recipe { margin-top:7px; }
+  details.recipe summary { color:#9faac1; font-size:11.5px; cursor:pointer; }
+  .recipebody { color:#999ca8; font-size:11px; padding:7px 0 0 10px; }
+  .recipebody div { margin:3px 0; }
+  .recipebody ul { margin:4px 0 4px 17px; padding:0; }
+  .hash { font:10px/1.35 ui-monospace,SFMono-Regular,Consolas,monospace; color:#8d91a0;
+          overflow-wrap:anywhere; }
+  .legacy { color:#f1c37a; }
   .player { position:fixed; left:0; right:0; bottom:0; background:#181920f2; backdrop-filter:blur(8px);
             border-top:1px solid #2a2b34; padding:10px 14px calc(10px + env(safe-area-inset-bottom)); }
-  .pwrap { max-width:680px; margin:0 auto; }
+  .pwrap { max-width:760px; margin:0 auto; }
   .pnow { font-size:13px; color:#b9b9c4; margin-bottom:6px; white-space:nowrap; overflow:hidden; text-overflow:ellipsis; }
   .pnow b { color:#e9e9ee; }
   .prow { display:flex; align-items:center; gap:10px; }
@@ -63,22 +97,73 @@
 </div>
 <script>
 (async function () {
+  const esc = value => String(value ?? "").replace(/[&<>"']/g, char => ({
+    "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;"
+  })[char]);
+  const fmt = seconds => Math.floor(seconds / 60) + ":" + String(Math.floor(seconds % 60)).padStart(2, "0");
+  const shortHash = value => value ? value.slice(0, 8) : "unknown";
+  const humanBytes = bytes => bytes ? (bytes / 1024 / 1024).toFixed(1) + " MB" : "size unknown";
+
   const qs = new URLSearchParams(location.search);
   const manifest = await (await fetch("books.json", { cache: "no-store" })).json();
   const book = manifest.books.find(b => b.id === qs.get("book")) || manifest.books[0];
   if (!book) { document.getElementById("list").innerHTML = '<div class="msg">no books yet</div>'; return; }
 
+  let provenance = null;
+  if (book.provenance) {
+    try {
+      const response = await fetch(book.provenance, { cache: "no-store" });
+      if (!response.ok) throw new Error("HTTP " + response.status);
+      provenance = await response.json();
+    } catch (error) {
+      console.warn("Book provenance unavailable:", error);
+    }
+  }
+  const provById = new Map((provenance?.chapters || []).map(ch => [ch.id, ch]));
+  const provFor = ch => provById.get(ch.id) || provenance?.chapters.find(item => item.number === ch.n) || null;
+  const agent = id => provenance?.agents?.[id] || { displayName: id || "Unknown model" };
+  const voice = id => provenance?.voices?.[id] || { displayName: id || "Unknown voice" };
+  const editionFor = (pch, id) => pch?.textEditions.find(edition => edition.id === id) || null;
+  const canonicalEdition = pch => editionFor(pch, pch?.canonicalTextEdition);
+  const leadCredit = edition => edition?.contributions?.[edition.contributions.length - 1] || null;
+  const modelClass = id => id?.startsWith("claude") ? "claude" : id?.startsWith("codex") ? "codex" : "";
+  const rendersFor = ch => {
+    const renders = provFor(ch)?.audioRenders || [];
+    if (renders.length) return renders;
+    return ch.audio ? [{
+      id: "legacy-" + (ch.id || ch.n),
+      label: ch.voice ? ch.voice + " render" : "Audio render",
+      textEdition: null,
+      matchesCanonicalText: null,
+      synthesis: { voice: null, model: null },
+      audio: { path: ch.audio, durationSeconds: ch.minutes ? ch.minutes * 60 : null }
+    }] : [];
+  };
+  const defaultRender = ch => {
+    const renders = rendersFor(ch);
+    return renders.find(render => render.matchesCanonicalText) || renders[renders.length - 1] || null;
+  };
+
   document.title = book.title + " · listening";
   const head = document.getElementById("head");
   head.innerHTML = `
-    <div class="series">${book.series || ""}</div>
-    <h1>${book.title}</h1>
-    <div class="blurb">${book.blurb || ""}</div>
-    <div class="sub">${book.status || ""}${book.text ? ` · <a href="${book.text}">read the text ↗</a>` : ""}</div>`;
+    <div class="series">${esc(book.series || "")}</div>
+    <h1>${esc(book.title)}</h1>
+    <div class="blurb">${esc(book.blurb || "")}</div>
+    <div class="sub">${esc(book.status || "")}${book.text ? ` · <a href="${esc(book.text)}">read current text ↗</a>` : ""}${book.provenance ? ` · <a href="${esc(book.provenance)}">provenance ledger ↗</a>` : ""}</div>`;
 
   const KEY = "bookpos:" + book.id;
   const state = JSON.parse(localStorage.getItem(KEY) || "{}"); // {n: seconds|"done"}
   const save = () => localStorage.setItem(KEY, JSON.stringify(state));
+  const stateKey = (ch, render) => render?.id || "chapter-" + (ch.id || ch.n);
+  const getPosition = (ch, render) => {
+    const exact = state[stateKey(ch, render)];
+    if (exact !== undefined) return exact;
+    return render === defaultRender(ch) ? state[ch.n] : undefined; // migrate old chapter-only progress
+  };
+  const setPosition = (ch, render, value) => {
+    state[stateKey(ch, render)] = value;
+  };
 
   const au = document.getElementById("au");
   const player = document.getElementById("player");
@@ -89,46 +174,171 @@
   const applySpeed = () => { au.playbackRate = speeds[spi]; spd.textContent = speeds[spi] + "×"; };
   spd.onclick = () => { spi = (spi + 1) % speeds.length; localStorage.setItem("bookspeed", spi); applySpeed(); };
 
-  let current = null;
-  const fmt = s => Math.floor(s / 60) + ":" + String(Math.floor(s % 60)).padStart(2, "0");
+  let current = null; // {chapter, render}
+  const expanded = new Set();
+
+  function editionHtml(pch, edition) {
+    const credit = leadCredit(edition);
+    const parent = editionFor(pch, edition.parent);
+    const creditText = credit
+      ? `${esc(agent(credit.agent).displayName)} · ${esc(credit.role)}${credit.scope ? ` · ${esc(credit.scope)}` : ""}`
+      : "Prose credit not recorded";
+    return `
+      <div class="edition">
+        <div class="editiontop">
+          <span class="editionname">${esc(edition.label)}</span>
+          ${edition.status === "canonical" ? '<span class="currenttag">current text</span>' : ""}
+        </div>
+        <div class="provmeta">${creditText}</div>
+        ${parent ? `<div class="provmeta">Based on ${esc(parent.label)}</div>` : ""}
+        <div class="provmeta">${edition.text.words.toLocaleString()} words · commit ${esc(edition.sourceCommit)} · text SHA-256 <span class="hash">${esc(edition.text.sha256)}</span></div>
+        <div class="provlinks"><a href="${esc(edition.text.path)}" target="_blank" rel="noopener">read this edition ↗</a></div>
+      </div>`;
+  }
+
+  function recipeHtml(pch, render) {
+    const syn = render.synthesis || {};
+    const settings = syn.voiceSettings;
+    const tts = render.ttsScript || {};
+    const sourceEdition = editionFor(pch, render.textEdition);
+    const settingText = settings
+      ? `stability ${settings.stability} · similarity ${settings.similarityBoost} · style ${settings.style} · speed ${settings.speed} · speaker boost ${settings.speakerBoost ? "on" : "off"}`
+      : "Voice settings were not retained";
+    const tagText = syn.audioTags?.length ? syn.audioTags.join(", ") : "none";
+    const normalizations = tts.normalizations?.length
+      ? `<ul>${tts.normalizations.map(item => `<li>${esc(item)}</li>`).join("")}</ul>`
+      : `<div class="${tts.evidence === "legacy-gap" ? "legacy" : ""}">${esc(tts.note || "No speech normalizations recorded.")}</div>`;
+    return `
+      <details class="recipe">
+        <summary>ElevenLabs recipe and integrity</summary>
+        <div class="recipebody">
+          <div>Text edition: ${esc(sourceEdition?.label || render.textEdition || "unknown")} · commit ${esc(sourceEdition?.sourceCommit || "unknown")}</div>
+          <div>Model: ${esc(syn.provider || "ElevenLabs")} ${esc(syn.model || "model unknown")} · output ${esc(syn.outputFormat || "format not recorded")}</div>
+          <div>Voice settings: ${esc(settingText)}</div>
+          <div>Audio tags: ${esc(tagText)} · Text-to-Dialogue: ${syn.textToDialogue ? "on" : "off"}</div>
+          <div>Chunks: ${syn.chunkCount ?? "unknown"} · seam silence: ${syn.interChunkSilenceMs ?? "unknown"} ms · tail silence: ${syn.tailSilenceMs ?? "unknown"} ms</div>
+          <div>Assembly: ${esc(syn.assembly || "not retained")}</div>
+          <div>Speech-script changes:</div>
+          ${normalizations}
+          ${tts.path ? `<div class="provlinks"><a href="${esc(tts.path)}" target="_blank" rel="noopener">open exact TTS script ↗</a></div>` : ""}
+          ${tts.sha256 ? `<div>TTS SHA-256 <span class="hash">${esc(tts.sha256)}</span></div>` : ""}
+          <div>Audio SHA-256 <span class="hash">${esc(render.audio.sha256 || "not recorded")}</span></div>
+          <div>Render commit: ${esc(render.renderCommit || "not recorded")} · ${esc(humanBytes(render.audio.sizeBytes))}</div>
+        </div>
+      </details>`;
+  }
+
+  function renderHtml(pch, render) {
+    const sourceEdition = editionFor(pch, render.textEdition);
+    const sourceCredit = leadCredit(sourceEdition);
+    const producer = agent(render.production?.agent).displayName;
+    const orchestrator = render.production?.orchestratedBy ? agent(render.production.orchestratedBy).displayName : null;
+    const voiceName = voice(render.synthesis?.voice).displayName;
+    const duration = render.audio.durationSeconds ? fmt(render.audio.durationSeconds) : "duration unknown";
+    return `
+      <div class="render">
+        <div class="rendertop">
+          <span class="rendername">${esc(render.label)}</span>
+          <span class="badge ${render.matchesCanonicalText ? "sync" : "stale"}">${render.matchesCanonicalText ? "matches current text" : "older text edition"}</span>
+        </div>
+        <div class="provmeta">${esc(voiceName)} · ${duration} · text by ${esc(agent(sourceCredit?.agent).displayName)}</div>
+        <div class="provmeta">Audio prepared by ${esc(producer)}${orchestrator ? ` · orchestrated by ${esc(orchestrator)}` : ""}</div>
+        <button class="listenver" data-action="render" data-render="${esc(render.id)}">▶ Listen to this render</button>
+        ${recipeHtml(pch, render)}
+      </div>`;
+  }
+
+  function provenanceHtml(ch, pch) {
+    return `
+      <div class="provpanel">
+        <div class="provsection">
+          <div class="provtitle">Text editions</div>
+          ${[...pch.textEditions].reverse().map(edition => editionHtml(pch, edition)).join("")}
+        </div>
+        <div class="provsection">
+          <div class="provtitle">Audio renders</div>
+          ${pch.audioRenders.length ? pch.audioRenders.map(render => renderHtml(pch, render)).join("") : '<div class="provmeta">No audio render yet.</div>'}
+        </div>
+      </div>`;
+  }
 
   function renderList() {
     const list = document.getElementById("list");
     list.innerHTML = "";
     let doneCount = 0;
     for (const ch of book.chapters) {
-      const has = !!ch.audio;
-      const st = state[ch.n];
+      const pch = provFor(ch);
+      const edition = canonicalEdition(pch);
+      const credit = leadCredit(edition);
+      const render = defaultRender(ch);
+      const has = !!render;
+      const st = getPosition(ch, render);
       if (st === "done") doneCount++;
+      const block = document.createElement("div");
+      block.className = "chblock" + (expanded.has(ch.id) ? " open" : "");
       const div = document.createElement("div");
-      div.className = "ch" + (has ? "" : " disabled") + (current === ch ? " playing" : "");
+      div.className = "ch" + (current?.chapter === ch ? " playing" : "");
       const metaBits = [];
-      if (ch.voice) metaBits.push(ch.voice);
-      if (ch.minutes) metaBits.push("~" + ch.minutes + " min");
-      if (!has) metaBits.push("coming soon");
+      const voiceName = render?.synthesis?.voice ? voice(render.synthesis.voice).displayName : ch.voice;
+      if (voiceName) metaBits.push(esc(voiceName));
+      if (render?.audio?.durationSeconds) metaBits.push(fmt(render.audio.durationSeconds));
+      else if (ch.minutes) metaBits.push("~" + ch.minutes + " min");
+      if (!has) metaBits.push("audio not rendered");
       if (st === "done") metaBits.push('<span class="done">✓ finished</span>');
       else if (typeof st === "number" && st > 20) metaBits.push('<span class="resume">resume ' + fmt(st) + "</span>");
+      const badges = [];
+      if (credit) {
+        badges.push(`<span class="badge ${modelClass(credit.agent)}">Text · ${esc(agent(credit.agent).displayName)}</span>`);
+      }
+      if (render) {
+        badges.push(`<span class="badge ${render.matchesCanonicalText ? "sync" : "stale"}">${render.matchesCanonicalText ? "Audio matches text" : "Audio uses older text"}</span>`);
+      }
       div.innerHTML = `
         <div class="num">${ch.n === 0 ? "◦" : String(ch.n).padStart(2, "0")}</div>
         <div class="cinfo">
-          <div class="ctitle">${ch.title}</div>
+          <div class="ctitle">${esc(ch.title)}</div>
           <div class="cmeta">${metaBits.join(" · ")}</div>
+          ${badges.length ? `<div class="badges">${badges.join("")}</div>` : ""}
+          ${pch ? `<button class="provbtn" data-action="toggle">${expanded.has(ch.id) ? "hide provenance" : `${pch.textEditions.length} text edition${pch.textEditions.length === 1 ? "" : "s"} · ${pch.audioRenders.length} audio render${pch.audioRenders.length === 1 ? "" : "s"} · details`}</button>` : ""}
         </div>
-        <div class="playbtn">${current === ch && !au.paused ? "❚❚" : "▶"}</div>`;
-      if (has) div.onclick = () => (current === ch ? (au.paused ? au.play() : au.pause()) : play(ch));
-      list.appendChild(div);
+        <button class="playbtn" data-action="play" ${has ? "" : "disabled"} aria-label="${has ? "Play " + esc(ch.title) : "No audio available"}">${current?.chapter === ch && !au.paused ? "❚❚" : "▶"}</button>`;
+      block.appendChild(div);
+      if (pch && expanded.has(ch.id)) {
+        block.insertAdjacentHTML("beforeend", provenanceHtml(ch, pch));
+      }
+      div.querySelector('[data-action="toggle"]')?.addEventListener("click", () => {
+        if (expanded.has(ch.id)) expanded.delete(ch.id); else expanded.add(ch.id);
+        renderList();
+      });
+      div.querySelector('[data-action="play"]')?.addEventListener("click", () => {
+        if (!render) return;
+        if (current?.chapter === ch && current?.render?.id === render.id) {
+          au.paused ? au.play() : au.pause();
+        } else {
+          play(ch, render);
+        }
+      });
+      block.querySelectorAll('[data-action="render"]').forEach(button => {
+        button.addEventListener("click", () => {
+          const selected = rendersFor(ch).find(item => item.id === button.dataset.render);
+          if (selected) play(ch, selected);
+        });
+      });
+      list.appendChild(block);
     }
-    const total = book.chapters.filter(c => c.audio).length;
+    const total = book.chapters.filter(ch => defaultRender(ch)).length;
     document.getElementById("prog").textContent =
-      doneCount ? `${doneCount} of ${total} chapters finished` : `${total} chapters available`;
+      doneCount ? `${doneCount} of ${total} available chapters finished` : `${total} chapters with audio · model and version details below`;
   }
 
-  function play(ch) {
-    current = ch;
+  function play(ch, render = defaultRender(ch)) {
+    if (!render) return;
+    current = { chapter: ch, render };
     player.classList.remove("hidden");
-    pnow.innerHTML = `Now playing — <b>${ch.title}</b>` + (ch.voice ? ` · ${ch.voice}` : "");
-    au.src = ch.audio;
-    const st = state[ch.n];
+    const syncText = render.matchesCanonicalText === false ? " · older text edition" : "";
+    pnow.innerHTML = `Now playing — <b>${esc(ch.title)}</b> · ${esc(render.label || "")}${syncText}`;
+    au.src = render.audio.path;
+    const st = getPosition(ch, render);
     au.currentTime = typeof st === "number" ? st : 0;
     applySpeed();
     au.play();
@@ -137,25 +347,33 @@
 
   setInterval(() => {
     if (current && !au.paused && au.duration) {
-      state[current.n] = au.currentTime >= au.duration - 8 ? "done" : Math.floor(au.currentTime);
+      setPosition(
+        current.chapter,
+        current.render,
+        au.currentTime >= au.duration - 8 ? "done" : Math.floor(au.currentTime)
+      );
       save();
     }
   }, 5000);
 
   au.addEventListener("ended", () => {
-    state[current.n] = "done"; save();
-    const i = book.chapters.indexOf(current);
-    const next = book.chapters.slice(i + 1).find(c => c.audio);
-    if (next) play(next); else { current = null; renderList(); }
+    setPosition(current.chapter, current.render, "done"); save();
+    const i = book.chapters.indexOf(current.chapter);
+    const next = book.chapters.slice(i + 1).find(ch => defaultRender(ch));
+    if (next) play(next, defaultRender(next)); else { current = null; renderList(); }
   });
   au.addEventListener("play", renderList);
   au.addEventListener("pause", renderList);
 
   renderList();
-  const firstUnfinished = book.chapters.find(c => c.audio && state[c.n] !== "done");
-  if (firstUnfinished && typeof state[firstUnfinished.n] === "number") {
+  const firstUnfinished = book.chapters.find(ch => {
+    const render = defaultRender(ch);
+    return render && getPosition(ch, render) !== "done";
+  });
+  const firstRender = firstUnfinished ? defaultRender(firstUnfinished) : null;
+  if (firstUnfinished && typeof getPosition(firstUnfinished, firstRender) === "number") {
     // show resume affordance without autoplaying
-    pnow.innerHTML = `Resume — <b>${firstUnfinished.title}</b>`;
+    pnow.innerHTML = `Resume — <b>${esc(firstUnfinished.title)}</b> · ${esc(firstRender.label || "")}`;
   }
 })();
 </script>
