@@ -1133,6 +1133,100 @@
         }
       ],
       "audioRenders": []
+    },
+    {
+      "id": "ch13",
+      "number": 13,
+      "title": "The Letter",
+      "canonicalTextEdition": "ch13-codex-v1",
+      "textEditions": [
+        {
+          "id": "ch13-codex-v1",
+          "label": "Current Codex draft",
+          "status": "canonical",
+          "createdAt": "2026-07-24",
+          "parent": null,
+          "sourceCommit": "5d2875b",
+          "includedCommits": [],
+          "contributions": [
+            {
+              "agent": "codex-gpt5",
+              "role": "draft",
+              "scope": "Substantive prose, continuity review, and line edit",
+              "evidence": "verified"
+            }
+          ],
+          "note": null,
+          "text": {
+            "path": "fiction/the-crystal-opening/versions/text/ch13-codex-v1.md",
+            "sha256": "4f834d3d334d6f7765fe8d6a467bf588c6d788d8bf3896a9d276b667cc71b289",
+            "bytes": 20948,
+            "words": 3684
+          }
+        }
+      ],
+      "audioRenders": [
+        {
+          "id": "ch13-chris-codex-v1",
+          "label": "Chris · current Codex text",
+          "textEdition": "ch13-codex-v1",
+          "matchesCanonicalText": true,
+          "createdAt": "2026-07-25T04:12:37Z",
+          "production": {
+            "agent": "codex-gpt5",
+            "orchestratedBy": null,
+            "evidence": "verified"
+          },
+          "ttsScript": {
+            "retained": true,
+            "evidence": "verified",
+            "path": "fiction/the-crystal-opening/versions/tts/ch13-chris-codex-v1.md",
+            "sha256": "47b103b0b862c58fc2bb0c86d414b14b4c404331faa69e890664c333316a6f99",
+            "bytes": 21010,
+            "words": 3690,
+            "normalizations": [
+              "Spoken chapter heading",
+              "1672, 1678, 1692, 1694, and 1695 expanded for speech",
+              "Rømer simplified to Romer for pronunciation",
+              "Five standalone scene-break markers removed",
+              "Markdown italics removed from the signature"
+            ]
+          },
+          "synthesis": {
+            "provider": "ElevenLabs",
+            "model": "eleven_v3",
+            "voice": "chris",
+            "voiceSettings": {
+              "stability": 0.5,
+              "similarityBoost": 0.75,
+              "style": 0,
+              "speed": 1,
+              "speakerBoost": true
+            },
+            "audioTags": [],
+            "textToDialogue": false,
+            "chunkCount": 21,
+            "assembly": "ffmpeg concat (-c copy) + seam and tail silence",
+            "interChunkSilenceMs": 650,
+            "tailSilenceMs": 1200,
+            "outputFormat": "mp3_44100_128"
+          },
+          "audio": {
+            "path": "fiction/the-crystal-opening/the-crystal-opening-13-the-letter.mp3",
+            "sha256": "53a5ee9237f72b8f0766afb1adbe77efac5d9dd74c80efc66f107a212f6221c1",
+            "durationSeconds": 1297.918,
+            "sizeBytes": 20767571,
+            "codec": "mp3",
+            "sampleRateHz": 44100,
+            "channels": 1,
+            "bitrateBps": 128000
+          },
+          "renderCommit": "8b55aa3",
+          "publicationCommits": [
+            "8b55aa3"
+          ]
+        }
+      ]
     }
   ]
 }

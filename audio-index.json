@@ -1,5 +1,5 @@
 {
- "built": "2026-07-24T17:19:44.663Z",
+ "built": "2026-07-25T04:15:16.621Z",
  "site": "https://vonwao.github.io/stories-1380",
  "groups": [
   {
@@ -80,6 +80,12 @@
        "seconds": 593,
        "date": "2026-07-23T23:55:17-04:00",
        "label": "11 the fever"
+      },
+      {
+       "path": "fiction/the-crystal-opening/the-crystal-opening-13-the-letter.mp3",
+       "seconds": 1298,
+       "date": null,
+       "label": "13 the letter"
       }
      ]
     },

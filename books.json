@@ -105,6 +105,14 @@
           "title": "The Book from Holland",
           "voice": "Chris",
           "audio": null
+        },
+        {
+          "id": "ch13",
+          "n": 13,
+          "title": "The Letter",
+          "voice": "Chris",
+          "minutes": 22,
+          "audio": "fiction/the-crystal-opening/the-crystal-opening-13-the-letter.mp3"
         }
       ]
     }
