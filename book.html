@@ -51,9 +51,13 @@
                text-transform:uppercase; margin-bottom:7px; }
   .edition, .render { border-top:1px solid #292b34; padding:9px 0; }
   .edition:first-of-type, .render:first-of-type { border-top:0; padding-top:2px; }
+  .edition.clickable { border-radius:8px; cursor:pointer; margin:0 -7px; padding-left:7px; padding-right:7px; }
+  .edition.clickable:hover { background:#20222a; }
+  .edition.clickable:focus-visible { background:#20222a; outline:2px solid #5c88df; outline-offset:1px; }
   .editiontop, .rendertop { display:flex; align-items:baseline; flex-wrap:wrap; gap:6px; }
   .editionname, .rendername { font-size:13.5px; font-weight:600; color:#e1e2e8; }
   .currenttag { color:#92e2ad; font-size:10.5px; text-transform:uppercase; letter-spacing:.05em; }
+  .comparehint { color:#91bfff; font-size:10.5px; margin-left:auto; }
   .provmeta { color:#9b9da8; font-size:11.5px; margin-top:2px; }
   .provlinks { display:flex; flex-wrap:wrap; gap:10px; margin-top:5px; font-size:11.5px; }
   .provlinks a { color:#7ab8ff; text-decoration:none; }
@@ -177,17 +181,45 @@
   let current = null; // {chapter, render}
   const expanded = new Set();
 
-  function editionHtml(pch, edition) {
+  function comparisonPair(pch, edition) {
+    if (pch.textEditions.length < 2) return null;
+    const canonical = canonicalEdition(pch);
+    if (!canonical) return null;
+    if (edition.id !== canonical.id) {
+      return { base: edition.id, compared: canonical.id };
+    }
+    const currentIndex = pch.textEditions.indexOf(canonical);
+    const base =
+      editionFor(pch, canonical.parent) ||
+      pch.textEditions[currentIndex - 1] ||
+      pch.textEditions.find(item => item.id !== canonical.id);
+    return base ? { base: base.id, compared: canonical.id } : null;
+  }
+
+  function comparisonHref(ch, pair) {
+    const params = new URLSearchParams({
+      book: book.id,
+      chapter: ch.id,
+      base: pair.base,
+      compare: pair.compared
+    });
+    return `book-diff.html?${params.toString()}`;
+  }
+
+  function editionHtml(ch, pch, edition) {
     const credit = leadCredit(edition);
     const parent = editionFor(pch, edition.parent);
+    const pair = comparisonPair(pch, edition);
+    const href = pair ? comparisonHref(ch, pair) : null;
     const creditText = credit
       ? `${esc(agent(credit.agent).displayName)} · ${esc(credit.role)}${credit.scope ? ` · ${esc(credit.scope)}` : ""}`
       : "Prose credit not recorded";
     return `
-      <div class="edition">
+      <div class="edition${pair ? " clickable" : ""}"${pair ? ` role="link" tabindex="0" data-action="compare-edition" data-href="${esc(href)}"` : ""}>
         <div class="editiontop">
           <span class="editionname">${esc(edition.label)}</span>
           ${edition.status === "canonical" ? '<span class="currenttag">current text</span>' : ""}
+          ${pair ? `<span class="comparehint">${edition.id === pch.canonicalTextEdition ? "compare with previous →" : "compare with current →"}</span>` : ""}
         </div>
         <div class="provmeta">${creditText}</div>
         ${parent ? `<div class="provmeta">Based on ${esc(parent.label)}</div>` : ""}
@@ -253,7 +285,7 @@
       <div class="provpanel">
         <div class="provsection">
           <div class="provtitle">Text editions</div>
-          ${[...pch.textEditions].reverse().map(edition => editionHtml(pch, edition)).join("")}
+          ${[...pch.textEditions].reverse().map(edition => editionHtml(ch, pch, edition)).join("")}
         </div>
         <div class="provsection">
           <div class="provtitle">Audio renders</div>
@@ -276,6 +308,7 @@
       if (st === "done") doneCount++;
       const block = document.createElement("div");
       block.className = "chblock" + (expanded.has(ch.id) ? " open" : "");
+      block.id = ch.id;
       const div = document.createElement("div");
       div.className = "ch" + (current?.chapter === ch ? " playing" : "");
       const metaBits = [];
@@ -324,6 +357,19 @@
           if (selected) play(ch, selected);
         });
       });
+      block.querySelectorAll('[data-action="compare-edition"]').forEach(row => {
+        const openComparison = event => {
+          if (event.target.closest("a")) return;
+          window.location.href = row.dataset.href;
+        };
+        row.addEventListener("click", openComparison);
+        row.addEventListener("keydown", event => {
+          if ((event.key === "Enter" || event.key === " ") && !event.target.closest("a")) {
+            event.preventDefault();
+            openComparison(event);
+          }
+        });
+      });
       list.appendChild(block);
     }
     const total = book.chapters.filter(ch => defaultRender(ch)).length;
@@ -366,6 +412,12 @@
   au.addEventListener("pause", renderList);
 
   renderList();
+  if (location.hash) {
+    const chapterId = decodeURIComponent(location.hash.slice(1));
+    requestAnimationFrame(() => {
+      document.getElementById(chapterId)?.scrollIntoView({ block: "center" });
+    });
+  }
   const firstUnfinished = book.chapters.find(ch => {
     const render = defaultRender(ch);
     return render && getPosition(ch, render) !== "done";
