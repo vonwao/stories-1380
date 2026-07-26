@@ -1,5 +1,5 @@
 {
- "built": "2026-07-26T04:04:50.875Z",
+ "built": "2026-07-26T18:53:26.367Z",
  "site": "https://vonwao.github.io/stories-1380",
  "groups": [
   {
@@ -657,7 +657,7 @@
   },
   {
    "name": "Voice tests",
-   "count": 30,
+   "count": 35,
    "items": [
     {
      "group": "Voice tests",
@@ -1076,6 +1076,76 @@
       "seconds": 14,
       "date": "2026-07-12T23:20:39-04:00",
       "label": "Will"
+     },
+     "alts": []
+    },
+    {
+     "group": "Voice tests",
+     "key": "_voices_gemini-charon",
+     "title": "Gemini Charon",
+     "status": "sample",
+     "textPath": null,
+     "primary": {
+      "path": "voices/gemini-charon.mp3",
+      "seconds": 55,
+      "date": null,
+      "label": "Gemini Charon"
+     },
+     "alts": []
+    },
+    {
+     "group": "Voice tests",
+     "key": "_voices_gemini-enceladus",
+     "title": "Gemini Enceladus",
+     "status": "sample",
+     "textPath": null,
+     "primary": {
+      "path": "voices/gemini-enceladus.mp3",
+      "seconds": 56,
+      "date": null,
+      "label": "Gemini Enceladus"
+     },
+     "alts": []
+    },
+    {
+     "group": "Voice tests",
+     "key": "_voices_gemini-gacrux",
+     "title": "Gemini Gacrux",
+     "status": "sample",
+     "textPath": null,
+     "primary": {
+      "path": "voices/gemini-gacrux.mp3",
+      "seconds": 55,
+      "date": null,
+      "label": "Gemini Gacrux"
+     },
+     "alts": []
+    },
+    {
+     "group": "Voice tests",
+     "key": "_voices_gemini-iapetus",
+     "title": "Gemini Iapetus",
+     "status": "sample",
+     "textPath": null,
+     "primary": {
+      "path": "voices/gemini-iapetus.mp3",
+      "seconds": 52,
+      "date": null,
+      "label": "Gemini Iapetus"
+     },
+     "alts": []
+    },
+    {
+     "group": "Voice tests",
+     "key": "_voices_gemini-sulafat",
+     "title": "Gemini Sulafat",
+     "status": "sample",
+     "textPath": null,
+     "primary": {
+      "path": "voices/gemini-sulafat.mp3",
+      "seconds": 51,
+      "date": null,
+      "label": "Gemini Sulafat"
      },
      "alts": []
     }

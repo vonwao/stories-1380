@@ -1,0 +1,219 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="theme-color" content="#f4efe7">
+<title>Gemini TTS Audition — 1380 Stories</title>
+<style>
+  :root {
+    --bg:#f4efe7;
+    --card:#fffdf9;
+    --ink:#27231e;
+    --sub:#766e63;
+    --line:#ded5c8;
+    --acc:#875a31;
+    --soft:#ece2d5;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --bg:#171411;
+      --card:#211d19;
+      --ink:#eee8df;
+      --sub:#aaa094;
+      --line:#3a332b;
+      --acc:#e0ac76;
+      --soft:#2d2721;
+    }
+  }
+  * { box-sizing:border-box; }
+  body {
+    margin:0;
+    background:var(--bg);
+    color:var(--ink);
+    font:17px/1.55 Georgia, "Times New Roman", serif;
+  }
+  main {
+    width:min(100% - 2rem, 720px);
+    margin:0 auto;
+    padding:2rem 0 5rem;
+  }
+  a { color:var(--acc); }
+  .back {
+    display:inline-block;
+    margin-bottom:1.2rem;
+    font:600 .8rem/1.2 -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+    letter-spacing:.04em;
+    text-transform:uppercase;
+    text-decoration:none;
+  }
+  h1 {
+    margin:0 0 .35rem;
+    font-size:clamp(1.8rem, 7vw, 2.65rem);
+    line-height:1.05;
+    letter-spacing:-.025em;
+  }
+  .lede {
+    color:var(--sub);
+    margin:0 0 1.35rem;
+  }
+  .meta {
+    display:flex;
+    flex-wrap:wrap;
+    gap:.45rem;
+    margin-bottom:1.35rem;
+    font:600 .75rem/1.2 -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  }
+  .pill {
+    padding:.4rem .65rem;
+    background:var(--soft);
+    border-radius:999px;
+  }
+  details {
+    margin-bottom:1.5rem;
+    padding:.8rem 1rem;
+    background:var(--card);
+    border:1px solid var(--line);
+    border-radius:12px;
+  }
+  summary {
+    cursor:pointer;
+    color:var(--acc);
+    font-weight:bold;
+  }
+  blockquote {
+    margin:.8rem 0 .1rem;
+    color:var(--sub);
+    font-size:.95rem;
+  }
+  .voices {
+    display:grid;
+    gap:.85rem;
+  }
+  .voice {
+    padding:1rem;
+    background:var(--card);
+    border:1px solid var(--line);
+    border-radius:14px;
+    box-shadow:0 8px 26px rgb(62 43 25 / 5%);
+  }
+  .voice-head {
+    display:flex;
+    align-items:baseline;
+    justify-content:space-between;
+    gap:1rem;
+    margin-bottom:.65rem;
+  }
+  h2 {
+    margin:0;
+    font-size:1.15rem;
+  }
+  .character {
+    color:var(--sub);
+    font:600 .76rem/1.2 -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+    text-transform:uppercase;
+    letter-spacing:.05em;
+  }
+  audio {
+    display:block;
+    width:100%;
+    height:46px;
+  }
+  .note {
+    color:var(--sub);
+    font-size:.88rem;
+    margin:.6rem 0 0;
+  }
+  footer {
+    margin-top:2rem;
+    color:var(--sub);
+    font-size:.84rem;
+  }
+</style>
+</head>
+<body>
+<main>
+  <a class="back" href="voices.html">← ElevenLabs voice picker</a>
+  <h1>Gemini TTS audition</h1>
+  <p class="lede">Five voices reading the same opening from <em>Fake Grandsons of the Palm Beaches</em>. Use headphones if you have them. The useful differences are in timing, warmth, and how each voice handles the rules.</p>
+
+  <div class="meta">
+    <span class="pill">Gemini 3.1 Flash TTS Preview</span>
+    <span class="pill">120 words</span>
+    <span class="pill">Same direction</span>
+    <span class="pill">July 2026</span>
+  </div>
+
+  <details>
+    <summary>Read the shared excerpt and direction</summary>
+    <blockquote>
+      <strong>Direction:</strong> Narrate warmly and conversationally, with restrained humor and an unhurried pace. Keep the performance natural, intimate, and suitable for bedtime fiction.
+    </blockquote>
+    <blockquote>
+      <strong>Excerpt:</strong> The company was called Grandsons of the Palm Beaches, although three of us were women and one of us was fifty-eight. Marsha said grandson was a category of service, not a biological claim. She had said this to a lawyer and the lawyer had apparently stopped asking questions, so it became part of orientation. There were nine rules in the binder. Do not borrow money. Do not accept jewelry. Do not witness a will. Do not provide medication, transportation after dark, tax advice, medical advice, or password help. Never say you are family to a doctor, police officer, bank employee, or member of the clergy. Do not meet actual relatives without office approval.
+    </blockquote>
+  </details>
+
+  <section class="voices" aria-label="Gemini voice samples">
+    <article class="voice">
+      <div class="voice-head">
+        <h2>Charon</h2>
+        <span class="character">informative</span>
+      </div>
+      <audio controls preload="metadata" src="voices/gemini-charon.mp3"></audio>
+      <p class="note">The straightest reading: steady and procedural, with the jokes left inside the facts.</p>
+    </article>
+
+    <article class="voice">
+      <div class="voice-head">
+        <h2>Iapetus</h2>
+        <span class="character">clear</span>
+      </div>
+      <audio controls preload="metadata" src="voices/gemini-iapetus.mp3"></audio>
+      <p class="note">Cleaner and lighter, with more separation between the setup and the rules.</p>
+    </article>
+
+    <article class="voice">
+      <div class="voice-head">
+        <h2>Enceladus</h2>
+        <span class="character">breathy</span>
+      </div>
+      <audio controls preload="metadata" src="voices/gemini-enceladus.mp3"></audio>
+      <p class="note">The most intimate option; listen for whether the breathiness adds warmth or performance.</p>
+    </article>
+
+    <article class="voice">
+      <div class="voice-head">
+        <h2>Gacrux</h2>
+        <span class="character">mature</span>
+      </div>
+      <audio controls preload="metadata" src="voices/gemini-gacrux.mp3"></audio>
+      <p class="note">Older and more settled, which changes the implied distance between Micah and the events.</p>
+    </article>
+
+    <article class="voice">
+      <div class="voice-head">
+        <h2>Sulafat</h2>
+        <span class="character">warm</span>
+      </div>
+      <audio controls preload="metadata" src="voices/gemini-sulafat.mp3"></audio>
+      <p class="note">The softest storyteller lane, with the greatest bedtime tilt.</p>
+    </article>
+  </section>
+
+  <footer>
+    <p>These are casting samples, not final story renders. Only one player is allowed to run at a time.</p>
+  </footer>
+</main>
+<script>
+const players = [...document.querySelectorAll("audio")];
+for (const player of players) {
+  player.addEventListener("play", () => {
+    for (const other of players) {
+      if (other !== player) other.pause();
+    }
+  });
+}
+</script>
+</body>
+</html>
