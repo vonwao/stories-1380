@@ -2582,179 +2582,185 @@ It contained three pages about Paris, two figures of a new micrometer, and no me
 
 ## Chapter 7 — Do It Again
 
-Karen Madsen came to the shop on a wet Tuesday carrying her father's daybook under her cloak. The lower corner had got wet anyway.
+Karen Madsen came to the shop on a wet Tuesday with her father's daybook under her cloak. The rain had got into it anyway. She laid it open near the stove and separated two damp pages with the handle of a spoon.
 
-She laid it on the counter and pulled a chair close to the stove.
-
-"If the figures run, I shall blame you," she said.
-
-Villum looked at the rain on the window. "I ordered a dry day."
-
-"You have been sent the wrong one."
-
-Anders kept his foot on the grinding wheel. He had not seen her before. She was perhaps his age, and the ribbon holding her hair was blue enough to be expensive. He looked back at the lens before she noticed him looking.
-
-Villum had bought six rounds of Venetian glass from her father in November. Three had been good. One had a pale cord through its middle. The last two were smaller, both with bubbles near an edge. Villum had entered the poorer pieces at reduced prices. Mads's account charged him for six sound rounds.
+Villum had bought six rounds of Venetian glass from her father in November. Three had been sound. One had a pale cord through the middle, and two were smaller than the order. Villum's ledger reduced the price. Mads's did not.
 
 "My father says the account stands," Karen said.
 
-"Your father was not in the cart."
+Villum asked whether her father had come with her.
 
-"Neither was I."
+"He is at the warehouse."
 
-"Then we have found two innocent people."
+"Then the account has learned to walk."
 
-She did not smile. She opened the daybook to the wet ribbon and showed Villum three figures copied onto a separate sheet.
+Karen looked at him for a moment and turned back to her figures.
 
-"The shipment weighed thirty-one pounds when it left the quay. Your ledger gives twenty-eight."
+Anders kept working the wheel. She was close to his age. Her wet cloak smelled of wool. A blue ribbon held her hair at the back, and a damp strand kept sticking to her cheek. She pushed it away twice before taking out her sheet of figures.
 
-"My ledger gives the weight when it reached the shop."
+The shipment had weighed thirty-one pounds at the quay and twenty-eight when it reached the shop. Karen had made the missing weight the basis of her claim.
 
-"Three pounds vanished between the quay and this room?"
+"The crate split," Anders said.
 
-"Part of the crate did."
+She turned toward him.
 
-Karen looked at him.
+"Where?"
 
-Anders stopped the wheel. "The bottom split when we lifted it down. We carried the glass inside and left the broken boards with the carter."
+"In the street. We carried in the glass and left the boards with the carter."
 
 "How much did the boards weigh?"
 
 "We did not weigh them."
 
-"Of course not."
+Karen stared at the first line of her calculation. The rain had spread one number into a gray oval. She crossed out the line, and the pen went through the paper.
 
-She crossed out the first line of her sheet. The stroke tore the damp paper.
+Villum brought his ledger to the counter. Anders stopped the wheel and came over because he remembered the delivery. One round had broken inside its straw. The carter had brought two pieces cut round again and wanted them accepted as one.
 
-Villum went to the shelf for his ledger. "Did your father send you with an argument that depended on my crate?"
+Karen found the note. The clerk's hand was bad enough that *broken* might also have been *replaced*. She read it aloud both ways.
 
-"He sent me for the money."
+"He should not be employed near ink," she said.
 
-"That was unkind of him."
+"He drives a cart," Villum said.
 
-"He said that if I brought back the full balance without an error, I could keep the Lübeck glass account next quarter."
+"My father's clerk copied it."
 
-"Then you should not have told me about the error."
+She began the account again. Anders stood beside her and supplied the condition of each round. The second total reduced the freight along with the glass.
 
-"You noticed it."
+"The freight stays," he said.
 
-"Anders noticed it. I was considering whether the missing weight might be rats."
+Karen did not look up. "The shipment was lighter."
 
-Anders had heard this answer whenever weight went missing. Villum was pleased with it every time.
+"After the carter carried it."
 
-Karen waited while Villum found the entry. Anders dried his hands and came to the counter. He remembered the shipment because one of the small pieces had cut through its straw. He had wrapped his thumb for four days.
+"If it broke at the quay, he carried less."
 
-"Here," he said. "One round broke before it reached Copenhagen. The carter brought these two pieces in its place."
+"It broke in the straw."
 
-"Pieces?"
+"You saw it break?"
 
-"They had been cut round again. Together they were about the size of one."
+He had not. He had seen the glass dust when they opened the wrapping. He fetched the old straw from the shelf below the glass stock and put it on the counter. Bright grains remained in the folds.
 
-Karen read the carter's note. The word could have been *broken*. It could also have been *replaced*. The hand was hurried and the ink had faded.
+Karen rubbed one between her fingers.
 
-"Then you received five rounds," she said.
+"This could have come from any of the pieces."
 
-"Six pieces," Villum said.
+"Not this glass."
 
-"You ordered six rounds."
+"It looks like every other glass shaving in here."
 
-"Which is why I did not pay full price."
+"It does not."
 
-Karen turned to a fresh part of her sheet. She began the account again. This time Anders stood beside her and told her what he remembered as she reached each line. She asked twice whether he was certain about the cord in the largest piece. The second time he brought the glass from the back and held it toward the window.
+He heard his own certainty and knew how it sounded. He brought her a chip from the Venetian round and another from the common window glass Villum used for demonstrations. The window glass had a green edge. The Venetian chip was almost clear.
 
-She made the reduction for the two smaller pieces, then reduced the freight by the same fraction.
+Karen compared them against the white part of her sleeve.
 
-"No," Anders said.
+"All right," she said. "The freight stays."
 
-Her pen stopped.
+Her ears were red. Anders pretended to be interested in the straw while she changed the column.
 
-"The carter carried the full round until it broke. The freight stays."
+They reached a total three skillings above Villum's and eight below Mads's. Karen added it twice, then pushed the page to Anders.
 
-"It may have broken before he loaded it."
+"Add that."
 
-"Then why was there glass dust inside the straw?"
+"You just did."
 
-"There is glass dust everywhere in this shop."
+"Please."
 
-"Not Venetian glass."
+He got the same answer. She counted the coins Villum set out, wrapped the corded round in the old straw, and tied the account inside her cloak.
 
-She looked at his apron. It held enough pale dust to prove her point in general. He fetched the old wrapping from beneath the glass shelf and unfolded it on the counter. A few bright grains still clung inside.
+At the door she said, "He promised me the Lübeck glass book if I brought the full balance without an error."
 
-"That proves where it was wrapped," she said.
+Villum had begun putting away his coins. He stopped.
 
-"It proves I kept rubbish for four months."
+"Your error or his?" he asked.
 
-"I had already learned that."
+"He did not specify."
 
-Villum sat down behind the ledger. "Charge the freight."
+She left in the rain.
 
-Karen drew a line through her second total. Her ears had gone red. Anders pretended to inspect the wrapping.
-
-They completed the account after noon. The correct balance was three skillings above Villum's figure and eight below Mads's. Karen checked the columns twice and then made Anders add them while she watched.
-
-"You do not trust your own sum?" he asked.
-
-"I trusted the first one."
-
-He got the same result.
-
-Villum wrapped the corded glass for her father to inspect. "Will he give you the Lübeck account?"
-
-"No."
-
-"He should. You found his clerk's mistake."
-
-"You found my mistake."
-
-"Anders found it."
-
-"That is not better."
-
-She took the corrected account and the bad glass into the rain.
+Anders went back to the wheel. For most of the afternoon he thought about the way she had asked him to add the column after she had already found the answer.
 
 *
 
-Mads came back with her two days later.
+Mads came to the shop two days later. He blamed the carter, then the clerk. He accepted the corrected balance as a concession he was making to Villum. Karen stood behind him without the daybook and watched the bad round pass from one man to the other.
 
-He was a large man with a careful beard. He blamed the carter for the confusion, although the carter's price had not changed. Then he blamed the clerk who had copied the order. He accepted the new balance as a favor to Villum and said nothing about his daughter's arithmetic.
+Villum paid.
 
-Karen stood near the shelf with her hands clasped. She had no daybook this time.
+Mads stayed to discuss a spring shipment. Karen moved to the back table, where the walnut case sat under a cloth.
 
-When Mads and Villum began discussing another shipment, she moved toward the back table. The three crystals lay there under a cloth. Anders had built a walnut case with separate beds for them and a place for the masks. Villum had objected to the use of good wood, then corrected the fit of the lid.
+"My father had a piece of that crystal," she said.
 
-Karen lifted the cloth.
+Anders was sorting nose bridges. "Did he sell it?"
 
-"Do not touch them."
+"A councilor bought it. He showed people two coins and charged for wine."
 
-"I am touching the cloth."
-
-"You were going to touch them."
-
-She let the cloth fall. "My father had a piece of Iceland spar. He sold it to a councilor who showed his guests two coins where there was one."
-
-"That is what most men do."
+"That is usually what men do with it."
 
 "What do you do?"
 
-Mads called her from the front. She went without waiting for the answer.
+Mads called her name. She went to him at once.
 
-At eight that evening she came back. Her hair had been put up differently, and the blue ribbon was now tied at the neck of her dress. She gave Villum a note saying she had permission to copy the revised account. The note also said she was to return before ten.
+Near eight that evening, she returned alone. The rain had stopped. Her hair was up differently, and the blue ribbon was now fastened at her neck.
 
-"We are expected at my aunt's," she told Anders after Villum went upstairs. "There will be a fiddler."
+She gave Villum a note from Mads authorizing her to copy the revised account. Villum read it, looked at the dark street, and asked when she was expected home.
 
-"Then copy the account."
+"Before ten. My aunt has a fiddler."
 
-"Show me the crystals first."
+"Then copy quickly."
 
-"You asked what I do with them."
+Karen sat at the counter. Anders worked on the silver frame he was preparing for the guild. Mester Holm had finally agreed to inspect it the following month. The hinge was sound, but the bridge still drew the right lens too close to the face. Anders had heated it twice and did not want a third attempt.
 
-"I have not stopped asking."
+Karen copied in silence for several minutes.
 
-He lit the apparatus.
+"I thought spectacle shops had more glass," she said.
 
-He showed her how the first crystal split the candlelight. He covered one route and sent the other through the large middle piece. At the last crystal, the spot vanished from the marked window. When he added the small third piece, it returned.
+"It is in the drawers."
 
-Karen leaned close enough for a loose end of ribbon to brush the table.
+"It looked grander when my father described it."
+
+"Your father sells it."
+
+She turned a page. "He says your master is difficult."
+
+"He is."
+
+"He says you made him accept a bad account."
+
+Anders put the frame down. "You made him accept it."
+
+"He has not mentioned that."
+
+She finished the last line and sanded it. Instead of closing the daybook, she walked to the back table and lifted the cloth from the walnut case.
+
+"I copied the account."
+
+"I saw."
+
+"You can show me now."
+
+"I am working."
+
+She looked at the silver frame. "Is that more important?"
+
+"Yes."
+
+He explained the guild inspection. She asked whether he would become a master. He said journeyman. She asked what changed.
+
+"I can work for wages anywhere in the city. I can submit a master's piece when I have the money."
+
+"Will your name go on the sign?"
+
+"Not yet."
+
+Karen returned to the front counter and sat down. She waited while he adjusted the bridge. He warmed it, pressed it against the form, and held it until the metal cooled. She watched without trying to speak.
+
+The frame sat correctly when he tested it.
+
+He covered the windows and brought out the crystal case.
+
+The apparatus took time to set up. Karen held the candle shield while he fixed the first mask. He showed her the two routes after the first stone, then covered one. He turned the second stone until the chosen spot at the end disappeared. When he put the small middle piece into the path, the light returned.
+
+Karen leaned closer.
 
 "Do it again."
 
@@ -2762,175 +2768,413 @@ He did.
 
 "The flame moved."
 
-"Flames move."
+"It always moves."
 
-"Then how do you know the crystal changed the light?"
+"Then wait for it to be still."
 
-"Because it happens at the same position."
+They waited. He repeated the sequence.
 
-"You are comparing this light with the one you remember."
+She watched the candle more often than the final card. On the third trial she asked which direction the middle crystal had faced the first time. Anders showed her the ink line on the holder.
 
-"I have done it hundreds of times."
+"And if you exchange the two large pieces?"
 
-"You have remembered it hundreds of times."
-
-Anders straightened. "You have seen it twice."
-
-"That is why I am asking."
-
-He explained the masks, the turning table, and the marks around each holder. Halfway through, she asked which way the middle crystal had faced during the first trial. He showed her the line scratched into its mount.
-
-"And if you exchange the two large ones?"
-
-"It still works."
+"It still happens."
 
 "Show me."
 
-The holders were fixed with small screws. He began loosening the first. Karen reached for the other crystal to help.
+The holders were fixed with screws. Anders loosened the first. Karen reached for the second to help and lifted the crystal before he could stop her.
 
-"Wait."
+The paper scale beneath it shifted. A pin dropped and rolled under the table.
 
-She had already lifted it.
+Anders put down the screwdriver.
 
-The paper scale beneath the holder shifted. One pin dropped to the floor.
+"I thought the scale was fixed," she said.
 
-Anders put down his screwdriver. "That was its position."
-
-"I thought the holder stayed."
-
-"It did until you lifted it."
+"It was."
 
 "Can you put it back?"
 
-"Approximately."
+"Near enough."
 
-"You said the positions repeat."
+"Near enough is not the mark you showed me."
 
-"If people do not pick them up."
+He looked at her. "No."
 
-She opened her mouth and then closed it. Together they searched under the table for the pin. Karen found it caught in the hem of her dress. There was dust on one knee when she stood.
+She got down to search for the pin. It had caught in the hem of her dress. When she stood, there was dust on one knee. Anders reset the holder while she brushed at it.
 
 "I am sorry," she said.
 
-Anders had prepared several things to say. The apology left him with none of them.
+He nodded. He did not want to tell her it was all right.
 
-He reset the scale as well as he could and exchanged the crystals. The chosen light now fell above the middle opening, so he moved the card. The final spot fell low. He moved that card too. Karen held the candle shield while he worked and did not touch anything else.
+They exchanged the stones. The first attempt produced nothing at the final window. Anders moved a mask. The second made a weak spot that vanished when the holder turned.
 
-The first attempt failed. On the second, a weak spot crossed the window and disappeared.
+"Was that the same place?" Karen asked.
 
-"There," Anders said.
+"Nearly."
 
-"I saw it."
+"You said the places repeated."
 
-He turned the small crystal back. The light returned and passed again.
+"Before you moved the scale."
 
-"Do it again," she said.
+She took her cloak from the peg.
 
-By the fourth trial, the spot returned at nearly the same mark. Karen watched the candle as often as she watched the window.
+"The paper is copied," she said.
 
-"Could you use two candles?"
+"We can try once more."
 
-"No two flames are the same."
+"I am already late."
 
-"Then use the other light."
+Anders walked her to the door. The blue ribbon was coming loose at her neck. He wanted to fix it and understood that he should not.
 
-"What other light?"
+"Will you come Thursday?" he asked.
 
-She pointed to the branch from the first crystal that struck the middle card beside the mask. Anders always covered it because it made the apparatus easier to read.
+"I dance on Thursday."
 
-He took away the cover. There were now three pale shapes on the cards.
+"Every Thursday?"
 
-"That is worse," he said.
+"This one."
 
-"Only until we mark which is which."
+She left.
 
-He cut a square of paper and fixed it where the unused light fell. The spot on the final card still changed when he turned the third crystal. The new square changed when the candle did.
+The next week she did not come. Anders reset the scales and told himself this was preferable.
 
-They tried to make the two spots nearly equal by laying thin paper over the brighter one. Karen judged the first attempt equal. Anders thought the reference was brighter. On the second, they exchanged opinions.
+*
 
-"This has not solved it," he said.
+Karen returned on the second Thursday with a sheet of good paper, a ruled card, and the missing pin.
 
-"No. Now we know what we disagree about."
+"It was still in my hem," she said.
 
-She took a sheet from the pile beside the case.
+"For two weeks?"
 
-"Not that one," Anders said. "That is Rømer's."
+"I wore another dress."
 
-He gave her shop paper instead. It had a grease mark in one corner.
+She had also brought a small wooden square from Mads's warehouse. Anders checked it against his own and found hers truer.
 
-"You gave him the good paper."
+"You said the light repeated at a position," she said. "I want to see whether it repeats when I do not know the old marks."
 
-"He was writing to Paris."
+They covered the scales with strips of paper. Anders turned the holders while Karen called when the chosen spot was darkest. Then they changed places. Her first mark lay four divisions from his. On the second attempt it lay two away. The third time she forgot which direction she had been turning and made a full circle before admitting it.
 
-"I am making your figures usable."
+The final light also changed when the candle guttered.
 
-"On paper I paid for."
+Karen pointed to the unused branch from the first crystal, which Anders usually covered.
 
-"Then you should have bought better paper."
+"Can that be our candle?"
 
-She drew four columns. Her first heading crowded the second, so she scratched them out and began lower on the page. Anders entered the crystal positions. Karen made marks for the brightness of the two spots. On some trials they did not agree, and she wrote both answers.
+"It is not a candle."
 
-Near ten, Villum came down for water. He found them beside the apparatus. Karen had soot on her chin. Anders did not tell her.
+"It changes when the candle changes."
 
-"The account?" Villum asked.
+They fixed a white card where the spare light fell. Anders laid thin paper over the brighter of the two spots until they appeared closer. Karen thought them equal. Anders did not. When they exchanged seats, they exchanged opinions too.
 
-"Copied," she said.
+They wrote both answers.
 
-"The crystals?"
+For several weeks Karen came after supper. Sometimes they opened the crystal case. Sometimes Mads sent so many corrections that she copied accounts until it was time to leave. Villum stayed downstairs longer than he needed to and complained that their paper occupied the space where paying work should go.
 
-"Not copied."
+Anders went to one of the dances. Karen's aunt lived above a cooper's yard. The room was hot, and there were more people than chairs. Karen danced twice before Anders asked her. He knew the steps from weddings and performed them as if a guild examiner were watching.
 
-Villum read the headings on their sheet. "Can either of you make money with this?"
+"You can bend your knees," she said.
 
-"No," Anders said.
+He tried. It made him worse.
 
-"Perhaps," Karen said. "People paid my father to see one coin become two. They might pay to see a light disappear."
+Later they stood on the landing because the room smelled of lamp smoke and wet shoes. Karen had danced with a printer's son who knew all the figures and talked through each one. Anders asked whether she liked him.
 
-"It is not a show."
+"I danced with him."
 
-"It can be two things."
+"I saw."
+
+A couple came out for air and squeezed between them. Karen waited. Anders looked down into the cooper's yard, where someone had left a hoop against the wall.
+
+The fiddler began another set inside. Karen went back without asking Anders.
+
+He remained on the landing until her aunt told him he was blocking the stairs.
+
+*
+
+Mester Holm inspected the silver frame in March.
+
+He came with Mester Enevoldsen, who smelled of cloves and had a split thumbnail. They sat at the front table while Villum put out beer and a plate of cold meat. Anders had not wanted food there. Villum said men judged worse when hungry.
+
+Holm opened and closed the hinges. He measured the bridge, checked the solder, and asked why Anders had chosen silver thin enough to flex.
+
+Anders explained the weight and the brewer who broke heavy frames by sitting on them. This was not the answer Holm expected. He asked again about the silver.
+
+Enevoldsen tried the spectacles against a printed page. The lenses had no prescription. He complained that they made the letters smaller.
+
+"They are plain glass," Anders said.
+
+"Then they should leave the letters alone."
+
+Anders took the frame. The left lens had tilted in its rim. He reseated it while the two masters watched.
+
+The inspection lasted less than an hour. Holm said the hinge work was very good. Enevoldsen said the bridge was too ambitious and might not survive a winter. They asked Anders to leave the room.
+
+He stood in the back beside Villum's bedchamber stairs. Villum had gone upstairs to avoid appearing to listen.
+
+The masters spoke quietly. Anders could hear the scrape of a knife against the plate.
+
+When they called him in, Holm told him the piece passed. Anders would be entered as a journeyman after the fee reached the guild clerk.
+
+Villum came down before either master had left. He brought a bottle of wine Anders had never seen and poured it into four cups. There should have been five cups, but Anders did not mention it.
+
+While Holm wrote the result for the guild clerk, Anders ate most of the cold meat.
+
+Karen came with her father while the masters were still drinking. Mads had brought samples from the spring shipment. Villum introduced Anders as his new journeyman. Karen looked at him and smiled before he could decide what face to make.
+
+After the others left, Villum put the certificate in the front case beside the silver frame.
+
+"It should be upstairs," Anders said.
+
+"Customers will see it here."
+
+"It has my name."
+
+"That is why."
+
+Anders went outside and looked at the shop sign. VILLUM had been painted ten years earlier. The lower edge of the board was beginning to split.
+
+Villum joined him in the doorway.
+
+"There is room," Anders said.
+
+"For what?"
+
+"You know."
+
+Villum looked at the sign and then back into the shop. Mads's glass samples remained open on the counter.
+
+"A journeyman is not a partner."
+
+"I know the rule."
+
+"Then do not ask me in the street."
+
+"Where should I ask? At Easter? After four skillings? After the silver frame?"
+
+Villum went inside. Anders followed.
+
+"I did everything you named," Anders said.
+
+"You earned your certificate."
+
+"For another man's shop."
+
+"For any shop."
+
+"Not this one."
+
+Villum began wrapping the sample rounds though Mads's clerk would collect them in the morning.
+
+"If you want other wages, ask," he said. "If you want to leave, give notice. If you want half a business, bring half the money and half the risk."
+
+"I have worked here since I was four."
+
+"That is not money."
+
+Anders had expected a denial, another delay, perhaps even an apology. Villum kept wrapping glass.
+
+"Then I will find another place," Anders said.
+
+Villum's hands stopped. Only for a moment.
+
+"You should look," he said.
+
+Anders went upstairs and put the used graver and the brass strip bearing both names into his tool roll. He did not take the certificate. It was still in the front case when he left for supper at Mads's house.
+
+*
+
+Karen knew he had argued with Villum before Anders told her. She had seen them in the doorway.
+
+They walked after supper because Mads and his clerk were using the main room. The fish market was closing. Water and scales ran between the stones toward the gutter.
+
+Anders told her what Villum had said.
+
+She listened until he said the years in the shop ought to count as half the business.
+
+"Count at what price?" she asked.
+
+"That is not the point."
+
+"It is if you want half."
+
+"You sound like your father."
+
+Karen stopped beside a stall where a woman was packing salt herring into a barrel. The woman looked up, decided they were not buying, and continued.
+
+"My father promised me an account and gave it to his clerk," Karen said. "I know what a promise is."
+
+"Then why are you defending Villum?"
+
+"I am not."
+
+"You asked his price."
+
+"Because you did not."
+
+Anders walked ahead. Karen followed after a few steps.
+
+"What do you want me to say?" she asked.
+
+He wanted her to say that Villum had stolen something. He wanted her to say the sign should already carry his name. He did not want to ask.
+
+"Nothing," he said.
+
+"Good."
+
+She turned toward her father's house.
+
+He went back to the shop after dark. Villum had left the bolt unfastened. Anders slept in his room and came down before Villum.
+
+For the next month they spoke about orders.
+
+Anders visited two other spectacle makers. Weber offered higher weekly pay and a bench away from the window. Holm offered no more money but said a journeyman could keep a small share of work he brought himself. Holm also wanted Anders to grind six ordinary lenses before he touched difficult prescriptions. Anders said he would consider it.
+
+He told Karen about the offers when she came to copy an account. She said Holm's was better.
+
+"I would lose the south window."
+
+"You said his shop has two windows."
+
+"Not at the bench."
+
+"Then stay here."
+
+Her impatience embarrassed him. He had imagined she would help him choose. He had not actually asked her to.
+
+At the end of the month Villum misread a customer's near prescription and entered it as distance work. Anders caught the error before cutting glass. Villum blamed the light, then the physician's handwriting. He did not ask Anders to stay.
+
+Anders gave neither shop his notice.
+
+*
+
+Summer came. Karen continued to visit, though less often. Mads's clerk had begun giving her columns to check after he finished them. He did not pay her. She kept a list of the corrections in a narrow book she bought herself.
+
+One Sunday, Anders found her alone in Mads's counting room. The family had gone ahead to her grandmother's. Karen was recopying a freight column because the clerk had changed the currency halfway down the page.
+
+"Your mother says you are late," Anders said.
+
+"Then she knows where I am."
+
+He waited while she finished. The room was warmer than the shop and smelled of hemp rope. A fly struck the window repeatedly.
+
+Anders had intended to ask her to marry him on the walk to her grandmother's. He had practiced the first sentence. In the empty counting room it sounded formal and foolish, so he began with the shop.
+
+"Villum will raise my wage at Michaelmas."
+
+Karen sanded the page.
+
+"He needs someone for the front book," Anders continued. "He cannot see the smaller entries now."
+
+She put the sand away.
+
+"You want me to keep Villum's ledger."
+
+"You are better at it than either of us."
+
+"For what pay?"
+
+He had not asked Villum. Karen closed her narrow correction book and tied it.
+
+"Is this your proposal?" she said.
+
+Anders felt the heat reach his face.
 
 "No."
 
-Villum drank his water. "I would charge four skillings."
+"Good."
 
-"Two," Karen said. "Four includes a chair."
+He looked at the freight page. Half the figures were in Lübeck marks and half in Danish.
 
-Villum laughed. Anders returned to the holder.
+"I came to ask you to marry me."
 
-The clock struck ten while Karen was recopying the last line.
+Karen sat very still. The fly struck the glass again.
 
-"Your aunt," he said.
+"And keep the ledger," she said.
 
-Karen looked at the clock and used a word he had not expected from a merchant's daughter.
+"I thought you would want—"
 
-She scrubbed at the soot on her dress. Anders touched his own chin to show her. She wiped the wrong side of hers and made the mark wider.
+"I want my father's glass account."
 
-"Other side," he said.
+"He will not give it to you."
 
-"You might have said so earlier."
+"That does not make me want yours."
 
-"You were making my figures usable."
+Someone opened the warehouse door below. A man called for Mads. Karen stood and took her cloak.
 
-She looked at him for a moment and then laughed. It was a loud laugh. Villum called from upstairs to ask whether anything had broken.
+"We are late," she said.
 
-"Only the account," Karen called back.
+They walked to her grandmother's without settling anything.
 
-At the door, Anders asked if she would come again.
+For nine days Karen did not come to the shop. Anders saw Mads twice and could not tell whether he knew. Villum noticed that the accounts were no longer being recopied at night. He asked no questions.
 
-"Not Friday. I dance on Friday."
+On the tenth evening Karen arrived with her narrow correction book. She sat at the front counter while Villum ate upstairs.
 
-"Every Friday?"
+"If I keep the shop ledger, I am paid," she said. "Not thanked. Paid."
 
-"When someone asks."
+"Yes."
 
-She tucked their sheet inside her cloak. "Exchange the stones before next week. I want to see it again from the beginning."
+"I continue work for my father when he gives me work."
 
-The following Thursday, a letter arrived from Paris. Rømer described two meetings with Huygens and several new clocks.
+"Yes."
 
-There was no mention of the packet.
+"The crystal book is separate."
 
-Anders put the letter in the walnut case. He exchanged the stones before Karen arrived.
+Anders did not immediately understand.
+
+"From the shop ledger," she said. "And from my father's work. You do not put glass, candles, or paper into another account because it is easier."
+
+"All right."
+
+"It will not stay all right."
+
+"Probably not."
+
+Karen opened her narrow book. She had written the terms on the last page. The wage was more than Anders expected and less than Mads's clerk received. He read the lines twice.
+
+"Villum has not agreed," he said.
+
+"Then ask him before you ask me again."
+
+Villum agreed to the wage after reducing it once and failing to reduce it twice. Mads objected to the marriage because Anders was not a master. Karen's mother objected because the rooms above the shop were small. The guild clerk objected to one word in the notice and charged for writing it again.
+
+They married in November.
+
+The wedding supper was held at Mads's house. Niels preached briefly. Villum drank too much wine and told the story about Anders biting him during his first bath. In Villum's version, the bite drew blood. Anders said it had not. No one cared.
+
+That night Karen moved a wooden box into Anders's room above the shop. The box contained two dresses, account paper, stockings, a pair of dance shoes, and three books. There was not enough room for it beside the bed.
+
+They tried it beneath the window. The lid would not open. They tried the foot of the bed and struck it with their shins. Anders suggested the landing.
+
+Karen said no.
+
+They emptied his bottom drawer onto the blanket. It held the old apron, the brass strip engraved *VILLUM & PEDERSEN*, two broken dividers, candle stubs, and a collection of small pieces he had kept because the material might be useful.
+
+Karen picked up a bent hinge.
+
+"Do you need this?"
+
+"Not tonight."
+
+She put the hinge back.
+
+They made room in the drawer.
+
+Karen took the pins from her hair and set them in the shallow dish where Anders usually kept screws. He moved the screws to the windowsill. She asked whether the bedroom door had a bolt. He showed her.
+
+In the morning Villum knocked before either of them was dressed. A customer had come early from Roskilde and would not trust Villum to grind the left lens because his physician had named Anders.
+
+Karen had one knee drawn up under the blanket. Her hair covered most of the pillow.
+
+"Go," she said.
+
+"He can wait."
+
+The knocking came again.
+
+"He is not going to."
+
+Anders dressed. He put one stocking on inside out and did not notice until he was downstairs.
+
+Karen came down near noon, ate bread at the counter, and moved Villum's ledger to the other end because the light was better there.
 
 ## Chapter 8 — The Speed of Light
 
@@ -4307,147 +4551,247 @@ When Anders returned to the kitchen, Karen had put the table away. Their supper 
 
 In the spring of 1689, Mads brought the Lübeck ledger to his daughter's desk.
 
-He set it down while Karen was entering a payment for Villum.
+He set it down while Karen was entering a payment for Villum. The book was bound in brown calf and had belonged to three clerks. Karen knew each hand. Jensen's was the most recent and the neatest.
 
-"Jensen has gone," he said.
+"He has gone to Hamburg," Mads said.
 
-"Where?"
+Karen opened the book. "For how long?"
 
-"Hamburg."
+"He has gone."
 
-"Why?"
+Mads remained standing. He had not taken off his gloves.
 
-"He believes he can do better."
+Karen turned through the winter shipments. Jensen had copied one payment twice, once in Lübeck money and again in Danish. A crate of crown glass appeared by weight on one page and by the piece on another.
 
-Karen opened the ledger. Jensen had kept the glass account for six years. His figures were neat. His freight columns were not.
+"When did you learn he was leaving?"
 
-"Can he?" she asked.
+"Last week."
 
-Mads ignored the question. "I need this put right before the summer orders."
+"And you came today."
 
-"I have work."
+"I expected him to return the keys."
 
-"This is your father's business."
+Mads offered her half Jensen's wage until he hired another clerk. Karen asked for the whole wage and a place in his counting room, not work carried back to Villum's desk after supper.
 
-"That is why it has a clerk."
+"You have a household," he said.
 
-"It had a clerk."
+"So did Jensen."
 
-Karen turned three pages. A payment had been carried twice, once in Lübeck money and once in Danish. She found a shipment entered by crate in one column and by weight in another.
+"Jensen has a wife."
 
-"How much did you pay Jensen?"
+Karen closed the ledger.
 
-Mads's beard moved when he tightened his mouth.
+Anders was at the south bench with a lens on the wheel. He kept his foot moving. Villum had gone upstairs to fetch a case and stayed there.
 
-"He was a trained man."
+The argument lasted through dinner. Mads reduced the hours. Karen raised the wage. He said she had never managed the correspondence. She named the letters she had written for him without signing. He said those had been family help. She asked whether the errors in Jensen's book were also family help.
 
-"Then you should find another."
-
-Anders was at the south bench. He kept his head down.
-
-Mads offered Karen half Jensen's pay. She asked for all of it and one morning a week at his counting house. They argued until Villum closed the front door for dinner and told them they could continue outside.
-
-They settled at three quarters. Mads called it generous. Karen called it temporary.
+They settled at three quarters of his wage and four mornings in the counting room. Mads called it temporary. Karen said Easter was eleven months away and wrote the amount on the inside cover before he could change it.
 
 After he left, she carried the Lübeck book upstairs.
 
-"You waited seventeen years for that ledger," Anders said.
+Anders followed her.
 
-"I waited for the pay."
+"You waited half your life for that," he said.
 
-"You wanted the ledger."
+"I waited for him to pay me."
 
-"I wanted him to ask properly."
+"You wanted the book."
 
-He kissed her on the stairs. Margrethe came around the corner, made a disgusted sound, and went back up.
+Karen put it on the table beside the washbasin. "I wanted him to know I wanted it."
 
-Karen worked at her father's counting house every Thursday. On those mornings Anders entered the shop payments. He disliked her headings and used them anyway.
+She had to return to the counting room that afternoon. Anders expected her to be pleased. Instead she changed her dress twice because neither had sleeves she could cover against ink. She chose the older one and left the better collar at home.
 
-At home, Margrethe wanted to learn the Lübeck figures. Karen made her finish her church history first. Margrethe said no merchant had ever been saved from bad freight by knowing the kings of Israel.
+During the first month she came back after dark more often than not. Mads found old work as soon as she cleared new work. The shop ledger collected at her end of the kitchen table. Anders entered the daily payments, and Margrethe checked his additions when he let her.
 
-"A merchant who wants dinner in this house will finish the kings," Karen said.
+Karen paid Margrethe a half-skilling to copy addresses on clean covers.
 
-Margrethe finished them badly.
+"She should not be doing your father's work," Anders said.
 
-The crystal apparatus remained in its case most weeks. Anders still kept the observations, but commissions and household work filled the evenings. He and Karen sometimes opened the case on Sunday afternoons. They no longer stayed until morning.
+"She is doing mine."
 
-In June they went to a cousin's wedding. Karen danced with three men because Anders sat too long over beer with Niels. On the walk home she complained about her shoes. The left one had split beside the toe.
+"She has lessons."
 
-"I can mend it," Anders said.
+"After the lessons."
 
-"You mend glass."
+Margrethe copied a merchant's name with two letters reversed. Karen made her begin another cover and took the price of the paper out of the half-skilling. Margrethe cried, then demanded the ruined sheet because she had paid for it.
 
-"I can also mend a shoe."
+Karen gave it to her.
 
-"That is what you said about the pantry hinge."
+On Thursdays, Margrethe began going to Mads's after church history. She sat at the low desk in the counting room and sorted incoming letters by city. The first time Anders learned of this was when he went to bring Karen her dinner and found Margrethe eating it.
 
-The hinge still scraped.
+"You said she was at your mother's," he said.
+
+"She was. Then Mother brought her here."
+
+Margrethe kept eating.
+
+"Why?"
+
+Karen glanced toward the clerks. "Not now."
+
+Anders carried the empty cloth home.
+
+That night Karen said the girl was old enough to learn work that might pay her. Anders said there was work in the shop. Karen asked which part paid.
+
+"She is eleven."
+
+"So were you when Villum put you on the wheel."
+
+"The wheel is a trade."
+
+"This is also a trade."
+
+They had the argument in bed because Villum was below them and Margrethe was on the other side of the wall. Karen kept her voice low. Anders did not. Villum struck the ceiling once with the broom handle.
+
+Margrethe continued going on Thursdays.
+
+Anders did not forbid it. He complained about it often enough that Karen stopped answering.
 
 *
 
-Karen came home cold from her father's counting house in October.
+The crystal apparatus remained in its case most weeks. There were orders from the garrison, Villum's sight was worse, and Karen's four mornings often became five.
 
-The day was not especially cold. She kept her cloak on during supper and went upstairs before the bowls were cleared.
+On a Sunday in June, Anders cleared the back table and found Karen asleep upstairs in her dress. She had put the Lübeck ledger beside her on the bed.
+
+He went down without waking her.
+
+That evening they attended her cousin's wedding. Karen wore the blue ribbon she had owned before they married. She danced with two of her cousins and with a man from her father's warehouse. Anders sat with Niels over beer and joined only the last set.
+
+On the walk home she took off her shoes.
+
+"Your left one has split," Anders said.
+
+"I know."
+
+"I can mend it."
+
+"You said that about the pantry hinge."
+
+He carried the shoes. Karen walked in her stockings and avoided the broad puddles. They were nearly at the shop before she took his arm.
+
+The next morning she used part of her first full wage to order new shoes. They were plain brown leather. Mads's clerk asked whether she meant to have blue ribbon added. Karen said no, then went back later and ordered it.
+
+She did not tell Anders what they cost.
+
+*
+
+In September, Mads offered Karen Jensen's place through the following year.
+
+She accepted before speaking to Anders.
+
+They were at supper when she told him. Villum was cutting an onion into his bowl because the stew had little taste. Margrethe had her kings of Israel open beside her plate.
+
+"Four mornings?" Anders asked.
+
+"Every morning except Sunday."
+
+"And the shop book?"
+
+"You have kept it since spring."
+
+"Badly."
+
+"Not very badly."
+
+Villum put the knife down. "I am still here."
+
+Neither of them answered him.
+
+Karen said she would return by the afternoon and keep the weekly accounts. Anders said Mads had bought her away with three quarters of a clerk's wage. She said that was more than the shop paid her. Villum said the shop had never been asked to match it.
+
+"I am asking now," Karen said.
+
+They all looked at him.
+
+Villum took another piece of onion. "The shop cannot."
+
+Karen nodded.
+
+Anders knew the answer before Villum gave it. Hearing it did not help.
+
+Later, upstairs, he asked why she had agreed before telling him.
+
+"Because I knew what you would say."
+
+"Then you knew we had not decided."
+
+"Mads needed an answer."
+
+"And I did not."
+
+Karen was brushing out her hair. She stopped. "What answer would have changed it?"
+
+Anders had none that they could afford. He said the shop had managed before her father's ledger. Karen said it would manage after it.
+
+They slept with space between them.
+
+In the morning her hand was on his shoulder. He moved carefully so he would not wake her. He was still angry and did not want the anger to disappear because she had reached for him asleep.
+
+*
+
+Karen came home cold from the counting room in October.
+
+The day was mild. She kept her cloak on during supper and asked Margrethe to read the same verse twice because she had not heard it.
+
+"Are you ill?" Villum asked.
+
+"Tired."
+
+She went upstairs before the bowls were cleared.
 
 On Friday morning she had a fever.
 
-Anders sent Margrethe for Karen's mother. Villum went for the physician. Karen said they were behaving like fools and asked for the Lübeck ledger.
+Anders sent Margrethe for Karen's mother. Villum went for the physician. Karen asked them to wait until noon. Neither did.
 
-"No," Anders said.
+She wanted the Lübeck ledger brought from Mads's. Anders refused.
 
 "There is a payment due Monday."
 
-"Mads can find it."
+"He has clerks."
 
-"That is precisely the problem."
+"He has one clerk and a boy who cannot add freight."
 
-She tried to sit and became dizzy. Anders helped her lie down.
+"You are staying in bed."
 
-The physician came near noon. He listened to her breathing, looked at her tongue, and asked questions she had already answered. He left a cordial and instructions to keep her warm.
+Karen turned toward the wall.
+
+The physician arrived near noon. He listened to her breathing, looked at her tongue, and asked Anders to open the shutters. Karen covered her eyes against the light.
+
+He left cordial and instructions to keep her warm.
 
 "What is it?" Anders asked him on the stairs.
 
 "A fever."
 
-"I know that."
+"From what?"
 
-"Then we agree."
+The physician pulled on his gloves. "If her breathing worsens, send for me."
 
-The physician said he would return in the morning.
+By evening her fever was higher. She slept for short periods and woke thirsty. Once she asked Anders why the room had been moved. He gave her water. She said it was the wrong cup and pushed it away.
 
-Karen drank the cordial and complained that it tasted of old cupboards. By evening the fever was higher. She slept for short periods and woke angry that the room had changed.
+Margrethe sat on the floor beside the bed and read from her church history. She lost her place several times. Karen corrected one of the kings and then stopped correcting.
 
-Margrethe brought water. She carried the cup with both hands and spilled very little.
+At midnight she remembered the payment due Monday.
 
-"Your shoes are at the cobbler," Karen told her.
+"Write to Mads," she said.
 
-"I know."
+"Tomorrow."
 
-"The brown ones."
+"The duplicate is in the June freight."
 
-"I know."
+"He will find it."
 
-"He is not to add ribbon. He will try to charge for it."
-
-"I won't let him."
-
-Karen closed her eyes.
-
-At midnight she asked Anders whether Mads had sent for the Lübeck book. He had not. She made him write a note telling her father where Jensen's duplicate payment was entered.
-
-"You can tell him later," Anders said.
-
-"I am telling him now."
+Karen tried to sit. Anders held her shoulders until she lay back.
 
 He wrote the note.
 
 *
 
-On the third day, Karen's fever eased.
+On the third day, the fever eased.
 
-She ate broth and sat up without help. Villum opened the shop for half a day. Mads came to the bedroom and stood at the foot of the bed with the Lübeck ledger under his arm.
+Karen ate broth and sat against the pillows. Mads came with the ledger under his arm and left it outside the room when Anders told him to.
 
-"The duplicate is corrected," he said.
+"The duplicate is corrected," he said from the foot of the bed.
 
 "There are two freight entries in June."
 
@@ -4455,137 +4799,137 @@ She ate broth and sat up without help. Villum opened the shop for half a day. Ma
 
 "You found the marks I put beside them."
 
-Mads adjusted the ledger.
+Mads shifted his weight. He had brought a small bunch of late flowers. He kept holding them after he ran out of things to say.
 
-"You can finish when you are well."
+"Your place is waiting," he said.
 
-"At three quarters."
+Karen closed her eyes.
 
-"At three quarters."
+Mads put the flowers in the wash water and left.
 
-Karen leaned back. "Write that down."
+That afternoon Karen asked Anders to wash her hair. He brought the basin and spilled enough water that it ran beneath the stool. She sat in her shift while he worked soap through her hair.
 
-He did not.
+"Not so hard."
 
-After he left, she slept for four hours.
+"I am barely touching you."
 
-That evening she asked Anders to wash her hair. He brought too much water and wet the floor. She sat on a stool in her shift while he poured from a cup and tried to keep the soap out of her eyes.
+"Then touch me differently."
 
-"You are bad at this," she said.
+He started again at the ends. Karen leaned back against his knees. Her neck felt hot under his fingers, but for an hour afterward the fever seemed gone.
 
-"You are moving."
+Margrethe brought the new brown shoes from the cobbler. The blue ribbon had been stitched along both sides. Karen inspected the stitches and said one was crooked.
 
-"My head is attached."
+"No one can see it," Margrethe said.
 
-He dried her hair by the stove. For an hour she had no fever.
+"I can."
 
-Margrethe came in with the repaired brown shoes. The cobbler had added no ribbon. Karen inspected the stitching and said he had done it too quickly.
+She put the shoes beside the bed.
 
-They ate upstairs. Villum brought stew in three bowls and forgot spoons.
+They ate upstairs. Villum brought three bowls and two spoons. He went back for the third.
 
 During the night the fever returned.
 
 *
 
-Niels came on the fifth morning.
+Niels came on the fifth morning with the communion cup wrapped in linen.
 
-He no longer needed Anders to correct his Latin. He wore a black coat polished at the cuffs and carried the communion cup wrapped in linen.
+Karen received the sacrament. Afterward he began speaking in the voice he used at sickbeds. She asked him to stop. He tried again and sounded almost normal.
 
-Karen received the sacrament. Afterward Niels began speaking to her in the soft voice he used at sickbeds.
-
-"You can speak normally," she said.
-
-He did.
-
-She asked him to take Margrethe downstairs and make her eat. Margrethe refused to go.
+She wanted Margrethe downstairs for breakfast. Margrethe refused.
 
 "I am not hungry."
 
-"That has never stopped you."
+"You ate half my broth."
 
-"I want to stay."
+"That was yesterday."
 
-Karen looked at Anders. He took Margrethe's hand.
+Karen looked at Anders. He took Margrethe's hand. She pulled once, then went with him.
 
-Downstairs, Niels cut bread and cheese. Margrethe sat at the table without eating.
+Niels cut bread and cheese at the kitchen table. Margrethe did not eat.
 
 "Is she dying?" she asked.
 
-Niels looked at Anders.
+Anders said they did not know.
 
-"We do not know," Anders said.
+"You say that when you mean yes."
 
-"You always say that when you mean yes."
+"I don't."
 
-"I do not."
+"The yellow cat."
 
-"You said it when the yellow cat was hurt."
+He had forgotten the cat. It had been caught beneath a cart two years earlier. He had told Margrethe it might recover and taken it away in a sack.
 
-Anders had forgotten the cat.
+"I did not know about the cat either."
 
-They went back upstairs before the bread was finished.
+Margrethe pressed a piece of cheese flat with her thumb.
 
-Karen slept through most of the day. Her breathing became quick, then slow, then quick again. Her mother sat on one side of the bed. Anders sat on the other. Margrethe moved between the room and the stairs until Villum brought a chair for her.
+They returned upstairs.
 
-Near evening, Karen woke and asked what day it was.
+Karen's breathing changed through the afternoon. Her mother sat on one side of the bed. Anders sat on the other. Margrethe moved between the room and the landing until Villum brought her a chair.
 
-"Tuesday," Anders said.
+Near evening Karen opened her eyes.
 
-"No. Since I left Mads's."
+"The shop?" she asked.
 
-"Six days."
+"Villum closed it."
 
-She thought about this.
+"Why?"
 
-"The shop payment to Sørensen."
+"It is Sunday."
 
-"I entered it."
+It was Tuesday. Anders looked at her mother. Her mother looked down.
 
-"Under glass or household?"
+Karen slept again.
 
-"Glass."
+After midnight she became restless and pulled at the sheet. Anders wet a cloth and put it on her neck. She pushed his hand away. A little later she reached for it.
 
-"Good."
+She died before dawn.
 
-She slept again.
+Anders was holding her hand. He waited after the last breath because the pauses had been long before.
 
-Karen died before dawn.
-
-Anders was holding her hand. He felt the fingers loosen, then waited for another breath. Her mother went to wake Mads.
-
-Margrethe was asleep in the chair.
+Margrethe was asleep in the chair. Karen's mother woke her.
 
 *
 
 The funeral was held at Our Lady's Church.
 
-Anders sang badly. No one told him to lower his voice.
+Anders sang. He lost the tune during the last verse and continued.
 
-Afterward the house filled with relatives and food. Mads spoke to Anders near the front window. He said Margrethe could stay with him and her grandmother for a while.
+Afterward the rooms filled with relatives. Food arrived from three houses. Most of it remained covered because no one knew which table to use.
+
+Mads spoke to Anders near the front window. He said Margrethe could stay with him and her grandmother for a while. The counting room had work she knew, and his house had women.
 
 "She lives here," Anders said.
 
-"The shop is not a place for a girl without her mother."
+"Karen wanted her with us."
 
-"It was a place for Karen."
+"On Thursdays."
 
-"Karen was grown."
+"She accepted the place for the girl."
 
-"She lives here."
+Anders had not known that. He looked across the room for Margrethe.
 
-Margrethe stood on the stairs listening. Anders saw her after he had said it the second time.
+She stood on the stairs in her black dress.
+
+"Did she?" Anders asked.
+
+Margrethe nodded.
+
+Mads waited.
+
+"She lives here," Anders said again.
 
 Mads went home without her.
 
-For several weeks, Villum cooked. He boiled everything longer than required. Margrethe began taking a midday meal with her grandmother twice a week and returned with bread hidden in her pockets.
+For several weeks, Villum cooked. He boiled meat until it separated from the bone and vegetables until they no longer required teeth. Margrethe took a midday meal with her grandmother twice a week and returned with bread in her pockets.
 
-Anders worked at the bench. He completed orders and spoke to customers. He did not open the walnut case.
+Anders worked. He completed orders and spoke to customers. He did not open the walnut case.
 
-Karen's things remained where she had left them. Her broken dance shoes were beneath the bed. The French paper was in the desk. The shop ledger held her writing until the week of the fever and Anders's writing after it.
+Karen's place at the front desk remained empty. On Mondays, Anders carried the weekly pages to Mads's counting room. The first time, another clerk sat at Karen's desk. Her narrow correction book was gone.
 
-One night in December, he woke and heard movement below.
+One night in December, Anders heard movement below.
 
-Margrethe was at the back table in her nightdress. She had opened the crystal notebook and set a candle beside it. The apparatus was still in its case.
+Margrethe was at the back table in her nightdress. She had opened the crystal notebook and set a candle beside it. The apparatus remained in its case.
 
 "What are you doing?"
 
@@ -4593,53 +4937,45 @@ She jumped. Ink spilled across the lower corner of the page.
 
 "Nothing."
 
-"You have the book."
+It was an old brightness table. Karen had left two rows empty. Margrethe had copied values into one of them from a loose trial sheet.
 
-"I can see that."
+"This used the old candle distance," Anders said.
 
-The open page was an old brightness table. Karen had left two rows empty. It was not the last thing she had written. The table was three years old.
+"The crystal positions are the same."
 
-Margrethe had copied values into one of the empty rows.
+"Not the distance."
 
-"Where did these come from?" Anders asked.
-
-"The loose sheet."
-
-She showed him a trial sheet in Karen's hand. The crystal positions matched.
-
-"This observation used the old candle distance."
-
-"It is the same position."
-
-"Not the same trial."
-
-Margrethe rubbed at the ink on her finger.
-
-"It was empty."
-
-"Then it stays empty."
-
-"She meant to finish it."
+"She meant to copy it."
 
 "You don't know that."
 
 "Neither do you."
 
-Anders took the pen. He struck through the copied values with one line. Margrethe made a sound and pulled the notebook toward her.
+Anders took the pen and struck through the figures.
 
-The wet ink smeared under her hand.
+Margrethe pulled the book toward her. Her hand crossed the wet line and smeared it.
 
-"Now look what you did," he said.
+"Stop."
 
-"You did it."
+"You stop."
 
-She ran upstairs.
+He caught her wrist. She tried to pull away, and the ink bottle tipped onto the table.
 
-Anders remained at the table. He blotted the page and cleaned the spill. Then he closed the notebook.
+Villum called from upstairs.
 
-In the morning, Margrethe would not speak to him. She went to her grandmother's after breakfast and did not come back until Villum fetched her.
+Anders let go. Margrethe ran past him.
 
-The notebook stayed in the desk.
+He blotted the page and wiped the table. The stain spread into the grain.
+
+The next morning Margrethe left for her grandmother's before breakfast. She had taken the ruined trial sheet and Karen's narrow correction book. Anders had not known the book was back in the house.
+
+Villum fetched her after the shop closed.
+
+At supper she said she would continue at Mads's on Thursdays because her mother had arranged it.
+
+Anders started to object. Villum asked him for the bread.
+
+The loaf was beside Anders's hand. He passed it across the table.
 
 ## Chapter 12 — The Book from Holland
 

@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "bookId": "the-crystal",
   "bookTitle": "The Crystal",
-  "updatedAt": "2026-07-24",
+  "updatedAt": "2026-07-25",
   "policy": {
     "textEdition": "An immutable editorial snapshot, not every Git save.",
     "audioLink": "Every render names its exact text edition and, when retained, its exact TTS-script hash.",
@@ -758,7 +758,7 @@
       "id": "ch07",
       "number": 7,
       "title": "Do It Again",
-      "canonicalTextEdition": "ch07-codex-r1",
+      "canonicalTextEdition": "ch07-codex-r2",
       "textEditions": [
         {
           "id": "ch07-codex-v1",
@@ -786,8 +786,8 @@
         },
         {
           "id": "ch07-codex-r1",
-          "label": "Current Codex rewrite",
-          "status": "canonical",
+          "label": "Prior Codex rewrite",
+          "status": "superseded",
           "createdAt": "2026-07-23",
           "parent": "ch07-codex-v1",
           "sourceCommit": "69b3260",
@@ -809,6 +809,30 @@
             "sha256": "c6c0f639287e00bef1656c2f53ef8ab19694a9569c7ff49bc92e392cd426bdc6",
             "bytes": 11937,
             "words": 2118
+          }
+        },
+        {
+          "id": "ch07-codex-r2",
+          "label": "Expanded lived-life revision",
+          "status": "canonical",
+          "createdAt": "2026-07-25",
+          "parent": "ch07-codex-r1",
+          "sourceCommit": "f452301",
+          "includedCommits": [],
+          "contributions": [
+            {
+              "agent": "codex-gpt5",
+              "role": "rewrite",
+              "scope": "Put guild advancement, courtship, wage negotiation, and marriage on-page instead of summarizing the good years",
+              "evidence": "verified"
+            }
+          ],
+          "note": null,
+          "text": {
+            "path": "fiction/the-crystal-opening/versions/text/ch07-codex-r2.md",
+            "sha256": "933f2c5c7b44c7a02e412b48028a1b2cb028b49f913ee3da14d7530732f2fa81",
+            "bytes": 21923,
+            "words": 3895
           }
         }
       ],
@@ -1008,12 +1032,12 @@
       "id": "ch11",
       "number": 11,
       "title": "The Fever",
-      "canonicalTextEdition": "ch11-codex-v1",
+      "canonicalTextEdition": "ch11-codex-r1",
       "textEditions": [
         {
           "id": "ch11-codex-v1",
-          "label": "Current Codex draft",
-          "status": "canonical",
+          "label": "Original Codex draft",
+          "status": "superseded",
           "createdAt": "2026-07-23",
           "parent": null,
           "sourceCommit": "36fada6",
@@ -1033,14 +1057,38 @@
             "bytes": 9530,
             "words": 1670
           }
+        },
+        {
+          "id": "ch11-codex-r1",
+          "label": "Expanded Karen revision",
+          "status": "canonical",
+          "createdAt": "2026-07-25",
+          "parent": "ch11-codex-v1",
+          "sourceCommit": "f452301",
+          "includedCommits": [],
+          "contributions": [
+            {
+              "agent": "codex-gpt5",
+              "role": "rewrite",
+              "scope": "Gave Karen a paid future and an unresolved family decision before the fever, then carried that conflict into Margrethe's aftermath",
+              "evidence": "verified"
+            }
+          ],
+          "note": null,
+          "text": {
+            "path": "fiction/the-crystal-opening/versions/text/ch11-codex-r1.md",
+            "sha256": "0e483cf36117a34400e08b6fba9fd2cc7707bc4f2978bc3aa2c9230a5760ad4d",
+            "bytes": 14315,
+            "words": 2513
+          }
         }
       ],
       "audioRenders": [
         {
           "id": "ch11-chris-codex-v1",
-          "label": "Chris · current Codex text",
+          "label": "Chris · original Codex text",
           "textEdition": "ch11-codex-v1",
-          "matchesCanonicalText": true,
+          "matchesCanonicalText": false,
           "createdAt": "2026-07-24T03:54:20Z",
           "production": {
             "agent": "claude-code-opus",
