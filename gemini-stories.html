@@ -1,0 +1,200 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="theme-color" content="#1d2924">
+<title>Gemini Story Night — 1380 Stories</title>
+<style>
+  :root {
+    --bg:#f1eadf;
+    --card:#fffaf2;
+    --ink:#24231f;
+    --sub:#6f6a60;
+    --line:#d9cebf;
+    --acc:#376451;
+    --acc-dark:#254739;
+    --soft:#e4ddd1;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --bg:#151b18;
+      --card:#1d2521;
+      --ink:#eee9e0;
+      --sub:#aaa49a;
+      --line:#344039;
+      --acc:#8fc9ad;
+      --acc-dark:#b0ddc7;
+      --soft:#2a342f;
+    }
+  }
+  * { box-sizing:border-box; }
+  body {
+    margin:0;
+    background:
+      radial-gradient(circle at 50% -8rem, rgb(147 174 159 / 20%), transparent 28rem),
+      var(--bg);
+    color:var(--ink);
+    font:17px/1.55 Georgia, "Times New Roman", serif;
+  }
+  main {
+    width:min(100% - 2rem, 760px);
+    margin:0 auto;
+    padding:2rem 0 5rem;
+  }
+  a { color:var(--acc-dark); }
+  .back {
+    display:inline-block;
+    margin-bottom:1.4rem;
+    font:700 .78rem/1.2 -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+    letter-spacing:.05em;
+    text-transform:uppercase;
+    text-decoration:none;
+  }
+  header {
+    margin-bottom:1.8rem;
+  }
+  h1 {
+    margin:0 0 .45rem;
+    font-size:clamp(2.2rem, 10vw, 4rem);
+    line-height:.97;
+    letter-spacing:-.045em;
+  }
+  .lede {
+    max-width:42rem;
+    margin:.8rem 0 0;
+    color:var(--sub);
+    font-size:1.03rem;
+  }
+  .stories {
+    display:grid;
+    gap:1.1rem;
+  }
+  .story {
+    position:relative;
+    overflow:hidden;
+    padding:1.2rem;
+    background:var(--card);
+    border:1px solid var(--line);
+    border-radius:18px;
+    box-shadow:0 12px 34px rgb(46 40 31 / 7%);
+  }
+  .story::before {
+    content:"";
+    position:absolute;
+    inset:0 auto 0 0;
+    width:5px;
+    background:var(--accent, var(--acc));
+  }
+  .eyebrow {
+    display:flex;
+    flex-wrap:wrap;
+    gap:.45rem;
+    margin:0 0 .65rem;
+    color:var(--sub);
+    font:700 .72rem/1.2 -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+    letter-spacing:.04em;
+    text-transform:uppercase;
+  }
+  .eyebrow span {
+    padding:.35rem .55rem;
+    background:var(--soft);
+    border-radius:999px;
+  }
+  h2 {
+    margin:0;
+    font-size:clamp(1.35rem, 6vw, 1.9rem);
+    line-height:1.1;
+    letter-spacing:-.018em;
+  }
+  .premise {
+    margin:.65rem 0 .9rem;
+    color:var(--sub);
+  }
+  audio {
+    display:block;
+    width:100%;
+    height:48px;
+  }
+  .casting {
+    margin:.8rem 0 0;
+    font-size:.9rem;
+  }
+  .casting strong {
+    color:var(--accent, var(--acc-dark));
+  }
+  footer {
+    margin-top:1.8rem;
+    padding-top:1.2rem;
+    border-top:1px solid var(--line);
+    color:var(--sub);
+    font-size:.84rem;
+  }
+  @media (min-width:640px) {
+    main { padding-top:3rem; }
+    .story { padding:1.45rem 1.55rem 1.4rem; }
+  }
+</style>
+</head>
+<body>
+<main>
+  <a class="back" href="gemini-voices.html">← Voice auditions</a>
+  <header>
+    <h1>Gemini story night</h1>
+    <p class="lede">Three complete stories, cast voice by voice. These are full-length reads, not samples. Start one, lock your phone, and listen.</p>
+  </header>
+
+  <section class="stories" aria-label="Complete Gemini story renders">
+    <article class="story" style="--accent:#547a67">
+      <div class="eyebrow">
+        <span>Iapetus</span>
+        <span>16:09</span>
+        <span>Complete story</span>
+      </div>
+      <h2>Fake Grandsons of the Palm Beaches</h2>
+      <p class="premise">An out-of-work actor joins a professional-grandson service whose last and least enforceable rule is “No attachment.”</p>
+      <audio controls preload="metadata" src="gemini-stories/fake-grandsons-iapetus.mp3"></audio>
+      <p class="casting"><strong>Why this voice:</strong> Iapetus keeps Micah conversational and clear, letting the company rules and Evelyn’s timing carry the jokes.</p>
+    </article>
+
+    <article class="story" style="--accent:#a36f3e">
+      <div class="eyebrow">
+        <span>Sulafat</span>
+        <span>16:50</span>
+        <span>Complete story</span>
+      </div>
+      <h2>The Easter Chocolate-Bunny Sacrifice</h2>
+      <p class="premise">A struggling confectioner, a stubborn grandmother, and a viral photograph turn one town’s chocolate ritual into an international incident.</p>
+      <audio controls preload="metadata" src="gemini-stories/easter-chocolate-bunny-sulafat.mp3"></audio>
+      <p class="casting"><strong>Why this voice:</strong> Sulafat brings family warmth without making the ritual cute; the comedy stays dry and the strangeness stays sincere.</p>
+    </article>
+
+    <article class="story" style="--accent:#75658a">
+      <div class="eyebrow">
+        <span>Enceladus</span>
+        <span>23:06</span>
+        <span>Episode 1</span>
+      </div>
+      <h2>The Dreamers</h2>
+      <p class="premise">A boy enters a community where dreams are evidence, thoughts have consequences, and a pink daisy is never merely a flower.</p>
+      <audio controls preload="metadata" src="gemini-stories/dreamers-enceladus.mp3"></audio>
+      <p class="casting"><strong>Why this voice:</strong> Enceladus gives the meetings a hushed, devotional closeness—quiet enough for the tenderness and the dread to coexist.</p>
+    </article>
+  </section>
+
+  <footer>
+    <p>Rendered with Gemini 2.5 Flash Preview TTS in paragraph-safe cached sections. Easter received a pitch-preserving 10% tempo reduction. Playback is limited to one story at a time.</p>
+  </footer>
+</main>
+<script>
+const players = [...document.querySelectorAll("audio")];
+for (const player of players) {
+  player.addEventListener("play", () => {
+    for (const other of players) {
+      if (other !== player) other.pause();
+    }
+  });
+}
+</script>
+</body>
+</html>

@@ -1,0 +1,41 @@
+{
+  "generated_at": "2026-07-27T03:31:19.281390+00:00",
+  "source": "fiction/easter-sacrifice/story.md",
+  "source_sha256": "9c219dbcb08e88eb22ea23857405bdb5d1ae0393d246bdeb8d74ceefefde08c4",
+  "spoken_text_sha256": "e3c9fa122cf9c410c38593545a0dfdddbec96b17df156a4070471c56315169b0",
+  "model": "gemini-2.5-flash-preview-tts",
+  "voice": "Sulafat",
+  "style": "Tell this as a grounded adult narrating a family Easter story in a small Central European town. Warm, observant, and sincere, with dry family comedy. Do not make it whimsical, cute, or theatrical. Give Oma Hanne calm authority, Marta practical urgency, and Klara a direct child's voice through light inflection only; do not perform accents. Use an unhurried bedtime pace and let the strange event remain strange.",
+  "chunk_words": 1100,
+  "chunks": [
+    {
+      "index": 1,
+      "words": 1066,
+      "text_sha256": "355dfd6c494bdd0c608000456f77905220dea36690958af684f626a5bd675728",
+      "cache_file": "001-9ef42a2ab7ae808cb50a.mp3",
+      "audio_sha256": "b2296aefd05a32789662165b56f4c616a1685fe157aca08eefd7538b4d5c60d7"
+    },
+    {
+      "index": 2,
+      "words": 925,
+      "text_sha256": "d36282070b736acea5886b8f1593bebe488accdeb5d3ec79ecd598ded2d44ef9",
+      "cache_file": "002-501bb5dab7d67b171b74.mp3",
+      "audio_sha256": "0f8857bf4cd5027d3c0bec3274ed79e58ac8c526d424ddb5b96988a96746c706"
+    },
+    {
+      "index": 3,
+      "words": 922,
+      "text_sha256": "0d22aa1d4c00d09b1bafab57611c7875104bfc463cf8f8c99193892b70e00dca",
+      "cache_file": "003-d23e9753ca3bf87bbd88.mp3",
+      "audio_sha256": "e3ce7e0bb862e88e376240ebecc3600374c68bcec3bca162eb3acc4ba62b949f"
+    }
+  ],
+  "output": "easter-chocolate-bunny-sulafat.mp3",
+  "postprocess": {
+    "filter": "atempo=0.9",
+    "tempo_factor": 0.9,
+    "source_stitched_sha256": "0ee4bc60f15dd790d203aa9c4f5884a2d581231541b6ef2760c34096ac22d4c1",
+    "reason": "Bring a brisk 192 WPM synthesis into the bedtime target range."
+  },
+  "output_sha256": "eb344db0bf1a77fec0097b33b33a01473c4f53676d7ff67652ae04f24cc15e2a"
+}

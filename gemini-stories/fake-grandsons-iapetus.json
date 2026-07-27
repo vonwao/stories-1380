@@ -1,0 +1,42 @@
+{
+  "generated_at": "2026-07-27T03:19:10.592463+00:00",
+  "source": "fiction/fake-grandsons/story.md",
+  "source_sha256": "e84e8a27e33b9c0177b8e7a33f4a62dfbdd2f4cef935ec4caf93efa9f6886f78",
+  "spoken_text_sha256": "40c5910b5d744f452f837e872b7c27b0c937b3ac0c76bce9682078bd80a57ff1",
+  "model": "gemini-2.5-flash-preview-tts",
+  "voice": "Iapetus",
+  "style": "Read as Micah, a thoughtful American man in his early thirties telling a true-seeming story to one listener. Warm, observant, and understated. Let the jokes land without winking at them. Keep dialogue clear with only light character distinction; never act it up. Use an unhurried bedtime pace.",
+  "chunk_words": 900,
+  "chunks": [
+    {
+      "index": 1,
+      "words": 852,
+      "text_sha256": "595f348a1b169acb854baf105ffa257ebc03628278142beb97bc7f6e637a7beb",
+      "cache_file": "001-854048ddb8e6a10191ed.mp3",
+      "audio_sha256": "260681d829bb90238aafaee28c752464460c4edc00da7510df1387c9b5dcf143"
+    },
+    {
+      "index": 2,
+      "words": 900,
+      "text_sha256": "d39c601a70c5aadfd5f00a826ca89002d770db6dbc9fae27c5decc236b8fb74e",
+      "cache_file": "002-d7894c47c3f381b2df4e.mp3",
+      "audio_sha256": "b7a0154aa01fc96fd275a1a368628d16a9f8d088d6a1ca5fafb02686ca30d7c2"
+    },
+    {
+      "index": 3,
+      "words": 568,
+      "text_sha256": "8035771c8be4319b8d476198c65dcec7a95455bab9aa267a9a082b7939bbf22d",
+      "cache_file": "003-d26c4ac130ac8a90d608.mp3",
+      "audio_sha256": "ca60b9b0519960a62512c6abc543293bdbdf6c613c864b86c29367cfe9bc26c5"
+    },
+    {
+      "index": 4,
+      "words": 574,
+      "text_sha256": "398a5255395894c5df3faa90baaf8b7be6c25c4543a31c87c108cee098042d51",
+      "cache_file": "004-6a2e27f5cddb0b638463.mp3",
+      "audio_sha256": "ce37c9b47502922fdd4ac54cf772d69e472661b1f74fa821b1007bbb8dc06503"
+    }
+  ],
+  "output": "fake-grandsons-iapetus.mp3",
+  "output_sha256": "02f52211d34ca1020cd1df285ba9a6ab3dd59911d05965a9b4d7f509f16d0199"
+}
