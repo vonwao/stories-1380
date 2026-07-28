@@ -1,0 +1,41 @@
+{
+  "generated_at": "2026-07-28T02:21:40.204493+00:00",
+  "source": "fiction/florida-man/story-v2.md",
+  "source_sha256": "c48553fb6bd20ed0311587b858af7c5d769de5813f94c3b9ede8672c1e337e93",
+  "spoken_text_sha256": "7d5a690d1a1f66781dffad03670b46938c42d0a4ec7f847e013037efd525280e",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Gacrux",
+  "style": "Tell this as a grounded American family story unfolding around a kitchen table. Mature, conversational, affectionate, and unsentimental, with dry comic timing. Ray is an older Florida man who is confident, specific, and sometimes ridiculous, but never a redneck caricature or a secret folk hero. Linda is practical and quick; Callie is composed and persistent. Differentiate them through rhythm and light inflection only, with no performed accents. Let interruptions and corrections land cleanly. Use a natural, moderately unhurried pace around 165 to 180 words per minute; do not turn reflective passages into an audiobook performance.",
+  "chunk_words": 1000,
+  "chunks": [
+    {
+      "index": 1,
+      "words": 977,
+      "text_sha256": "50181dc541f39ea56c618812b48eb2c77149b47e2ff745d42802e3a81cd409bb",
+      "cache_file": "001-603134165c9e9e717662.mp3",
+      "audio_sha256": "b73bb56b859d83919aeda6a72722fc150a48f94b408d34feb22f44c79e1527e1"
+    },
+    {
+      "index": 2,
+      "words": 956,
+      "text_sha256": "e9faae86ff6726f1ac1862383959028754cc5c130f28e77965392b03802fc74f",
+      "cache_file": "002-176b625252b4ddbdbf89.mp3",
+      "audio_sha256": "fc2031263e50a5bdf0d0381efddeec7f1ef9f2c488d1b663128b7c6760833233"
+    },
+    {
+      "index": 3,
+      "words": 955,
+      "text_sha256": "9fd86a7101f3079be4d34003322fa010d111cba06f8d24e7e5ec769ba74c120e",
+      "cache_file": "003-80427654b56e4fee732c.mp3",
+      "audio_sha256": "9155e0f9cf74dc7e3f2575a4366aac03dca85e84b974ba44e8ad069dc42f0dd8"
+    }
+  ],
+  "output": "florida-man-gacrux.mp3",
+  "postprocess": {
+    "filter": "atempo=1.05",
+    "tempo_factor": 1.05,
+    "source_stitched_sha256": "cc963840319add0b49d89814577ff5560a7ce563d9ef2e57c5fc6e9f3e7cf6a5",
+    "reason": "Bring a measured 140 WPM synthesis to a conversational 146 WPM pace."
+  },
+  "output_sha256": "028ab14ee63084116e30aaa55728f07d0e765a8987f8f6a1ab1c84084782e4f4"
+}

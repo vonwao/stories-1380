@@ -1,0 +1,34 @@
+{
+  "generated_at": "2026-07-28T02:10:01.740089+00:00",
+  "source": "fiction/walkie/story-v3.md",
+  "source_sha256": "17ceb49987ecfa16f600c308dfbf7ea719a942513d6c921553a109d027353116",
+  "spoken_text_sha256": "92f0a9f8a14350d731c5a6ac09cd7f26be32682d614530c1523051cfe70ecf11",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Iapetus",
+  "style": "Read as Pete, an American man remembering one summer in Jupiter Farms when he and Danny were ten. Friendly, clear, casual, and observant, with dry humor and real affection held lightly. Do not perform a children's drama: distinguish Pete and Danny through timing and attitude, never high-pitched kid voices. The grown voice on the radio is quiet and embarrassed, not ominous or supernatural. Avoid sentimentality and trailer-style mystery. Use an unhurried storytelling pace around 160 to 175 words per minute, with natural room around the clicks and radio silences.",
+  "chunk_words": 1100,
+  "chunks": [
+    {
+      "index": 1,
+      "words": 1051,
+      "text_sha256": "0d1f7a3cd58575e5fb8ffcf160977a409444c0adc3008fbb75345905d2a4611f",
+      "cache_file": "001-48347153008d5b450613.mp3",
+      "audio_sha256": "4b7e27904ae632afd27e9c5eda9544b08deaa75065a61fa5089a138606a85315"
+    },
+    {
+      "index": 2,
+      "words": 1073,
+      "text_sha256": "8c3d52b01617006ecd2e3948fa15f9887e9a8c18efc5cb838516964131b2f398",
+      "cache_file": "002-b47e4ffe99bd64c0903d.mp3",
+      "audio_sha256": "256f9fbdecd39af76001511ab1e23491233bf695142b5c8fd390177a1ba12964"
+    }
+  ],
+  "output": "channel-nine-iapetus.mp3",
+  "postprocess": {
+    "filter": "atempo=1.12",
+    "tempo_factor": 1.12,
+    "source_stitched_sha256": "f5bd24f70f651a5d68289e7959a8aa3bebe945d9155a482cb70ec0e36f45dcb1",
+    "reason": "Bring an unusually slow 128 WPM synthesis to a natural 143 WPM bedtime pace."
+  },
+  "output_sha256": "5b59da8322575b65fe6b8ac25daddf6b6fa0c05ffa72685f2c3fe4150c61fbff"
+}

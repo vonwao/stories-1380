@@ -1,0 +1,28 @@
+{
+  "generated_at": "2026-07-28T02:01:00.724036+00:00",
+  "source": "fiction/dream-a-little/story-v3.md",
+  "source_sha256": "f3f16cfa9c30e07410fe67fcce7f49bc5ebec27cd40458cc8482a490d1c9d018",
+  "spoken_text_sha256": "0477fbab2b2deada0b62af2d1f73eb4682022eb55ed667c92c7445c32a22a23e",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Achernar",
+  "style": "Read as a thoughtful American overnight support worker telling one listener about something that happened at three in the morning. Soft, intimate, observant, and lightly dry; never use a deep soothing audiobook voice or a guided-meditation performance. Keep the technical office details conversational. Differentiate dialogue only through timing and light inflection, never acting. Read support tickets plainly and directly. Use an unhurried bedtime pace around 155 to 170 words per minute, pause naturally at paragraph breaks, and let the mystery remain unresolved.",
+  "chunk_words": 1200,
+  "chunks": [
+    {
+      "index": 1,
+      "words": 1162,
+      "text_sha256": "f3ef7bfa1e954270552a7e2e7772dfdfafdb4716239c43efddda79783a9f1d0b",
+      "cache_file": "001-1a194e77cd0281b34915.mp3",
+      "audio_sha256": "affc0d0642eea3e38fb00093c179ea5d40e7f359fd953e3322392792b41ad9dc"
+    },
+    {
+      "index": 2,
+      "words": 1156,
+      "text_sha256": "518a5f88ea11fa92026b1507ba05f87ec654f54483aeb9ba084815d64140913c",
+      "cache_file": "002-63c3ce4bef1e05669228.mp3",
+      "audio_sha256": "1c02bad357a1045c2fbb229c2eacbf55a62bb8c1733a5653b1cdc513786e8970"
+    }
+  ],
+  "output": "dream-a-little-achernar.mp3",
+  "output_sha256": "93bac89bb6d14859a186ff92a08bd4e113572e6345376ad30c5d6f3aa5460890"
+}
