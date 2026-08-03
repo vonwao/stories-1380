@@ -1,0 +1,89 @@
+{
+  "generated_at": "2026-08-03T18:17:26.017461+00:00",
+  "source": "fiction/the-tortoise/multivoice-v4-opening-preview.md",
+  "source_sha256": "c5382a8faaf347a9e248cb7dffde222a895be933f26544a0351fca8ba107188b",
+  "model": "gemini-3.1-flash-tts-preview",
+  "speakers": {
+    "Mara": "Gacrux",
+    "Mehta": "Schedar"
+  },
+  "direction": "Speak as if these events are happening during an ordinary workday, not as if performing a story or radio play. Use natural conversational volume, restrained emotion, and an unhurried but unforced pace. No acting flourishes, dramatic pauses, punchline emphasis, or emotional coloring. Mara is a capable, matter-of-fact woman narrating what she notices; keep her narration and dialogue in the same grounded voice. Mehta is a practical field biologist whose attention is mainly on the tortoise. Never speak the speaker labels or these directions.",
+  "chunking": {
+    "strategy": "speaker-sentence-balanced-v1",
+    "target_seconds": 25,
+    "assumed_wpm": 160,
+    "max_words": 67,
+    "min_words": 30
+  },
+  "chunks": [
+    {
+      "index": 1,
+      "words": 66,
+      "speakers": [
+        "Mara"
+      ],
+      "transcript_sha256": "8011ba9571f0351a97a9eb45cd06c5c7f9efc0d546553cba528c66555bf9da96",
+      "cache_file": "001-5d5fcfdc46f88c5d38a3.mp3",
+      "audio_sha256": "9d3e41e569db5b087acdbbaeed7eeded9c89d13731919adf5981763d3a3f9585",
+      "duration_seconds": 23.92
+    },
+    {
+      "index": 2,
+      "words": 55,
+      "speakers": [
+        "Mara"
+      ],
+      "transcript_sha256": "dd6b14d114536aa8e4985e38fc2418f05df3eb02b500dfca737b54a665c312ef",
+      "cache_file": "002-af70436726f784317a5b.mp3",
+      "audio_sha256": "b17d747ed2bca77b5da3a2a5703261d581da9154baffbef3a560c12b7280c42f",
+      "duration_seconds": 23.48
+    },
+    {
+      "index": 3,
+      "words": 52,
+      "speakers": [
+        "Mara",
+        "Mehta"
+      ],
+      "transcript_sha256": "943c8f80a4afc5b7375683925db9d7f02c8c4a7c665bffb976e7375d3721feaf",
+      "cache_file": "003-5bbad65d0590d45ad33c.mp3",
+      "audio_sha256": "131141fb2582ebe0c115168518695d1bb0cf88e42be745792ddc12412b5ca686",
+      "duration_seconds": 24.6
+    },
+    {
+      "index": 4,
+      "words": 63,
+      "speakers": [
+        "Mara"
+      ],
+      "transcript_sha256": "c10367001ff5e71041cf8fffe31653585a80c62f1c077fc2bd56c829e2523ff9",
+      "cache_file": "004-e57145f68d627035810a.mp3",
+      "audio_sha256": "24ba573056b4db6fffb41fdc783cfeba281b7e99ca4c3f65794ffbff47b5d153",
+      "duration_seconds": 24.76
+    },
+    {
+      "index": 5,
+      "words": 38,
+      "speakers": [
+        "Mara",
+        "Mehta"
+      ],
+      "transcript_sha256": "5a557640f90435090a68627705ef085ba947b6e1a8d0e6883f7afaa582b2bda1",
+      "cache_file": "005-3e1f3febbb7ff2276fff.mp3",
+      "audio_sha256": "a2e845c961a8b5686e1a61482d4ca478ade0235a322cc5e42c5155613478d534",
+      "duration_seconds": 19.28
+    }
+  ],
+  "completion": {
+    "status": "complete",
+    "rendered_chunks": 5,
+    "total_chunks": 5
+  },
+  "assembly": {
+    "method": "ffmpeg decoded concat",
+    "normalize_chunks": true,
+    "filter": "loudnorm=I=-20:TP=-2:LRA=11"
+  },
+  "output": "tortoise-v4-opening-gacrux-schedar-2min.mp3",
+  "output_sha256": "8cc6a3aaefffcd2bf69ac85e6e56a9ad4a6334e7b3898705d7df50864b44bb53"
+}
