@@ -1,0 +1,438 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="robots" content="noindex, nofollow">
+  <meta name="theme-color" content="#11100e">
+  <title>The Keepers · selected listening</title>
+  <style>
+    :root {
+      color-scheme: dark;
+      --bg: #11100e;
+      --panel: #1b1916;
+      --panel-2: #211f1b;
+      --line: #373128;
+      --paper: #f4ead8;
+      --muted: #b9aa94;
+      --quiet: #857a6a;
+      --gold: #d9a85f;
+      --green: #86aa8d;
+      --amber: #d6a766;
+      --blue: #88a9bd;
+    }
+
+    * { box-sizing: border-box; }
+
+    body {
+      margin: 0;
+      min-height: 100vh;
+      background:
+        radial-gradient(circle at 15% -10%, rgba(166, 120, 64, .15), transparent 34rem),
+        var(--bg);
+      color: var(--paper);
+      font-family: ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      line-height: 1.5;
+    }
+
+    main {
+      width: min(760px, calc(100% - 28px));
+      margin: 0 auto;
+      padding: 54px 0 88px;
+    }
+
+    header { margin-bottom: 34px; }
+
+    .kicker,
+    .section-label,
+    .badge {
+      font-size: 12px;
+      font-weight: 750;
+      letter-spacing: .11em;
+      text-transform: uppercase;
+    }
+
+    .kicker { color: var(--gold); }
+
+    h1 {
+      margin: 6px 0 4px;
+      font-family: Georgia, "Times New Roman", serif;
+      font-size: clamp(43px, 10vw, 74px);
+      font-weight: 500;
+      line-height: .98;
+      letter-spacing: -.045em;
+    }
+
+    .lede {
+      max-width: 650px;
+      margin: 18px 0 0;
+      color: var(--muted);
+      font-size: 17px;
+    }
+
+    .toolbar {
+      position: sticky;
+      top: 10px;
+      z-index: 3;
+      display: grid;
+      grid-template-columns: 1fr auto auto;
+      gap: 12px;
+      align-items: center;
+      margin: 28px 0 42px;
+      padding: 12px 14px;
+      border: 1px solid var(--line);
+      border-radius: 14px;
+      background: rgba(27, 25, 22, .94);
+      box-shadow: 0 12px 36px rgba(0, 0, 0, .25);
+      backdrop-filter: blur(12px);
+    }
+
+    #now-playing {
+      min-width: 0;
+      overflow: hidden;
+      color: var(--muted);
+      font-size: 13px;
+      text-overflow: ellipsis;
+      white-space: nowrap;
+    }
+
+    #now-playing strong { color: var(--paper); }
+
+    label.control {
+      display: flex;
+      gap: 7px;
+      align-items: center;
+      color: var(--muted);
+      font-size: 13px;
+      white-space: nowrap;
+    }
+
+    select {
+      border: 1px solid var(--line);
+      border-radius: 8px;
+      background: #141310;
+      color: var(--paper);
+      padding: 7px 8px;
+      font: inherit;
+    }
+
+    input[type="checkbox"] {
+      width: 18px;
+      height: 18px;
+      accent-color: var(--gold);
+    }
+
+    section + section { margin-top: 52px; }
+
+    .section-heading {
+      display: flex;
+      gap: 12px;
+      align-items: baseline;
+      margin-bottom: 15px;
+      border-bottom: 1px solid var(--line);
+      padding-bottom: 10px;
+    }
+
+    .section-label { color: var(--gold); }
+    .section-note { color: var(--quiet); font-size: 13px; }
+
+    .list { display: grid; gap: 15px; }
+
+    article {
+      position: relative;
+      overflow: hidden;
+      border: 1px solid var(--line);
+      border-radius: 18px;
+      background: linear-gradient(145deg, var(--panel-2), var(--panel));
+      padding: 21px;
+      transition: border-color .2s ease, transform .2s ease;
+    }
+
+    article::before {
+      position: absolute;
+      inset: 0 auto 0 0;
+      width: 3px;
+      background: var(--accent, var(--gold));
+      content: "";
+      opacity: .8;
+    }
+
+    article.playing {
+      border-color: color-mix(in srgb, var(--accent, var(--gold)) 58%, var(--line));
+      transform: translateY(-1px);
+    }
+
+    .meta {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 7px 13px;
+      align-items: center;
+      color: var(--quiet);
+      font-size: 12px;
+    }
+
+    .badge {
+      border: 1px solid color-mix(in srgb, var(--badge-color, var(--green)) 45%, transparent);
+      border-radius: 999px;
+      color: var(--badge-color, var(--green));
+      padding: 3px 8px;
+      letter-spacing: .06em;
+    }
+
+    .badge.review { --badge-color: var(--amber); }
+    .badge.book { --badge-color: var(--blue); }
+
+    h2 {
+      margin: 11px 0 4px;
+      font-family: Georgia, "Times New Roman", serif;
+      font-size: clamp(28px, 6vw, 38px);
+      font-weight: 500;
+      line-height: 1.08;
+      letter-spacing: -.025em;
+    }
+
+    .premise {
+      margin: 8px 0 15px;
+      color: var(--muted);
+      font-size: 15px;
+    }
+
+    .edition {
+      margin: 12px 0 0;
+      color: var(--quiet);
+      font-size: 12px;
+    }
+
+    .edition strong { color: var(--muted); font-weight: 650; }
+
+    audio {
+      display: block;
+      width: 100%;
+      height: 42px;
+      margin-top: 12px;
+    }
+
+    .progress-note {
+      display: block;
+      min-height: 18px;
+      margin-top: 7px;
+      color: var(--quiet);
+      font-size: 12px;
+    }
+
+    .caveat {
+      margin: 14px 0 0;
+      border-left: 2px solid var(--amber);
+      color: var(--muted);
+      padding-left: 11px;
+      font-size: 13px;
+    }
+
+    footer {
+      margin-top: 48px;
+      color: var(--quiet);
+      font-size: 12px;
+    }
+
+    @media (max-width: 590px) {
+      main { width: min(100% - 20px, 760px); padding-top: 35px; }
+      .toolbar { grid-template-columns: 1fr auto; }
+      #now-playing { grid-column: 1 / -1; }
+      article { padding: 18px 16px; }
+      .section-heading { display: block; }
+      .section-note { display: block; margin-top: 3px; }
+    }
+  </style>
+</head>
+<body>
+<main>
+  <header>
+    <div class="kicker">Curated listening · August 2026</div>
+    <h1>The Keepers</h1>
+    <p class="lede">One short shelf: the strongest current story editions supported by direct reactions, plus two book openings. Experiments, older alternates, and merely well-rated pieces stay off this page.</p>
+  </header>
+
+  <div class="toolbar" aria-label="Playback settings">
+    <div id="now-playing" aria-live="polite">Choose a piece below.</div>
+    <label class="control">Speed
+      <select id="speed" aria-label="Playback speed">
+        <option value="0.9">0.9×</option>
+        <option value="1" selected>1×</option>
+        <option value="1.1">1.1×</option>
+        <option value="1.2">1.2×</option>
+        <option value="1.3">1.3×</option>
+      </select>
+    </label>
+    <label class="control"><input id="continuous" type="checkbox"> Play next</label>
+  </div>
+
+  <section>
+    <div class="section-heading">
+      <span class="section-label">Top fiction</span>
+      <span class="section-note">Your direct favorites, matched to their current full renders</span>
+    </div>
+    <div class="list">
+      <article style="--accent:#688c98">
+        <div class="meta"><span class="badge">Direct favorite</span><span>14:54</span><span>Current v3</span></div>
+        <h2>Dream a Little</h2>
+        <p class="premise">An overnight sleep-app worker discovers a voice hidden beneath ten hours of box-fan noise—and thousands of insomniacs dreaming of the same porch.</p>
+        <audio controls preload="metadata" src="gemini-stories/dream-a-little-achernar.mp3" data-id="dream-a-little-v3" data-title="Dream a Little"></audio>
+        <span class="progress-note"></span>
+        <p class="edition"><strong>Exact edition:</strong> story-v3.md · Gemini 3.1 Flash · Achernar</p>
+      </article>
+
+      <article style="--accent:#b15b4d">
+        <div class="meta"><span class="badge">Direct favorite</span><span>19:43</span><span>Current v2</span></div>
+        <h2>Florida Man, Corrected</h2>
+        <p class="premise">A daughter records the real stories behind her father’s headlines while her mother fact-checks him from the kitchen sink.</p>
+        <audio controls preload="metadata" src="gemini-stories/florida-man-gacrux.mp3" data-id="florida-man-v2" data-title="Florida Man, Corrected"></audio>
+        <span class="progress-note"></span>
+        <p class="edition"><strong>Exact edition:</strong> story-v2.md · Gemini 3.1 Flash · Gacrux</p>
+      </article>
+
+      <article style="--accent:#8ba36f">
+        <div class="meta"><span class="badge review">Current keeper · review</span><span>30:17</span><span>Current v7</span></div>
+        <h2>The Tortoise</h2>
+        <p class="premise">A desert tortoise keeps returning to the construction site that moved him, forcing a logistics manager to redraw more than a road.</p>
+        <audio controls preload="metadata" src="best-audio/tortoise-v7-full-gacrux-schedar.mp3" data-id="the-tortoise-v7" data-title="The Tortoise"></audio>
+        <span class="progress-note"></span>
+        <p class="edition"><strong>Exact edition:</strong> v7 two-voice performance adaptation · Gemini 3.1 Flash · Gacrux and Schedar</p>
+        <p class="caveat">This is the current manuscript and chosen ending, but the complete render has not received your listening verdict yet.</p>
+      </article>
+
+      <article style="--accent:#8870a0">
+        <div class="meta"><span class="badge">Direct favorite</span><span>14:50</span><span>Current v3</span></div>
+        <h2>Channel Nine</h2>
+        <p class="premise">Two boys claim a walkie-talkie channel for the summer, then hear a grown man who says he is one of them calling back.</p>
+        <audio controls preload="metadata" src="gemini-stories/channel-nine-iapetus.mp3" data-id="channel-nine-v3" data-title="Channel Nine"></audio>
+        <span class="progress-note"></span>
+        <p class="edition"><strong>Exact edition:</strong> story-v3.md · Gemini 3.1 Flash · Iapetus</p>
+      </article>
+    </div>
+  </section>
+
+  <section>
+    <div class="section-heading">
+      <span class="section-label">Book openings</span>
+      <span class="section-note">Promising entry points, kept distinct from the proven story ranking</span>
+    </div>
+    <div class="list">
+      <article style="--accent:#b68b58">
+        <div class="meta"><span class="badge book">Loved opening</span><span>12:16</span><span>Chapter 1</span></div>
+        <h2>The Crystal · Two Candles</h2>
+        <p class="premise">Copenhagen, 1669. A lens grinder’s apprentice buys a strange crystal and finds a rule of light that history will not recognize for 140 years.</p>
+        <audio controls preload="metadata" src="fiction/the-crystal-opening/the-crystal-opening-01-two-candles.mp3" data-id="the-crystal-chapter-1" data-title="The Crystal · Two Candles"></audio>
+        <span class="progress-note"></span>
+        <p class="edition"><strong>Audio edition:</strong> original Claude v1 text · ElevenLabs v3 · Chris</p>
+        <p class="caveat">The available audio predates the current Codex r2 rewrite. It is included because the opening received unusually strong approval, but it is not the newest manuscript.</p>
+      </article>
+
+      <article style="--accent:#5c8f8c">
+        <div class="meta"><span class="badge book">Requested opening</span><span>5:51</span><span>Abridged Chapter 1</span></div>
+        <h2>The Number · The Rabbit and the Graph</h2>
+        <p class="premise">The cholesterol argument begins with a rabbit experiment, two hypotheses repeatedly mistaken for one, and the graph that turned a contested idea into policy.</p>
+        <audio controls preload="metadata" src="best-audio/the-number-chapter-1-abridged.mp3" data-id="the-number-chapter-1" data-title="The Number · The Rabbit and the Graph"></audio>
+        <span class="progress-note"></span>
+        <p class="edition"><strong>Exact cut:</strong> Chapter 1 extracted from the existing abridged Chapters 1–5 master · ElevenLabs v3 · Evan</p>
+      </article>
+    </div>
+  </section>
+
+  <footer>
+    <p>This is a manual bridge to the production workbench, not an automatically scored catalog. Playback position and speed are stored only in this browser.</p>
+  </footer>
+</main>
+
+<script>
+(() => {
+  const players = [...document.querySelectorAll("audio")];
+  const speed = document.getElementById("speed");
+  const continuous = document.getElementById("continuous");
+  const nowPlaying = document.getElementById("now-playing");
+  const prefix = "keepers-listening-v1:";
+  let lastSavedSecond = new Map();
+
+  const storedSpeed = localStorage.getItem(prefix + "speed");
+  if (storedSpeed && [...speed.options].some(option => option.value === storedSpeed)) {
+    speed.value = storedSpeed;
+  }
+  continuous.checked = localStorage.getItem(prefix + "continuous") === "true";
+
+  function formatTime(seconds) {
+    if (!Number.isFinite(seconds) || seconds < 1) return "";
+    const minutes = Math.floor(seconds / 60);
+    const remainder = Math.floor(seconds % 60).toString().padStart(2, "0");
+    return `${minutes}:${remainder}`;
+  }
+
+  function positionKey(player) {
+    return prefix + "position:" + player.dataset.id;
+  }
+
+  function updateProgressNote(player) {
+    const note = player.parentElement.querySelector(".progress-note");
+    if (!note) return;
+    if (player.currentTime > 5 && Number.isFinite(player.duration)) {
+      note.textContent = `Saved at ${formatTime(player.currentTime)} of ${formatTime(player.duration)}`;
+    } else {
+      note.textContent = "";
+    }
+  }
+
+  speed.addEventListener("change", () => {
+    localStorage.setItem(prefix + "speed", speed.value);
+    players.forEach(player => { player.playbackRate = Number(speed.value); });
+  });
+
+  continuous.addEventListener("change", () => {
+    localStorage.setItem(prefix + "continuous", String(continuous.checked));
+  });
+
+  players.forEach((player, index) => {
+    player.playbackRate = Number(speed.value);
+
+    const restorePosition = () => {
+      const saved = Number(localStorage.getItem(positionKey(player)) || 0);
+      if (saved > 5 && saved < player.duration - 10) player.currentTime = saved;
+      updateProgressNote(player);
+    };
+    if (player.readyState >= 1) restorePosition();
+    else player.addEventListener("loadedmetadata", restorePosition, { once: true });
+
+    player.addEventListener("play", () => {
+      players.forEach(other => {
+        if (other !== player) other.pause();
+        other.closest("article").classList.toggle("playing", other === player);
+      });
+      player.playbackRate = Number(speed.value);
+      nowPlaying.innerHTML = `Now playing: <strong>${player.dataset.title}</strong>`;
+      if ("mediaSession" in navigator && "MediaMetadata" in window) {
+        navigator.mediaSession.metadata = new MediaMetadata({
+          title: player.dataset.title,
+          album: "The Keepers",
+          artist: "Otto von Wachter"
+        });
+      }
+    });
+
+    player.addEventListener("timeupdate", () => {
+      const second = Math.floor(player.currentTime);
+      if (second > 0 && second % 5 === 0 && lastSavedSecond.get(player) !== second) {
+        localStorage.setItem(positionKey(player), String(player.currentTime));
+        lastSavedSecond.set(player, second);
+        updateProgressNote(player);
+      }
+    });
+
+    player.addEventListener("ended", () => {
+      localStorage.removeItem(positionKey(player));
+      player.closest("article").classList.remove("playing");
+      updateProgressNote(player);
+      if (continuous.checked && players[index + 1]) players[index + 1].play();
+      else nowPlaying.textContent = "Finished. Choose another piece below.";
+    });
+  });
+})();
+</script>
+</body>
+</html>
