@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-08-07T21:53:04.821227+00:00",
+  "passed": true,
+  "failures": [],
+  "manifest": "fiction/dream-a-little/audio/experiments/gemini-production-v4/dream-a-little-v4-achernar.json",
+  "manifest_sha256": "19d7ed29122673e7e137c742120087475566d4508a1561bdcee4ded2997a014c",
+  "source": "fiction/dream-a-little/story-v4.md",
+  "source_sha256": "8c2996c60f98f18d829e69b86d5e7ce982d0de34a757388d5f94b87fc50221b4",
+  "master": "fiction/dream-a-little/audio/experiments/gemini-production-v4/dream-a-little-v4-achernar.mp3",
+  "master_sha256": "24498903c0f1ff29bbc698d646b687b84cf48dc1c0398dd7f4c8107a985af1d9",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Achernar",
+  "chunks": {
+    "count": 39,
+    "words": 2358,
+    "cached_duration_seconds": 1000.24,
+    "minimum_wpm": 94.0,
+    "median_wpm": 140.7,
+    "maximum_wpm": 207.0
+  },
+  "master_media": {
+    "codec": "mp3",
+    "sample_rate_hz": 24000,
+    "channels": 1,
+    "duration_seconds": 1000.24,
+    "byte_size": 16005164
+  },
+  "aggregate_wpm": 141.4,
+  "loudness": {
+    "integrated_lufs": -20.45,
+    "true_peak_dbtp": -2.35,
+    "loudness_range_lu": 4.8,
+    "threshold_lufs": -31.23
+  },
+  "silence": {
+    "threshold_db": -45,
+    "minimum_event_seconds": 1.5,
+    "event_count": 11,
+    "maximum_seconds": 2.373,
+    "events_over_3_seconds": 0
+  },
+  "artifacts": {
+    "chunk_start_montage": "fiction/dream-a-little/audio/experiments/gemini-production-v4/dream-a-little-v4-achernar.chunk-starts.mp3",
+    "chunk_start_spectrogram": "fiction/dream-a-little/audio/experiments/gemini-production-v4/dream-a-little-v4-achernar.chunk-starts-spectrogram.png"
+  },
+  "published_master": "dream-a-little-achernar.mp3",
+  "published_master_sha256": "24498903c0f1ff29bbc698d646b687b84cf48dc1c0398dd7f4c8107a985af1d9"
+}
