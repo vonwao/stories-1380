@@ -1,5 +1,5 @@
 {
- "built": "2026-08-09T04:43:43.043Z",
+ "built": "2026-08-09T05:39:01.241Z",
  "site": "https://vonwao.github.io/stories-1380",
  "groups": [
   {
@@ -481,7 +481,7 @@
      "textPath": "fiction/the-request-line/story.md",
      "primary": {
       "path": "fiction/the-request-line/the-request-line.mp3",
-      "seconds": 547,
+      "seconds": 1277,
       "date": "2026-06-14T09:16:44-04:00",
       "label": "main"
      },

@@ -6,7 +6,7 @@
   <atom:link href="https://vonwao.github.io/stories-1380/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Stories for the 3am listener. Short fiction written for audio.</description>
   <language>en-us</language>
-  <lastBuildDate>Thu, 11 Jun 2026 17:15:47 GMT</lastBuildDate>
+  <lastBuildDate>Sun, 09 Aug 2026 05:37:28 GMT</lastBuildDate>
   <itunes:author>Otto von Wachter</itunes:author>
   <itunes:summary>Stories for the 3am listener. Short fiction written for audio.</itunes:summary>
   <itunes:explicit>false</itunes:explicit>
@@ -27,10 +27,10 @@
     <title>The Request Line</title>
     <guid isPermaLink="false">stories-1380-the-request-line</guid>
     <link>https://vonwao.github.io/stories-1380/</link>
-    <description>I work overnights at WLKW, thirteen-eighty on the AM dial, out of a cinder-block building behind the Chevron on Lake Worth Road. One in the morning to five. The station mostly runs itself. There's a rack of computers down the hall that picks the songs, schedules the ads, and r...</description>
-    <enclosure url="https://vonwao.github.io/stories-1380/fiction/the-request-line/the-request-line.mp3" length="8746675" type="audio/mpeg"/>
-    <pubDate>Thu, 11 Jun 2026 04:43:21 GMT</pubDate>
-    <itunes:duration>9:07</itunes:duration>
+    <description>I work overnights at WLKW, thirteen-eighty on the AM dial, out of a cinder-block building behind the Chevron on Lake Worth Road. One in the morning to five. The station mostly runs itself. A rack of computers down the hall picks the songs, schedules the ads, and reads the weat...</description>
+    <enclosure url="https://vonwao.github.io/stories-1380/fiction/the-request-line/the-request-line.mp3" length="20436524" type="audio/mpeg"/>
+    <pubDate>Sun, 09 Aug 2026 05:37:28 GMT</pubDate>
+    <itunes:duration>21:17</itunes:duration>
     <itunes:explicit>false</itunes:explicit>
   </item>
 </channel>
