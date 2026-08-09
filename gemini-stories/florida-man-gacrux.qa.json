@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-08-08T22:10:07.117880+00:00",
+  "passed": true,
+  "failures": [],
+  "manifest": "fiction/florida-man/audio/experiments/gemini-production-v3/florida-man-v3-gacrux.json",
+  "manifest_sha256": "11bd325c4281ac592355b9cffb8073fac9fe34d0c06dd4d30a6c85d90403c7ea",
+  "source": "fiction/florida-man/story-v3.md",
+  "source_sha256": "657b7c6a100aa111ae6661f5b2198dbe01f3bb97cd9d56ea137fc44e5ad8cfcf",
+  "master": "fiction/florida-man/audio/experiments/gemini-production-v3/florida-man-v3-gacrux.mp3",
+  "master_sha256": "2626ce3b1c2ac80d0cc9b04591666478ea688173a4d548af712a51d180f60f04",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Gacrux",
+  "chunks": {
+    "count": 50,
+    "words": 3031,
+    "cached_duration_seconds": 1343.64,
+    "minimum_wpm": 99.2,
+    "median_wpm": 138.7,
+    "maximum_wpm": 184.2
+  },
+  "master_media": {
+    "codec": "mp3",
+    "sample_rate_hz": 24000,
+    "channels": 1,
+    "duration_seconds": 1343.64,
+    "byte_size": 21499436
+  },
+  "aggregate_wpm": 135.3,
+  "loudness": {
+    "integrated_lufs": -20.42,
+    "true_peak_dbtp": -2.39,
+    "loudness_range_lu": 4.9,
+    "threshold_lufs": -31.35
+  },
+  "silence": {
+    "threshold_db": -45,
+    "minimum_event_seconds": 1.5,
+    "event_count": 18,
+    "maximum_seconds": 2.15,
+    "events_over_3_seconds": 0
+  },
+  "artifacts": {
+    "chunk_start_montage": "fiction/florida-man/audio/experiments/gemini-production-v3/florida-man-v3-gacrux.chunk-starts.mp3",
+    "chunk_start_spectrogram": "fiction/florida-man/audio/experiments/gemini-production-v3/florida-man-v3-gacrux.chunk-starts-spectrogram.png"
+  },
+  "published_master": "florida-man-gacrux.mp3",
+  "published_master_sha256": "2626ce3b1c2ac80d0cc9b04591666478ea688173a4d548af712a51d180f60f04"
+}
