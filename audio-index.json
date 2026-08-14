@@ -1,7 +1,26 @@
 {
- "built": "2026-08-09T05:39:01.241Z",
+ "built": "2026-08-14T08:09:33.168Z",
  "site": "https://vonwao.github.io/stories-1380",
  "groups": [
+  {
+   "name": "Fiction listening drafts",
+   "count": 1,
+   "items": [
+    {
+     "group": "Fiction listening drafts",
+     "key": "husband",
+     "title": "Husband",
+     "status": "draft",
+     "textPath": null,
+     "primary": {
+      "path": "listening-drafts/husband.mp3",
+      "seconds": 566,
+      "date": null
+     },
+     "alts": []
+    }
+   ]
+  },
   {
    "name": "Deep Books",
    "count": 2,
@@ -38,6 +57,27 @@
    "name": "Fiction",
    "count": 27,
    "items": [
+    {
+     "group": "Fiction",
+     "key": "the-request-line",
+     "title": "The Request Line",
+     "status": "reviewed",
+     "textPath": "fiction/the-request-line/story.md",
+     "primary": {
+      "path": "fiction/the-request-line/the-request-line.mp3",
+      "seconds": 1277,
+      "date": "2026-08-09T01:39:05-04:00",
+      "label": "main"
+     },
+     "alts": [
+      {
+       "path": "fiction/the-request-line/the-request-line-v2-preview.mp3",
+       "seconds": 483,
+       "date": "2026-07-19T23:30:27-04:00",
+       "label": "v2 preview"
+      }
+     ]
+    },
     {
      "group": "Fiction",
      "key": "the-crystal-opening",
@@ -472,27 +512,6 @@
       "label": "main"
      },
      "alts": []
-    },
-    {
-     "group": "Fiction",
-     "key": "the-request-line",
-     "title": "The Request Line",
-     "status": "reviewed",
-     "textPath": "fiction/the-request-line/story.md",
-     "primary": {
-      "path": "fiction/the-request-line/the-request-line.mp3",
-      "seconds": 1277,
-      "date": "2026-06-14T09:16:44-04:00",
-      "label": "main"
-     },
-     "alts": [
-      {
-       "path": "fiction/the-request-line/the-request-line-v2-preview.mp3",
-       "seconds": 483,
-       "date": "2026-07-19T23:30:27-04:00",
-       "label": "v2 preview"
-      }
-     ]
     }
    ]
   },
