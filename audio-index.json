@@ -1,11 +1,24 @@
 {
- "built": "2026-08-15T06:05:36.393Z",
+ "built": "2026-08-15T16:22:10.074Z",
  "site": "https://vonwao.github.io/stories-1380",
  "groups": [
   {
    "name": "Fiction listening drafts",
-   "count": 3,
+   "count": 4,
    "items": [
+    {
+     "group": "Fiction listening drafts",
+     "key": "a-good-steward",
+     "title": "A Good Steward",
+     "status": "draft",
+     "textPath": null,
+     "primary": {
+      "path": "listening-drafts/a-good-steward.mp3",
+      "seconds": 525,
+      "date": "2026-08-15T02:05:41-04:00"
+     },
+     "alts": []
+    },
     {
      "group": "Fiction listening drafts",
      "key": "a-humble-soul",
@@ -34,13 +47,13 @@
     },
     {
      "group": "Fiction listening drafts",
-     "key": "a-good-steward",
-     "title": "A Good Steward",
+     "key": "a-real-peace",
+     "title": "A Real Peace",
      "status": "draft",
      "textPath": null,
      "primary": {
-      "path": "listening-drafts/a-good-steward.mp3",
-      "seconds": 525,
+      "path": "listening-drafts/a-real-peace.mp3",
+      "seconds": 787,
       "date": null
      },
      "alts": []
