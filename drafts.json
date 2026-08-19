@@ -1,5 +1,5 @@
 {
-  "built": "2026-08-01T03:58:11.857Z",
+  "built": "2026-08-19T03:09:27.043Z",
   "stories": [
     {
       "slug": "walkie",
@@ -261,6 +261,24 @@
       "audioDurationSeconds": 284,
       "audioStatus": "full",
       "text": "fiction/the-same-voice/story.md",
+      "status": "draft"
+    },
+    {
+      "slug": "the-shrine-that-wasnt-there",
+      "title": "The Shrine That Wasn't There",
+      "words": 4837,
+      "minutes": 38,
+      "audio": "fiction/the-shrine-that-wasnt-there/the-shrine-that-wasnt-there.mp3",
+      "audioAlternates": [
+        {
+          "label": "the-shrine-that-wasnt-there.chunk-starts",
+          "audio": "fiction/the-shrine-that-wasnt-there/the-shrine-that-wasnt-there.chunk-starts.mp3",
+          "audioDurationSeconds": 96
+        }
+      ],
+      "audioDurationSeconds": 2269,
+      "audioStatus": "full",
+      "text": "fiction/the-shrine-that-wasnt-there/story.md",
       "status": "draft"
     },
     {
