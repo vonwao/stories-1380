@@ -1,10 +1,10 @@
 {
- "built": "2026-08-19T04:16:57.401Z",
+ "built": "2026-08-21T04:30:07.472Z",
  "site": "https://vonwao.github.io/stories-1380",
  "groups": [
   {
    "name": "Fiction listening drafts",
-   "count": 4,
+   "count": 5,
    "items": [
     {
      "group": "Fiction listening drafts",
@@ -57,6 +57,19 @@
       "date": "2026-08-14T04:09:38-04:00"
      },
      "alts": []
+    },
+    {
+     "group": "Fiction listening drafts",
+     "key": "everyone-in-town-saw-her-leave-01-the-clock-at-dellas",
+     "title": "Everyone In Town Saw Her Leave 01 The Clock At Dellas",
+     "status": "draft",
+     "textPath": null,
+     "primary": {
+      "path": "listening-drafts/everyone-in-town-saw-her-leave-01-the-clock-at-dellas.mp3",
+      "seconds": 642,
+      "date": null
+     },
+     "alts": []
     }
    ]
   },
@@ -96,6 +109,27 @@
    "name": "Fiction",
    "count": 28,
    "items": [
+    {
+     "group": "Fiction",
+     "key": "the-shrine-that-wasnt-there",
+     "title": "The Shrine That Wasn't There",
+     "status": "draft",
+     "textPath": "fiction/the-shrine-that-wasnt-there/story.md",
+     "primary": {
+      "path": "fiction/the-shrine-that-wasnt-there/the-shrine-that-wasnt-there.mp3",
+      "seconds": 2269,
+      "date": "2026-08-19T00:17:05-04:00",
+      "label": "main"
+     },
+     "alts": [
+      {
+       "path": "fiction/the-shrine-that-wasnt-there/the-shrine-that-wasnt-there.chunk-starts.mp3",
+       "seconds": 193,
+       "date": "2026-08-19T00:17:05-04:00",
+       "label": ".chunk starts"
+      }
+     ]
+    },
     {
      "group": "Fiction",
      "key": "the-request-line",
@@ -551,27 +585,6 @@
       "label": "main"
      },
      "alts": []
-    },
-    {
-     "group": "Fiction",
-     "key": "the-shrine-that-wasnt-there",
-     "title": "The Shrine That Wasn't There",
-     "status": "draft",
-     "textPath": "fiction/the-shrine-that-wasnt-there/story.md",
-     "primary": {
-      "path": "fiction/the-shrine-that-wasnt-there/the-shrine-that-wasnt-there.mp3",
-      "seconds": 2269,
-      "date": null,
-      "label": "main"
-     },
-     "alts": [
-      {
-       "path": "fiction/the-shrine-that-wasnt-there/the-shrine-that-wasnt-there.chunk-starts.mp3",
-       "seconds": 193,
-       "date": null,
-       "label": ".chunk starts"
-      }
-     ]
     }
    ]
   },
