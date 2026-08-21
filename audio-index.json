@@ -1,11 +1,24 @@
 {
- "built": "2026-08-21T04:30:44.016Z",
+ "built": "2026-08-21T04:31:15.425Z",
  "site": "https://vonwao.github.io/stories-1380",
  "groups": [
   {
    "name": "Fiction listening drafts",
-   "count": 6,
+   "count": 7,
    "items": [
+    {
+     "group": "Fiction listening drafts",
+     "key": "everyone-in-town-saw-her-leave-02-what-they-remember-first-half",
+     "title": "Everyone In Town Saw Her Leave 02 What They Remember First Half",
+     "status": "draft",
+     "textPath": null,
+     "primary": {
+      "path": "listening-drafts/everyone-in-town-saw-her-leave-02-what-they-remember-first-half.mp3",
+      "seconds": 417,
+      "date": "2026-08-21T00:30:49-04:00"
+     },
+     "alts": []
+    },
     {
      "group": "Fiction listening drafts",
      "key": "everyone-in-town-saw-her-leave-01-the-clock-at-dellas",
@@ -73,13 +86,13 @@
     },
     {
      "group": "Fiction listening drafts",
-     "key": "everyone-in-town-saw-her-leave-02-what-they-remember-first-half",
-     "title": "Everyone In Town Saw Her Leave 02 What They Remember First Half",
+     "key": "everyone-in-town-saw-her-leave-03-the-man-who-paid-first-half",
+     "title": "Everyone In Town Saw Her Leave 03 The Man Who Paid First Half",
      "status": "draft",
      "textPath": null,
      "primary": {
-      "path": "listening-drafts/everyone-in-town-saw-her-leave-02-what-they-remember-first-half.mp3",
-      "seconds": 417,
+      "path": "listening-drafts/everyone-in-town-saw-her-leave-03-the-man-who-paid-first-half.mp3",
+      "seconds": 426,
       "date": null
      },
      "alts": []
