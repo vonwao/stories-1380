@@ -1,11 +1,24 @@
 {
- "built": "2026-08-21T04:30:07.472Z",
+ "built": "2026-08-21T04:30:44.016Z",
  "site": "https://vonwao.github.io/stories-1380",
  "groups": [
   {
    "name": "Fiction listening drafts",
-   "count": 5,
+   "count": 6,
    "items": [
+    {
+     "group": "Fiction listening drafts",
+     "key": "everyone-in-town-saw-her-leave-01-the-clock-at-dellas",
+     "title": "Everyone In Town Saw Her Leave 01 The Clock At Dellas",
+     "status": "draft",
+     "textPath": null,
+     "primary": {
+      "path": "listening-drafts/everyone-in-town-saw-her-leave-01-the-clock-at-dellas.mp3",
+      "seconds": 642,
+      "date": "2026-08-21T00:30:13-04:00"
+     },
+     "alts": []
+    },
     {
      "group": "Fiction listening drafts",
      "key": "a-real-peace",
@@ -60,13 +73,13 @@
     },
     {
      "group": "Fiction listening drafts",
-     "key": "everyone-in-town-saw-her-leave-01-the-clock-at-dellas",
-     "title": "Everyone In Town Saw Her Leave 01 The Clock At Dellas",
+     "key": "everyone-in-town-saw-her-leave-02-what-they-remember-first-half",
+     "title": "Everyone In Town Saw Her Leave 02 What They Remember First Half",
      "status": "draft",
      "textPath": null,
      "primary": {
-      "path": "listening-drafts/everyone-in-town-saw-her-leave-01-the-clock-at-dellas.mp3",
-      "seconds": 642,
+      "path": "listening-drafts/everyone-in-town-saw-her-leave-02-what-they-remember-first-half.mp3",
+      "seconds": 417,
       "date": null
      },
      "alts": []
